@@ -22,13 +22,6 @@ jobs:
           # Optional, defaults to false
           cache-bin: true
 
-          # Optional, default is process.platform
-          # Examples: darwin, linux
-          platform: "linux"
-
-          # Optional, default is process.arch
-          arch: "x64"
-
       - name: Execute Script
         run: |
           bun install
