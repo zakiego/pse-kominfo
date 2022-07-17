@@ -1,0 +1,45 @@
+name: Update Data
+on: push
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2
+
+      - name: Setup Bun
+        run: curl https://bun.sh/install | bash
+
+      - name: Execute Script
+        run: |
+          bun install
+          bun src/index.ts
+
+      - name: Add File
+        run: |
+          git config --local user.email "belummikir@gmail.com"
+          git config --local user.name "zakiego"
+          git add .
+
+      - name: Check is need to push
+        id: check_status
+        run: |
+          STATUS=$(git status --porcelain | wc -l)
+          echo "number of files that need to be committed:" $STATUS
+          echo "::set-output name=STATUS::$STATUS"
+
+      - name: Commit File
+        if: steps.check_status.outputs.STATUS > 0
+        run: |
+          echo "status"
+          now=$(date)
+          git commit -m "feat: update data $now"
+
+      - name: Push Changes
+        if: steps.check_status.outputs.STATUS > 0
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
