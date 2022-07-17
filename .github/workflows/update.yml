@@ -1,4 +1,5 @@
 name: Update Data
+
 on: push
 
 jobs:
@@ -9,8 +10,24 @@ jobs:
       - name: Checkout repo content
         uses: actions/checkout@v2
 
-      - name: Setup Bun
-        run: curl https://bun.sh/install | bash
+      - name: Setup Bun Runtime
+        uses: antongolub/action-setup-bun@v1 # or @v1.x.x
+        with:
+          # Attach $BUN_INSTALL/install/cache to action/cache
+          # Optional, defaults to false
+          cache: true
+
+          # actions/tool-cache provides a cache for the current job only
+          # Use actions/cache to store the bun binary for the whole workflow
+          # Optional, defaults to false
+          cache-bin: true
+
+          # Optional, default is process.platform
+          # Examples: darwin, linux
+          platform: "linux"
+
+          # Optional, default is process.arch
+          arch: "x64"
 
       - name: Execute Script
         run: |
