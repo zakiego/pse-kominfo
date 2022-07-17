@@ -58,4 +58,5 @@ jobs:
         if: steps.check_status.outputs.STATUS > 0
         run: |
           pip install pandas
+          pip install gspread
           python src/push.py ${{ secrets.GOOGLE_CREDENTIALS }}
