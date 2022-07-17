@@ -58,7 +58,6 @@ jobs:
         uses: actions/setup-python@v4
 
       - name: Push to Google Sheets
-        if: steps.check_status.outputs.STATUS > 0
         run: |
           pip install pandas
           python src/push.py ${{ secrets.CREDENTIALS }}
