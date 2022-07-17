@@ -5,8 +5,8 @@
       "from": 1,
       "lastPage": 1,
       "perPage": 100000,
-      "to": 82,
-      "total": 82
+      "to": 85,
+      "total": 85
     }
   },
   "jsonapi": {
@@ -17,6 +17,75 @@
     "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=100000&page%5Bpage%5D=1"
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5996",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MOBILE LEGENDS: ADVENTURE",
+        "website": "play.google.com/store/apps/details?id=com.moonton.mobilehero; apps.apple.com/us/app/mobile-legends-adventure/id1456213261; m.mladventure.net/#home",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "YOUNGJOY TECHNOLOGY LIMITED",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004450.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5996",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5860",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5996"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5995",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MOBILE LEGENDS: BANG BANG",
+        "website": "play.google.com/store/apps/details?id=com.mobile.legends; apps.apple.com/us/app/mobile-legends-bang-bang/id1160056295; play.mobilelegends.com/landing/?lan=en; www.mobilelegends.net/fp/featured?aid=6571&sdk_language=en",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "YOUNGJOY TECHNOLOGY LIMITED",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004450.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5995",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5859",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5995"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5994",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WATCHER OF REALMS",
+        "website": "play.google.com/store/apps/details?id=com.td.watcherofrealms; m.watcherofrealms.com/#/home",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "YOUNGJOY TECHNOLOGY LIMITED",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004450.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5994",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5858",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5994"
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": "5281",
