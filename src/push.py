@@ -10,7 +10,7 @@ import base64
 
 # # Auth
 
-
+print(sys.argv)
 credentials = json.loads(base64.b64decode(sys.argv[1]))
 print(credentials["type"])
 # gc = gspread.service_account_from_dict(credentials)
