@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Checkout repo content
         uses: actions/checkout@v2
-      - run: echo ${{ secrets.TESSS }}
+      - run: echo ${{ secrets.ADUH }}
