@@ -1,8 +1,6 @@
 name: Update Data
 
-on:
-  schedule:
-    - cron: "0 */3 * * *" # every 3 hours
+on: push
 
 jobs:
   update:
