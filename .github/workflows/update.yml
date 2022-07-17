@@ -59,4 +59,4 @@ jobs:
 
       - name: Push to Google Sheets
         if: steps.check_status.outputs.STATUS > 0
-          python src/push.py ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: python src/push.py ${{ secrets.GOOGLE_CREDENTIALS }}
