@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 1,
+      "lastPage": 1,
+      "perPage": 100000,
+      "total": 0
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=100000&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=100000&page%5Bpage%5D=1"
+  },
+  "data": []
+}
