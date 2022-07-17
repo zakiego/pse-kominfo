@@ -62,4 +62,4 @@ jobs:
       - name: Push to Google Sheets
         run: |
           pip install pandas
-          python src/push.py ${{ secrets.CREDENTIALS }}
+          python src/push.py ${{ secrets.GOOGLE_CREDENTIALS }}
