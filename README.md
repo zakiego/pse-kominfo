@@ -1,6 +1,8 @@
 # Daftar PSE Kominfo
 
-Daftar Penyelenggara Sistem Elektronik yang dikumpulkan dari API [pse.kominfo.go.id](https://pse.kominfo.go.id)
+[![Update Data](https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml/badge.svg)](https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml)
+
+Daftar Penyelenggara Sistem Elektronik yang dikumpulkan dari API [pse.kominfo.go.id](https://pse.kominfo.go.id). Diperbarui setiap 3 jam sekali menggunakan [Github Action](/.github/workflows/update.yml)
 
 List API yang digunakan ada di [api.json](/api.json)
 
