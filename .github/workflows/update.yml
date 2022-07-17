@@ -54,9 +54,9 @@ jobs:
           python-version: "3.10"
           cache: "pip"
 
+      - name: Install Python Lib
+        run: pip install -r src/requirements.txt
+
       - name: Push to Google Sheets
         if: steps.check_status.outputs.STATUS > 0
-        run: |
-          pip install pandas
-          pip install gspread
           python src/push.py ${{ secrets.GOOGLE_CREDENTIALS }}
