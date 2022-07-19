@@ -5,8 +5,8 @@
       "from": 1,
       "lastPage": 1,
       "perPage": 100000,
-      "to": 108,
-      "total": 108
+      "to": 109,
+      "total": 109
     }
   },
   "jsonapi": {
@@ -17,6 +17,29 @@
     "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=100000&page%5Bpage%5D=1"
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6576",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NETFLIX",
+        "website": "Netflix.com/id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "NETFLIX PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004825.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6576",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6434",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6576"
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": "6400",
