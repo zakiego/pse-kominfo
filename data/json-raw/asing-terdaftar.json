@@ -5,8 +5,8 @@
       "from": 1,
       "lastPage": 1,
       "perPage": 100000,
-      "to": 124,
-      "total": 124
+      "to": 125,
+      "total": 125
     }
   },
   "jsonapi": {
@@ -17,6 +17,29 @@
     "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=100000&page%5Bpage%5D=1"
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7008",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WESING",
+        "website": "wesingapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "WE SONG (HONG KONG) LIMITED",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005126.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7008",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6865",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7008"
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": "6800",
