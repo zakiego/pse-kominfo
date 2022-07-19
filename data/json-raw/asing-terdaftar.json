@@ -5,8 +5,8 @@
       "from": 1,
       "lastPage": 1,
       "perPage": 100000,
-      "to": 120,
-      "total": 120
+      "to": 124,
+      "total": 124
     }
   },
   "jsonapi": {
@@ -17,6 +17,98 @@
     "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=100000&page%5Bpage%5D=1"
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6800",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INSTAGRAM",
+        "website": "apps.apple.com/au/app/instagram/id389801252",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004994.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6800",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6651",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6800"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6799",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INSTAGRAM.COM",
+        "website": "instagram.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004994.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6799",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6650",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6799"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6798",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FACEBOOK",
+        "website": "apps.apple.com/au/app/facebook/id284882215",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004994.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6798",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6649",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6798"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6797",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FACEBOOK.COM",
+        "website": "facebook.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004994.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6797",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6648",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6797"
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": "6690",
