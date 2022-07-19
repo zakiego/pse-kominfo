@@ -5,8 +5,8 @@
       "from": 1,
       "lastPage": 1,
       "perPage": 100000,
-      "to": 127,
-      "total": 127
+      "to": 130,
+      "total": 130
     }
   },
   "jsonapi": {
@@ -17,6 +17,75 @@
     "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=100000&page%5Bpage%5D=1"
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7141",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CHIMERALAND",
+        "website": "play.google.com/store/apps/details?id=com. levelinfinite.fancyworld",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "PROXIMA BETA PTE. LIMITED",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005222.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7141",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7023",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7141"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7140",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ALCHEMY STARS",
+        "website": "apps.apple.com/id/app/alchemy-stars/id1529088856",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "PROXIMA BETA PTE. LIMITED",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005222.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7140",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7021",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7140"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7139",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PUBG MOBILE",
+        "website": "apps.apple.com/us/app/pubg-mobile/id1330123889",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "PROXIMA BETA PTE. LIMITED",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005222.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7139",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7020",
+        "keterangan": "-",
+        "lokalitas": "ASING"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7139"
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": "7102",
