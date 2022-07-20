@@ -2,6 +2,10 @@
 
 [![Update Data](https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml/badge.svg)](https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml)
 
+> **Note**
+>
+> Halo, karena ada pembatasan query API, untuk sementara update data tidak bisa dilakukan, lengkapnya ada di https://github.com/zakiego/pse-kominfo/issues/4
+
 Daftar Penyelenggara Sistem Elektronik yang dikumpulkan dari API [pse.kominfo.go.id](https://pse.kominfo.go.id). Diperbarui setiap 1 jam sekali menggunakan [Github Action](/.github/workflows/update.yml)
 
 ## Bagaimana Cara Menjalankannya?
