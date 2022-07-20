@@ -2,7 +2,7 @@ import * as fs from "fs";
 import { Endpoint, Resp } from "./types";
 import converter from "json-2-csv";
 import path from "path";
-import { flattenDeep } from "lodash";
+import { flattenDeep, flatten } from "lodash";
 
 export function endpointList() {
   const file = fs.readFileSync("api.json", "utf8");
@@ -42,7 +42,7 @@ export async function saveCSV(path: string, data: any) {
   });
 }
 
-export function createMasterCSV() {
+export function createMaster() {
   const dirname = "data/json/";
 
   const jsonsInDir = fs
@@ -60,4 +60,5 @@ export function createMasterCSV() {
   });
 
   saveCSV("data/master.csv", flattenDeep(master));
+  saveJSON("data/master.json", flatten(master));
 }

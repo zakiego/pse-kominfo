@@ -1,5 +1,5 @@
 import {
-  createMasterCSV,
+  createMaster,
   endpointList,
   getData,
   saveCSV,
@@ -25,7 +25,7 @@ async function main() {
   await launch("asing-dicabut", api.asing.dicabut);
   await launch("asing-dihentikan-sementara", api.asing.dihentikanSementara);
 
-  createMasterCSV();
+  createMaster();
 }
 
 main();
