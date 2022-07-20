@@ -4,6 +4,19 @@
 
 Daftar Penyelenggara Sistem Elektronik yang dikumpulkan dari API [pse.kominfo.go.id](https://pse.kominfo.go.id). Diperbarui setiap 1 jam sekali menggunakan [Github Action](/.github/workflows/update.yml)
 
+## Bagaimana Cara Menjalankannya?
+
+Dijalankan di atas [Bun](https://bun.sh)
+
+> **Warning**
+> Bun test is still WIP
+
+```bash
+bun install
+bun src/index.ts
+bun wiptest
+```
+
 List API yang digunakan ada di [api.json](/api.json)
 
 Data ada pada folder [data](/data/)
