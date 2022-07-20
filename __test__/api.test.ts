@@ -1,5 +1,5 @@
 import { expect, it, describe } from "bun:test";
-import { endpointList } from "../../src/utils";
+import { endpointList } from "../src/utils";
 
 function toContain(str: string, substr: string) {
   return str.includes(substr);
