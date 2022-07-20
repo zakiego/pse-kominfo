@@ -13,7 +13,16 @@ export async function fetchApi(url: string) {
   const updateUrl = new URL(url);
   updateUrl.searchParams.set("page[limit]", "100000");
 
-  const data = await fetch(updateUrl.toString()).then((resp) => resp.json());
+  const data = await fetch(updateUrl.toString())
+    .then((response) => {
+      if (response.ok) {
+        return response.json();
+      }
+      console.log("Error:", response.status);
+      throw new Error("Something went wrong");
+    })
+    .then((resp) => resp.json());
+
   return data as Resp;
 }
 
