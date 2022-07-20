@@ -23,6 +23,9 @@ jobs:
           bun install
           bun src/index.ts
 
+      - name: Run Test
+        run: bun wiptest
+
       - name: Add File
         run: |
           git config --local user.email "${{ secrets.USER_EMAIL }}"

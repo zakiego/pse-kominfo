@@ -1,0 +1,20 @@
+name: Test
+
+on: push
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2
+
+      - name: Setup Bun Runtime
+        uses: antongolub/action-setup-bun@v1
+        with:
+          cache: true
+          cache-bin: true
+
+      - name: Run Test
+        run: bun wiptest
