@@ -17,4 +17,6 @@ jobs:
           cache-bin: true
 
       - name: Run Test
-        run: bun wiptest
+        run: |
+          bun install
+          bun wiptest
