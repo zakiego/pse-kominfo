@@ -4,10 +4,9 @@ import {
   getData,
   saveCSV,
   saveJSON,
-} from "./utils";
+} from "../utils";
 
 async function launch(nameFile: string, url: string) {
-  console.log("Trying to get data from", url);
   const data = await getData(url);
 
   saveJSON(`data/json-raw/${nameFile}.json`, data.raw);
