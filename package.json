@@ -5,7 +5,8 @@
   "devDependencies": {
     "@types/node": "^18.0.5",
     "json-2-csv": "^3.17.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "p-queue": "^7.2.0"
   },
   "license": "MIT"
 }
