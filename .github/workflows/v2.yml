@@ -23,7 +23,7 @@ jobs:
       - name: Execute Script
         run: |
           bun install
-          bun src/index.ts
+          bun src/v2/index.ts
 
       - name: Run Test
         run: bun wiptest
