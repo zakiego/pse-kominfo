@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 255,
+      "from": 2541,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2550,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=256",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=254"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5993",
+      "attributes": {
+        "nomor_pb_umku": "090522001146700000001",
+        "nama": "CARIK TEKNOLOGI CERDAS",
+        "website": "carik.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LURI DARMAWAN",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004448.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5993",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5857",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5993"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5992",
+      "attributes": {
+        "nomor_pb_umku": "170722001088400000001",
+        "nama": "WEBSITE",
+        "website": "mentorta.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUH.ILHAM JAYA",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004446.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5992",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5856",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5992"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5991",
+      "attributes": {
+        "nomor_pb_umku": "170722001125500000001",
+        "nama": "AHLIMATIKA",
+        "website": "ahlimatika.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HANDOKO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004445.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5991",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5855",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5991"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5988",
+      "attributes": {
+        "nomor_pb_umku": "120300013154400000005",
+        "nama": "MP MOBILE TOPUP",
+        "website": "morenapulsapayment.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV LEON PAYMENT SOLUSINDO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004353.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5988",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5852",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5988"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5987",
+      "attributes": {
+        "nomor_pb_umku": "120300013154400000004",
+        "nama": "LP MOBILE TOPUP",
+        "website": "leonpulsa.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV LEON PAYMENT SOLUSINDO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004353.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5987",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5851",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5987"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5986",
+      "attributes": {
+        "nomor_pb_umku": "812010094271300000001",
+        "nama": "MARVINDO REMITTANCE",
+        "website": "marvindo-remittance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MARVINDO SUKSES CEMERLANG",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004426.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5986",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5831",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5986"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5985",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010021",
+        "nama": "AUDIT MANAGEMENT SYSTEM BANK SULSELBAR",
+        "website": "ams.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004179.23/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5985",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5850",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5985"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5984",
+      "attributes": {
+        "nomor_pb_umku": "210422005189200000001",
+        "nama": "KULASPACE",
+        "website": "kulaspace.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SUTRIADI RAMADHAN",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004441.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5984",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5848",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5984"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5983",
+      "attributes": {
+        "nomor_pb_umku": "080722002450700050002",
+        "nama": "INTAN NOVITA SARI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MITRA INKA PERDANA",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004439.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5983",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5846",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5983"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5982",
+      "attributes": {
+        "nomor_pb_umku": "080722002450700050001",
+        "nama": "PT. MITRA INKA PERDANA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MITRA INKA PERDANA",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004439.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5982",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5845",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5982"
+      }
+    }
+  ]
+}

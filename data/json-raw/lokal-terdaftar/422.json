@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 422,
+      "from": 4211,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4220,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=423",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=421"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "3986",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Laku6 Trade Center",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "001807.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3986",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3953",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3986"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3985",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.bmnetwork.co.id",
+        "website": "www.bmnetwork.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANYUASIN MEDIA NETWORK",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002528.04/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3985",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3871",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3985"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3984",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Qoin Crypto",
+        "website": "qoincrypto.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LOYALTY PROGRAM INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002587.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3984",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3986",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3984"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3983",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Token VCGamers",
+        "website": "https://token.vcgamers.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOTTA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002391.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3983",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3991",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3983"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3982",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiserve Managed Cloud Service - IaaS",
+        "website": "Digiserve.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL APLIKASI SOLUSI",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002584.06/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3982",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3917",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3982"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3981",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi PanenSaham",
+        "website": "panensaham.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CARMEL ANUGERAH CEMERLANG",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002586.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3981",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3977",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3981"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3980",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiserve Professional Service - Cloud",
+        "website": "Digiserve.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL APLIKASI SOLUSI",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002584.05/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3980",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3916",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3980"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3979",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PanenSaham",
+        "website": "panensaham.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CARMEL ANUGERAH CEMERLANG",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002586.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3979",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3976",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3979"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3978",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiserve Managed Cloud Service – SaaS PaaS",
+        "website": "Digiserve.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL APLIKASI SOLUSI",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002584.04/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3978",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3915",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3978"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3977",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Channel Management",
+        "website": "powercommerce.asia",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA SEMERU INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002471.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3977",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3722",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3977"
+      }
+    }
+  ]
+}

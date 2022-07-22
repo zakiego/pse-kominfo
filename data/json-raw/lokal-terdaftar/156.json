@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 156,
+      "from": 1551,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1560,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=157",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=155"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7062",
+      "attributes": {
+        "nomor_pb_umku": "190722006498900000001",
+        "nama": "YAGAMICELL",
+        "website": "yagami-cell.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DEDI SUWANDI YAGAMI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005165.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7062",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6929",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7062"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7061",
+      "attributes": {
+        "nomor_pb_umku": "912020859157100000001",
+        "nama": "FULLMOON",
+        "website": "fullmoonid.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FULLMOON HARVEST INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004864.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7061",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6928",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7061"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7060",
+      "attributes": {
+        "nomor_pb_umku": "912020854242900010002",
+        "nama": "WEBSITE RESMI DAN EMAIL BPR UTOMO",
+        "website": "utomobank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT UTOMO MANUNGGAL SEJAHTERA LAMPUNG",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004706.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7060",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6921",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7060"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7059",
+      "attributes": {
+        "nomor_pb_umku": "912030170073100060002",
+        "nama": "CSM CORPORATAMA (VEHICLE MANAGEMENT SYSTEM)",
+        "website": "cp.indorent.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CSM CORPORATAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003958.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7059",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6833",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7059"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7058",
+      "attributes": {
+        "nomor_pb_umku": "160722001095100000001",
+        "nama": "APLIKASI SILSILAH KELUARGA \"TALINASAB\"",
+        "website": "talinasab.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DRS. SUROYO RAHARJO, MM",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004412.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7058",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6920",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7058"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7057",
+      "attributes": {
+        "nomor_pb_umku": "150622001846300010001",
+        "nama": "TYXMA",
+        "website": "tyxma.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KALIMASADA SAKTI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003253.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7057",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6919",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7057"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7056",
+      "attributes": {
+        "nomor_pb_umku": "180122002545700040001",
+        "nama": "CORE BANKING MBS ONLINE",
+        "website": "perumdabprmaruntingsejahtera.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERUMDA BPR MARUNTING SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004646.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7056",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6918",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7056"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7055",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160003",
+        "nama": "SMILE (SMART MOBILE INTERACTIVE LEARNING)",
+        "website": "smile.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7055",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6915",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7055"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7054",
+      "attributes": {
+        "nomor_pb_umku": "912030931061300950004",
+        "nama": "WEBSITE MYPERTAMINA",
+        "website": "mypertamina.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERTAMINA PATRA NIAGA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004419.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7054",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6917",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7054"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7053",
+      "attributes": {
+        "nomor_pb_umku": "022000456037600000001",
+        "nama": "TNOS WORLD",
+        "website": "tnosworld.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XTREME NETWORK SISTEM",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005110.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7053",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6916",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7053"
+      }
+    }
+  ]
+}

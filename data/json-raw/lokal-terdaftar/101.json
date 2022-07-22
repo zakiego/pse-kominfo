@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 101,
+      "from": 1001,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1010,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=102",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=100"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7618",
+      "attributes": {
+        "nomor_pb_umku": "022050594022800010001",
+        "nama": "KRIDA UPAYA TUNGGAL",
+        "website": "KUTBROKERS.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KRIDA UPAYA TUNGGAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005479.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7618",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7501",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7618"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7617",
+      "attributes": {
+        "nomor_pb_umku": "912010184165600010001",
+        "nama": "PT. BPR ARTHA KURNIA RAHARJA",
+        "website": "bprarthakurnia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA KURNIA RAHARJA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005551.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7617",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7511",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7617"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7616",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020016",
+        "nama": "KB BUKOPIN ACTLINK",
+        "website": "actlink.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003560.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7616",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7510",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7616"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7615",
+      "attributes": {
+        "nomor_pb_umku": "123700069063500010002",
+        "nama": "WEBSITE CICIL.CO.ID",
+        "website": "cicil.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CICIL SOLUSI MITRA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005560.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7615",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7509",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7615"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7614",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160016",
+        "nama": "BG ONLINE",
+        "website": "garansibsi.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.30/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7614",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7507",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7614"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7613",
+      "attributes": {
+        "nomor_pb_umku": "912010577044100010001",
+        "nama": "WEBSITE",
+        "website": "bankpasartemanggung.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR BANK PASAR KABUPATEN TEMANGGUNG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005509.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7613",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7500",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7613"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7612",
+      "attributes": {
+        "nomor_pb_umku": "912011501017500010001",
+        "nama": "WEBSITE",
+        "website": "victoriainvestama.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VICTORIA INVESTAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005447.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7612",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7506",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7612"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7611",
+      "attributes": {
+        "nomor_pb_umku": "812000180193100000008",
+        "nama": "WEBSITE SUZUKI INDONESIA",
+        "website": "Suzuki.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUZUKI INDOMOBIL SALES",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005308.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7611",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7491",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7611"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7610",
+      "attributes": {
+        "nomor_pb_umku": "912000375265100010001",
+        "nama": "BPR PARE ARTOREJO",
+        "website": "bprartorejopare.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PAREARTOREJO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004954.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7610",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7505",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7610"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7609",
+      "attributes": {
+        "nomor_pb_umku": "912020187143600010001",
+        "nama": "PANTURA",
+        "website": "pantura.biz.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INFINITY AIR MEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005438.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7609",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7502",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7609"
+      }
+    }
+  ]
+}

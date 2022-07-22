@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 44,
+      "from": 431,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 440,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=45",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=43"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8209",
+      "attributes": {
+        "nomor_pb_umku": "028800094158600010001",
+        "nama": "WEBSITE COMPANY PROFILE",
+        "website": "kt-multifinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KARYA TECHNIK MULTIFINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005774.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8209",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8127",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8209"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8208",
+      "attributes": {
+        "nomor_pb_umku": "912020383211900010003",
+        "nama": "DANUS MOBILE BANKING",
+        "website": "bprdn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005772.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8208",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8128",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8208"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8207",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020014",
+        "nama": "CENTRALGROUP10X",
+        "website": "centralgroup10x.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.16/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8207",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8129",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8207"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8206",
+      "attributes": {
+        "nomor_pb_umku": "021101018045700000001",
+        "nama": "MOTICT",
+        "website": "motict.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PAKAR ALGORITMA ANDALAN SEMUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005621.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8206",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8125",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8206"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8205",
+      "attributes": {
+        "nomor_pb_umku": "812011604106700000006",
+        "nama": "PANORAMA-AGENT.COM",
+        "website": "panorama-agent.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PANORAMA JTB TOURS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005418.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8205",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8126",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8205"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8204",
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000005",
+        "nama": "TIKETKAI",
+        "website": "tiketkai.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005304.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8204",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8124",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8204"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8203",
+      "attributes": {
+        "nomor_pb_umku": "010722003844800000001",
+        "nama": "PT. DHODOWEB DEVELOPER INDONESIA",
+        "website": "dhodoweb.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DHODOWEB DEVELOPER INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005799.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8203",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8120",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8203"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8202",
+      "attributes": {
+        "nomor_pb_umku": "912020383211900010002",
+        "nama": "WEBSITE",
+        "website": "bprdn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005772.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8202",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8114",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8202"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8201",
+      "attributes": {
+        "nomor_pb_umku": "128000053266100220001",
+        "nama": "PT. KIRAMAS JAYA PERKASA",
+        "website": "kiramasjayaperkasa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIRAMAS JAYA PERKASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005800.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8201",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8122",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8201"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8200",
+      "attributes": {
+        "nomor_pb_umku": "022000882232600010001",
+        "nama": "LESCA GADAI PREMIER",
+        "website": "lescagadai.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LESCA GADAI PREMIER",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005798.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8200",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8123",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8200"
+      }
+    }
+  ]
+}

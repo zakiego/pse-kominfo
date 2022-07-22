@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 238,
+      "from": 2371,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2380,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=239",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=237"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6174",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050015",
+        "nama": "API DEVELOPMENT  BPD DIY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6174",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6042",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6174"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6173",
+      "attributes": {
+        "nomor_pb_umku": "022020260121200000001",
+        "nama": "PAKTUKANG.COM",
+        "website": "paktukang.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "M.ANDRI HARDIANSYAH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004572.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6173",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6031",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6173"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6172",
+      "attributes": {
+        "nomor_pb_umku": "912010874321600040001",
+        "nama": "BAREKSA",
+        "website": "bareksa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BAREKSA PORTAL INVESTASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001324.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6172",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6025",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6172"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6171",
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000005",
+        "nama": "PERIKSAIN.ID",
+        "website": "periksain.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004561.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6171",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6041",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6171"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6170",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050014",
+        "nama": "UKM CENTER WEBSITE BPD DIY",
+        "website": "ukmcenter.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6170",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6040",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6170"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6169",
+      "attributes": {
+        "nomor_pb_umku": "122500444292300020001",
+        "nama": "BPD BALI MOBILE",
+        "website": "ibank.bpdbali.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH BALI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004518.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6169",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6032",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6169"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6168",
+      "attributes": {
+        "nomor_pb_umku": "912040492246400010001",
+        "nama": "BANKING INTEGRATED SYSTEM (BIS)",
+        "website": "buanaartamulia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUANA ARTA MULIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004560.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6168",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6039",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6168"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6166",
+      "attributes": {
+        "nomor_pb_umku": "912000477207900010001",
+        "nama": "BPRSEMERU",
+        "website": "bprsemeru.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SEMERU",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004570.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6166",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6037",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6166"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6165",
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010001",
+        "nama": "MAIL SERVER BANK NAGARI",
+        "website": "mail.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NAGARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004529.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6165",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6036",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6165"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6164",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050013",
+        "nama": "DEVELOPMENT QRIS MERCHANT BPD DIY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6164",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6035",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6164"
+      }
+    }
+  ]
+}

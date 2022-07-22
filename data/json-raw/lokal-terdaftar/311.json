@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 311,
+      "from": 3101,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3110,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=312",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=310"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5390",
+      "attributes": {
+        "nomor_pb_umku": "240821002021600040001",
+        "nama": "ASTROCLUB7",
+        "website": "astroclub7.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NATA KARYABORA GEMILANG",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004041.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5390",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5261",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5390"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5389",
+      "attributes": {
+        "nomor_pb_umku": "912020297162200020004",
+        "nama": "ERP SPORT GLOVE INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SPORT GLOVE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004036.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5389",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5259",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5389"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5386",
+      "attributes": {
+        "nomor_pb_umku": "022010062285500000001",
+        "nama": "WWW.SDSONLINE.CO.ID",
+        "website": "sdsonline.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SURYA DIGITAL SAMANTHA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004040.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5386",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5258",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5386"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5385",
+      "attributes": {
+        "nomor_pb_umku": "812000989153700050002",
+        "nama": "BAHTERA ADI JAYA",
+        "website": "bahteraadijaya.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BAHTERA ADI JAYA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004033.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5385",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5257",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5385"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5384",
+      "attributes": {
+        "nomor_pb_umku": "912020297162200020003",
+        "nama": "APLIKASI CHAT SPORT GLOVE INDONESIA",
+        "website": "chat.ptsgi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SPORT GLOVE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004036.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5384",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5256",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5384"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5383",
+      "attributes": {
+        "nomor_pb_umku": "812001412230800010001",
+        "nama": "RUPIAHCEPAT",
+        "website": "rupiahcepat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREDIT UTAMA FINTECH INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "000536.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5383",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5255",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5383"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5382",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900030004",
+        "nama": "PLASAMALL",
+        "website": "plasamall.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002933.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5382",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5254",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5382"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5381",
+      "attributes": {
+        "nomor_pb_umku": "912021525227600010001",
+        "nama": "PT KSK INSURANCE INDONESIA",
+        "website": "kskinsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KSK INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004028.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5381",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5252",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5381"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5380",
+      "attributes": {
+        "nomor_pb_umku": "912020297162200020002",
+        "nama": "WEBSITE SPORT GLOVE INDONESIA",
+        "website": "ptsgi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SPORT GLOVE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004036.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5380",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5251",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5380"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5379",
+      "attributes": {
+        "nomor_pb_umku": "912031313134800020001",
+        "nama": "CHAILEASE.CO.ID",
+        "website": "chailease.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CHAILEASE FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003830.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5379",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5250",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5379"
+      }
+    }
+  ]
+}

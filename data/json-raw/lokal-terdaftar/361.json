@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 361,
+      "from": 3601,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3610,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=362",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=360"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4775",
+      "attributes": {
+        "nomor_pb_umku": "240622000092400010001",
+        "nama": "DIENYCTRAVELBALI RENT CAR",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADI UTAMA SYAHPUTRA",
+        "tanggal_daftar": "2022-06-26",
+        "tanggal_terbit": "2022-06-26",
+        "nomor_tanda_daftar": "003436.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4775",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4720",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4775"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4774",
+      "attributes": {
+        "nomor_pb_umku": "090322005391200010003",
+        "nama": "BERDARING INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BERDARING INDONESIA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003456.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4774",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4719",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4774"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4773",
+      "attributes": {
+        "nomor_pb_umku": "090322005391200010002",
+        "nama": "SISTEM INTEGRASI PELAYANAN DESA (SIPDESA)",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BERDARING INDONESIA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003456.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4773",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4718",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4773"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4772",
+      "attributes": {
+        "nomor_pb_umku": "090322005391200010001",
+        "nama": "BERDARING.COM",
+        "website": "berdaring.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BERDARING INDONESIA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003456.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4772",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4717",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4772"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4770",
+      "attributes": {
+        "nomor_pb_umku": "250622002912800000001",
+        "nama": "PT NOVA NOVI SHOP",
+        "website": "novanovishop.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NOVA NOVI SHOP",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003452.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4770",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4716",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4770"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4769",
+      "attributes": {
+        "nomor_pb_umku": "022010829221600020002",
+        "nama": "ELASTIS",
+        "website": "elastis.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LINKGO METRO TEKNOLOGI",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003453.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4769",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4715",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4769"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4768",
+      "attributes": {
+        "nomor_pb_umku": "022010829221600020001",
+        "nama": "HOSTNIC",
+        "website": "hostnic.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LINKGO METRO TEKNOLOGI",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003453.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4768",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4714",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4768"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4767",
+      "attributes": {
+        "nomor_pb_umku": "024101023293400000001",
+        "nama": "CARIBOSS",
+        "website": "cariboss.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKASI CARI BOS",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003454.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4767",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4713",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4767"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4766",
+      "attributes": {
+        "nomor_pb_umku": "210522001108600000001",
+        "nama": "ANAKJURAGAN",
+        "website": "anakjuragan.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANAKJURAGAN AURA DIGITAL",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003446.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4766",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4712",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4766"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4765",
+      "attributes": {
+        "nomor_pb_umku": "912000773023200050001",
+        "nama": "JPAYROLL",
+        "website": "jpayroll.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JAVA CONSULTING INDONESIA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003450.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4765",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4711",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4765"
+      }
+    }
+  ]
+}

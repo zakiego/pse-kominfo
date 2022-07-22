@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 349,
+      "from": 3481,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3490,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=350",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=348"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4989",
+      "attributes": {
+        "nomor_pb_umku": "912020443186100000001",
+        "nama": "OTTOPOINT",
+        "website": "ottopoint.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT POIN SUKSES MAKMUR",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003586.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4989",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4857",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4989"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4988",
+      "attributes": {
+        "nomor_pb_umku": "023600094224900000001",
+        "nama": "SILANG",
+        "website": "silang.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI DIGITAL INKLUSI",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003610.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4988",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4856",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4988"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4987",
+      "attributes": {
+        "nomor_pb_umku": "300622006844300000002",
+        "nama": "OFFICIALWEBHOSTING DOTNET",
+        "website": "officialwebhosting.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "EMI PURWANTI",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003609.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4987",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4855",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4987"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4986",
+      "attributes": {
+        "nomor_pb_umku": "912030449041501100050",
+        "nama": "LOGEE CARGOWNER",
+        "website": "logeetrans.com",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "001331.42/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4986",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4852",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4986"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4985",
+      "attributes": {
+        "nomor_pb_umku": "300622006844300000001",
+        "nama": "ENDONESIA DOTCOM",
+        "website": "endonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "EMI PURWANTI",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003609.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4985",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4854",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4985"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4984",
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020002",
+        "nama": "WEBSITE BANK BJB SYARIAH",
+        "website": "bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "001879.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4984",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4853",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4984"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4983",
+      "attributes": {
+        "nomor_pb_umku": "200622006401700000002",
+        "nama": "XTOKO",
+        "website": "XTOKO.CO",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TOKO NFT NASIONAL",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003293.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4983",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4851",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4983"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4982",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020005",
+        "nama": "KB BUKOPIN MOBILE BANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003560.05/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4982",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4850",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4982"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4981",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020004",
+        "nama": "WOKEE+",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003560.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4981",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4849",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4981"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4980",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020003",
+        "nama": "B-TUNAI",
+        "website": "btunai.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003560.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4980",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4848",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4980"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 343,
+      "from": 3421,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3430,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=344",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=342"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5049",
+      "attributes": {
+        "nomor_pb_umku": "280622000184100030003",
+        "nama": "BLI-GO PROFILE",
+        "website": "bli-go.my.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALAN SURYAWIJAYA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003506.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5049",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4920",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5049"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5048",
+      "attributes": {
+        "nomor_pb_umku": "200222000003200020003",
+        "nama": "AMK WEBHOSTING",
+        "website": "amk.webi.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "002722.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5048",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4919",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5048"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5047",
+      "attributes": {
+        "nomor_pb_umku": "271021002961800010001",
+        "nama": "PT DANA UNICO FINANCE",
+        "website": "danafinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DANA UNICO FINANCE",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003617.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5047",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4917",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5047"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5046",
+      "attributes": {
+        "nomor_pb_umku": "912011228206200060001",
+        "nama": "ZTECHSTORE.ID",
+        "website": "ztechindonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZONA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003701.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5046",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4915",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5046"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5045",
+      "attributes": {
+        "nomor_pb_umku": "023301001274700020010",
+        "nama": "LIFENET",
+        "website": "net.life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA IFG",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "001739.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5045",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4916",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5045"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5044",
+      "attributes": {
+        "nomor_pb_umku": "912010639285700030002",
+        "nama": "PERDAGANGAN BESAR ATAS DASAR BALAS JASA (FEE) ATAU KONTRAK",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV KARYA JASA ABADI",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003702.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5044",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4914",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5044"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5043",
+      "attributes": {
+        "nomor_pb_umku": "912040173255900010002",
+        "nama": "KB APPS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOOKMIN BEST INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003698.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5043",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4913",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5043"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5042",
+      "attributes": {
+        "nomor_pb_umku": "912040173255900010001",
+        "nama": "WEBSITE COMPANY PROFILE PT KB INSURANCE INDONESIA",
+        "website": "kbinsure.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOOKMIN BEST INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003698.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5042",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4912",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5042"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5041",
+      "attributes": {
+        "nomor_pb_umku": "812021707320100000008",
+        "nama": "DSDBOOK - ONLINE APPOINTMENT BOOKING",
+        "website": "mercedes-benz.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MERCEDES-BENZ DISTRIBUTION INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "000279.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5041",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4897",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5041"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5040",
+      "attributes": {
+        "nomor_pb_umku": "022020314340500000001",
+        "nama": "LUCUFLIX",
+        "website": "lucuflix.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JENAKA SUMBER REJEKI",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003310.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5040",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4893",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5040"
+      }
+    }
+  ]
+}

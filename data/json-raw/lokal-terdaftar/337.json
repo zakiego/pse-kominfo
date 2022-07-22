@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 337,
+      "from": 3361,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3370,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=338",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=336"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5118",
+      "attributes": {
+        "nomor_pb_umku": "912040884289900010002",
+        "nama": "KREDIT PINTAR",
+        "website": "kreditpintar.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREDIT PINTAR INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003736.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5118",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4980",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5118"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5117",
+      "attributes": {
+        "nomor_pb_umku": "912030111272600010009",
+        "nama": "GOLDEX",
+        "website": "goldex.icdx.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BULLION ECOSYSTEM INTERNATIONAL",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "000155.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5117",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4979",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5117"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5116",
+      "attributes": {
+        "nomor_pb_umku": "912000921103500020004",
+        "nama": "TRANSVISIONPLUS",
+        "website": "transvisionplus.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONUSA TELEMEDIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003544.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5116",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4978",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5116"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5115",
+      "attributes": {
+        "nomor_pb_umku": "181021000688300100001",
+        "nama": "SISTEM INFORMASI",
+        "website": "-",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GEOHETRANDS",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003776.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5115",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4977",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5115"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5114",
+      "attributes": {
+        "nomor_pb_umku": "912020556140300000001",
+        "nama": "MY BRIF",
+        "website": "brifinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRI MULTIFINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003431.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5114",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4973",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5114"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5113",
+      "attributes": {
+        "nomor_pb_umku": "121600045350400010002",
+        "nama": "CV. CELLULAR OF JOY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CELLULAR OF JOY",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003633.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5113",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4975",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5113"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5112",
+      "attributes": {
+        "nomor_pb_umku": "061221003900800010001",
+        "nama": "JOBFAIR VIRTUAL",
+        "website": "jobfairvirtual.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV ABINARA SOLUSINDO",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003710.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5112",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4974",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5112"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5111",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MOMOTOR.ID",
+        "website": "momotor.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIRA DINAMIKA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003745.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5111",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4972",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5111"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5110",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBSITE PT. VICTORIA SEKURITAS INDONESIA",
+        "website": "victoria-sekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VICTORIA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "000701.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5110",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4971",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5110"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5109",
+      "attributes": {
+        "nomor_pb_umku": "070122003909100090001",
+        "nama": "SMILE STORE",
+        "website": "smilestore.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi SURYA PUTERA SEJAHTERA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003315.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5109",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4970",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5109"
+      }
+    }
+  ]
+}

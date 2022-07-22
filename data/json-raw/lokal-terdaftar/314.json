@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 314,
+      "from": 3131,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3140,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=315",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=313"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5355",
+      "attributes": {
+        "nomor_pb_umku": "812000390167501850002",
+        "nama": "INDOMOBIL FINANCE INDONESIA (IMFI) PRODUCT WEBSITE",
+        "website": "imfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOMOBIL FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003628.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5355",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5228",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5355"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5354",
+      "attributes": {
+        "nomor_pb_umku": "812010893285800000001",
+        "nama": "GOODJOB",
+        "website": "kinerjabagusindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KINERJA BAGUS INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003388.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5354",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5227",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5354"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5353",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040011",
+        "nama": "BJB QUICKCASH",
+        "website": "qcportal.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003382.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5353",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5226",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5353"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5352",
+      "attributes": {
+        "nomor_pb_umku": "029201017253900030001",
+        "nama": "MAO THARA INTERNASIONAL",
+        "website": "mao.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAO THARA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004025.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5352",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5225",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5352"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5351",
+      "attributes": {
+        "nomor_pb_umku": "912010155096900020001",
+        "nama": "ASURANSI UMUM BUMIPUTERA MUDA 1967",
+        "website": "bumida.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BUMIPUTERA MUDA 1967",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004020.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5351",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5223",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5351"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5349",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "LEASING AND FINANCE ADVANCED MANAGEMENT PORTAL (LAMP)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITSUBISHI HC CAPITAL AND FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003471.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5349",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5221",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5349"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5348",
+      "attributes": {
+        "nomor_pb_umku": "912050483267800010001",
+        "nama": "UPSTATION.ASIA",
+        "website": "upstation.asia",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MONETIZE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003985.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5348",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5224",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5348"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5347",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "GETT.PW",
+        "website": "gett.pw",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LIONARDI URSAPUTRA PRATAMA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002650.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5347",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5222",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5347"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5346",
+      "attributes": {
+        "nomor_pb_umku": "211021002711200060001",
+        "nama": "HUTAMA JAYA INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FRIARSO SETO",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004014.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5346",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5220",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5346"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5345",
+      "attributes": {
+        "nomor_pb_umku": "812021319184101510001",
+        "nama": "WEBSITE BFI FINANCE",
+        "website": "bfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BFI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003857.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5345",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5218",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5345"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 209,
+      "from": 2081,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2090,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=210",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=208"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6503",
+      "attributes": {
+        "nomor_pb_umku": "241121005633500000001",
+        "nama": "MSALDO",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MSALDO DIGITAL PAYMENT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004761.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6503",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6370",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6503"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6502",
+      "attributes": {
+        "nomor_pb_umku": "812031303216700000001",
+        "nama": "SISTEM APLIKASI TERPADU UGAHARI",
+        "website": "sokaru.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI KARYA UGAHARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004767.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6502",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6369",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6502"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6501",
+      "attributes": {
+        "nomor_pb_umku": "180722007226500000001",
+        "nama": "PANDAVA MEDIA",
+        "website": "pandavamedia.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADITAMA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004766.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6501",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6367",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6501"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6500",
+      "attributes": {
+        "nomor_pb_umku": "812001227089100000001",
+        "nama": "VESPERIA",
+        "website": "vesperia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VESPERIA GLOBAL MERDEKA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004764.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6500",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6366",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6500"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6499",
+      "attributes": {
+        "nomor_pb_umku": "022010158115300020003",
+        "nama": "ALLIANZ LIFECHANGER PORTAL",
+        "website": "allianzlifechanger.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI ALLIANZ LIFE INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000950.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6499",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6364",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6499"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6498",
+      "attributes": {
+        "nomor_pb_umku": "912030755280300010001",
+        "nama": "PALAPA",
+        "website": "landing.xecure.world",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IMAN TEKNOLOGI INFORMASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003639.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6498",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6356",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6498"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6497",
+      "attributes": {
+        "nomor_pb_umku": "170722001917500000003",
+        "nama": "KPOP TODAY",
+        "website": "kpop.today",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TB HADYANSYAH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004757.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6497",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6363",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6497"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6496",
+      "attributes": {
+        "nomor_pb_umku": "127800060018100000001",
+        "nama": "MEDIA PENGEMBANGAN TEKNOLOGI INDONESIA JAYA(TECH MEDIA DEVELOPMENT)",
+        "website": "-",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANANDA RAUF MAUDUDI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004745.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6496",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6362",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6496"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6495",
+      "attributes": {
+        "nomor_pb_umku": "912020236081200000001",
+        "nama": "BPR APPS",
+        "website": "ebpr.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT USAHA KARYA BINA MANDIRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000014.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6495",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6361",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6495"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6494",
+      "attributes": {
+        "nomor_pb_umku": "170722001917500000002",
+        "nama": "LAYAR FILM",
+        "website": "layarfilm.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TB HADYANSYAH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004757.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6494",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6360",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6494"
+      }
+    }
+  ]
+}

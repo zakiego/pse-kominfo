@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 242,
+      "from": 2411,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2420,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=243",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=241"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6130",
+      "attributes": {
+        "nomor_pb_umku": "220522001670400010001",
+        "nama": "KONTER PULSA",
+        "website": "konterpulsa.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KONTER PULSA NETINDO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004558.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6130",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6003",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6130"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6129",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050005",
+        "nama": "RETRIBUSI NON BILLING BPD DIY",
+        "website": "saget.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6129",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6002",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6129"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6128",
+      "attributes": {
+        "nomor_pb_umku": "026801011046600010001",
+        "nama": "PT BPR GUNUNG MERBABU",
+        "website": "bprgunungmerbabu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GUNUNG MERBABU",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004552.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6128",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6000",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6128"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6127",
+      "attributes": {
+        "nomor_pb_umku": "912001927083300020001",
+        "nama": "WEBSITE WWW.AMANTARA.COM",
+        "website": "amantara.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMANTARA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004121.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6127",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5994",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6127"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6126",
+      "attributes": {
+        "nomor_pb_umku": "912030881096800030002",
+        "nama": "STAR (SAMUEL TRADING ACTIVE REALTIME)",
+        "website": "samuel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAMUEL SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000501.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6126",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5998",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6126"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6125",
+      "attributes": {
+        "nomor_pb_umku": "124600051277300120002",
+        "nama": "ALTIUSPEOPLE FOUNDATION",
+        "website": "hr.altius.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AG INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004511.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6125",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5997",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6125"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6124",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040023",
+        "nama": "BJB VIRTUAL ACCOUNT DEBIT",
+        "website": "bjbva.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003382.25/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6124",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5996",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6124"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6122",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050004",
+        "nama": "LAKU PANDAI BPD DIY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6122",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5993",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6122"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6121",
+      "attributes": {
+        "nomor_pb_umku": "912010684267700010001",
+        "nama": "BPR ARUM MANDIRI MELATI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARUM MANDIRI MELATI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004532.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6121",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5992",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6121"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6120",
+      "attributes": {
+        "nomor_pb_umku": "081021004570500000002",
+        "nama": "LEGASUSSTORE",
+        "website": "legasusstore.tokowebku.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RIYADH MUHAMMAD AL WARID",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004467.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6120",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5990",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6120"
+      }
+    }
+  ]
+}

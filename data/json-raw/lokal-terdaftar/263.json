@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 263,
+      "from": 2621,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2630,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=264",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=262"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5906",
+      "attributes": {
+        "nomor_pb_umku": "150322004891300020001",
+        "nama": "KETIKONE.COM",
+        "website": "ketikone.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NADIYA MULTI MEDIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004379.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5906",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5770",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5906"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5905",
+      "attributes": {
+        "nomor_pb_umku": "812021711022400030001",
+        "nama": "STORANIA",
+        "website": "storania.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DAYA CIPTA DINAMIS",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004377.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5905",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5769",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5905"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5904",
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010009",
+        "nama": "NOBU KUR",
+        "website": "kur.nobubank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004124.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5904",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5768",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5904"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5903",
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010008",
+        "nama": "NOBU KTA",
+        "website": "kta.nobubank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004124.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5903",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5767",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5903"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5902",
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010007",
+        "nama": "NOBULINK",
+        "website": "cms.nobubank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004124.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5902",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5766",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5902"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5901",
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010006",
+        "nama": "INTERNET BANKING",
+        "website": "nobuwwwbanking.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004124.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5901",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5765",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5901"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5900",
+      "attributes": {
+        "nomor_pb_umku": "912000329245500000001",
+        "nama": "UNAPIN",
+        "website": "unapin.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BERTRAND PRAYOGA AMALO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004370.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5900",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5764",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5900"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5899",
+      "attributes": {
+        "nomor_pb_umku": "912000851238900010002",
+        "nama": "AJAIB REKSADANA",
+        "website": "ajaib.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TAKJUB TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000503.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5899",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5763",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5899"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5898",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010011",
+        "nama": "QRIS BANK JAMBI",
+        "website": "digital.bankjambi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004292.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5898",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5762",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5898"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5897",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010010",
+        "nama": "EDC PINPPAD BANK JAMBI",
+        "website": "edc.bankjambi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004292.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5897",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5761",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5897"
+      }
+    }
+  ]
+}

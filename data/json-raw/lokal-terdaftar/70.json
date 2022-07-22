@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 70,
+      "from": 691,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 700,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=71",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=69"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7931",
+      "attributes": {
+        "nomor_pb_umku": "912010270214600010001",
+        "nama": "WEBSITE BPR PRIMA KREDIT UTAMA",
+        "website": "bprprimaku.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PRIMA KREDIT UTAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005704.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7931",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7845",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7931"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7930",
+      "attributes": {
+        "nomor_pb_umku": "200722004814700000002",
+        "nama": "ASURANSI PERJALANAN",
+        "website": "asuransi-perjalanan.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ARNANTO KARTAMIHARDJA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005657.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7930",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7848",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7930"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7929",
+      "attributes": {
+        "nomor_pb_umku": "912010078197600010005",
+        "nama": "SMS MACROKIOSK NOTIFIKASI DAN OTP - BPR MODERN EXPRESS NTT",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004901.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7929",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7849",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7929"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7928",
+      "attributes": {
+        "nomor_pb_umku": "812000172108700070035",
+        "nama": "S LIME",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAMSUNG ELECTRONICS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004280.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7928",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7838",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7928"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7927",
+      "attributes": {
+        "nomor_pb_umku": "022000243289900000001",
+        "nama": "HONDA BINTARO",
+        "website": "honda-bintaro.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GADING PRIMA PERKASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005686.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7927",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7839",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7927"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7926",
+      "attributes": {
+        "nomor_pb_umku": "022000944203300010001",
+        "nama": "HONDAMUGEN.CO.ID",
+        "website": "hondamugen.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRAUSAHA GENTANIAGA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005705.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7926",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7840",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7926"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7925",
+      "attributes": {
+        "nomor_pb_umku": "022030424075600010001",
+        "nama": "WEBSITE",
+        "website": "artajakarta.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTA JAKARTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005645.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7925",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7843",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7925"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7924",
+      "attributes": {
+        "nomor_pb_umku": "122200048115300010001",
+        "nama": "GOERS",
+        "website": "goersapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SANRAYA ADI NATTAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005319.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7924",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7842",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7924"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7923",
+      "attributes": {
+        "nomor_pb_umku": "027901024177100020001",
+        "nama": "BPR ASRI CIKUPA KARYA",
+        "website": "bprack.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ASRI CIKUPA KARYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005659.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7923",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7841",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7923"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7922",
+      "attributes": {
+        "nomor_pb_umku": "912010377058400010NaN",
+        "nama": "ELANGSUNG",
+        "website": "elangsung.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ELANGSUNG INTERNATIONAL AGENCY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005246.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7922",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7835",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7922"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 33,
+      "from": 321,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 330,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=34",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=32"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8366",
+      "attributes": {
+        "nomor_pb_umku": "071021002800500010001",
+        "nama": "WEBSITE BPR GRACIA MANDIRI",
+        "website": "bankgraciamandiri.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GRACIA MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005868.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8366",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8287",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8366"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8365",
+      "attributes": {
+        "nomor_pb_umku": "200722007407800000004",
+        "nama": "COACH.ID",
+        "website": "coach.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUQIET EFADLINUR BAKTIMY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005792.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8365",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8286",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8365"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8364",
+      "attributes": {
+        "nomor_pb_umku": "200722007407800000003",
+        "nama": "MARKETHINK",
+        "website": "marketh.ink",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUQIET EFADLINUR BAKTIMY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005792.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8364",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8285",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8364"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8363",
+      "attributes": {
+        "nomor_pb_umku": "200722007031800000001",
+        "nama": "APPSKEP",
+        "website": "appskep.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HABIBURRAHMAN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005758.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8363",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8284",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8363"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8362",
+      "attributes": {
+        "nomor_pb_umku": "022010665225800030007",
+        "nama": "APLIKASI MMPPAYMENT,NTRONIK",
+        "website": "Indopay.net",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INDOPAY MULTISINERGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005857.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8362",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8283",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8362"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8361",
+      "attributes": {
+        "nomor_pb_umku": "200522002237900010001",
+        "nama": "DELEGASI",
+        "website": "delegasi.co",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DELEGASI TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005856.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8361",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8281",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8361"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8360",
+      "attributes": {
+        "nomor_pb_umku": "912031619290400050007",
+        "nama": "SATRIACORP - COMMUNICATIONS",
+        "website": "satriacorp.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SATRIA MEDIA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002851.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8360",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8280",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8360"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8359",
+      "attributes": {
+        "nomor_pb_umku": "200722007407800000002",
+        "nama": "PILKADA NETWORK",
+        "website": "pilkada.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUQIET EFADLINUR BAKTIMY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005792.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8359",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8279",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8359"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8358",
+      "attributes": {
+        "nomor_pb_umku": "200722008143600000001",
+        "nama": "KORAN SAMUDRA",
+        "website": "Koran-samudra.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUDA RANGGA DJATI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005864.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8358",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8277",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8358"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8357",
+      "attributes": {
+        "nomor_pb_umku": "022010665225800030006",
+        "nama": "APLIKASI MITRA INDOPAY",
+        "website": "Indopay.net",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INDOPAY MULTISINERGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005857.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8357",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8278",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8357"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 376,
+      "from": 3751,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3760,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=377",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=375"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4576",
+      "attributes": {
+        "nomor_pb_umku": "912040122198900000001",
+        "nama": "PAWOON POS",
+        "website": "pawoon.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALPHANOVATION DIGITAL TEKNINDO",
+        "tanggal_daftar": "2022-06-17",
+        "tanggal_terbit": "2022-06-17",
+        "nomor_tanda_daftar": "002935.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4576",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4540",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4576"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4575",
+      "attributes": {
+        "nomor_pb_umku": "128700020064700000003",
+        "nama": "JEMPOLKIOS",
+        "website": "jempolkios.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA DISTRIBUSI UTAMA",
+        "tanggal_daftar": "2022-06-17",
+        "tanggal_terbit": "2022-06-17",
+        "nomor_tanda_daftar": "002723.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4575",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4539",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4575"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4574",
+      "attributes": {
+        "nomor_pb_umku": "912011207078600130008",
+        "nama": "BITRAS",
+        "website": "bitras.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BITRAS",
+        "tanggal_daftar": "2022-06-17",
+        "tanggal_terbit": "2022-06-17",
+        "nomor_tanda_daftar": "000303.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4574",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4538",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4574"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4573",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800940023",
+        "nama": "DASHBOARD VIRTUAL ACCOUNT",
+        "website": "brivirtualdebit.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-17",
+        "tanggal_terbit": "2022-06-17",
+        "nomor_tanda_daftar": "002468.19/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4573",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4537",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4573"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4572",
+      "attributes": {
+        "nomor_pb_umku": "912010533026900030001",
+        "nama": "JARINGAN MESIN LAYANAN PUBLIK OTOMATIS (JARINGAN MLPO)",
+        "website": "syb-online.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA YUKTI BANDHANA",
+        "tanggal_daftar": "2022-06-17",
+        "tanggal_terbit": "2022-06-17",
+        "nomor_tanda_daftar": "002792.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4572",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4536",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4572"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4571",
+      "attributes": {
+        "nomor_pb_umku": "912040980232100000001",
+        "nama": "WILKA STORE",
+        "website": "wilkastore.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WILKA ENERGI SOLUSI",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000310.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4571",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4535",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4571"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4570",
+      "attributes": {
+        "nomor_pb_umku": "310122004227800000001",
+        "nama": "ZAHSY ALESHA DIGITAL & TECH",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RULLY SIREY",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000307.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4570",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4533",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4570"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4569",
+      "attributes": {
+        "nomor_pb_umku": "190522007657500010001",
+        "nama": "SMARTCU",
+        "website": "smartcu.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi PUSKOP CREDIT UNION INDONESIA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000304.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4569",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4532",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4569"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4568",
+      "attributes": {
+        "nomor_pb_umku": "231021002315400080001",
+        "nama": "PTAMS",
+        "website": "ptams.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AROMA MAKMUR SENTOSA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000302.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4568",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4531",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4568"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4567",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800940022",
+        "nama": "STROBERI TAGIHAN",
+        "website": "tagihan.stroberi.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "002468.18/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4567",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4530",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4567"
+      }
+    }
+  ]
+}

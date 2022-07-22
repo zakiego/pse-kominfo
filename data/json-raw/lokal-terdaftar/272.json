@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 272,
+      "from": 2711,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2720,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=273",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=271"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5813",
+      "attributes": {
+        "nomor_pb_umku": "912000537292100010001",
+        "nama": "AKTIVITAS KEUANGAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SWADAYA ANAK NAGARI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004325.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5813",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5674",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5813"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5812",
+      "attributes": {
+        "nomor_pb_umku": "912020177088600020003",
+        "nama": "TELEBUDDY",
+        "website": "telebuddy.sequis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000050.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5812",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5673",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5812"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5811",
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010005",
+        "nama": "NOBU NEO",
+        "website": "ib.nobubank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004124.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5811",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5670",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5811"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5809",
+      "attributes": {
+        "nomor_pb_umku": "912010127154100010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT LUMBUNG PITIH NAGARI PADANG MAGEK",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LUMBUNG PITIH NAGARI PADANG MAGEK",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004276.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5809",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5669",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5809"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5808",
+      "attributes": {
+        "nomor_pb_umku": "812011702350700050004",
+        "nama": "ISOMEDIK",
+        "website": "isomedik.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VIVA MEDIKA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004120.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5808",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5671",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5808"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5807",
+      "attributes": {
+        "nomor_pb_umku": "912020077178500010002",
+        "nama": "WEBSITE PENGADUAN NASABAH BPR MODERN EXPRESS",
+        "website": "atm.bprmodex.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004263.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5807",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5667",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5807"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5805",
+      "attributes": {
+        "nomor_pb_umku": "812011702350700050003",
+        "nama": "ISO APP",
+        "website": "isomedik.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VIVA MEDIKA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004120.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5805",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5668",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5805"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5804",
+      "attributes": {
+        "nomor_pb_umku": "912020177088600020002",
+        "nama": "SEQUISFRIEND",
+        "website": "sequisfriend.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000050.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5804",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5666",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5804"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5803",
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030004",
+        "nama": "SALVAGE AUCTION",
+        "website": "mnc-insurance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000158.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5803",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5665",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5803"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5802",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBSITE PENGADUAN NASABAH BPR PALU LOKADANA UTAMA",
+        "website": "atm.bprpalu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004168.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5802",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5664",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5802"
+      }
+    }
+  ]
+}

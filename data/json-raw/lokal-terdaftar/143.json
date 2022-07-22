@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 143,
+      "from": 1421,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1430,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=144",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=142"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7197",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040020",
+        "nama": "SUROBOYO PAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.22/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7197",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7083",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7197"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7196",
+      "attributes": {
+        "nomor_pb_umku": "190722008027600000001",
+        "nama": "A2OPAY",
+        "website": "a2opay.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Muhammad Ansari",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005247.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7196",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7082",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7196"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7195",
+      "attributes": {
+        "nomor_pb_umku": "190722000542900000001",
+        "nama": "BOOPSULSA.COM",
+        "website": "boospulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Andri Mugiono",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005240.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7195",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7081",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7195"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7194",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020011",
+        "nama": "SALESTRAX BPRKS",
+        "website": "salestracking.bprks.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004305.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7194",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7080",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7194"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7193",
+      "attributes": {
+        "nomor_pb_umku": "912040685135500010001",
+        "nama": "WEBSITE",
+        "website": "bprarthaprimaperkasa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA PRIMA PERKASA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005189.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7193",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7079",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7193"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7192",
+      "attributes": {
+        "nomor_pb_umku": "912021828192600000002",
+        "nama": "IBSS CORE BANKING SYSTEM",
+        "website": "ussipgs.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT USSI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001020.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7192",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7058",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7192"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7191",
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010005",
+        "nama": "BRK QRIS",
+        "website": "qris.bankriaukepri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005037.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7191",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7078",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7191"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7190",
+      "attributes": {
+        "nomor_pb_umku": "022020872134800000001",
+        "nama": "EPOSKESTREN",
+        "website": "eposkestren.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INFOKES INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000314.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7190",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7077",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7190"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7189",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040019",
+        "nama": "MANDALIKATREN",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7189",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7076",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7189"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7188",
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000001",
+        "nama": "MVICALL",
+        "website": "mvicall.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI BESTAMA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004632.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7188",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7074",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7188"
+      }
+    }
+  ]
+}

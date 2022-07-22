@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 411,
+      "from": 4101,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4110,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=412",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=410"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4418",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Cipta Izin Indonesia",
+        "website": "izin99.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA IZIN INDONESIA",
+        "tanggal_daftar": "2022-05-07",
+        "tanggal_terbit": "2022-05-07",
+        "nomor_tanda_daftar": "002651.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4418",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4402",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4418"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4417",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Izin99.com",
+        "website": "izin99.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA IZIN INDONESIA",
+        "tanggal_daftar": "2022-05-06",
+        "tanggal_terbit": "2022-05-06",
+        "nomor_tanda_daftar": "002651.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4417",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4401",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4417"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4416",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Cordelia",
+        "website": "cordelia.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV LIONARDI URSAPUTRA PRATAMA",
+        "tanggal_daftar": "2022-05-06",
+        "tanggal_terbit": "2022-05-06",
+        "nomor_tanda_daftar": "002650.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4416",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4400",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4416"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4415",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Codashop",
+        "website": "www.codashop.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CODA INDONESIA",
+        "tanggal_daftar": "2022-05-06",
+        "tanggal_terbit": "2022-05-06",
+        "nomor_tanda_daftar": "002649.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4415",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4399",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4415"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4414",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Codapay",
+        "website": "airtime.codapayments.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CODA INDONESIA",
+        "tanggal_daftar": "2022-05-06",
+        "tanggal_terbit": "2022-05-06",
+        "nomor_tanda_daftar": "002649.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4414",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4398",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4414"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4413",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.zhmhotels.com",
+        "website": "zhmhotels.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZURI HOTEL MANAJEMEN",
+        "tanggal_daftar": "2022-05-06",
+        "tanggal_terbit": "2022-05-06",
+        "nomor_tanda_daftar": "002648.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4413",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4397",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4413"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4412",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Silvi Accessories",
+        "website": "shopee.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV ZELVI IRAWAN",
+        "tanggal_daftar": "2022-05-06",
+        "tanggal_terbit": "2022-05-06",
+        "nomor_tanda_daftar": "002647.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4412",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4396",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4412"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4411",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Victoria Global Realty",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VICTORIA GLOBAL REALTY",
+        "tanggal_daftar": "2022-05-05",
+        "tanggal_terbit": "2022-05-05",
+        "nomor_tanda_daftar": "002646.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4411",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4395",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4411"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4355",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.jurnaltv.my.id",
+        "website": "www.jurnaltv.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AGENCY KOMUNITAS INDOSYSTEM NETWORK INDONESIA",
+        "tanggal_daftar": "2022-05-05",
+        "tanggal_terbit": "2022-05-05",
+        "nomor_tanda_daftar": "002063.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4355",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4341",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4355"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4410",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PordasiHub",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TURANGGA ARENA PERSADA",
+        "tanggal_daftar": "2022-05-04",
+        "tanggal_terbit": "2022-05-04",
+        "nomor_tanda_daftar": "002645.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4410",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4394",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4410"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 170,
+      "from": 1691,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1700,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=171",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=169"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6919",
+      "attributes": {
+        "nomor_pb_umku": "912031411028900020001",
+        "nama": "LESCADANA",
+        "website": "banklescadana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LESCA DANA JAKARTA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005079.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6919",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6768",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6919"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6918",
+      "attributes": {
+        "nomor_pb_umku": "125200068146300010004",
+        "nama": "COMMAND CENTER ERATANI APPS",
+        "website": "eratani.co.id",
+        "sektor": "Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERATANI TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004100.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6918",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6730",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6918"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6917",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBSITE BANK BPD BALI",
+        "website": "bpdbali.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH BALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004518.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6917",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6767",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6917"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6916",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SHOPIFY",
+        "website": "bobobobo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BOBOBOBO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005062.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6916",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6766",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6916"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6915",
+      "attributes": {
+        "nomor_pb_umku": "812000382013500760001",
+        "nama": "PLN MOBILE",
+        "website": "-",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN LISTRIK NEGARA (PERSERO)",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004620.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6915",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6763",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6915"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6914",
+      "attributes": {
+        "nomor_pb_umku": "912050070168900000001",
+        "nama": "BPR DHARMA INDRA",
+        "website": "bpr-dharmaindra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DHARMA INDRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004953.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6914",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6762",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6914"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6913",
+      "attributes": {
+        "nomor_pb_umku": "912010531230400000001",
+        "nama": "RADYA DIGITAL",
+        "website": "radyadigital.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RADYA ANUGRAH DIGITAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005067.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6913",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6765",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6913"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6912",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "ACS 3DS DEBIT",
+        "website": "3dsecuredebit.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.46/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6912",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6741",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6912"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6909",
+      "attributes": {
+        "nomor_pb_umku": "912020479300500000001",
+        "nama": "KARCISBOLA.ID",
+        "website": "karcisbola.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VISI NUSAPATI UTAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004932.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6909",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6613",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6909"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6907",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "REBORN INDONESIA",
+        "website": "reborn.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKASI KARYA ANAK MILENIAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004996.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6907",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6759",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6907"
+      }
+    }
+  ]
+}

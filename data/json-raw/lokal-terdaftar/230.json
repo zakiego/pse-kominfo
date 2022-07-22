@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 230,
+      "from": 2291,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2300,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=231",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=229"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6260",
+      "attributes": {
+        "nomor_pb_umku": "912011409292100000001",
+        "nama": "TUNAS AUCTION",
+        "website": "tunasauction.tunasgroup.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA ARMADA SUDECO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004146.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6260",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5712",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6260"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6259",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640035",
+        "nama": "E-BCA TRADE",
+        "website": "tradebca.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001669.37/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6259",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6119",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6259"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6258",
+      "attributes": {
+        "nomor_pb_umku": "022010040127300040001",
+        "nama": "SULTRA MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI TENGGARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004592.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6258",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6120",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6258"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6257",
+      "attributes": {
+        "nomor_pb_umku": "021901011125700000001",
+        "nama": "KOPERASI KOLABORASI",
+        "website": "koperasikolaborasi.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi KONSUMEN KOLABORASI SEJAHTERA ABADI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000140.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6257",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6121",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6257"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6256",
+      "attributes": {
+        "nomor_pb_umku": "022030025113300000001",
+        "nama": "KOOTA MOBILE",
+        "website": "koota.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKASI CIPTA MANDIRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004629.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6256",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6117",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6256"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6255",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010003",
+        "nama": "RAYA SISTEM INFORMASI MANAJEMEN",
+        "website": "rayasim.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6255",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6118",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6255"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6254",
+      "attributes": {
+        "nomor_pb_umku": "150722005787500000001",
+        "nama": "ITCFINANCE.COM",
+        "website": "itcfinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTERNUSA TRIBUANA CITRA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004537.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6254",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6113",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6254"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6253",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640034",
+        "nama": "CLIENT TRADE BCA",
+        "website": "clienttradebca.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001669.36/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6253",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6115",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6253"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6252",
+      "attributes": {
+        "nomor_pb_umku": "128400031249200010001",
+        "nama": "WWW.BOWSPRIT-AM.COM",
+        "website": "bowsprit-am.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BOWSPRIT ASSET MANAGEMENT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004221.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6252",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6116",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6252"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6251",
+      "attributes": {
+        "nomor_pb_umku": "812021412243700030001",
+        "nama": "TSMART",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SURYA SUDECO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004122.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6251",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6108",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6251"
+      }
+    }
+  ]
+}

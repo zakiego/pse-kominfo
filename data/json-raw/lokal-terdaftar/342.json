@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 342,
+      "from": 3411,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3420,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=343",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=341"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5061",
+      "attributes": {
+        "nomor_pb_umku": "912010841161200030004",
+        "nama": "WEB PORTAL WWW.EQUITY.CO.ID",
+        "website": "equity.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EQUITY LIFE INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "002300.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5061",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4928",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5061"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5060",
+      "attributes": {
+        "nomor_pb_umku": "022000844370700090003",
+        "nama": "POWERBIZ",
+        "website": "powerbiz.asia",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA SEMERU INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "002471.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5060",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4929",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5060"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5059",
+      "attributes": {
+        "nomor_pb_umku": "260122004769900020001",
+        "nama": "PT TEKNOLOGI DIGITAL BERSAMA",
+        "website": "meltipay.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TEKNOLOGI DIGITAL BERSAMA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003715.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5059",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4927",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5059"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5057",
+      "attributes": {
+        "nomor_pb_umku": "912030571242400020002",
+        "nama": "UKU",
+        "website": "ukuindo.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI MERLIN SEJAHTERA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003590.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5057",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4926",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5057"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5056",
+      "attributes": {
+        "nomor_pb_umku": "027601012100400010001",
+        "nama": "KREDINESIA - PINJAMAN ONLINE",
+        "website": "kredinesia.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREDITKU TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "000003.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5056",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4923",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5056"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5055",
+      "attributes": {
+        "nomor_pb_umku": "221221000137500000001",
+        "nama": "MESINOTOMATIS",
+        "website": "mesinotomatis.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MESIN OTOMATIS INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003703.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5055",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4925",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5055"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5054",
+      "attributes": {
+        "nomor_pb_umku": "912010841161200030003",
+        "nama": "MYEBENEFIT (MOBILE APP)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EQUITY LIFE INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "002300.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5054",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4924",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5054"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5052",
+      "attributes": {
+        "nomor_pb_umku": "912010841161200030002",
+        "nama": "MYELIFE (MOBILE APP)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EQUITY LIFE INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "002300.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5052",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4921",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5052"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5051",
+      "attributes": {
+        "nomor_pb_umku": "280622000184100020001",
+        "nama": "BLI-GO, FLYGRAPE",
+        "website": "bli-go.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALAN SURYAWIJAYA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003506.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5051",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4746",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5051"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5050",
+      "attributes": {
+        "nomor_pb_umku": "280622000184100030002",
+        "nama": "BLI-IN",
+        "website": "bli-in.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALAN SURYAWIJAYA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003506.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5050",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4753",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5050"
+      }
+    }
+  ]
+}

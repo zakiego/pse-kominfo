@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 203,
+      "from": 2021,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2030,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=204",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=202"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6566",
+      "attributes": {
+        "nomor_pb_umku": "190722000306700000001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "mediabpr.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV DATABANK SOLUSINDO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004793.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6566",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6424",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6566"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6565",
+      "attributes": {
+        "nomor_pb_umku": "110322004390900000002",
+        "nama": "KONTERPAY",
+        "website": "KonterPay.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PULSA MEDIA EPAY TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002384.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6565",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6423",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6565"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6564",
+      "attributes": {
+        "nomor_pb_umku": "912010584273300010001",
+        "nama": "BPR KINTAMAS MITRA DANA",
+        "website": "bprkmd.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KINTAMAS MITRA DANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004807.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6564",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6422",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6564"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6563",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801190051",
+        "nama": "JADIMERCHANT",
+        "website": "Jadimerchant.bri.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002468.47/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6563",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6421",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6563"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6562",
+      "attributes": {
+        "nomor_pb_umku": "912020183260200010001",
+        "nama": "BPR SENTRAL INVESTASI PRIMA",
+        "website": "bprsip.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SENTRAL INVESTASI PRIMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004810.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6562",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6420",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6562"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6561",
+      "attributes": {
+        "nomor_pb_umku": "912030110141700050005",
+        "nama": "OFFICIAL WEBSITE HONDA OUTSIDE JAVA",
+        "website": "ns1.hondaoutsidejava.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PROSPECT MOTOR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004637.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6561",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6419",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6561"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6560",
+      "attributes": {
+        "nomor_pb_umku": "180722001152600000001",
+        "nama": "PT BPR ARTHA NIAGA SOLOK",
+        "website": "bprans.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA NIAGA SOLOK",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004513.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6560",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6418",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6560"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6559",
+      "attributes": {
+        "nomor_pb_umku": "912020113285200000001",
+        "nama": "WEBSITE SMART LEGAL NETWORK",
+        "website": "Smartlegalnetwork.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI LINTAS NEGERI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004748.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6559",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6415",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6559"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6558",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "IBS USSI - BPR ONLINE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARUNA NIRMALADUTA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004608.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6558",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6417",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6558"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6557",
+      "attributes": {
+        "nomor_pb_umku": "129700033042800010001",
+        "nama": "GLINTS ACADEMY",
+        "website": "academy.glints.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLINTS AKADEMI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004775.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6557",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6378",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6557"
+      }
+    }
+  ]
+}

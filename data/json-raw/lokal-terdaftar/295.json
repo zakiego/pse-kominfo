@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 295,
+      "from": 2941,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2950,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=296",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=294"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5568",
+      "attributes": {
+        "nomor_pb_umku": "912020791044900000001",
+        "nama": "SIAPA DIA CRAWLER",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SIAPA DIA INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003963.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5568",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5440",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5568"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5567",
+      "attributes": {
+        "nomor_pb_umku": "122600031051500000001",
+        "nama": "GADAI MAS",
+        "website": "gadaimas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAJU AMAN SEJAHTERA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004073.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5567",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5433",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5567"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5566",
+      "attributes": {
+        "nomor_pb_umku": "025401004068700010003",
+        "nama": "KOMUNAL - DEPOSITO BPR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOMUNAL SEJAHTERA INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "002580.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5566",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5434",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5566"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5565",
+      "attributes": {
+        "nomor_pb_umku": "211021002711200060002",
+        "nama": "HJI AGENT/RENTAL",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FRIARSO SETO",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004014.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5565",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5437",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5565"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5564",
+      "attributes": {
+        "nomor_pb_umku": "111221001339800010006",
+        "nama": "COVIT",
+        "website": "co.vit.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "VROMEDIA INFORMATIKA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001750.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5564",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5436",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5564"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5563",
+      "attributes": {
+        "nomor_pb_umku": "125900065221100010002",
+        "nama": "MODALKU FOR LENDERS APPS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRAUSAHA INDONESIA GRUP",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "002190.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5563",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5426",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5563"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5562",
+      "attributes": {
+        "nomor_pb_umku": "812010186183900010002",
+        "nama": "KOMUNAL P2P",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOMUNAL FINANSIAL INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "002708.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5562",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5431",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5562"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5561",
+      "attributes": {
+        "nomor_pb_umku": "912000671155500010001",
+        "nama": "TRESNA NIAGA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TRESNA NIAGA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004164.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5561",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5428",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5561"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5560",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "TEPAT INTERNET BANKING",
+        "website": "btpnsyariah.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN SYARIAH",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001421.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5560",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4998",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5560"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5559",
+      "attributes": {
+        "nomor_pb_umku": "260122004279300010001",
+        "nama": "SALAM",
+        "website": "salamchat.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAPA PUTRA PUTRI BANGSA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004097.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5559",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5427",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5559"
+      }
+    }
+  ]
+}

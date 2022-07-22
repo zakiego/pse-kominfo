@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 55,
+      "from": 541,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 550,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=56",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=54"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8081",
+      "attributes": {
+        "nomor_pb_umku": "022020370023500000003",
+        "nama": "JOGJAKITA BISNIS",
+        "website": "jogjakita.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JOGJAKITA MULTI ANDALAN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002039.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8081",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8004",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8081"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8080",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020017",
+        "nama": "BCONNECT",
+        "website": "bconnect.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003560.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8080",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7552",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8080"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8079",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020006",
+        "nama": "SERENITYCENTRAL.ID",
+        "website": "serenitycentral.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8079",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8002",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8079"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8078",
+      "attributes": {
+        "nomor_pb_umku": "812010488092400020002",
+        "nama": "MOBILE APP CHATIME INDONESIA",
+        "website": "chatime.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FOODS BEVERAGES INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005756.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8078",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8003",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8078"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8077",
+      "attributes": {
+        "nomor_pb_umku": "200722006539400000001",
+        "nama": "PD BPR BAHTERAMAS BUTON UTARA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PD BPR BAHTERAMAS BUTON UTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005727.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8077",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7998",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8077"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8076",
+      "attributes": {
+        "nomor_pb_umku": "050722004597200000001",
+        "nama": "INTIM DIGITAL ONLINE",
+        "website": "ambontoday.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MALUKU MEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005164.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8076",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7996",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8076"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8075",
+      "attributes": {
+        "nomor_pb_umku": "220322003985400000001",
+        "nama": "JAKARTAWEBHOSTING.COM",
+        "website": "jakartawebhosting.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGIKA INTEGRATOR INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005732.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8075",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8000",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8075"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8074",
+      "attributes": {
+        "nomor_pb_umku": "812001203066600010005",
+        "nama": "AMAN DEVELOOP WEBSITE",
+        "website": "develoop.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMAN DEVLOOP INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005377.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8074",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7928",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8074"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8073",
+      "attributes": {
+        "nomor_pb_umku": "912030376125900010001",
+        "nama": "WWW.SATYAARTHA.CO.ID",
+        "website": "satyaartha.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SATYA ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005755.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8073",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7999",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8073"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8072",
+      "attributes": {
+        "nomor_pb_umku": "912021807101900010002",
+        "nama": "BANK SULTENG INTERNET BANKING COORPORATE",
+        "website": "ibc.banksulteng.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005711.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8072",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7993",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8072"
+      }
+    }
+  ]
+}

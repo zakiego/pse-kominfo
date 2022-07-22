@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 305,
+      "from": 3041,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3050,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=306",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=304"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5456",
+      "attributes": {
+        "nomor_pb_umku": "912020085022800010001",
+        "nama": "DANA MULTIGUNA",
+        "website": "ciptadana-mf.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTADANA MULTIFINANCE",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004083.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5456",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5328",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5456"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5455",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000002",
+        "nama": "DEVELOPER.FINGERSPOT.IO",
+        "website": "developer.fingerspot.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003983.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5455",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5325",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5455"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5452",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801160047",
+        "nama": "MAKNA",
+        "website": "bansos.bri.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002468.43/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5452",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5324",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5452"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5451",
+      "attributes": {
+        "nomor_pb_umku": "812010383238900000002",
+        "nama": "FINGERSPOT.COM",
+        "website": "fingerspot.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIOMETRIK CITRA SOLUSI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004076.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5451",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5323",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5451"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5450",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801160046",
+        "nama": "APLIKASI PANEN",
+        "website": "panen.bri.co.id",
+        "sektor": "Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002468.42/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5450",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5322",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5450"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5449",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801160045",
+        "nama": "SIMPI (SISTEM INFORMASI MANAJEMEN PANGAN INDONESIA)",
+        "website": "simpi.bri.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002468.41/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5449",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5321",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5449"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5448",
+      "attributes": {
+        "nomor_pb_umku": "912030064238600020002",
+        "nama": "MI PORTAL",
+        "website": "miportal.inhealth.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA INHEALTH INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001411.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5448",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5320",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5448"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5447",
+      "attributes": {
+        "nomor_pb_umku": "912000110165300020001",
+        "nama": "OFFICIAL WEBSITE",
+        "website": "lolcventura.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LOLC VENTURA INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004078.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5447",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5319",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5447"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5446",
+      "attributes": {
+        "nomor_pb_umku": "912010619174200010001",
+        "nama": "PLUANG - GROW",
+        "website": "pluang-grow.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA SANTOSA SEJATI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "000994.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5446",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5318",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5446"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5445",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801160044",
+        "nama": "DASHBOARD BPUM",
+        "website": "dashboard.bri.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002468.40/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5445",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5317",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5445"
+      }
+    }
+  ]
+}

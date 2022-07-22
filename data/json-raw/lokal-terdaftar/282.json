@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 282,
+      "from": 2811,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2820,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=283",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=281"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5707",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030003",
+        "nama": "INTERNET BANKING BISNIS BANK KALSEL",
+        "website": "digital.bankkalsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004232.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5707",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5569",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5707"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5706",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010015",
+        "nama": "APLIKASI PROJECT MANAGEMENT",
+        "website": "pm.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.16/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5706",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5566",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5706"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5705",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030002",
+        "nama": "INTERNET BANKING BANK KALSEL",
+        "website": "digital.bankkalsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004232.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5705",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5568",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5705"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5704",
+      "attributes": {
+        "nomor_pb_umku": "110422002268500000001",
+        "nama": "IBS ONLINE",
+        "website": "bpr-gajahmungkur.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GAJAH MUNGKUR",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004196.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5704",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5567",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5704"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5703",
+      "attributes": {
+        "nomor_pb_umku": "120200047039500010001",
+        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS SULUT",
+        "website": "bprmodex-sulut.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR MODERN EXPRESS SULUT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004252.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5703",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5565",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5703"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5702",
+      "attributes": {
+        "nomor_pb_umku": "028701013128100010004",
+        "nama": "JOVA RESTO",
+        "website": "Jovaresto.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUNDI MAS BERJAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003781.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5702",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5561",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5702"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5701",
+      "attributes": {
+        "nomor_pb_umku": "028701013128100010003",
+        "nama": "DEXTION",
+        "website": "Dextion.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUNDI MAS BERJAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003781.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5701",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5550",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5701"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5700",
+      "attributes": {
+        "nomor_pb_umku": "127800060289400010001",
+        "nama": "WWW.BPRLINGGASEJAHTERA.CO.ID",
+        "website": "bprlinggasejahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LINGGA SEJAHTERA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004254.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5700",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5564",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5700"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5699",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900000004",
+        "nama": "MRIMPORTIR.COM",
+        "website": "mrimportir.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "002941.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5699",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5563",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5699"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5698",
+      "attributes": {
+        "nomor_pb_umku": "029401015047100000001",
+        "nama": "FAMILY PULSA",
+        "website": "familypulsa.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV SERVER NUSANTARA SOLUSINDO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004249.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5698",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5560",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5698"
+      }
+    }
+  ]
+}

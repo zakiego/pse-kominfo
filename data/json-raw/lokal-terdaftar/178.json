@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 178,
+      "from": 1771,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1780,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=179",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=177"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6835",
+      "attributes": {
+        "nomor_pb_umku": "912030593192500010003",
+        "nama": "WEBSITE BPR INDRA",
+        "website": "bprindra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT INDRA CANDRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004579.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6835",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6665",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6835"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6834",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000010",
+        "nama": "BERLIAN MOTOR",
+        "website": "berlianmotor.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6834",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6685",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6834"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6833",
+      "attributes": {
+        "nomor_pb_umku": "912010078197600010001",
+        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS NTT",
+        "website": "bprmodex-ntt.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004901.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6833",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6684",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6833"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6832",
+      "attributes": {
+        "nomor_pb_umku": "912001729380300000001",
+        "nama": "PRUMU",
+        "website": "prumu.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV PRUMU MITRA ADIRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004992.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6832",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6683",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6832"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6831",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010019",
+        "nama": "API TESTING PARTNER BANK RAYA",
+        "website": "api.testing.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004288.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6831",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6682",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6831"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6830",
+      "attributes": {
+        "nomor_pb_umku": "912010774107900020001",
+        "nama": "CORE BANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ABDI WARGA MULIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004824.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6830",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6679",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6830"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6829",
+      "attributes": {
+        "nomor_pb_umku": "912030152243900000001",
+        "nama": "WEBSITE RESMI MAIN DEALER HONDA JABODETABEK",
+        "website": "hondajakartacenter.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IMORA MOTOR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004340.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6829",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6677",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6829"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6828",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000009",
+        "nama": "ARINGO",
+        "website": "aringo.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6828",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6678",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6828"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6827",
+      "attributes": {
+        "nomor_pb_umku": "241121000474300000001",
+        "nama": "APLIKASI PENCATATAN INFORMASI KEUANGAN BLUD PUSKESMAS KABUPATEN DEMAK",
+        "website": "demak.bludpuskesmas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOHAMMAD TAUFIQURROHMAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004987.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6827",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6674",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6827"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6826",
+      "attributes": {
+        "nomor_pb_umku": "912030488103900010001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "bprprismabali.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PRISMA BALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004962.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6826",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6676",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6826"
+      }
+    }
+  ]
+}

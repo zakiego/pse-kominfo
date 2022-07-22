@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 241,
+      "from": 2401,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2410,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=242",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=240"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6142",
+      "attributes": {
+        "nomor_pb_umku": "271021003588500040002",
+        "nama": "YESPOS",
+        "website": "yespos.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI PRIMA MANDIRI UTAMA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004433.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6142",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6011",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6142"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6141",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050007",
+        "nama": "EOFFICE BPD DIY",
+        "website": "eoffice.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6141",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6010",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6141"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6140",
+      "attributes": {
+        "nomor_pb_umku": "912001927083300020002",
+        "nama": "WEBSITE AMANTARA.COM",
+        "website": "amantara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMANTARA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004121.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6140",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6009",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6140"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6139",
+      "attributes": {
+        "nomor_pb_umku": "912030892137600010001",
+        "nama": "MULTINDO AUTO FINANCE",
+        "website": "multindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MULTINDO AUTO FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004553.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6139",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6008",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6139"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6138",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050006",
+        "nama": "APLIKASI E-WARONG BPD DIY",
+        "website": "g2c.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6138",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6007",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6138"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6136",
+      "attributes": {
+        "nomor_pb_umku": "124600051277300120003",
+        "nama": "ALTIUSPEOPLE ENTERPRISE",
+        "website": "enterprise.altius.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AG INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004511.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6136",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6006",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6136"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6134",
+      "attributes": {
+        "nomor_pb_umku": "028701013128100010007",
+        "nama": "RUMAH DEWI",
+        "website": "Rumahdewi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUNDI MAS BERJAYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003781.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6134",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5971",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6134"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6133",
+      "attributes": {
+        "nomor_pb_umku": "028701013128100010006",
+        "nama": "KITAKERJA",
+        "website": "kitakerja.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUNDI MAS BERJAYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003781.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6133",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5980",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6133"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6132",
+      "attributes": {
+        "nomor_pb_umku": "028701013128100010005",
+        "nama": "JAYARENT",
+        "website": "Jayarent.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUNDI MAS BERJAYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003781.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6132",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6001",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6132"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6131",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040024",
+        "nama": "APLIKASI SOCIAL FUND TRANSFER (SFT)",
+        "website": "sft.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003382.26/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6131",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6004",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6131"
+      }
+    }
+  ]
+}

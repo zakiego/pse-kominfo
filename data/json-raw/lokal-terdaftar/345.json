@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 345,
+      "from": 3441,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3450,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=346",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=344"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5029",
+      "attributes": {
+        "nomor_pb_umku": "123200020004700050001",
+        "nama": "JUMPADOKTER",
+        "website": "-",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CASTELLUM DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003112.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5029",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4901",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5029"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5028",
+      "attributes": {
+        "nomor_pb_umku": "070422000759400000001",
+        "nama": "BLINSTORE.MY.ID",
+        "website": "blinstore.my.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BIMA SURYA JAYA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003534.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5028",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4900",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5028"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5027",
+      "attributes": {
+        "nomor_pb_umku": "022030474249500040001",
+        "nama": "BORNEOJEK",
+        "website": "borneojekindonesia.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BORNEO INTECH",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003635.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5027",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4899",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5027"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5026",
+      "attributes": {
+        "nomor_pb_umku": "010722004380400000001",
+        "nama": "PERMID TEKNIK - SERVIS ELEKTRONIK JAMBI",
+        "website": "permidteknik.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HAMIDUL UMAR",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003640.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5026",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4898",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5026"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5025",
+      "attributes": {
+        "nomor_pb_umku": "912050174283300010001",
+        "nama": "ALAMI SHARIA",
+        "website": "p2p.alamisharia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALAMI FINTEK SHARIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000887.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5025",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4896",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5025"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5024",
+      "attributes": {
+        "nomor_pb_umku": "912050589239700010002",
+        "nama": "MOTIONBANKING.ID",
+        "website": "motionbanking.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MNC INTERNASIONAL",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000453.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5024",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4877",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5024"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5023",
+      "attributes": {
+        "nomor_pb_umku": "060122002032200000001",
+        "nama": "HYPE",
+        "website": "hype.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT UNIVERSAL KARYA DIGITAL",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003638.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5023",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4895",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5023"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5022",
+      "attributes": {
+        "nomor_pb_umku": "812020491192900040065",
+        "nama": "WEB EVERSINCE",
+        "website": "eversince.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MULTITREND INDO",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "001321.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5022",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4894",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5022"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5021",
+      "attributes": {
+        "nomor_pb_umku": "812020491192900040064",
+        "nama": "WEB MOMAMI",
+        "website": "momami.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MULTITREND INDO",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "001321.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5021",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4891",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5021"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5020",
+      "attributes": {
+        "nomor_pb_umku": "912020927101200020001",
+        "nama": "HOL",
+        "website": "hukumonline.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JUSTIKA SIAR PUBLIKA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003593.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5020",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4892",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5020"
+      }
+    }
+  ]
+}

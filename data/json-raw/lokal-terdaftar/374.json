@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 374,
+      "from": 3731,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3740,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=375",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=373"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4619",
+      "attributes": {
+        "nomor_pb_umku": "022010614341800060002",
+        "nama": "TKDN",
+        "website": "tkdn.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI KARYA DIGITAL NUSA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003273.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4619",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4580",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4619"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4618",
+      "attributes": {
+        "nomor_pb_umku": "310821004490900060003",
+        "nama": "KIOSON MOBILE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIOSON KOMERSIAL INDONESIA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "001546.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4618",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4579",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4618"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4617",
+      "attributes": {
+        "nomor_pb_umku": "127900010042300000001",
+        "nama": "COMPANY WEBSITE & MARKETPLACE ARSA PERSADA INDONESIA",
+        "website": "arsapersada.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARSA PERSADA INDONESIA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003271.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4617",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4578",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4617"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4616",
+      "attributes": {
+        "nomor_pb_umku": "150622007880900020001",
+        "nama": "PT ALLDENT LAB CARE",
+        "website": "alldent.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALLDENT LAB CARE",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003272.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4616",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4577",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4616"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4615",
+      "attributes": {
+        "nomor_pb_umku": "140122002723800040002",
+        "nama": "HTTPS://SMARTECH.ORG",
+        "website": "smartech.org",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SMARTECH INDO JAYA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "002031.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4615",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4576",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4615"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4614",
+      "attributes": {
+        "nomor_pb_umku": "220222007380500030002",
+        "nama": "PAYASYOUGO",
+        "website": "payasyougo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SATU RUANG DIGITAL",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003268.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4614",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4575",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4614"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4613",
+      "attributes": {
+        "nomor_pb_umku": "220222007380500030001",
+        "nama": "SATU RUANG DIGITAL",
+        "website": "saturuangdigital.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SATU RUANG DIGITAL",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003268.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4613",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4574",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4613"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4611",
+      "attributes": {
+        "nomor_pb_umku": "160622000115800000001",
+        "nama": "WINDOW OF INDONESIA",
+        "website": "windowofindonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "WINDOW INDONESIA GROUP",
+        "tanggal_daftar": "2022-06-19",
+        "tanggal_terbit": "2022-06-19",
+        "nomor_tanda_daftar": "003262.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4611",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4573",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4611"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4610",
+      "attributes": {
+        "nomor_pb_umku": "060622000300300000001",
+        "nama": "KAWANUADIGITAL.COM",
+        "website": "kawanuadigital.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KAWANUA DIGITAL MULTIVERSE",
+        "tanggal_daftar": "2022-06-19",
+        "tanggal_terbit": "2022-06-19",
+        "nomor_tanda_daftar": "003261.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4610",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4572",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4610"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4608",
+      "attributes": {
+        "nomor_pb_umku": "190622001349500000001",
+        "nama": "LAVIN TECHNOLOGIES",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LEONARDO ARFREN TANAYA",
+        "tanggal_daftar": "2022-06-19",
+        "tanggal_terbit": "2022-06-19",
+        "nomor_tanda_daftar": "003257.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4608",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4571",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4608"
+      }
+    }
+  ]
+}

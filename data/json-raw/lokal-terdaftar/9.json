@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 9,
+      "from": 81,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 90,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=10",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=8"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8632",
+      "attributes": {
+        "nomor_pb_umku": "122700131100200020001",
+        "nama": "BPR POLATAMA KUSUMA",
+        "website": "bprpolatamakusuma.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT POLATAMA KUSUMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005493.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8632",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8551",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8632"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8631",
+      "attributes": {
+        "nomor_pb_umku": "270422001072400000001",
+        "nama": "18HOLE",
+        "website": "18hole.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DELAPAN BELAS HOLE",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005961.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8631",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8552",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8631"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8630",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020012",
+        "nama": "CMS BANKALTIMTARA",
+        "website": "cms.bankaltimtara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004622.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8630",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8550",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8630"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8629",
+      "attributes": {
+        "nomor_pb_umku": "812030289001200050001",
+        "nama": "REGOLKPF",
+        "website": "regol.kontak-perkasa-futures.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KONTAKPERKASA FUTURES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006012.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8629",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8548",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8629"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8628",
+      "attributes": {
+        "nomor_pb_umku": "022020961205600010001",
+        "nama": "BPR MITRADANA MADANI",
+        "website": "bprmm.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRADANA MADANI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006027.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8628",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8544",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8628"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8627",
+      "attributes": {
+        "nomor_pb_umku": "140722006716400000001",
+        "nama": "AYOVEST",
+        "website": "ayovest.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA INVESTASI TERDEPAN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004831.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8627",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8545",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8627"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8626",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020011",
+        "nama": "DG BANKALTIMTARA",
+        "website": "ib.bankaltimtara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004622.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8626",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8546",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8626"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8625",
+      "attributes": {
+        "nomor_pb_umku": "912011205074900010001",
+        "nama": "BANKSURYAKENCANA.COM",
+        "website": "banksuryakencana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi BANK PERKREDITAN RAKYAT SURYA KENCANA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005925.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8625",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8543",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8625"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8624",
+      "attributes": {
+        "nomor_pb_umku": "022000287044600010001",
+        "nama": "APLIKASI CORE BANKING SYSTEM BPR BKK BOYOLALI",
+        "website": "bprbkkboyolali.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN BOYOLALI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006031.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8624",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8542",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8624"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8623",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040012",
+        "nama": "TRANSFER OBOX NBP",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005098.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8623",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8541",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8623"
+      }
+    }
+  ]
+}

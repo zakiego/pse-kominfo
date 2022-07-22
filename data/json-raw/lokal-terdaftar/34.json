@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 34,
+      "from": 331,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 340,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=35",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=33"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8356",
+      "attributes": {
+        "nomor_pb_umku": "912031619290400050006",
+        "nama": "SATRIACORP",
+        "website": "satriacorp.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SATRIA MEDIA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002851.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8356",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8276",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8356"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8355",
+      "attributes": {
+        "nomor_pb_umku": "022010665225800030005",
+        "nama": "APLIKASI INDOPAY",
+        "website": "Indopay.net",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INDOPAY MULTISINERGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005857.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8355",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8275",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8355"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8354",
+      "attributes": {
+        "nomor_pb_umku": "200722008147100000001",
+        "nama": "SIPPSI",
+        "website": "sippsi.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV DEWANDARU NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005862.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8354",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8274",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8354"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8353",
+      "attributes": {
+        "nomor_pb_umku": "121900061018600010001",
+        "nama": "CMD-INDONESIA",
+        "website": "WWW.MEDIA-ONLINE.CO.ID",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CENTRAL MEDIA DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005863.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8353",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8273",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8353"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8352",
+      "attributes": {
+        "nomor_pb_umku": "022010665225800030004",
+        "nama": "WEBSITE IPJABBER",
+        "website": "Ipjabber.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INDOPAY MULTISINERGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005857.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8352",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8272",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8352"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8351",
+      "attributes": {
+        "nomor_pb_umku": "912031619290400050005",
+        "nama": "SATRIATECH",
+        "website": "satriacorp.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SATRIA MEDIA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002851.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8351",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8271",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8351"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8350",
+      "attributes": {
+        "nomor_pb_umku": "022010665225800030003",
+        "nama": "WEBSITE OTOREPORT INDOPULSATRONIK",
+        "website": "Otoreport.indopulsatronik.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INDOPAY MULTISINERGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005857.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8350",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8270",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8350"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8349",
+      "attributes": {
+        "nomor_pb_umku": "812020280021300010011",
+        "nama": "GAME CONTRA RETURNS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002712.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8349",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8268",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8349"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8348",
+      "attributes": {
+        "nomor_pb_umku": "022010665225800030002",
+        "nama": "WEBSITE INDOPULSATRONIK",
+        "website": "Indopulsatronik.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INDOPAY MULTISINERGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005857.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8348",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8269",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8348"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8347",
+      "attributes": {
+        "nomor_pb_umku": "912031509135900000005",
+        "nama": "WEBSITE BIMOPRASETIO.COM",
+        "website": "bimoprasetio.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BP Partnership",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005271.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8347",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8267",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8347"
+      }
+    }
+  ]
+}

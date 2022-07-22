@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 214,
+      "from": 2131,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2140,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=215",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=213"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6453",
+      "attributes": {
+        "nomor_pb_umku": "125400033122700000001",
+        "nama": "SEMESTA AKADEMI",
+        "website": "semestaakademi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEMESTA EDUKASI KREATIF",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004616.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6453",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6321",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6453"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6452",
+      "attributes": {
+        "nomor_pb_umku": "912050883310100000001",
+        "nama": "SHARIACOIN",
+        "website": "shariacoin.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SYARIAH KOIN INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004129.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6452",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5813",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6452"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6451",
+      "attributes": {
+        "nomor_pb_umku": "912010216234800020001",
+        "nama": "CORPORATE WEBSITE MNC FINANCE",
+        "website": "mncfinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000779.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6451",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6317",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6451"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6450",
+      "attributes": {
+        "nomor_pb_umku": "912030077198800040007",
+        "nama": "E-PAPERLESS",
+        "website": "paperless.suryayudha.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA YUDHAKENCANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001835.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6450",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6318",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6450"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6449",
+      "attributes": {
+        "nomor_pb_umku": "022000242135500010001",
+        "nama": "PT BPR MITRA RUKUN MANDIRI",
+        "website": "mitrarukunmandiri.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRA RUKUN MANDIRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004725.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6449",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6316",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6449"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6444",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SAK-ETAP",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LUMBUNG PITIH NAGARI PANAMPUNG",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004736.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6444",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6315",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6444"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6443",
+      "attributes": {
+        "nomor_pb_umku": "912000644081300020001",
+        "nama": "WEBSITE PERUSAHAAN",
+        "website": "reliance-investasi.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RELIANCE MANAJER INVESTASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004735.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6443",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6313",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6443"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6442",
+      "attributes": {
+        "nomor_pb_umku": "912020954230500010004",
+        "nama": "KARIR PT MAYBANK INDONESIA FINANCE",
+        "website": "karir.maybankfinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAYBANK INDONESIA FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003479.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6442",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6309",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6442"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6441",
+      "attributes": {
+        "nomor_pb_umku": "812011321067900000002",
+        "nama": "TIME CONCEPT",
+        "website": "timeconcept.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TIME CONCEPT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004515.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6441",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6314",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6441"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6440",
+      "attributes": {
+        "nomor_pb_umku": "912030077198800040006",
+        "nama": "I-BSY",
+        "website": "ibsy.suryayudha.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA YUDHAKENCANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001835.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6440",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6308",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6440"
+      }
+    }
+  ]
+}

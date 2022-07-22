@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 297,
+      "from": 2961,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2970,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=298",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=296"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5548",
+      "attributes": {
+        "nomor_pb_umku": "912030914284400010001",
+        "nama": "SUFI SMART",
+        "website": "sfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUZUKI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004149.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5548",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5413",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5548"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5547",
+      "attributes": {
+        "nomor_pb_umku": "220222000653800020001",
+        "nama": "ASTINET TELKOM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA MASTER LOTARA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004148.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5547",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5414",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5547"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5546",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040018",
+        "nama": "BJB DIGILOAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003382.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5546",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5412",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5546"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5545",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040017",
+        "nama": "MIDDLEWARE BANK BJB",
+        "website": "agni.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003382.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5545",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5411",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5545"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5544",
+      "attributes": {
+        "nomor_pb_umku": "912040137104900020001",
+        "nama": "PT SYNUS TONERINDO PRIMA",
+        "website": "synus.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SYNUS TONERINDO PRIMA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003860.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5544",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5409",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5544"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5543",
+      "attributes": {
+        "nomor_pb_umku": "812001717110600000001",
+        "nama": "FUZEN DECOR BALI",
+        "website": "fuzendecorbali.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FUZEN DECOR BALI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003616.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5543",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5410",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5543"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5542",
+      "attributes": {
+        "nomor_pb_umku": "022000952144600020001",
+        "nama": "ALADIN",
+        "website": "aladinbank.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK ALADIN SYARIAH",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004137.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5542",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5407",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5542"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5541",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040016",
+        "nama": "BJB DASHBOARD",
+        "website": "bjbpodcast.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003382.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5541",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5406",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5541"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5540",
+      "attributes": {
+        "nomor_pb_umku": "020622003675100010001",
+        "nama": "ABHAZEN CONSULTING",
+        "website": "abhazen.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ABHA ZEN CONSULTING",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004145.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5540",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5405",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5540"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5539",
+      "attributes": {
+        "nomor_pb_umku": "812001717110600000001",
+        "nama": "FUZEN DECOR BNALI",
+        "website": "fuzendecorbali.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FUZEN DECOR BALI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003616.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5539",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5404",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5539"
+      }
+    }
+  ]
+}

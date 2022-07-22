@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 165,
+      "from": 1641,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1650,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=166",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=164"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6969",
+      "attributes": {
+        "nomor_pb_umku": "022010875081200010001",
+        "nama": "BPRDANALESTARI.COM",
+        "website": "bprdanalestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA LESTARI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005042.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6969",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6822",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6969"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6968",
+      "attributes": {
+        "nomor_pb_umku": "912021224237300010002",
+        "nama": "TALISMAN SYSTEM UNITE NETWORK PARTNER (T-PARTNER)",
+        "website": "tpartner.talisman.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TALISMAN INSURANCE BROKERS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005071.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6968",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6820",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6968"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6967",
+      "attributes": {
+        "nomor_pb_umku": "912021125064100000001",
+        "nama": "SMARTLINK",
+        "website": "smartlink.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADA IDE LANGSUNG JALAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005026.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6967",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6818",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6967"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6966",
+      "attributes": {
+        "nomor_pb_umku": "812001621174100260001",
+        "nama": "HTTPS://WWW.KLIKNSS.CO.ID/",
+        "website": "WWW.kliknss.CO.ID",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA SURYA SAKTI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005060.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6966",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6817",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6966"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6965",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020010",
+        "nama": "KB BUKOPIN DASHBOARD PPOB",
+        "website": "ppob-dashboard.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003560.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6965",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6796",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6965"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6964",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010022",
+        "nama": "WEB STATIC BANK RAYA",
+        "website": "services.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004288.22/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6964",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6816",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6964"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6963",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BPRTRIDANAKENCANA.CO.ID",
+        "website": "bprtridanakencana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TRIDANA KENCANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004555.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6963",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6815",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6963"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6962",
+      "attributes": {
+        "nomor_pb_umku": "912030676149900010003",
+        "nama": "WEBSITE BANKSURYA.ID",
+        "website": "banksurya.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYAJAYA UBUD",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004998.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6962",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6814",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6962"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6961",
+      "attributes": {
+        "nomor_pb_umku": "912040881002300010001",
+        "nama": "PINTECH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ASABAHANA SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005069.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6961",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6813",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6961"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6960",
+      "attributes": {
+        "nomor_pb_umku": "912010078197600010002",
+        "nama": "SMS MACROKIOSK NOTIFIKASI DAN OTP BPR MODERN EXPRESS NTT",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004901.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6960",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6812",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6960"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 264,
+      "from": 2631,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2640,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=265",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=263"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5896",
+      "attributes": {
+        "nomor_pb_umku": "022020172270900000003",
+        "nama": "TURBOLY POS",
+        "website": "turboly.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TURBOLY TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004362.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5896",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5760",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5896"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5895",
+      "attributes": {
+        "nomor_pb_umku": "812001912186900000003",
+        "nama": "TERAMIX",
+        "website": "terramix.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT D & W INTERNASIONAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003861.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5895",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5713",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5895"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5894",
+      "attributes": {
+        "nomor_pb_umku": "022020172270900000002",
+        "nama": "TURBOLY",
+        "website": "turboly.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TURBOLY TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004362.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5894",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5759",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5894"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5893",
+      "attributes": {
+        "nomor_pb_umku": "125300011220100030001",
+        "nama": "KIOS PULSA",
+        "website": "kiospulsa.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV KIOS PULSA INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004369.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5893",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5758",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5893"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5892",
+      "attributes": {
+        "nomor_pb_umku": "128300144143800000002",
+        "nama": "OKECONNECT",
+        "website": "okeconnect.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ORDER KUOTA EVOLUSI DIGITAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004243.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5892",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5757",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5892"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5891",
+      "attributes": {
+        "nomor_pb_umku": "022020172270900000001",
+        "nama": "TURBOLY ERP",
+        "website": "turboly.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TURBOLY TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004362.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5891",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5756",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5891"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5890",
+      "attributes": {
+        "nomor_pb_umku": "129400011213800020001",
+        "nama": "STAR PULSA",
+        "website": "kiospulsa.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MULTI PAYMENT NUSANTARA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004359.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5890",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5755",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5890"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5889",
+      "attributes": {
+        "nomor_pb_umku": "022010883015700010001",
+        "nama": "VIRTUAL ACCOUNT BANK JATIM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA ARTHA UTAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004350.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5889",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5754",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5889"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5888",
+      "attributes": {
+        "nomor_pb_umku": "812000084165300030001",
+        "nama": "LISTRIK ON",
+        "website": "listrikon.id",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI TERANG BANGSA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004368.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5888",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5752",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5888"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5887",
+      "attributes": {
+        "nomor_pb_umku": "280622002024500020001",
+        "nama": "PT BPR NUSUMMA JAWA BARAT",
+        "website": "banknusumma.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSUMMA JAWA BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004366.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5887",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5751",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5887"
+      }
+    }
+  ]
+}

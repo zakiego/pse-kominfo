@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 142,
+      "from": 1411,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1420,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=143",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=141"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7207",
+      "attributes": {
+        "nomor_pb_umku": "912020553197500100008",
+        "nama": "CASH@WORK",
+        "website": "icashatwork.danamon.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000861.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7207",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7049",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7207"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7206",
+      "attributes": {
+        "nomor_pb_umku": "912020553197500100007",
+        "nama": "D-WALLET",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000861.16/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7206",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7066",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7206"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7205",
+      "attributes": {
+        "nomor_pb_umku": "271021003920400010001",
+        "nama": "TROM INDONESIA",
+        "website": "ns1.dns-parking.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TROM SOLUSI MAKSIMAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005239.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7205",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7094",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7205"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7204",
+      "attributes": {
+        "nomor_pb_umku": "025800092178300000001",
+        "nama": "PIPOSMART",
+        "website": "piposmartlaundry.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PIPOSMART DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005216.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7204",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7093",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7204"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7203",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020012",
+        "nama": "SIMULATOR KREDIT BPRKS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004305.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7203",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7091",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7203"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7202",
+      "attributes": {
+        "nomor_pb_umku": "220422003826800030005",
+        "nama": "HOST KIOSINDONESIA",
+        "website": "host.kiosindonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIOS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004236.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7202",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7092",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7202"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7201",
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010005",
+        "nama": "CENTRALIZED TRADING PLATFORM - MINISTRY OF FINANCE DEALING SYSTEM (CTP-MOFIDS)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000832.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7201",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7086",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7201"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7200",
+      "attributes": {
+        "nomor_pb_umku": "190722008255200000001",
+        "nama": "DIGI",
+        "website": "digi.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD NUR USMAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005262.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7200",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7088",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7200"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7199",
+      "attributes": {
+        "nomor_pb_umku": "812000382013500760004",
+        "nama": "APLIKASI BATU BARA ONLINE (BBO)",
+        "website": "bbo.pln.co.id",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN LISTRIK NEGARA (PERSERO)",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004620.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7199",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7089",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7199"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7198",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160007",
+        "nama": "SABI BSI (UANG ELEKTRONIK BSI)",
+        "website": "drcsabi.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7198",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7085",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7198"
+      }
+    }
+  ]
+}

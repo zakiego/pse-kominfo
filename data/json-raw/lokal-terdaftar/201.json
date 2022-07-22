@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 201,
+      "from": 2001,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2010,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=202",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=200"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6587",
+      "attributes": {
+        "nomor_pb_umku": "022020036016600010001",
+        "nama": "DEJAYO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SARI JAYA SEDANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004788.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6587",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6445",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6587"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6586",
+      "attributes": {
+        "nomor_pb_umku": "125600054267600000001",
+        "nama": "KUPAS.K",
+        "website": "kupas.in",
+        "sektor": "Sektor Pangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KAMAL DWI RASYID",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004804.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6586",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6446",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6586"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6585",
+      "attributes": {
+        "nomor_pb_umku": "180722007336900000001",
+        "nama": "SUPERKONTER.COM",
+        "website": "Superkonter.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "WAHID GUSHENDRO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004773.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6585",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6435",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6585"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6584",
+      "attributes": {
+        "nomor_pb_umku": "240322004965500060003",
+        "nama": "WEBSITE RESMI BANK ACEH",
+        "website": "bankaceh.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK ACEH SYARIAH",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004272.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6584",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6444",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6584"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6583",
+      "attributes": {
+        "nomor_pb_umku": "141021005000700010001",
+        "nama": "BUKAPO.NET",
+        "website": "bukapo.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUKAPO DIGITAL SEJAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004781.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6583",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6392",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6583"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6582",
+      "attributes": {
+        "nomor_pb_umku": "027901022138300000001",
+        "nama": "NEZUKO GAMESTORE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADE AJIE PAMUNGKAS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004813.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6582",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6441",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6582"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6581",
+      "attributes": {
+        "nomor_pb_umku": "912020358029200030001",
+        "nama": "BPRSOLOBARUPERMAI",
+        "website": "bprsolobaru.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SOLOBARU PERMAI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004816.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6581",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6440",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6581"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6580",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801190053",
+        "nama": "BRIMOLA",
+        "website": "brimola.bri.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002468.49/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6580",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6438",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6580"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6579",
+      "attributes": {
+        "nomor_pb_umku": "180722002735500000001",
+        "nama": "PT SINERGI PRAKARSA UTAMA",
+        "website": "bankbas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ANGSA SEDANAYOGA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004626.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6579",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6436",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6579"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6578",
+      "attributes": {
+        "nomor_pb_umku": "180722005424300000001",
+        "nama": "ISLAMIC BANKING APLICATION",
+        "website": "banksyariahrahmania.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH RAHMANIA DANA SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004812.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6578",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6437",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6578"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 266,
+      "from": 2651,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2660,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=267",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=265"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5875",
+      "attributes": {
+        "nomor_pb_umku": "912000572049900010004",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-COLLECTION - BPR MODERN EXPRESS MALUKU UTARA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS MALUKU UTARA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004247.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5875",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5739",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5875"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5874",
+      "attributes": {
+        "nomor_pb_umku": "270622004599700000001",
+        "nama": "BPR NBP 33",
+        "website": "bprnbp33.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 33",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004345.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5874",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5737",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5874"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5873",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020005",
+        "nama": "EMAIL ZIMBRA BPRKS",
+        "website": "mail.bprks.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004305.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5873",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5738",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5873"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5872",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010008",
+        "nama": "WBS BANK JAMBI",
+        "website": "wbs.bankjambi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004292.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5872",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5735",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5872"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5871",
+      "attributes": {
+        "nomor_pb_umku": "124600010146900000003",
+        "nama": "MA MOBILE TOPUP",
+        "website": "marketpulsaelektrik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MARKET CHIP MULTIGUNA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004348.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5871",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5736",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5871"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5870",
+      "attributes": {
+        "nomor_pb_umku": "020200093244300130004",
+        "nama": "INSTANT ORDER",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi KARYAWAN PEDAMI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003679.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5870",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5734",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5870"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5869",
+      "attributes": {
+        "nomor_pb_umku": "912020077178500010003",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN -BPR MODERN EXPRESS",
+        "website": "digimod.bprmodern.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004263.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5869",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5731",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5869"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5868",
+      "attributes": {
+        "nomor_pb_umku": "120300013154400000003",
+        "nama": "MORENA PULSA",
+        "website": "morenapulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV LEON PAYMENT SOLUSINDO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004353.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5868",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5733",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5868"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5867",
+      "attributes": {
+        "nomor_pb_umku": "912000572049900010003",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN CUSTOMER - BPR MODERN EXPRESS MALUKU UTARA",
+        "website": "kredit.bprmodernternate.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS MALUKU UTARA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004247.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5867",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5732",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5867"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5866",
+      "attributes": {
+        "nomor_pb_umku": "121121000473600010001",
+        "nama": "BPR NUSANTARA ARTHA MAKMUR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA ARTHA MAKMUR",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004349.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5866",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5730",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5866"
+      }
+    }
+  ]
+}

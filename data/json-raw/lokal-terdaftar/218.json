@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 218,
+      "from": 2171,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2180,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=219",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=217"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6409",
+      "attributes": {
+        "nomor_pb_umku": "812021927148600010007",
+        "nama": "KPHUB",
+        "website": "Kreditplus.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KB FINANSIA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000132.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6409",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6272",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6409"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6408",
+      "attributes": {
+        "nomor_pb_umku": "125900145200600000001",
+        "nama": "DDENGINE",
+        "website": "ddpulsaengine.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MUDA HITAKARYA SEJAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004277.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6408",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6271",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6408"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6407",
+      "attributes": {
+        "nomor_pb_umku": "210821001449900060002",
+        "nama": "PENTASI KONSULTASI",
+        "website": "pentasi.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PENTA SOFTWARE INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004625.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6407",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6270",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6407"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6406",
+      "attributes": {
+        "nomor_pb_umku": "027900092245100000001",
+        "nama": "ABSEN AJA",
+        "website": "absenaja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NEQODE RETHA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004703.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6406",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6269",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6406"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6405",
+      "attributes": {
+        "nomor_pb_umku": "912010887059200000003",
+        "nama": "ABHOME APPS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RELIANCEINTEGRASI DUNIA ANDA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000178.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6405",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6268",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6405"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6404",
+      "attributes": {
+        "nomor_pb_umku": "912010866182500000001",
+        "nama": "JARI MOBILE COLLECTION",
+        "website": "jari.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JARI SOLUSI INTERNATIONAL",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004691.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6404",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6263",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6404"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6403",
+      "attributes": {
+        "nomor_pb_umku": "180722003550100000001",
+        "nama": "TOPUP KUOTA",
+        "website": "topupkuota.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NDAN BABAN SOBANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004697.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6403",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6264",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6403"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6402",
+      "attributes": {
+        "nomor_pb_umku": "027900092245100000001",
+        "nama": "SEKOLAH MODERN",
+        "website": "sekolahmodern.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NEQODE RETHA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004703.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6402",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6265",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6402"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6401",
+      "attributes": {
+        "nomor_pb_umku": "221221002793800030001",
+        "nama": "SAEPAY",
+        "website": "saepay.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAE GERBANG PEMBAYARAN",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004624.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6401",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6262",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6401"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6399",
+      "attributes": {
+        "nomor_pb_umku": "310322000150100010001",
+        "nama": "SINERGI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI DIGITAL PUTRA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004024.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6399",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6235",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6399"
+      }
+    }
+  ]
+}

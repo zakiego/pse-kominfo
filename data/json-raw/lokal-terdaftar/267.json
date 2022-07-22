@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 267,
+      "from": 2661,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2670,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=268",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=266"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5865",
+      "attributes": {
+        "nomor_pb_umku": "122900012131600000002",
+        "nama": "METRO RELOAD",
+        "website": "metroreloadindonesia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV METRO PAYMENT INDOTAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004355.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5865",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5729",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5865"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5864",
+      "attributes": {
+        "nomor_pb_umku": "124100013024200000002",
+        "nama": "RAJA PULSA",
+        "website": "rajareloadpulsamurah.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV RAJA PULSA INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004354.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5864",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5728",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5864"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5863",
+      "attributes": {
+        "nomor_pb_umku": "120300013154400000002",
+        "nama": "LEON PULSA",
+        "website": "leon-pulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV LEON PAYMENT SOLUSINDO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004353.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5863",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5727",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5863"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5862",
+      "attributes": {
+        "nomor_pb_umku": "124600010146900000002",
+        "nama": "MARKET PULSA",
+        "website": "market-pulsa.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MARKET CHIP MULTIGUNA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004348.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5862",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5726",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5862"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5861",
+      "attributes": {
+        "nomor_pb_umku": "020200093244300130001",
+        "nama": "SASIRANGAN - SISTEM APLIKASI SIMPAN PINJAM, PENGADAAN DAN PERDAGANGAN",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi KARYAWAN PEDAMI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003679.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5861",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5725",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5861"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5860",
+      "attributes": {
+        "nomor_pb_umku": "912000572049900010002",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN -BPR MODERN EXPRESS MALUKU UTARA",
+        "website": "bprmodernternate.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS MALUKU UTARA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004247.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5860",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5724",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5860"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5859",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020004",
+        "nama": "WEBSITE BPRKS",
+        "website": "bprks.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004305.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5859",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5723",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5859"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5858",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020003",
+        "nama": "MBB BPRKS",
+        "website": "mbb.bprks.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004305.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5858",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5720",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5858"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5857",
+      "attributes": {
+        "nomor_pb_umku": "260422004343700010004",
+        "nama": "WEBSITE BPR SUPRA (COM)",
+        "website": "bprsupra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004223.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5857",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5719",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5857"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5856",
+      "attributes": {
+        "nomor_pb_umku": "812031114146900010001",
+        "nama": "CNBCINDONESIA.COM",
+        "website": "cnbcindonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRANS BERITA BISNIS",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004235.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5856",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5696",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5856"
+      }
+    }
+  ]
+}

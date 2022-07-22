@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 78,
+      "from": 771,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 780,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=79",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=77"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7851",
+      "attributes": {
+        "nomor_pb_umku": "022010447220800010001",
+        "nama": "MEDISITE BY TRUSTMEDIS",
+        "website": "medisite.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI TEKNOLOGI SOLUSINDO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005366.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7851",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7771",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7851"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7850",
+      "attributes": {
+        "nomor_pb_umku": "912010786175800010001",
+        "nama": "WEBSITE PT. BPR BINTANG DANA PERSADA",
+        "website": "bprbintang.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BINTANG DANA PERSADA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005643.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7850",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7756",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7850"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7849",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160019",
+        "nama": "GRC COMPAS",
+        "website": "bsm.compas.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.33/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7849",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7768",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7849"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7848",
+      "attributes": {
+        "nomor_pb_umku": "912040981172500000001",
+        "nama": "FLITS TMS",
+        "website": "erp.flits.id",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUROHO SOFTWARE CONSULTING",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004829.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7848",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7767",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7848"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7847",
+      "attributes": {
+        "nomor_pb_umku": "022000938074300020004",
+        "nama": "AFI ONE PORTAL (WEB BASED)",
+        "website": "portal.axa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AXA FINANCIAL INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000209.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7847",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7759",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7847"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7846",
+      "attributes": {
+        "nomor_pb_umku": "812021325267900000001",
+        "nama": "INFOMEDIA NUSANTARA",
+        "website": "infomedia.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INFOMEDIA NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005433.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7846",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7557",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7846"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7845",
+      "attributes": {
+        "nomor_pb_umku": "912010582218900010001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT ASIA BINTANG CEMERLANG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ASIA BINTANG CEMERLANG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005663.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7845",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7760",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7845"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7844",
+      "attributes": {
+        "nomor_pb_umku": "022010515185700010003",
+        "nama": "SERBA HOKI",
+        "website": "serbahoki.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ULAT BULU BERSAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005462.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7844",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7743",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7844"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7843",
+      "attributes": {
+        "nomor_pb_umku": "812001002164900000001",
+        "nama": "KAKAOPAGE",
+        "website": "kakaopage.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NEO BAZAR INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005376.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7843",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7571",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7843"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7842",
+      "attributes": {
+        "nomor_pb_umku": "022010183211500000001",
+        "nama": "WIDYA EDU",
+        "website": "widyaedu.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WIDYA KREASI BANGSA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004308.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7842",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7766",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7842"
+      }
+    }
+  ]
+}

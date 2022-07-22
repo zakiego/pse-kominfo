@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 359,
+      "from": 3581,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3590,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=360",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=358"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4801",
+      "attributes": {
+        "nomor_pb_umku": "250622002516800000002",
+        "nama": "PERDANA NETWORK INDONESIA",
+        "website": "perdananetwork.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERDANA NETWORK INDONESIA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003497.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4801",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4743",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4801"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4800",
+      "attributes": {
+        "nomor_pb_umku": "301221003691500000003",
+        "nama": "KONG RIDER",
+        "website": "misterkong.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KONG JAYA PERKASA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003475.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4800",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4742",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4800"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4799",
+      "attributes": {
+        "nomor_pb_umku": "301221003691500000002",
+        "nama": "KONGPOS",
+        "website": "misterkong.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KONG JAYA PERKASA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003475.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4799",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4741",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4799"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4798",
+      "attributes": {
+        "nomor_pb_umku": "301221003691500000001",
+        "nama": "MISTERKONG",
+        "website": "misterkong.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KONG JAYA PERKASA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003475.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4798",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4740",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4798"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4797",
+      "attributes": {
+        "nomor_pb_umku": "250622002516800000001",
+        "nama": "PERDANA NETWORK INDONES",
+        "website": "perdananetwork.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERDANA NETWORK INDONESIA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003497.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4797",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4739",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4797"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4796",
+      "attributes": {
+        "nomor_pb_umku": "211121001207200000001",
+        "nama": "DIBIMBING DOKTER",
+        "website": "dibimbingdokter.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HENRI PERWIRA NEGARA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003469.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4796",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4738",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4796"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4795",
+      "attributes": {
+        "nomor_pb_umku": "912031927190500030001",
+        "nama": "BRIGHTS",
+        "website": "webtrade.brights.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRI DANAREKSA SEKURITAS",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003488.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4795",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4737",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4795"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4794",
+      "attributes": {
+        "nomor_pb_umku": "022010449258500020001",
+        "nama": "TADA",
+        "website": "usetada.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKSI VISITAMA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "002894.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4794",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4736",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4794"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4793",
+      "attributes": {
+        "nomor_pb_umku": "310122002312100040001",
+        "nama": "QIRA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RASIO DIGITAL INVESTAMA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003481.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4793",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4735",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4793"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4792",
+      "attributes": {
+        "nomor_pb_umku": "170522004225700010001",
+        "nama": "HARAKA AGRO",
+        "website": "harakaagro.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HARAKA AGRO HATAMA",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003345.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4792",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4734",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4792"
+      }
+    }
+  ]
+}

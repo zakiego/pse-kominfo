@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 27,
+      "from": 261,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 270,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=28",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=26"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8427",
+      "attributes": {
+        "nomor_pb_umku": "210722001446600000001",
+        "nama": "PUSVO",
+        "website": "pusvo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HURIJAYA KREASI DIGITAL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005916.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8427",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8345",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8427"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8426",
+      "attributes": {
+        "nomor_pb_umku": "912010430178400030003",
+        "nama": "HONDA MITRA GRESIK",
+        "website": "hondamitragresik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISTANA MITRA SENDANY",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005900.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8426",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8344",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8426"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8425",
+      "attributes": {
+        "nomor_pb_umku": "912000711077300010002",
+        "nama": "RUMAH.COM",
+        "website": "rumah.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALLPROPERTY MEDIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005715.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8425",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8324",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8425"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8424",
+      "attributes": {
+        "nomor_pb_umku": "912020475272200010001",
+        "nama": "PT BANK PERKEREDITAN RAKYAT NUSAMBA MANGGIS",
+        "website": "bprnusamba-manggis.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSAMBA MANGGIS",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005911.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8424",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8341",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8424"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8423",
+      "attributes": {
+        "nomor_pb_umku": "912020782238500010001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT TATA ANJUNG SARI",
+        "website": "bprtata.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TATA ANJUNG SARI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005908.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8423",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8338",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8423"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8422",
+      "attributes": {
+        "nomor_pb_umku": "180122003648300000003",
+        "nama": "VERTIX",
+        "website": "vertix.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FATAHUDDIN AL ISFAHANI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "001990.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8422",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8340",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8422"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8421",
+      "attributes": {
+        "nomor_pb_umku": "125900013290900030003",
+        "nama": "ALAYKA",
+        "website": "alayka.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INCORE SYSTEMS SOLUTIONS",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005880.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8421",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8339",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8421"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8420",
+      "attributes": {
+        "nomor_pb_umku": "912010430178400030002",
+        "nama": "HONDA MITRA MOJOKERTO",
+        "website": "hondamitramojokerto.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISTANA MITRA SENDANY",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005900.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8420",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8337",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8420"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8419",
+      "attributes": {
+        "nomor_pb_umku": "912040472125500010002",
+        "nama": "BPRTANJUNGTANI.CO.ID",
+        "website": "bprtanjungtani.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TANJUNG TANI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005887.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8419",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8336",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8419"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8418",
+      "attributes": {
+        "nomor_pb_umku": "180122003648300000002",
+        "nama": "VIX MEDIA",
+        "website": "vixmedia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FATAHUDDIN AL ISFAHANI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "001990.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8418",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8335",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8418"
+      }
+    }
+  ]
+}

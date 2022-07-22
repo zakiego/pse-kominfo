@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 110,
+      "from": 1091,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1100,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=111",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=109"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7527",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010001",
+        "nama": "EMAIL PT. BANK PEMBANGUNAN DAERAH PAPUA",
+        "website": "mail.bankpapua.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7527",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7425",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7527"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7526",
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000006",
+        "nama": "ADAMEDS",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004561.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7526",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7421",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7526"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7525",
+      "attributes": {
+        "nomor_pb_umku": "9120005123617117520001",
+        "nama": "LOKAPALA",
+        "website": "lokapala.melon.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANANTARUPA YAESA SUPTESU JAGARTI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005018.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7525",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7254",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7525"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7524",
+      "attributes": {
+        "nomor_pb_umku": "812020696297600020002",
+        "nama": "CASHTREE INDONESIA",
+        "website": "cashtree.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CASHTREE FOR INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004609.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7524",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7423",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7524"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7523",
+      "attributes": {
+        "nomor_pb_umku": "912030774168900000001",
+        "nama": "RIVALVE FURNITURE",
+        "website": "rivalvefurniture.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ARIS NUGROHO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005260.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7523",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7420",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7523"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7522",
+      "attributes": {
+        "nomor_pb_umku": "912050183082900020001",
+        "nama": "ISLAMIC BANKING APPLICATION",
+        "website": "bankamansyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH AMAN SYARIAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005481.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7522",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7416",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7522"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7521",
+      "attributes": {
+        "nomor_pb_umku": "123500043172500010001",
+        "nama": "DEJAYOS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR NUSA INTIM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005488.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7521",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7419",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7521"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7520",
+      "attributes": {
+        "nomor_pb_umku": "912040684299800010001",
+        "nama": "HTTP://BPRURIPKALANTAS.NET",
+        "website": "bpruripkalantas.net",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT URIP KALANTAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005218.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7520",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7417",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7520"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7519",
+      "attributes": {
+        "nomor_pb_umku": "022010513077500060002",
+        "nama": "CAZBOND",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT METRA - NET",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001479.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7519",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7418",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7519"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7518",
+      "attributes": {
+        "nomor_pb_umku": "200722004567300000001",
+        "nama": "KEMANGVPN",
+        "website": "kemangvpn.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IR SATYO NUGROHO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005549.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7518",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7415",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7518"
+      }
+    }
+  ]
+}

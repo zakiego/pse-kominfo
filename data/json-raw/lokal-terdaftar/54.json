@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 54,
+      "from": 531,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 540,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=55",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=53"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8092",
+      "attributes": {
+        "nomor_pb_umku": "200722006933200020001",
+        "nama": "NUTRI & BEYOND",
+        "website": "nutriandbeyond.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DR.SYLVIA IRAWATI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005762.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8092",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7989",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8092"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8091",
+      "attributes": {
+        "nomor_pb_umku": "812020386039300030001",
+        "nama": "PT PACKET SYSTEMS INDONESIA",
+        "website": "packet-systems.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PACKET SYSTEMS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005731.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8091",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8011",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8091"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8090",
+      "attributes": {
+        "nomor_pb_umku": "022020787006200000003",
+        "nama": "ALAN DESA",
+        "website": "alandesa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALAN MEDIATECH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005648.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8090",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8012",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8090"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8089",
+      "attributes": {
+        "nomor_pb_umku": "022020085063500000001",
+        "nama": "APLIKASI RETAIL BPR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MANGATUR GANDA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005753.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8089",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8010",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8089"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8087",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160028",
+        "nama": "BSI QRIS MERCHANT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.43/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8087",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8008",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8087"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8086",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020007",
+        "nama": "THECENTRALPROPERTY.COM",
+        "website": "thecentralproperty.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8086",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8006",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8086"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8085",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020018",
+        "nama": "KB BUKOPIN CMSSPAN",
+        "website": "cmsspan.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003560.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8085",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7693",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8085"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8084",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020019",
+        "nama": "KB BUKOPIN VPN",
+        "website": "vpn.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003560.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8084",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7801",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8084"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8083",
+      "attributes": {
+        "nomor_pb_umku": "912010580175900010001",
+        "nama": "WEBSITE PT BPR PRABUMEGAH KENCANA",
+        "website": "bprprabumegahkencana.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PRABUMEGAH KENCANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005747.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8083",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8005",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8083"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8082",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020018",
+        "nama": "VICA",
+        "website": "vica.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003560.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8082",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7587",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8082"
+      }
+    }
+  ]
+}

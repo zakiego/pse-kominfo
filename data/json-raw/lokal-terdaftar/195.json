@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 195,
+      "from": 1941,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1950,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=196",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=194"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6652",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "PYXIS",
+        "website": "pyxis.world",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL SYNERGY TECHNOLOGY",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004287.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6652",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6147",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6652"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6651",
+      "attributes": {
+        "nomor_pb_umku": "125500030142700000003",
+        "nama": "IBS BRANCHLESS",
+        "website": "hokibank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004617.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6651",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6506",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6651"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6647",
+      "attributes": {
+        "nomor_pb_umku": "190722000957300010003",
+        "nama": "API BANK DAERAH GIANYAR",
+        "website": "ssl.bdgianyar.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH GIANYAR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004828.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6647",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6502",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6647"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6646",
+      "attributes": {
+        "nomor_pb_umku": "127800055275300000001",
+        "nama": "TECHSCAPE",
+        "website": "techscape.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TECHSCAPE DATA CENTER",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004865.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6646",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6499",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6646"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6645",
+      "attributes": {
+        "nomor_pb_umku": "912030311167200010002",
+        "nama": "APLIKASI HINO IN THE BOX",
+        "website": "hinofinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HINO FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004860.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6645",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6500",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6645"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6643",
+      "attributes": {
+        "nomor_pb_umku": "190722001706300010001",
+        "nama": "ATRIUM HOSTING",
+        "website": "atriumhosting.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JAAP NITI SUMITO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004871.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6643",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6496",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6643"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6642",
+      "attributes": {
+        "nomor_pb_umku": "912040878274600010002",
+        "nama": "ODYSSEY",
+        "website": "odyssey.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DAYA DIMENSI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001224.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6642",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6456",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6642"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6641",
+      "attributes": {
+        "nomor_pb_umku": "912050483066500030004",
+        "nama": "WHATSAPP BANKING",
+        "website": "panel.damcorp.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MANDIRI TASPEN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000851.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6641",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6498",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6641"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6639",
+      "attributes": {
+        "nomor_pb_umku": "123100149221300010001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "bprtapa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TAPA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004819.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6639",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6495",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6639"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6638",
+      "attributes": {
+        "nomor_pb_umku": "912010593054900010001",
+        "nama": "CV FOKUS SOLUSI UTAMA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CAHAYA INTAN MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004681.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6638",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6488",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6638"
+      }
+    }
+  ]
+}

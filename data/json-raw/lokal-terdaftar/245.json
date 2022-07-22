@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 245,
+      "from": 2441,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2450,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=246",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=244"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6098",
+      "attributes": {
+        "nomor_pb_umku": "230322004329700000001",
+        "nama": "SOBAT SYARIAH",
+        "website": "sobatsyariah.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOBAT SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004507.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6098",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5969",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6098"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6097",
+      "attributes": {
+        "nomor_pb_umku": "912020072065200010001",
+        "nama": "WEBSITE PT. BANK PERKREDITAN RAKYAT ARTHA KARYA SEJAHTERA",
+        "website": "bpraks.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA KARYA SEJAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004521.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6097",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5968",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6097"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6096",
+      "attributes": {
+        "nomor_pb_umku": "912031811153300000002",
+        "nama": "FLASH COFFEE MOBILE APP AND WEBSITE",
+        "website": "flash-coffee.com",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEMBILAN PULUH ENAM DERAJAT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004454.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6096",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5967",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6096"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6095",
+      "attributes": {
+        "nomor_pb_umku": "180722001439500000001",
+        "nama": "BELAJAR JADI BAIK STORE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BENI HERYANTO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004519.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6095",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5966",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6095"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6094",
+      "attributes": {
+        "nomor_pb_umku": "121600058214700000001",
+        "nama": "COINBIT DIGITAL",
+        "website": "coinbit.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT COINBIT DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001525.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6094",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5965",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6094"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6093",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050001",
+        "nama": "OFFICIAL WEBSITE BPD DIY",
+        "website": "bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6093",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5957",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6093"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6092",
+      "attributes": {
+        "nomor_pb_umku": "123000024264800010001",
+        "nama": "WEBSITE",
+        "website": "bankpurworejo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERUMDA BPR BANK PURWOREJO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004339.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6092",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5964",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6092"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6091",
+      "attributes": {
+        "nomor_pb_umku": "150722005939400020001",
+        "nama": "CORE BANKING SYSTEM USSI",
+        "website": "banksampuraga.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SAMPURAGA CEMERLANG PERSERODA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004351.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6091",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5962",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6091"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6090",
+      "attributes": {
+        "nomor_pb_umku": "110422001641600000002",
+        "nama": "PT. BPR ARTHA MANDIRI SEJAHTERA WEB",
+        "website": "bprarthamandirisejahtera.wordpress.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA MANDIRI SEJAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004403.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6090",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5963",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6090"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6089",
+      "attributes": {
+        "nomor_pb_umku": "240322004965500060001",
+        "nama": "ACTION MOBILE BANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK ACEH SYARIAH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004272.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6089",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5958",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6089"
+      }
+    }
+  ]
+}

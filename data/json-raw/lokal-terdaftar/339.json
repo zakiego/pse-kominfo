@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 339,
+      "from": 3381,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3390,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=340",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=338"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5094",
+      "attributes": {
+        "nomor_pb_umku": "912000251118700020004",
+        "nama": "BOOST KEDAI",
+        "website": "app.kedai.boost.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AXIATA DIGITAL SERVICES INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "000200.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5094",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4957",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5094"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5093",
+      "attributes": {
+        "nomor_pb_umku": "912040884289900010001",
+        "nama": "PT KREDIT PINTAR INDONESIA",
+        "website": "kreditpintar.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREDIT PINTAR INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003736.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5093",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4953",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5093"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5092",
+      "attributes": {
+        "nomor_pb_umku": "220622007782600000002",
+        "nama": "ESS-ON",
+        "website": "elitsuksessekuritas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ELIT SUKSES SEKURITAS",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003389.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5092",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4946",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5092"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5091",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBSITE PERUSAHAAN",
+        "website": "pei.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PENDANAAN EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003735.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5091",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4956",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5091"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5090",
+      "attributes": {
+        "nomor_pb_umku": "160422000197900020001",
+        "nama": "WNRSTORE",
+        "website": "wnrstore.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SETIYA JAYA KOMUNIKASI",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003266.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5090",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4955",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5090"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5088",
+      "attributes": {
+        "nomor_pb_umku": "912031429126100000002",
+        "nama": "BHISMA",
+        "website": "bhisma.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAMEDIA DIGITAL NUSANTARA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003765.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5088",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4954",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5088"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5086",
+      "attributes": {
+        "nomor_pb_umku": "912020348042300030001",
+        "nama": "TELECERDAS",
+        "website": "telecerdas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT QIN WEI TECHNOLOGY",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003757.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5086",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4952",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5086"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5085",
+      "attributes": {
+        "nomor_pb_umku": "070222003459200010001",
+        "nama": "NETDIGI.ID",
+        "website": "netdigi.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NETMEDIA DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003761.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5085",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4951",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5085"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5084",
+      "attributes": {
+        "nomor_pb_umku": "070222003459200010001",
+        "nama": "PERSEROAN.ID",
+        "website": "perseroan.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NETMEDIA DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003761.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5084",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4950",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5084"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5083",
+      "attributes": {
+        "nomor_pb_umku": "070222003459200010001",
+        "nama": "SENTRANIC",
+        "website": "sentranic.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NETMEDIA DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003761.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5083",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4949",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5083"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 6,
+      "from": 51,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 60,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=7",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=5"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8662",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900010010",
+        "nama": "NEOHAJJ.COM",
+        "website": "neohajj.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "002941.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8662",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8580",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8662"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8661",
+      "attributes": {
+        "nomor_pb_umku": "022010671145600010001",
+        "nama": "PT BPR BANK GIRI SUKA DANA WONOGIRI (PERSERODA)",
+        "website": "girisukadana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK GIRI SUKA DANA WONOGIRI PERSERODA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006053.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8661",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8578",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8661"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8660",
+      "attributes": {
+        "nomor_pb_umku": "912030443214100030001",
+        "nama": "BUKUERLANGGA.COM",
+        "website": "bukuerlangga.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EUREKA BOOKHOUSE",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000811.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8660",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8579",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8660"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8659",
+      "attributes": {
+        "nomor_pb_umku": "126800035019300000001",
+        "nama": "DINOMAKET",
+        "website": "DINOMARKET.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DINOMARKET",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006048.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8659",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8574",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8659"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8658",
+      "attributes": {
+        "nomor_pb_umku": "210722006802700000001",
+        "nama": "PT BPR RAGA DANA SEJAHTERA",
+        "website": "bprragadanasejahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RAGA DANA SEJAHTERA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006052.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8658",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8577",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8658"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8657",
+      "attributes": {
+        "nomor_pb_umku": "812020888091800010004",
+        "nama": "TRADEPROFX",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EQUITYWORLD FUTURES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006011.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8657",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8576",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8657"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8656",
+      "attributes": {
+        "nomor_pb_umku": "812000584098600020010",
+        "nama": "APLIKASI YAMAHA MOTORCYCLE CONNECT / Y CONNECT",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YAMAHA INDONESIA MOTOR MANUFACTURING",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003491.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8656",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8575",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8656"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8655",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "RUN MARKET",
+        "website": "runmarket.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL SUKSES SOLUSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000098.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8655",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8571",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8655"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8654",
+      "attributes": {
+        "nomor_pb_umku": "812011108341700000002",
+        "nama": "E-CMOS",
+        "website": "e-cmos.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ELECTRONIC DATA INTERCHANGE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003587.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8654",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8566",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8654"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8653",
+      "attributes": {
+        "nomor_pb_umku": "812011212046500020001",
+        "nama": "BPR RAGAM PERANMANDIRI",
+        "website": "bprrpm.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RAGAM PERANMANDIRI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006037.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8653",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8572",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8653"
+      }
+    }
+  ]
+}

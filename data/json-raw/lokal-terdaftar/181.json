@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 181,
+      "from": 1801,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1810,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=182",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=180"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6805",
+      "attributes": {
+        "nomor_pb_umku": "190722003491600000001",
+        "nama": "FASHNASTORE",
+        "website": "fashnastore.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FIRMAN AJI SETIAWAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004989.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6805",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6655",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6805"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6804",
+      "attributes": {
+        "nomor_pb_umku": "022020237138700010001",
+        "nama": "BANK BUANA AGRIBISNIS",
+        "website": "bprbuanaagribisnis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUANA AGRIBISNIS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004969.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6804",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6618",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6804"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6803",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000004",
+        "nama": "MAMASUKA KITCHENSTORE",
+        "website": "mamasukakitchenstore.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6803",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6654",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6803"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6802",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040007",
+        "nama": "KERIS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6802",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6652",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6802"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6801",
+      "attributes": {
+        "nomor_pb_umku": "912040886086600010001",
+        "nama": "INTEGRATED MICROBANKING SYSTEM",
+        "website": "bprdanamakmur.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA MAKMUR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004862.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6801",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6645",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6801"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6796",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000003",
+        "nama": "MEGA SWALAYAN",
+        "website": "megaswalayan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6796",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6646",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6796"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6795",
+      "attributes": {
+        "nomor_pb_umku": "123000022004700010001",
+        "nama": "WEBSITE",
+        "website": "bankpasarsemarang.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERUMDA BPR BANK PASAR KOTA SEMARANG",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004943.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6795",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6643",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6795"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6794",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "SERVICE ULTIMATE RACE DASHBOARD",
+        "website": "serviceultimaterace.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6794",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6644",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6794"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6793",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000002",
+        "nama": "RENY SWALAYANKU",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6793",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6641",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6793"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6792",
+      "attributes": {
+        "nomor_pb_umku": "125500030142700000004",
+        "nama": "WEBSITE HOKIBANK",
+        "website": "hokibank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004617.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6792",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6640",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6792"
+      }
+    }
+  ]
+}

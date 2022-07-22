@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 387,
+      "from": 3861,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3870,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=388",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=386"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4278",
+      "attributes": {
+        "nomor_pb_umku": "812031015066100000001",
+        "nama": "HYBRID-H",
+        "website": "hybrid-h.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HARDANA WIDYA MAHIR",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000278.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4278",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4263",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4278"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4277",
+      "attributes": {
+        "nomor_pb_umku": "300522005263500010001",
+        "nama": "A&B MEDIKA",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANASTASIA PANGGELO",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002934.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4277",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4271",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4277"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4276",
+      "attributes": {
+        "nomor_pb_umku": "912030886185300020001",
+        "nama": "OCISTOK.COM",
+        "website": "Ocistok.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OCOMMERCE CAPITAL INDONESIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002857.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4276",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4270",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4276"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4272",
+      "attributes": {
+        "nomor_pb_umku": "120122003037500000001",
+        "nama": "HTTP://DIGITALBARU.COM/",
+        "website": "digitalbaru.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL BARU BERJAYA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000276.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4272",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4259",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4272"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4270",
+      "attributes": {
+        "nomor_pb_umku": "010322002526700000001",
+        "nama": "CEKSUPPLIER",
+        "website": "ceksupplier.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI INDUSTRI MODERN",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000290.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4270",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4269",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4270"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4269",
+      "attributes": {
+        "nomor_pb_umku": "070422005931100100001",
+        "nama": "YAYASAN PUSAT STRATEGI DAN AKSELERASI PEMBANGUNAN INDONESIA MAJU",
+        "website": "indonesia2030.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "Yayasan",
+        "nama_perusahaan": "Yayasan PUSAT STRATEGI DAN AKSELERASI PEMBANGUNAN INDONESIA MAJU",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "002848.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4269",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4268",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4269"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4268",
+      "attributes": {
+        "nomor_pb_umku": "812011416095600000001",
+        "nama": "HAKUHODO INDONESIA",
+        "website": "hakuhodo.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HAKUHODO INDONESIA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "000282.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4268",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4265",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4268"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4267",
+      "attributes": {
+        "nomor_pb_umku": "250422004502300000001",
+        "nama": "ERADIGITALCEMERLANG.COM",
+        "website": "eradigitalcemerlang.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA DIGITAL CEMERLANG",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "000281.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4267",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4267",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4267"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4266",
+      "attributes": {
+        "nomor_pb_umku": "310821004490900050002",
+        "nama": "KIOSON INDONESIA",
+        "website": "kioson.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIOSON KOMERSIAL INDONESIA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "001546.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4266",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4266",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4266"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4264",
+      "attributes": {
+        "nomor_pb_umku": "250522005371900000001",
+        "nama": "PT APLIKASI PINTAR SEJAHTERA (APS)",
+        "website": "Pintarplus.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKASI PINTAR SEJAHTERA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "002797.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4264",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4264",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4264"
+      }
+    }
+  ]
+}

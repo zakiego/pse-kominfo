@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 45,
+      "from": 441,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 450,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=46",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=44"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8199",
+      "attributes": {
+        "nomor_pb_umku": "230222002937900000001",
+        "nama": "POROSMEDIA",
+        "website": "porosmedia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT POROS MEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005302.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8199",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8121",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8199"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8198",
+      "attributes": {
+        "nomor_pb_umku": "022010040127300040002",
+        "nama": "WEBSITE BANK SULTRA",
+        "website": "banksultra.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI TENGGARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004592.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8198",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8118",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8198"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8197",
+      "attributes": {
+        "nomor_pb_umku": "912021807101900010002",
+        "nama": "BANK SULTENG TAMASYA",
+        "website": "tamasya.banksulteng.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005711.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8197",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8013",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8197"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8196",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160032",
+        "nama": "RESTOMULTI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.47/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8196",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8117",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8196"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8195",
+      "attributes": {
+        "nomor_pb_umku": "126400014191600000001",
+        "nama": "RELVAN",
+        "website": "relvan.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADAM MAULANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005789.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8195",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8115",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8195"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8194",
+      "attributes": {
+        "nomor_pb_umku": "812011604106700000005",
+        "nama": "ALVIS.ID",
+        "website": "alvis.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PANORAMA JTB TOURS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005418.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8194",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8113",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8194"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8191",
+      "attributes": {
+        "nomor_pb_umku": "912011601245900000001",
+        "nama": "HALALPEDIA INDONESIA",
+        "website": "halalpedia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HALAL PEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000107.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8191",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8110",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8191"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8190",
+      "attributes": {
+        "nomor_pb_umku": "812031706197600010003",
+        "nama": "WEB DESA",
+        "website": "web-desa.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TEKNOSMART",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004500.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8190",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8109",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8190"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8189",
+      "attributes": {
+        "nomor_pb_umku": "912021406196200010001",
+        "nama": "ZALORA.CO.ID",
+        "website": "zalora.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FASHION MARKETPLACE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003391.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8189",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8108",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8189"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8188",
+      "attributes": {
+        "nomor_pb_umku": "022201014217600010001",
+        "nama": "SAMAKITA",
+        "website": "samakita.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEJAHTERA SAMA KITA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005678.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8188",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8107",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8188"
+      }
+    }
+  ]
+}

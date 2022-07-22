@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 384,
+      "from": 3831,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3840,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=385",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=383"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4311",
+      "attributes": {
+        "nomor_pb_umku": "027701101272700010001",
+        "nama": "SIMASBID",
+        "website": "balailelangsimas.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BALAI LELANG SINARMAS",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000320.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4311",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4304",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4311"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4310",
+      "attributes": {
+        "nomor_pb_umku": "091221004417800030002",
+        "nama": "CV.MANDRAKARTA",
+        "website": "mandrakarta.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MANDRAKARTA",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000325.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4310",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4303",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4310"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4309",
+      "attributes": {
+        "nomor_pb_umku": "091221004417800030001",
+        "nama": "MANDRAKARTA",
+        "website": "mandrakarta.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MANDRAKARTA",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000325.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4309",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4302",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4309"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4308",
+      "attributes": {
+        "nomor_pb_umku": "071021004989200010001",
+        "nama": "WETALK",
+        "website": "wetalk.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL KREATIF MILENIAL",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "002923.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4308",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4301",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4308"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4307",
+      "attributes": {
+        "nomor_pb_umku": "024601101250600000001",
+        "nama": "NYMBI",
+        "website": "copytrade.nymbi.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOFIN TEKNOLOGI UTAMA",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000316.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4307",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4300",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4307"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4306",
+      "attributes": {
+        "nomor_pb_umku": "022000338138700000001",
+        "nama": "KASKU",
+        "website": "kasku.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOMA KARYA GEMILANG",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000319.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4306",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4299",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4306"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4305",
+      "attributes": {
+        "nomor_pb_umku": "022020582003800000001",
+        "nama": "TRILOGIS.ID",
+        "website": "trilogis.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PATIMURA MEDIA SIBER",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000317.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4305",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4298",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4305"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4304",
+      "attributes": {
+        "nomor_pb_umku": "912000324152600010001",
+        "nama": "SISTEM INTEGRATOR PEMBAYARAN LINTAS BATAS (CROSS BORDER PAYMENT) MENGGUNAKAN QRIS (QUICK RESPONSE INDONESIA STANDARD)",
+        "website": "arashdigital.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARASH DIGITAL REKADANA",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000827.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4304",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4297",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4304"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4303",
+      "attributes": {
+        "nomor_pb_umku": "912020636202100070005",
+        "nama": "HDK MULTISOLUTION",
+        "website": "hdk-solution.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV HADEKA MULTISOLUTION",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000313.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4303",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4296",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4303"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4302",
+      "attributes": {
+        "nomor_pb_umku": "912020636202100070004",
+        "nama": "HADEKAMULTISOLUTION",
+        "website": "hdk-solution.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV HADEKA MULTISOLUTION",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000313.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4302",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4295",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4302"
+      }
+    }
+  ]
+}

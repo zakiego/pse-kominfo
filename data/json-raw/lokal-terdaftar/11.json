@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 11,
+      "from": 101,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 110,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=12",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=10"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8612",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040011",
+        "nama": "SLIK EXPORT IMPORT NBP",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005098.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8612",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8531",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8612"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8611",
+      "attributes": {
+        "nomor_pb_umku": "281221002461600000001",
+        "nama": "POS PULSA",
+        "website": "pospulsa.tokowebku.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANDI PRISTIAWAN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006007.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8611",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8529",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8611"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8610",
+      "attributes": {
+        "nomor_pb_umku": "912010789077300020001",
+        "nama": "HIVECLOUD",
+        "website": "hivecloud.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOVATUS SOLUSI SEJAHTERA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004698.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8610",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8527",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8610"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8609",
+      "attributes": {
+        "nomor_pb_umku": "111121002977900010001",
+        "nama": "MISS TASA",
+        "website": "misstasa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRAMMABE RIFKY PEEP",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006021.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8609",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8525",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8609"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8608",
+      "attributes": {
+        "nomor_pb_umku": "912011820226200000001",
+        "nama": "IKAS",
+        "website": "ikaspos.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL SUKSES SOLUSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000098.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8608",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8510",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8608"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8607",
+      "attributes": {
+        "nomor_pb_umku": "912010032132800020001",
+        "nama": "BANKMITRA.CO.ID",
+        "website": "bankmitra.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRATAMA ARTHABUANA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005906.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8607",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8526",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8607"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8606",
+      "attributes": {
+        "nomor_pb_umku": "022000375002500010002",
+        "nama": "SYNAGIE",
+        "website": "synagie.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SYNAGIE ECOMMERCE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005358.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8606",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8511",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8606"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8605",
+      "attributes": {
+        "nomor_pb_umku": "240222005353500020001",
+        "nama": "WEBSITE PT. BPR SUKADANA PRIMA",
+        "website": "bprsukadanaprima.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUKADANA PRIMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006005.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8605",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8524",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8605"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8604",
+      "attributes": {
+        "nomor_pb_umku": "070422001142700020001",
+        "nama": "TAX ACADEMY INDONESIA - EDUKASI PERPAJAKAN",
+        "website": "taxacademy.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "Yayasan",
+        "nama_perusahaan": "Yayasan PENDIDIKAN KEMENANGAN BERSAMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005969.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8604",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8451",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8604"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8603",
+      "attributes": {
+        "nomor_pb_umku": "912030292237100010001",
+        "nama": "WWW.BPRGUNUNGKAWI.COM",
+        "website": "bprgunungkawi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GUNUNG KAWI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005988.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8603",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8523",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8603"
+      }
+    }
+  ]
+}

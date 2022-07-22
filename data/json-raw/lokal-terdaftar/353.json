@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 353,
+      "from": 3521,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3530,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=354",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=352"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4950",
+      "attributes": {
+        "nomor_pb_umku": "912010833001500120004",
+        "nama": "YAKES MOBILE",
+        "website": "yakestelkom.or.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "Yayasan",
+        "nama_perusahaan": "Yayasan YAYASAN KESEHATAN PEGAWAI TELKOM",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003556.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4950",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4817",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4950"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4949",
+      "attributes": {
+        "nomor_pb_umku": "310522003060600000001",
+        "nama": "FLANNER",
+        "website": "flanner.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SENTOSA BISNET INTERNASIONAL",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003565.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4949",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4816",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4949"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4948",
+      "attributes": {
+        "nomor_pb_umku": "022010374173700000001",
+        "nama": "VALMICH HOSTING INDONESIA",
+        "website": "valmich.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VALMICH HOSTING INDONESIA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003555.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4948",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4815",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4948"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4947",
+      "attributes": {
+        "nomor_pb_umku": "040322000777900110001",
+        "nama": "MEDISIN",
+        "website": "medisin.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINTESA PERSADA TEKNOLOGI",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003407.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4947",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4814",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4947"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4946",
+      "attributes": {
+        "nomor_pb_umku": "280622005049600020001",
+        "nama": "SUPER EKA FAJAR",
+        "website": "supertrack.my.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SUPER EKA FAJAR",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003557.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4946",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4812",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4946"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4945",
+      "attributes": {
+        "nomor_pb_umku": "022010515230500010008",
+        "nama": "RTI RESEARCH",
+        "website": "rti.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RTI INFOKOM",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003415.08/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4945",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4813",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4945"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4944",
+      "attributes": {
+        "nomor_pb_umku": "022010515230500010007",
+        "nama": "RTI MOBILE",
+        "website": "Mobile.rti.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RTI INFOKOM",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003415.07/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4944",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4811",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4944"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4943",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040006",
+        "nama": "DIGINET",
+        "website": "ib.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003382.05/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4943",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4810",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4943"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4942",
+      "attributes": {
+        "nomor_pb_umku": "150222001129900000001",
+        "nama": "PRISMAKLIK",
+        "website": "prismaklik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRISMA SOLUSINDO",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003521.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4942",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4804",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4942"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4941",
+      "attributes": {
+        "nomor_pb_umku": "022010515230500010006",
+        "nama": "RTI TRADER",
+        "website": "rti.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RTI INFOKOM",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003415.06/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4941",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4809",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4941"
+      }
+    }
+  ]
+}

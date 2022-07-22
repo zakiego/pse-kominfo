@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 288,
+      "from": 2871,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2880,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=289",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=287"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5647",
+      "attributes": {
+        "nomor_pb_umku": "912000784132500020001",
+        "nama": "CORPORATE WEBSITE PT EASTSPRING INVESTMENTS INDONESIA",
+        "website": "eastspring.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EASTSPRING INVESTMENTS INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004035.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5647",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5507",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5647"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5646",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010002",
+        "nama": "JCONNECT MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004213.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5646",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5506",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5646"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5645",
+      "attributes": {
+        "nomor_pb_umku": "812010182251800040015",
+        "nama": "AGM WEBSITE",
+        "website": "agmstore.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUTA ABADIPRIMANTARA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003602.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5645",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5505",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5645"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5644",
+      "attributes": {
+        "nomor_pb_umku": "912040796192200010001",
+        "nama": "ETAB TECHNOLOGIES",
+        "website": "etabtech.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA DIGITAMA MEDIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003802.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5644",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5453",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5644"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5643",
+      "attributes": {
+        "nomor_pb_umku": "010322004347300000001",
+        "nama": "APOTEK DIGITAL",
+        "website": "apotekdigital.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APOTEK DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004216.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5643",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5503",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5643"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5642",
+      "attributes": {
+        "nomor_pb_umku": "912020190055200010001",
+        "nama": "MOBILE.ADITAMA-FINANCE.COM",
+        "website": "aditama-finance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADITAMA FINANCE",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004170.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5642",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5504",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5642"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5641",
+      "attributes": {
+        "nomor_pb_umku": "030622006091600010001",
+        "nama": "WWW.ANC.CO.ID",
+        "website": "anc.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALENA NUSA CEMERLANG",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004218.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5641",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5499",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5641"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5640",
+      "attributes": {
+        "nomor_pb_umku": "912031508201900020001",
+        "nama": "KEDAIMART",
+        "website": "kedaisayur.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KEDAI SAYUR INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003953.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5640",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5432",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5640"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5639",
+      "attributes": {
+        "nomor_pb_umku": "022020131076800030001",
+        "nama": "MEGA SEKURITAS",
+        "website": "megasekuritas.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA CAPITAL SEKURITAS",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004209.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5639",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5502",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5639"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5638",
+      "attributes": {
+        "nomor_pb_umku": "812000584098600020007",
+        "nama": "WEBSITE YAMAHA RACING INDONESIA",
+        "website": "yamaharacingindonesia.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YAMAHA INDONESIA MOTOR MANUFACTURING",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003491.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5638",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5500",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5638"
+      }
+    }
+  ]
+}

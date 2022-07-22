@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 329,
+      "from": 3281,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3290,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=330",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=328"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5200",
+      "attributes": {
+        "nomor_pb_umku": "070722007832600000004",
+        "nama": "PORTAL.KRIST.ID",
+        "website": "krist.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "CHRIST BOLUNG NGANTUNG",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003870.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5200",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5072",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5200"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5199",
+      "attributes": {
+        "nomor_pb_umku": "070722007832600000003",
+        "nama": "SHOP.KRIST.ID",
+        "website": "krist.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "CHRIST BOLUNG NGANTUNG",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003870.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5199",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5071",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5199"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5198",
+      "attributes": {
+        "nomor_pb_umku": "070722007832600000002",
+        "nama": "SOFTWARE.KRIST.ID",
+        "website": "krist.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "CHRIST BOLUNG NGANTUNG",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003870.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5198",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5070",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5198"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5197",
+      "attributes": {
+        "nomor_pb_umku": "070722007832600000001",
+        "nama": "KRIST.ID",
+        "website": "krist.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "CHRIST BOLUNG NGANTUNG",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003870.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5197",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5069",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5197"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5196",
+      "attributes": {
+        "nomor_pb_umku": "024501024203700000002",
+        "nama": "JAGOSELEB.COM",
+        "website": "jagoseleb.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALFIE RENALDY",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "002414.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5196",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5068",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5196"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5195",
+      "attributes": {
+        "nomor_pb_umku": "812001912186900000001",
+        "nama": "TERRAMIX.ID",
+        "website": "terramix.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT D & W INTERNASIONAL",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003861.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5195",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5065",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5195"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5194",
+      "attributes": {
+        "nomor_pb_umku": "022000840033600020001",
+        "nama": "TOKOKO",
+        "website": "tokoko.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUKU USAHA DIGITAL",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "001221.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5194",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4789",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5194"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5193",
+      "attributes": {
+        "nomor_pb_umku": "912020796136700010001",
+        "nama": "RISE",
+        "website": "corpsolution.riseteknologi.app",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RAJAWALI INTI SELULAR",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003846.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5193",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5064",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5193"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5192",
+      "attributes": {
+        "nomor_pb_umku": "912000820106600020002",
+        "nama": "AGRION FARMER",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISAN TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "001665.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5192",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5062",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5192"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5191",
+      "attributes": {
+        "nomor_pb_umku": "022040780205700090001",
+        "nama": "WEBSITE RESMI INDO MEDIKA INTERNATIONAL",
+        "website": "indomedika.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGATAMA ADIKARYA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003530.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5191",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5061",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5191"
+      }
+    }
+  ]
+}

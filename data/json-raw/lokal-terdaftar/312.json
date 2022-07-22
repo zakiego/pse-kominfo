@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 312,
+      "from": 3111,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3120,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=313",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=311"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5378",
+      "attributes": {
+        "nomor_pb_umku": "912021712123800010001",
+        "nama": "GOGREAT!",
+        "website": "gogreat.greateasternlife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GREAT EASTERN LIFE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004010.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5378",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5249",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5378"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5377",
+      "attributes": {
+        "nomor_pb_umku": "912020348242500010002",
+        "nama": "INFINITO",
+        "website": "vfirst.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VFIRST KOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004031.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5377",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5247",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5377"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5376",
+      "attributes": {
+        "nomor_pb_umku": "812001110208800200001",
+        "nama": "PT CAPELLA MULTIDANA",
+        "website": "cmd.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CAPELLA MULTIDANA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004000.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5376",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5245",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5376"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5375",
+      "attributes": {
+        "nomor_pb_umku": "912020384008500000002",
+        "nama": "360 FINMART",
+        "website": "360finmart.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA KREDIT SOLUSI",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003925.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5375",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5244",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5375"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5373",
+      "attributes": {
+        "nomor_pb_umku": "912000448196500010010",
+        "nama": "MISHOP TRADE-IN",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001807.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5373",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5243",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5373"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5372",
+      "attributes": {
+        "nomor_pb_umku": "812000390167501850006",
+        "nama": "IMFI MIKRO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOMOBIL FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003628.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5372",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5242",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5372"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5370",
+      "attributes": {
+        "nomor_pb_umku": "912010887059200000002",
+        "nama": "WEBSITE",
+        "website": "reli.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RELIANCEINTEGRASI DUNIA ANDA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "000178.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5370",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5241",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5370"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5369",
+      "attributes": {
+        "nomor_pb_umku": "912030033035600010001",
+        "nama": "MICROSITE MYCASH",
+        "website": "mycash.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JACCS MITRA PINASTHIKA MUSTIKA FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003984.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5369",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5240",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5369"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5368",
+      "attributes": {
+        "nomor_pb_umku": "912020348242500010001",
+        "nama": "CPAAS",
+        "website": "vfirst.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VFIRST KOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004031.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5368",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5239",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5368"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5367",
+      "attributes": {
+        "nomor_pb_umku": "912040628257700000001",
+        "nama": "VIA.ID INDONESIA",
+        "website": "via.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADYA TOURS",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002964.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5367",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5238",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5367"
+      }
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 1,
+      "from": 1,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 10,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=2"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8713",
+      "attributes": {
+        "nomor_pb_umku": "022010178021800020001",
+        "nama": "WEBSITE",
+        "website": "bankartakencana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi BANK PERKREDITAN RAKYAT ARTA KENCANA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006038.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8713",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8631",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8713"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8712",
+      "attributes": {
+        "nomor_pb_umku": "200722007919900000001",
+        "nama": "DESAPOLITAN",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FAHRI EKA JAYA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006072.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8712",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8630",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8712"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8711",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020022",
+        "nama": "KB BUKOPIN B-PRIDE",
+        "website": "b-pride.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003560.24/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8711",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8629",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8711"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8710",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020021",
+        "nama": "KB BUKOPIN LEARNING MANAGEMENT SYSTEM",
+        "website": "learning.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003560.23/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8710",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8628",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8710"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8709",
+      "attributes": {
+        "nomor_pb_umku": "210722008469200000001",
+        "nama": "KEMENTERIAN KUOTA",
+        "website": "pixeltelemedia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV PIXEL TELEMEDIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006083.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8709",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8627",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8709"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8708",
+      "attributes": {
+        "nomor_pb_umku": "210722008431700000001",
+        "nama": "LEGIONFC",
+        "website": "legionfc.my.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LEGION FLAZZ CELLULER",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006082.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8708",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8626",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8708"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8707",
+      "attributes": {
+        "nomor_pb_umku": "022010388097100010002",
+        "nama": "MAKMUR INVESTMENT SYSTEM",
+        "website": "makmur.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI FINANSIAL TEKNOLOGI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006079.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8707",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8625",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8707"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8706",
+      "attributes": {
+        "nomor_pb_umku": "120200054188800040001",
+        "nama": "SMS PREMIUM MACROKIOSK",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERMATA CIPTA REJEKI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006040.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8706",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8590",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8706"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8705",
+      "attributes": {
+        "nomor_pb_umku": "210722008000600000001",
+        "nama": "WEBPORTAL MARKETING MOTOR",
+        "website": "marketing-motor.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HANTORO ADI UTOMO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006078.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8705",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8624",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8705"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8704",
+      "attributes": {
+        "nomor_pb_umku": "240921001659900030001",
+        "nama": "LOGINUNIVERSE.ID",
+        "website": "loginuniverse.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT UNIVERSAL HERBA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006081.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8704",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8623",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8704"
+      }
+    }
+  ]
+}

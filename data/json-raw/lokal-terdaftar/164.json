@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 164,
+      "from": 1631,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1640,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=165",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=163"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6979",
+      "attributes": {
+        "nomor_pb_umku": "912010078197600010002",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-COLLECTION BPR MODERN EXPRESS NTT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004901.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6979",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6836",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6979"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6978",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040013",
+        "nama": "SANTRIPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6978",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6831",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6978"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6977",
+      "attributes": {
+        "nomor_pb_umku": "812011202024700230002",
+        "nama": "BUMI MARGA KONSTRUKSI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUMI MARGA KONSTRUKSI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005088.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6977",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6832",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6977"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6976",
+      "attributes": {
+        "nomor_pb_umku": "812020093240800020001",
+        "nama": "WEBSITE DAN APLIKASI SHOPEE PARTNER",
+        "website": "partner.business.accounts.shopee.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIRPAY INTERNATIONAL INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000963.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6976",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6830",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6976"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6975",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640044",
+        "nama": "ACS 3DS DEBIT DR",
+        "website": "3dsecuredebit.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.51/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6975",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6827",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6975"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6974",
+      "attributes": {
+        "nomor_pb_umku": "912010471101400020001",
+        "nama": "ISLAMIC BANKING APPLICATION",
+        "website": "bprsmadinahlamongan.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH MADINAH",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005052.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6974",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6823",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6974"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6973",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010023",
+        "nama": "WEB REGISTRY BANK RAYA",
+        "website": "partnership.pinang-performa.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004288.23/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6973",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6828",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6973"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6972",
+      "attributes": {
+        "nomor_pb_umku": "140722006668300000001",
+        "nama": "TAMAN PULSA",
+        "website": "pulsaonline-tamanniaga.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Abdul muhtarim",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005086.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6972",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6826",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6972"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6971",
+      "attributes": {
+        "nomor_pb_umku": "050122003854700060001",
+        "nama": "VIZITRIP",
+        "website": "vizitrip.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VIZITRIP GLOBAL TOUR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005092.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6971",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6825",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6971"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6970",
+      "attributes": {
+        "nomor_pb_umku": "190722000813100000002",
+        "nama": "ONLINE SHOP PLAZAKOTA",
+        "website": "plazakota.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SIGIT SUGIANTO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004950.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6970",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6824",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6970"
+      }
+    }
+  ]
+}

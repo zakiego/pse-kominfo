@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 403,
+      "from": 4021,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4030,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=404",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=402"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4486",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ZipHR",
+        "website": "app.ziphr.co",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HARMONY CLOUD SYSTEMS",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "002709.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4486",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4470",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4486"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4485",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KOMUNAL CORE SYSTEM",
+        "website": "www.komunal.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOMUNAL FINANSIAL INDONESIA",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "002708.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4485",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4469",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4485"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4484",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "etijara",
+        "website": "etijara.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IBF NET INDONESIA",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "002707.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4484",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4468",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4484"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4348",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KiriminAja com",
+        "website": "kiriminaja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SELALU SIAP SOLUSI",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "000710.07/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4348",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4334",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4348"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4483",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "JBA Indonesia – Balai Lelang Otomotif No.1",
+        "website": "www.jba.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JBA INDONESIA",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002705.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4483",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4467",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4483"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4482",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EVOS",
+        "website": "www.shop.evos.gg.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EVOS ESPORTS INDONESIA",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002706.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4482",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4466",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4482"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4481",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Allopay",
+        "website": "allotech.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHADIKA SOLUSINDO TEKNOLOGI",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002703.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4481",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4465",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4481"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4479",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Biizaa.com",
+        "website": "biizaa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIIZAA ASIA TECHNOLOGY",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002702.04/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4479",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4463",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4479"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4478",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Biizaa Software",
+        "website": "biizaa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIIZAA ASIA TECHNOLOGY",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002702.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4478",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4462",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4478"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4477",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Biizaa E Commerce",
+        "website": "lawyermu.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIIZAA ASIA TECHNOLOGY",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002702.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4477",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4461",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4477"
+      }
+    }
+  ]
+}

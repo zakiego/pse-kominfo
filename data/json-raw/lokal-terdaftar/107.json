@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 107,
+      "from": 1061,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1070,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=108",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=106"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7558",
+      "attributes": {
+        "nomor_pb_umku": "912020586252300010001",
+        "nama": "CAKRAWALA PROTEKSI ONLINE",
+        "website": "cakrawalaproteksionline.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CAKRAWALA PROTEKSI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000346.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7558",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7448",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7558"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7557",
+      "attributes": {
+        "nomor_pb_umku": "912040183166200010001",
+        "nama": "WEBSITE",
+        "website": "bprnbp11.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 11",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005439.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7557",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7447",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7557"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7556",
+      "attributes": {
+        "nomor_pb_umku": "200722002438700000001",
+        "nama": "URGENT.ID",
+        "website": "urgent.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "INDRA GUNAWAN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005388.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7556",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7401",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7556"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7555",
+      "attributes": {
+        "nomor_pb_umku": "912000918125600010001",
+        "nama": "TOKOPINTAR",
+        "website": "tokopintar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LOKET PINTAR INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004640.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7555",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7440",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7555"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7554",
+      "attributes": {
+        "nomor_pb_umku": "150722005787500000003",
+        "nama": "ITC FINANCE E-SLIP",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTERNUSA TRIBUANA CITRA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004537.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7554",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7446",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7554"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7553",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010005",
+        "nama": "MOBILE BANKING (BSGTOUCH)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004481.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7553",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5888",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7553"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7552",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010004",
+        "nama": "INTERNET BANKING NON PERORANGAN (BSGDIRECT)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004481.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7552",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5889",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7552"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7551",
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010009",
+        "nama": "TRAVEL FAIR",
+        "website": "apps.bcainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003517.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7551",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7441",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7551"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7550",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040002",
+        "nama": "SISHCA",
+        "website": "sishca.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005098.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7550",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7445",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7550"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7549",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010003",
+        "nama": "KASDA ONLINE",
+        "website": "banksulutgo.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004481.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7549",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5890",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7549"
+      }
+    }
+  ]
+}

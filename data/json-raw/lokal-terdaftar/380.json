@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 380,
+      "from": 3791,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3800,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=381",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=379"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4383",
+      "attributes": {
+        "nomor_pb_umku": "023301001274700020006",
+        "nama": "LIFE.ID",
+        "website": "life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA IFG",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "001739.07/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4383",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4367",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4383"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4382",
+      "attributes": {
+        "nomor_pb_umku": "023301001274700020006",
+        "nama": "AMAN BERSAMA IFG LIFE",
+        "website": "aman.ifg-life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA IFG",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "001739.06/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4382",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4366",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4382"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4381",
+      "attributes": {
+        "nomor_pb_umku": "123300074276300020002",
+        "nama": "PT XTREMAX TEKNOLOGI INDONESIA",
+        "website": "xtremax.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XTREMAX TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "002288.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4381",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4365",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4381"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4380",
+      "attributes": {
+        "nomor_pb_umku": "080622005766300010001",
+        "nama": "JNT EXPRESS SOROGENEN",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "EVY ROFIANTI",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "003180.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4380",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4364",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4380"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4379",
+      "attributes": {
+        "nomor_pb_umku": "030222000112600040001",
+        "nama": "MAJAMOJO",
+        "website": "majamojo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GAMES KARYA NUSANTARA",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "003177.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4379",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4363",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4379"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4377",
+      "attributes": {
+        "nomor_pb_umku": "022010965168100020003",
+        "nama": "JAGA2GO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CENTRAL ASIA FINANCIAL",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "000735.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4377",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4362",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4377"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4376",
+      "attributes": {
+        "nomor_pb_umku": "912040792044300000001",
+        "nama": "JIWA +",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JIWA TRI BOGA",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "000757.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4376",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4361",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4376"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4375",
+      "attributes": {
+        "nomor_pb_umku": "912010671190500020002",
+        "nama": "BLUECHIP CIPTADANA",
+        "website": "ciptadana-sekuritas-asia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTADANA SEKURITAS ASIA",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "001934.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4375",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4360",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4375"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4374",
+      "attributes": {
+        "nomor_pb_umku": "022201110082300010002",
+        "nama": "ALLISWELL.AIA.ID (AIA FINANCIAL DIGITAL MICROSITE)",
+        "website": "alliswell.aia.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIA FINANCIAL",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "000007.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4374",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4359",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4374"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4372",
+      "attributes": {
+        "nomor_pb_umku": "912021326117300000001",
+        "nama": "TURU HOTELS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOTELIO TEKNOVASI UTAMA",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "002897.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4372",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4358",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4372"
+      }
+    }
+  ]
+}

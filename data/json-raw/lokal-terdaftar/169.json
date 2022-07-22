@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 169,
+      "from": 1681,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1690,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=170",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=168"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6929",
+      "attributes": {
+        "nomor_pb_umku": "912020095086300010001",
+        "nama": "WEBISTE BNU SYARIAH",
+        "website": "bnusyariah.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH MERU NUSANTARA MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004899.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6929",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6783",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6929"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6928",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801200055",
+        "nama": "NEW INFO LELANG BRI",
+        "website": "infolelang.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002468.51/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6928",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6782",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6928"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6927",
+      "attributes": {
+        "nomor_pb_umku": "812000172108700070034",
+        "nama": "SAMSUNG.COM/ID/",
+        "website": "samsung.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAMSUNG ELECTRONICS INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004280.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6927",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6774",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6927"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6926",
+      "attributes": {
+        "nomor_pb_umku": "812020973285800000002",
+        "nama": "BOBO TOKYO",
+        "website": "bobotokyo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BOBOBOBO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005062.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6926",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6777",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6926"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6925",
+      "attributes": {
+        "nomor_pb_umku": "121200030257700000001",
+        "nama": "BOOSTR.ID",
+        "website": "Boostr.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BOOSTER TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005034.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6925",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6778",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6925"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6924",
+      "attributes": {
+        "nomor_pb_umku": "190722005595600000001",
+        "nama": "KONTERZONE.COM",
+        "website": "konterzone.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AGUS SUSANTO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005081.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6924",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6776",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6924"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6923",
+      "attributes": {
+        "nomor_pb_umku": "912010489243400010001",
+        "nama": "SUPER SAVING CORE BANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUMBER PANGASEAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005001.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6923",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6772",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6923"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6922",
+      "attributes": {
+        "nomor_pb_umku": "121021001802200010001",
+        "nama": "AYOSMS",
+        "website": "ayosms.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AYOMOBILE MEDIA INTERNATIONAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005036.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6922",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6771",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6922"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6921",
+      "attributes": {
+        "nomor_pb_umku": "128700013259600410001",
+        "nama": "WEBSITE MYLAB INDONESIA",
+        "website": "mylab.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI KINAN MEDIKA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004444.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6921",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6769",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6921"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6920",
+      "attributes": {
+        "nomor_pb_umku": "912030291074600010001",
+        "nama": "MULTIKU",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RESTUDHANA CITRASEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004692.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6920",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6764",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6920"
+      }
+    }
+  ]
+}

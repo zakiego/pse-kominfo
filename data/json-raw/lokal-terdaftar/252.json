@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 252,
+      "from": 2511,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2520,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=253",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=251"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6028",
+      "attributes": {
+        "nomor_pb_umku": "180722000092800000001",
+        "nama": "DJM18",
+        "website": "djm.tokowebku.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BAGUS ADI JAYA BANGSAWAN Z",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004483.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6028",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5900",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6028"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6027",
+      "attributes": {
+        "nomor_pb_umku": "170722001692500000001",
+        "nama": "DPAJA : DAKA PAYMENT",
+        "website": "dakapayment.my.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IMAM NAWAWI",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004456.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6027",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5898",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6027"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6026",
+      "attributes": {
+        "nomor_pb_umku": "180722000085100000001",
+        "nama": "SIMKALUH BBRBLPP GONDOL",
+        "website": "penyuluhgondol.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LILIS SUAIDAH",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004482.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6026",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5895",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6026"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6025",
+      "attributes": {
+        "nomor_pb_umku": "180722000085100000001",
+        "nama": "SIMKALUH (SISTEM INFORMASI MANAJEMEN KINERJA PENYULUH)",
+        "website": "kinerjapenyuluh.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LILIS SUAIDAH",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004482.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6025",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5893",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6025"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6024",
+      "attributes": {
+        "nomor_pb_umku": "121021004703500030001",
+        "nama": "PULSAKU.ID - TRANSKSI & PEMBAYARAN DIGITAL",
+        "website": "pulsaku.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PORTAL INDUSTRI DIGITAL",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004476.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6024",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5887",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6024"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6023",
+      "attributes": {
+        "nomor_pb_umku": "180722000057900000001",
+        "nama": "SELNOVIKTECH.COM",
+        "website": "SelnovikTech.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "M BERLIAN SELNOVIK",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004480.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6023",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5886",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6023"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6022",
+      "attributes": {
+        "nomor_pb_umku": "270622001320900000002",
+        "nama": "TOPUPSTORE",
+        "website": "Topup18.bukaolshop.site",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD YUSUF RIFALDI",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004459.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6022",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5885",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6022"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6021",
+      "attributes": {
+        "nomor_pb_umku": "150222008463100010001",
+        "nama": "KKULJAEM KOREAN",
+        "website": "kkuljaemkoreanapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KKULJAEM EDUJAYA INDO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "003891.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6021",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5884",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6021"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6020",
+      "attributes": {
+        "nomor_pb_umku": "912011902083400010002",
+        "nama": "FUNDEX MOBILE APP",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DANA INVESTASI BERSAMA",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "000271.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6020",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5883",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6020"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6019",
+      "attributes": {
+        "nomor_pb_umku": "081021004570500000001",
+        "nama": "LEGASUS STORE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RIYADH MUHAMMAD AL WARID",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004467.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6019",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5882",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6019"
+      }
+    }
+  ]
+}

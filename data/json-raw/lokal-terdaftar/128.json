@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 128,
+      "from": 1271,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1280,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=129",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=127"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7347",
+      "attributes": {
+        "nomor_pb_umku": "022010213066700050001",
+        "nama": "DIANTARA INTER MEDIA",
+        "website": "diantara.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIANTARA INTER MEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005436.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7347",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7245",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7347"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7346",
+      "attributes": {
+        "nomor_pb_umku": "912040671108900030001",
+        "nama": "WEBSITE BPR KEMBANG PARAMA",
+        "website": "kembangparama.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KEMBANG PARAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005305.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7346",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7243",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7346"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7345",
+      "attributes": {
+        "nomor_pb_umku": "129100011219400000003",
+        "nama": "IG BPR ANA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA NUSANTARA ABADI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004927.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7345",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7246",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7345"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7344",
+      "attributes": {
+        "nomor_pb_umku": "912011101380400010001",
+        "nama": "BPR KKS WEB BASE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KRANJI KRIDA SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005394.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7344",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7244",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7344"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7343",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020017",
+        "nama": "SURVEYOR BPRKS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004305.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7343",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7239",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7343"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7342",
+      "attributes": {
+        "nomor_pb_umku": "912000714188200010002",
+        "nama": "WEBSITE BPR SARASWATI",
+        "website": "bprsaraswatiekabumi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR SARASWATI EKABUMI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004528.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7342",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7238",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7342"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7341",
+      "attributes": {
+        "nomor_pb_umku": "200722000397900000001",
+        "nama": "KONTERGO",
+        "website": "kontergo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADE NOVIT ROMADLON",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005324.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7341",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7237",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7341"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7340",
+      "attributes": {
+        "nomor_pb_umku": "912010436249200010001",
+        "nama": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 8",
+        "website": "bprnbp8.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 8",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005327.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7340",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7219",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7340"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7339",
+      "attributes": {
+        "nomor_pb_umku": "022000168299900010003",
+        "nama": "APLIKASI PAJAK DAERAH ONLINE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004154.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7339",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7236",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7339"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7338",
+      "attributes": {
+        "nomor_pb_umku": "022000541212300010001",
+        "nama": "BANK GURU JATENG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GURU JATENG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005330.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7338",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7235",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7338"
+      }
+    }
+  ]
+}

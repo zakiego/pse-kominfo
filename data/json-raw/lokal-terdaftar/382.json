@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 382,
+      "from": 3811,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3820,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=383",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=381"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4337",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800920013",
+        "nama": "BRILINKERS",
+        "website": "Brilinkers-admin.bri.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "002468.09/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4337",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4324",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4337"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4336",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800920012",
+        "nama": "BRILINK MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "002468.08/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4336",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4322",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4336"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4334",
+      "attributes": {
+        "nomor_pb_umku": "022010965168100020002",
+        "nama": "JAGA HUJAN",
+        "website": "jagahujan.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CENTRAL ASIA FINANCIAL",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "000735.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4334",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4321",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4334"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4333",
+      "attributes": {
+        "nomor_pb_umku": "912040779110200020001",
+        "nama": "LAKUEMAS",
+        "website": "lakuemas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU EMAS INDONESIA",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "000354.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4333",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4320",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4333"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4332",
+      "attributes": {
+        "nomor_pb_umku": "812020084062100300007",
+        "nama": "E-RECRUITMENT PERTAMINA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT PERTAMINA",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "002547.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4332",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4319",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4332"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4331",
+      "attributes": {
+        "nomor_pb_umku": "128800070079300000001",
+        "nama": "PT DIGITAL JAGAD NUSANTARA",
+        "website": "digitaljagadnusantara.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL JAGAD NUSANTARA",
+        "tanggal_daftar": "2022-06-12",
+        "tanggal_terbit": "2022-06-12",
+        "nomor_tanda_daftar": "000347.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4331",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4318",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4331"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4330",
+      "attributes": {
+        "nomor_pb_umku": "022010822221600000005",
+        "nama": "INMOBI AFFILIATE PLATFORM",
+        "website": "iap.gowadogo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INMOBI INDONESIA TECHNOLOGIES",
+        "tanggal_daftar": "2022-06-10",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "002868.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4330",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4317",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4330"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4329",
+      "attributes": {
+        "nomor_pb_umku": "912040986230500020001",
+        "nama": "SOLUSIPAY, API SOLUTIONS",
+        "website": "ids.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI DAYA SOLUSI",
+        "tanggal_daftar": "2022-06-10",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "002938.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4329",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4316",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4329"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4328",
+      "attributes": {
+        "nomor_pb_umku": "912040130256100610001",
+        "nama": "BCA MULTI FINANCE",
+        "website": "bcamf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BCA MULTI FINANCE",
+        "tanggal_daftar": "2022-06-10",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "002922.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4328",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4315",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4328"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4327",
+      "attributes": {
+        "nomor_pb_umku": "022010822221600000004",
+        "nama": "INMOBI PULSE",
+        "website": "pulse.inmobi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INMOBI INDONESIA TECHNOLOGIES",
+        "tanggal_daftar": "2022-06-10",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "002868.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4327",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4312",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4327"
+      }
+    }
+  ]
+}

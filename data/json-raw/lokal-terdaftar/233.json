@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 233,
+      "from": 2321,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2330,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=234",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=232"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6229",
+      "attributes": {
+        "nomor_pb_umku": "912020279118300010005",
+        "nama": "SMS MACROKIOSK (OTP) - BPR MODERN EXPRESS SULAWESI SELATAN",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS SULAWESI SELATAN",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004591.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6229",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6095",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6229"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6228",
+      "attributes": {
+        "nomor_pb_umku": "912031306155400000001",
+        "nama": "WEBSITE BP LAWYERS",
+        "website": "bplawyers.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BP LAWYERS",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004569.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6228",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6094",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6228"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6227",
+      "attributes": {
+        "nomor_pb_umku": "912010617058100000001",
+        "nama": "GIC",
+        "website": "gic-indonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL INOVASI CAHAYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004581.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6227",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6092",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6227"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6226",
+      "attributes": {
+        "nomor_pb_umku": "912020259293500020002",
+        "nama": "WEBSITE KLIK LEGAL",
+        "website": "kliklegal.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRO LEGAL INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004079.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6226",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6090",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6226"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6225",
+      "attributes": {
+        "nomor_pb_umku": "912010267208600010001",
+        "nama": "WEBSITE PT BPR ARTHAGUNA MANDIRI",
+        "website": "bpragm.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHAGUNA MANDIRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004039.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6225",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6091",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6225"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6224",
+      "attributes": {
+        "nomor_pb_umku": "040422002343800000001",
+        "nama": "LAYANAN KESEHATAN : FAMILYDOC",
+        "website": "familydoc.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEHAT SEJAHTERA PRAKARSA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004610.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6224",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6088",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6224"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6223",
+      "attributes": {
+        "nomor_pb_umku": "812001612095300020001",
+        "nama": "M2U ID MOBILE APPLICATION",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MAYBANK INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001617.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6223",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6087",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6223"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6222",
+      "attributes": {
+        "nomor_pb_umku": "812021621109100000001",
+        "nama": "GOOGLE CLOUD REGION JAKARTA",
+        "website": "google.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GOOGLE CLOUD INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004580.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6222",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6085",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6222"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6221",
+      "attributes": {
+        "nomor_pb_umku": "022201024157300000001",
+        "nama": "SALAM ENTERPRISE",
+        "website": "salamenterprise.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMA SALAM INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003608.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6221",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6086",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6221"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6220",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000009",
+        "nama": "FDEVICE.COM",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003983.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6220",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6082",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6220"
+      }
+    }
+  ]
+}

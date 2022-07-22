@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 18,
+      "from": 171,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 180,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=19",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=17"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8542",
+      "attributes": {
+        "nomor_pb_umku": "190722005617100010001",
+        "nama": "MAGIC LIFE GLOBAL",
+        "website": "magiclife.vip",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAGIC LIFE GLOBAL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005877.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8542",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8455",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8542"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8541",
+      "attributes": {
+        "nomor_pb_umku": "912010086195300010001",
+        "nama": "WEBSITE RESMI PT BPR BERKAT SEJATI",
+        "website": "bprberkatsejati.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BERKAT SEJATI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005967.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8541",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8454",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8541"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8540",
+      "attributes": {
+        "nomor_pb_umku": "91201071704222412666660005",
+        "nama": "SI ANTENG",
+        "website": "brtnusantara.com",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA GLOBAL INOVASI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004628.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8540",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8453",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8540"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8539",
+      "attributes": {
+        "nomor_pb_umku": "022030412155900020048",
+        "nama": "HYUNDAI BLUELINK",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HYUNDAI MOTORS INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000635.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8539",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8452",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8539"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8538",
+      "attributes": {
+        "nomor_pb_umku": "122700142154600000003",
+        "nama": "YUMMY ADVISOR",
+        "website": "yummyadvisor.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MOBADIYA TEKNOLOGI GRUP",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005093.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8538",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8443",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8538"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8537",
+      "attributes": {
+        "nomor_pb_umku": "912040685240200010001",
+        "nama": "WEBSITE",
+        "website": "bankbsm.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR SENTRAL MANDIRI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005892.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8537",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8450",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8537"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8536",
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000010",
+        "nama": "PT BISNIS SISTEM INDONESIA",
+        "website": "ptbsi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004583.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8536",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8447",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8536"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8535",
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000009",
+        "nama": "REALTA NET",
+        "website": "realta.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004583.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8535",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8441",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8535"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8534",
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000008",
+        "nama": "RHAPSODY HOSPITALITY MANAGEMENT SYSTEM",
+        "website": "cloud.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004583.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8534",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8436",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8534"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8533",
+      "attributes": {
+        "nomor_pb_umku": "022000724210400010001",
+        "nama": "WEBISTE",
+        "website": "bprbkkjepara.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN JEPARA (PERSERODA)",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005957.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8533",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8449",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8533"
+      }
+    }
+  ]
+}

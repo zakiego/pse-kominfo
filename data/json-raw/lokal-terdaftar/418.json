@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 418,
+      "from": 4171,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4180,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=419",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=417"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4025",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.bengkelprint.co.id",
+        "website": "www.bengkelprint.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BENGKEL PRINT",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002613.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4025",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3862",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4025"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4024",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DIGITAL GOLD INDONESIA",
+        "website": "digitalgold.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA DIGITALGOLD INDONESIA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002612.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4024",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3810",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4024"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4023",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Advotics",
+        "website": "www.advotics.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADVOTICS TEKNOLOGI GLOBAL",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002611.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4023",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3982",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4023"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4022",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Perdagangan Melalui Sistem Elektronik",
+        "website": "www.indonetwork.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONETWORK ADI PERKASA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002610.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4022",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3730",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4022"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4021",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pintarnya.com",
+        "website": "pintarnya.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PINTARNYA SOLUSI TEKNOLOGI",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "001560.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4021",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3713",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4021"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4020",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.sirka.io",
+        "website": "www.sirka.io",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEJUTA KAWAN SEHAT",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002536.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4020",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3732",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4020"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4019",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiserve Professional Service – IT Services",
+        "website": "bi.digiserve.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL APLIKASI SOLUSI",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002584.08/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4019",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3919",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4019"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4018",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiserve Professional Service - IT",
+        "website": "Digiserve.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL APLIKASI SOLUSI",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002584.07/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4018",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3918",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4018"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4017",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kenlola",
+        "website": "https://kenlola.com/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KENLOLA GRUP INDONESIA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002609.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4017",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3769",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4017"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4016",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sogih",
+        "website": "sogih.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOGIH TEKNOLOGI BANGSA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002608.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4016",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3866",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4016"
+      }
+    }
+  ]
+}

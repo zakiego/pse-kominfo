@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 182,
+      "from": 1811,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1820,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=183",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=181"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6791",
+      "attributes": {
+        "nomor_pb_umku": "812000393047500010004",
+        "nama": "PEMANFAATAN NOMOR INDUK KEPENDUDUKAN, DATA KEPENDUDUKAN DAN KARTU TANDA PENDUDUK ELEKTRONIK DAN CARD READER KTP-EL DALAM LAYANAN PERBANKAN LINGKUP PT BPR SURYA UTAMA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA UTAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004411.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6791",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6637",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6791"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6790",
+      "attributes": {
+        "nomor_pb_umku": "022010640176600000001",
+        "nama": "APLIKASI ONLINE TRAVEL AGENT",
+        "website": "REBAHAN.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REJEKI BERKAH NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004985.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6790",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6638",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6790"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6789",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040006",
+        "nama": "PAYKALTIMTARA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6789",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6636",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6789"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6788",
+      "attributes": {
+        "nomor_pb_umku": "812011415297200190003",
+        "nama": "WEBSITE PATRAJASA",
+        "website": "patra-jasa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PATRA JASA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004948.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6788",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6600",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6788"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6787",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000001",
+        "nama": "AYUNE REK",
+        "website": "ayunerek.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6787",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6635",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6787"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6786",
+      "attributes": {
+        "nomor_pb_umku": "912000387152600010001",
+        "nama": "PT DEJAYO AGEN SOFTWARE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KUSEMAS DANA MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004910.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6786",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6634",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6786"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6785",
+      "attributes": {
+        "nomor_pb_umku": "026701002100300040004",
+        "nama": "FLIGHT SCHEDULE TV",
+        "website": "flightscheduletv.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT STUDIO KAMI MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004407.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6785",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6632",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6785"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6784",
+      "attributes": {
+        "nomor_pb_umku": "022600090267200030006",
+        "nama": "OTTO SFA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REKSA TRANSAKSI SUKSES MAKMUR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000440.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6784",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6633",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6784"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6783",
+      "attributes": {
+        "nomor_pb_umku": "190722003607500000001",
+        "nama": "BALAI PEDIA DIGITAL",
+        "website": "balaipedia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "M TAUFIQ ALHAZMI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004978.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6783",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6631",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6783"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6782",
+      "attributes": {
+        "nomor_pb_umku": "912010179015400010001",
+        "nama": "PT BPR BINA MAJU USAHA",
+        "website": "bprbmu.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PT Bank Perkreditan Rakyat Bina Maju Usaha",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004980.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6782",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6629",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6782"
+      }
+    }
+  ]
+}

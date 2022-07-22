@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 328,
+      "from": 3271,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3280,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=329",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=327"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5210",
+      "attributes": {
+        "nomor_pb_umku": "022000487254200000002",
+        "nama": "NATURAL FOODS SUKSES MAKMUR",
+        "website": "nswfood.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NATURAL FOODS SUKSES MAKMUR",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003838.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5210",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5050",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5210"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5209",
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010009",
+        "nama": "MY LIFE SYARIAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "002423.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5209",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5080",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5209"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5208",
+      "attributes": {
+        "nomor_pb_umku": "022000676016700000001",
+        "nama": "GELEMBUNG",
+        "website": "gelembung.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADITYA ARDI NUGRAHA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003853.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5208",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5079",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5208"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5207",
+      "attributes": {
+        "nomor_pb_umku": "912011908013300000001",
+        "nama": "MAKIN JAYA AGUNG",
+        "website": "mjagaharu.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAKIN JAYA AGUNG",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003842.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5207",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5078",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5207"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5206",
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010008",
+        "nama": "MY CUSTOMER SYARIAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "002423.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5206",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5077",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5206"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5205",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "LAZADA (STARINDO_SAN)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RATNAWATI",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003876.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5205",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5076",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5205"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5204",
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010007",
+        "nama": "MY AGENCY SYARIAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "002423.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5204",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5075",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5204"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5203",
+      "attributes": {
+        "nomor_pb_umku": "912010514083200040001",
+        "nama": "KOMPAS.COM",
+        "website": "kompas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOMPAS CYBER MEDIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003859.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5203",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5060",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5203"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5202",
+      "attributes": {
+        "nomor_pb_umku": "060422000218900000001",
+        "nama": "TOKO ONLINE BUYINGKLUB",
+        "website": "idnbuyingclub.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUYINGKLUB GLOBAL INTERNASIONAL",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003499.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5202",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5074",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5202"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5201",
+      "attributes": {
+        "nomor_pb_umku": "022000199082100000001",
+        "nama": "AKSATA WISATA",
+        "website": "aksatawisata.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JUS BIANTORO",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003868.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5201",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5073",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5201"
+      }
+    }
+  ]
+}

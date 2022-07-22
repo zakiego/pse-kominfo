@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 62,
+      "from": 611,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 620,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=63",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=61"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8011",
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010002",
+        "nama": "VA H2H PT BPR BANK DAERAH BANGLI (PERSERODA) DAN PT. BPD BALI",
+        "website": "cbs.bankdaerahbangli.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005716.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8011",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7932",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8011"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8010",
+      "attributes": {
+        "nomor_pb_umku": "912050679351900020001",
+        "nama": "WEBSITE PT. BPR ARTA KEDATON MAKMUR",
+        "website": "bprartakedatonmakmurpt.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTA KEDATON MAKMUR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005733.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8010",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7930",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8010"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8009",
+      "attributes": {
+        "nomor_pb_umku": "912000571257900010002",
+        "nama": "PT.BPR RARAT GANDA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RARAT GANDA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005740.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8009",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7926",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8009"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8008",
+      "attributes": {
+        "nomor_pb_umku": "912040994254100010004",
+        "nama": "AJAKTEMANMU",
+        "website": "ajaktemanmu.bcalife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA BCA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002181.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8008",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7921",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8008"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8007",
+      "attributes": {
+        "nomor_pb_umku": "128100146017800000002",
+        "nama": "AYOSCAN",
+        "website": "g7teknologi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL TUJUH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005200.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8007",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7927",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8007"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8006",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160023",
+        "nama": "NEW ORIGINATION SYSTEM (NOS)",
+        "website": "digitalform.bsm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.38/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8006",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7925",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8006"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8005",
+      "attributes": {
+        "nomor_pb_umku": "912020480116200010003",
+        "nama": "BALAP HOKI APPLICATION",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIGA MACAN MULTIMEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005449.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8005",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7913",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8005"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8004",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020002",
+        "nama": "WEFIT.ID",
+        "website": "wefit.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8004",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7922",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8004"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8003",
+      "attributes": {
+        "nomor_pb_umku": "912020480116200010002",
+        "nama": "BALAP HOKI",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIGA MACAN MULTIMEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005449.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8003",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7881",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8003"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8002",
+      "attributes": {
+        "nomor_pb_umku": "200722004814700000003",
+        "nama": "AGEN ASURANSI TRAVEL ONLINE",
+        "website": "chubb.indo-trust.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ARNANTO KARTAMIHARDJA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005657.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8002",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7914",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8002"
+      }
+    }
+  ]
+}

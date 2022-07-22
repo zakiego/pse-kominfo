@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 119,
+      "from": 1181,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1190,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=120",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=118"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7437",
+      "attributes": {
+        "nomor_pb_umku": "090322004829900020001",
+        "nama": "JOOX MUSIC",
+        "website": "joox.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TENCENT TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003717.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7437",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7062",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7437"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7436",
+      "attributes": {
+        "nomor_pb_umku": "912000651163200000001",
+        "nama": "BANK PERKREDITAN RAKYAT SUKADANA",
+        "website": "bprsukadana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUKADANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005290.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7436",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7338",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7436"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7435",
+      "attributes": {
+        "nomor_pb_umku": "812020280021300010006",
+        "nama": "FAIRY TAIL (APPS.APPLE.COM/ID/APP/FAIRY-TAIL-FORCES-UNITE/ID1517989205; PLAY.GOOGLE.COM/STORE/APPS/DETAILS?ID=COM.GARENA.GAME.FTMID&HL=EN&GL=US)",
+        "website": "ftm.garena.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002712.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7435",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7330",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7435"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7434",
+      "attributes": {
+        "nomor_pb_umku": "026701002100300040005",
+        "nama": "WEBSITE STUDIO KAMI MANDIRI",
+        "website": "studiokami.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT STUDIO KAMI MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004407.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7434",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7329",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7434"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7433",
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090012",
+        "nama": "MANAGEMENT INFORMATION SYSTEM (MIS)",
+        "website": "mis-public.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004092.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7433",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7337",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7433"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7432",
+      "attributes": {
+        "nomor_pb_umku": "123400011055600010001",
+        "nama": "NBP SYS, SMA, SISCHA, DOMPET NBP, BANTU JUAL, CAS",
+        "website": "bprnbp19.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 19",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005448.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7432",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7335",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7432"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7431",
+      "attributes": {
+        "nomor_pb_umku": "912010665134600000002",
+        "nama": "VALLET",
+        "website": "vallet.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PAKAR LAYANAN TANPA BATAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005476.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7431",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7328",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7431"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7430",
+      "attributes": {
+        "nomor_pb_umku": "200722000965100000001",
+        "nama": "PUTRA RELOAD",
+        "website": "putrareload.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PUTRA SELULER MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005318.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7430",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7333",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7430"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7429",
+      "attributes": {
+        "nomor_pb_umku": "081121000309900040001",
+        "nama": "PORTAL MIKTI",
+        "website": "mikti.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MASYARAKAT INDUSTRI KREATIF TEKNOLOGI INFORMASI DAN KOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005501.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7429",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7334",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7429"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7428",
+      "attributes": {
+        "nomor_pb_umku": "022030291091600010001",
+        "nama": "PT.USSI PINBUK PRIMA SOFTWARE",
+        "website": "bprasri.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA SINAR RAHARJA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005084.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7428",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7331",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7428"
+      }
+    }
+  ]
+}

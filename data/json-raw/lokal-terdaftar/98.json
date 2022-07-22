@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 98,
+      "from": 971,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 980,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=99",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=97"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7648",
+      "attributes": {
+        "nomor_pb_umku": "022000127267600000001",
+        "nama": "FOOD TRAVEL GALLERY (LANCAR SUKSES LANGGENG)",
+        "website": "lawrentechnologyindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LANCAR SUKSES LANGGENG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005562.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7648",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7548",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7648"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7647",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230002",
+        "nama": "KLIKACA.COM",
+        "website": "klikaca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7647",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7546",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7647"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7646",
+      "attributes": {
+        "nomor_pb_umku": "912000477380200020001",
+        "nama": "WEBSITE BPR",
+        "website": "bprcelebes.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CELEBES MITRA PERDANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005529.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7646",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7545",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7646"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7645",
+      "attributes": {
+        "nomor_pb_umku": "022000168299900010005",
+        "nama": "WEBSITE BANK KALTENG",
+        "website": "bankkalteng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004154.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7645",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7543",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7645"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7644",
+      "attributes": {
+        "nomor_pb_umku": "123300014256400020006",
+        "nama": "HANWHA SMART MOBILE APPLICATION (ANDROID & IOS)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HANWHA LIFE INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000359.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7644",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7538",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7644"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7643",
+      "attributes": {
+        "nomor_pb_umku": "912020929138700100005",
+        "nama": "WARUNG TEPAT BTPN SYARIAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN SYARIAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001421.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7643",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7542",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7643"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7642",
+      "attributes": {
+        "nomor_pb_umku": "026301024248900000002",
+        "nama": "POINT BANK EKA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT EKA BUMI ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005335.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7642",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7541",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7642"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7641",
+      "attributes": {
+        "nomor_pb_umku": "091121000087600060003",
+        "nama": "WEBSITE JUAL BELI ASET ( INTERIORKUY )",
+        "website": "interiorkuy.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BINTANG TEKNOLOGI PRATAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005297.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7641",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7523",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7641"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7640",
+      "attributes": {
+        "nomor_pb_umku": "022010448147100000001",
+        "nama": "IBANKPOS",
+        "website": "ibankpos.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DARO DATA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005253.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7640",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7476",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7640"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7639",
+      "attributes": {
+        "nomor_pb_umku": "022030186149400010001",
+        "nama": "WEBSITE PROFILE",
+        "website": "banksukoharjo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK SUKOHARJO (PERSERODA)",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005556.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7639",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7534",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7639"
+      }
+    }
+  ]
+}

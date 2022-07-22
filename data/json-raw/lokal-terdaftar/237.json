@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 237,
+      "from": 2361,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2370,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=238",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=236"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6185",
+      "attributes": {
+        "nomor_pb_umku": "912050585061300010001",
+        "nama": "WEBSITE CUSTOMER CARE PT SINAR MITRA SEPADAN FINANCE",
+        "website": "bantuan.smsfinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINAR MITRA SEPADAN FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004346.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6185",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6048",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6185"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6183",
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010001",
+        "nama": "NAGARI DIGITAL MASJID",
+        "website": "digitalmasjid.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NAGARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004529.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6183",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6050",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6183"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6182",
+      "attributes": {
+        "nomor_pb_umku": "220322001156800010001",
+        "nama": "PT. BPR SEDANA MURNI",
+        "website": "banksedanamurni.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SEDANA MURNI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004539.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6182",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6051",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6182"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6181",
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010001",
+        "nama": "NAGARI HOSPITAL INFORMATION SYSTEM",
+        "website": "n-his.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NAGARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004529.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6181",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6049",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6181"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6180",
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010001",
+        "nama": "NAGARI PORTAL PAYMENT",
+        "website": "npp.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NAGARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004529.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6180",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6047",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6180"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6179",
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010001",
+        "nama": "NCM COORPORATE BANK NAGARI",
+        "website": "cms.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NAGARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004529.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6179",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6045",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6179"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6178",
+      "attributes": {
+        "nomor_pb_umku": "912050476167900040004",
+        "nama": "DIGIMOD E-COLLECTION-BPR IRIAN SENTOSA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT IRIAN SENTOSA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004307.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6178",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6046",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6178"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6177",
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010001",
+        "nama": "NCM PERSONAL BANK NAGARI",
+        "website": "ib.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NAGARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004529.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6177",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6043",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6177"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6176",
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010001",
+        "nama": "MOBILE BANKING BANK NAGARI",
+        "website": "mobile.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NAGARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004529.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6176",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6038",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6176"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6175",
+      "attributes": {
+        "nomor_pb_umku": "912000714188200010001",
+        "nama": "IBS REALTIME CORE BANKING USSI",
+        "website": "bprsaraswatiekabumi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR SARASWATI EKABUMI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004528.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6175",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6044",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6175"
+      }
+    }
+  ]
+}

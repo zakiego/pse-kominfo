@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 41,
+      "from": 401,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 410,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=42",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=40"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8286",
+      "attributes": {
+        "nomor_pb_umku": "912020626142300000001",
+        "nama": "URBANE ROOM",
+        "website": "urbaneroom.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT URBANE DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005569.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8286",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8204",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8286"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8285",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010012",
+        "nama": "DEVELOPMENT APLIKASI QRIS BANK PAPUA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8285",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8203",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8285"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8284",
+      "attributes": {
+        "nomor_pb_umku": "812011410320700830015",
+        "nama": "MYNSP ATAU NADA SAMBUNG PRIBADI KREASI",
+        "website": "mynsp.langitmusik.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000337.39/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8284",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8200",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8284"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8283",
+      "attributes": {
+        "nomor_pb_umku": "200722006792500000001",
+        "nama": "SMADAV",
+        "website": "smadav.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ZAINUDDIN NAFARIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005804.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8283",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8201",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8283"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8282",
+      "attributes": {
+        "nomor_pb_umku": "912010866182500000002",
+        "nama": "JARI MOBILE COLLECTION (APPS FOR TUNAIKU LOGISTIK)",
+        "website": "jari.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JARI SOLUSI INTERNATIONAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004691.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8282",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8199",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8282"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8281",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010011",
+        "nama": "STORAGE CLOUD FILE BANK PAPUA",
+        "website": "bankpapua.org",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8281",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8197",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8281"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8280",
+      "attributes": {
+        "nomor_pb_umku": "022201005088500060002",
+        "nama": "PT. ANDALAN DOMPET PUTERA INDONESIA",
+        "website": "adope.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDALAN DOMPET PUTERA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000521.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8280",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8196",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8280"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8276",
+      "attributes": {
+        "nomor_pb_umku": "022020411117500010001",
+        "nama": "WIDE HOST MEDIA",
+        "website": "widehostmedia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKASHIA THUBA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005820.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8276",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8187",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8276"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8269",
+      "attributes": {
+        "nomor_pb_umku": "030122001599900000001",
+        "nama": "KOPIGAYA",
+        "website": "kopigaya.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DIGITAL ENTREPRENEUR KOPIGAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005826.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8269",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8183",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8269"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8265",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010010",
+        "nama": "QRIS ACQUIRER",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.16/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8265",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8182",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8265"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 47,
+      "from": 461,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 470,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=48",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=46"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8177",
+      "attributes": {
+        "nomor_pb_umku": "030622002717700000001",
+        "nama": "WEBSITE",
+        "website": "bprantarparama.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ANTAR PARAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005459.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8177",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8095",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8177"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8176",
+      "attributes": {
+        "nomor_pb_umku": "270422002447200010002",
+        "nama": "LARUNOCOM",
+        "website": "laruno.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BELAJAR ONLINE SELAMANYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005328.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8176",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8094",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8176"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8175",
+      "attributes": {
+        "nomor_pb_umku": "912030449041501110057",
+        "nama": "INFO REKRUTMEN TELKOM",
+        "website": "rekrutmen.telkom.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001331.49/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8175",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8093",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8175"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8174",
+      "attributes": {
+        "nomor_pb_umku": "812011604106700000003",
+        "nama": "COBT.ID",
+        "website": "cobt.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PANORAMA JTB TOURS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005418.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8174",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8089",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8174"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8173",
+      "attributes": {
+        "nomor_pb_umku": "912030713186200000001",
+        "nama": "PT. BPR ARTADAMAS MANDIRI",
+        "website": "bpr-aman.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTADAMAS MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005775.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8173",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8091",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8173"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8172",
+      "attributes": {
+        "nomor_pb_umku": "124100142077600010001",
+        "nama": "TOPRESELLER2022.COM",
+        "website": "topreseller2022.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SENTOSA SELARAS NETWORK",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005794.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8172",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8090",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8172"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8171",
+      "attributes": {
+        "nomor_pb_umku": "912020925021100010002",
+        "nama": "ADKOMU.COM",
+        "website": "adkomu.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADKOMU DIGITAL ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005767.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8171",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8088",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8171"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8170",
+      "attributes": {
+        "nomor_pb_umku": "060921007373600010002",
+        "nama": "DAHSYAT",
+        "website": "dahsyat.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TDW RESOURCES",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005769.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8170",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8084",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8170"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8169",
+      "attributes": {
+        "nomor_pb_umku": "912010973093500020001",
+        "nama": "WEBSITE BANDUNGTALENTSOURCE.COM",
+        "website": "bandungtalentsource.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANDUNG TALENTSOURCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005713.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8169",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8087",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8169"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8168",
+      "attributes": {
+        "nomor_pb_umku": "912030449041501110056",
+        "nama": "SELECTION EXAM 2",
+        "website": "exam2.telkom.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001331.48/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8168",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8031",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8168"
+      }
+    }
+  ]
+}

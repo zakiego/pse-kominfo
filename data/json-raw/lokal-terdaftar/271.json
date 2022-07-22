@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 271,
+      "from": 2701,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2710,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=272",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=270"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5824",
+      "attributes": {
+        "nomor_pb_umku": "912060175341900050001",
+        "nama": "NAROBIL",
+        "website": "ns1.optima-s.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JATELINDO PERKASA ABADI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000261.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5824",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5672",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5824"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5823",
+      "attributes": {
+        "nomor_pb_umku": "912030653210900020001",
+        "nama": "CAM ONLINE REGISTRATION & TRANSACTION",
+        "website": "ciptadana-am.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTADANA ASSET MANAGEMENT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004332.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5823",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5683",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5823"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5822",
+      "attributes": {
+        "nomor_pb_umku": "912010671095200100005",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-COLLECTION-BPR PALU LOKADANA UTAMA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004168.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5822",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5682",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5822"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5821",
+      "attributes": {
+        "nomor_pb_umku": "260422004343700010002",
+        "nama": "WEBSITE BPR SUPRA",
+        "website": "bprsupra.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004223.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5821",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5681",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5821"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5820",
+      "attributes": {
+        "nomor_pb_umku": "912020177088600020003",
+        "nama": "EPOLICY SEQUIS",
+        "website": "epolicy.sequis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000050.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5820",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5680",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5820"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5819",
+      "attributes": {
+        "nomor_pb_umku": "912010460172100060001",
+        "nama": "WEBSITE RAMAINS",
+        "website": "ramains.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI RAMA SATRIA WIBAWA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004224.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5819",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5675",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5819"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5818",
+      "attributes": {
+        "nomor_pb_umku": "150722000480600000001",
+        "nama": "AVANTEE",
+        "website": "avantee.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRHA DANA BERSAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004281.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5818",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5677",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5818"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5817",
+      "attributes": {
+        "nomor_pb_umku": "022020378254300010001",
+        "nama": "DIAN BINARTA",
+        "website": "bprdb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DIAN BINARTA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004323.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5817",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5676",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5817"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5816",
+      "attributes": {
+        "nomor_pb_umku": "912010671095200090004",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN CUSTOMER-BPR PALU LOKADANA UTAMA",
+        "website": "kredit.bprpalu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004168.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5816",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5679",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5816"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5814",
+      "attributes": {
+        "nomor_pb_umku": "022010772105400000001",
+        "nama": "KANTONG PULSA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIMOPAY TEKNOLOGI DIGITAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004319.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5814",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5678",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5814"
+      }
+    }
+  ]
+}

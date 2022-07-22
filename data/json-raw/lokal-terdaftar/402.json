@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 402,
+      "from": 4011,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4020,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=403",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=401"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4488",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "JEMPOL KIOS",
+        "website": "www.jempolkios.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA DISTRIBUSI UTAMA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002723.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4488",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4472",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4488"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4480",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Biizaa Management Consulting",
+        "website": "biizaa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIIZAA ASIA TECHNOLOGY",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002702.05/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4480",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4464",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4480"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4466",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Yakult",
+        "website": "yakult.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YAKULT INDONESIA PERSADA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002717.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4466",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4450",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4466"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4350",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TEPAT DAYA",
+        "website": "tepatdaya.btpnsyariah.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN SYARIAH",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "001421.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4350",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4336",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4350"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4346",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OneStop Platform",
+        "website": "id-oop.advance.ai",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADVANCE INTELLIGENCE INDONESIA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "000662.04/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4346",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4332",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4346"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4492",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Runchise",
+        "website": "runchise.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI KULINER KEKINIAN",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "002714.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4492",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4476",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4492"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4491",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EAGLE JEK",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV EMILIANUS SAMSON",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "002713.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4491",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4475",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4491"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4490",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Information Page Aplikasi Games (Free Fire, Arena of Valor, Call of Duty Mobile)",
+        "website": "garena.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "002712.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4490",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4474",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4490"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4489",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RMW Center",
+        "website": "rmw-pulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RELASI MAHAKARYA WIJAYA",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "002711.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4489",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4473",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4489"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4487",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SeaInsure Website",
+        "website": "www.seainsure.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA SEAINSURE",
+        "tanggal_daftar": "2022-05-18",
+        "tanggal_terbit": "2022-05-18",
+        "nomor_tanda_daftar": "002710.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4487",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4471",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4487"
+      }
+    }
+  ]
+}

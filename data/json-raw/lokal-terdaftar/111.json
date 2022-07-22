@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 111,
+      "from": 1101,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1110,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=112",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=110"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7517",
+      "attributes": {
+        "nomor_pb_umku": "022000832016800010001",
+        "nama": "WEBSITE PT BPR GUNUNG SIMPING ARTHA",
+        "website": "bprgunungsimping.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GUNUNG SIMPING ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005372.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7517",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7414",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7517"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7516",
+      "attributes": {
+        "nomor_pb_umku": "022020679239300040002",
+        "nama": "WEBSITE PT. ASURANSI RELIANCE INDONESIA",
+        "website": "asuransireliance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI RELIANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001251.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7516",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7336",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7516"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7515",
+      "attributes": {
+        "nomor_pb_umku": "912010782360900010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT MULTI TATAPERKASA",
+        "website": "bprmultitataperkasa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MULTI TATAPERKASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005369.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7515",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7411",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7515"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7514",
+      "attributes": {
+        "nomor_pb_umku": "200722002377900000001",
+        "nama": "PT BANK PERKREDITAN RAKYAT MUTIARA PESISIR",
+        "website": "bprmutiarapesisir.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MUTIARA PESISIR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005432.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7514",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7412",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7514"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7513",
+      "attributes": {
+        "nomor_pb_umku": "129700035259400390001",
+        "nama": "GKP.CO.ID",
+        "website": "gkp.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GIBRAN KREASI PRATAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005371.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7513",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7409",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7513"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7512",
+      "attributes": {
+        "nomor_pb_umku": "022000843066800020001",
+        "nama": "WEBSITE PT BPR BKK KUDUS (PERSERODA)",
+        "website": "bprbkkkudus.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN KUDUS PERSERODA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005543.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7512",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7410",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7512"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7511",
+      "attributes": {
+        "nomor_pb_umku": "912000470370100000001",
+        "nama": "IBS (INTEGRATED BANKING SYSTEM)",
+        "website": "binasejahtera.insani.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BINA SEJAHTERA INSANI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005232.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7511",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7408",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7511"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7510",
+      "attributes": {
+        "nomor_pb_umku": "022010128284700010NaN",
+        "nama": "ISLAMIC BANKING APLICATION",
+        "website": "bprsbmp.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH BUANA MITRA PERWIRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005151.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7510",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7407",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7510"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7509",
+      "attributes": {
+        "nomor_pb_umku": "912010321016300010001",
+        "nama": "SJI.CO.ID",
+        "website": "sji.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SRIKANDHI JAYATAMA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005256.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7509",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7350",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7509"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7508",
+      "attributes": {
+        "nomor_pb_umku": "912030684182500010001",
+        "nama": "WEBSITE PT. BPR PRIMA NADI MATARAM",
+        "website": "bpr-primanadi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PRIMA NADI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005299.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7508",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7406",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7508"
+      }
+    }
+  ]
+}

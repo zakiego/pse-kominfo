@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 118,
+      "from": 1171,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1180,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=119",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=117"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7447",
+      "attributes": {
+        "nomor_pb_umku": "912010664210900010001",
+        "nama": "WEBSITE",
+        "website": "bprsekarkaltim.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SEKAR KALIMANTAN TIMUR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005514.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7447",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7357",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7447"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7446",
+      "attributes": {
+        "nomor_pb_umku": "912001513116700010002",
+        "nama": "BPR CENTRAL PITOBY",
+        "website": "bprcentralpitoby.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CENTRAL PITOBY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005144.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7446",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7356",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7446"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7445",
+      "attributes": {
+        "nomor_pb_umku": "200722002210200000001",
+        "nama": "PT. BPR ADI SEDANA AYU",
+        "website": "bankadisedanaayu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ADI SEDANA AYU",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005386.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7445",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7352",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7445"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7444",
+      "attributes": {
+        "nomor_pb_umku": "912000698056700010001",
+        "nama": "HTTP://BPRSEDANAYASA.COM",
+        "website": "bprsedanayasa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SEDANA YASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005510.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7444",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7349",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7444"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7443",
+      "attributes": {
+        "nomor_pb_umku": "210921003957900000001",
+        "nama": "MASTER ONLINE",
+        "website": "masteronline.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERASOFT TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005361.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7443",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7343",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7443"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7442",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160011",
+        "nama": "WAIS (WHOLESALE ALLIANCE INTEGRATED SYSTEM)",
+        "website": "wais.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.25/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7442",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7346",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7442"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7441",
+      "attributes": {
+        "nomor_pb_umku": "912000396270900020001",
+        "nama": "JALUR KERJA",
+        "website": "jalurkerja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDO HUMAN RESOURCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005342.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7441",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7344",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7441"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7440",
+      "attributes": {
+        "nomor_pb_umku": "912020881049500010001",
+        "nama": "SISTEM INFORMASI BERBASIS WEBSITE PADA BPR PANCA DANARAKYAT",
+        "website": "bprpdr.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PANCA DANARAKYAT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005428.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7440",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7339",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7440"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7439",
+      "attributes": {
+        "nomor_pb_umku": "200722002973200000001",
+        "nama": "TOP SERVER",
+        "website": "Mitratopserver.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Yogitanto",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005498.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7439",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7342",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7439"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7438",
+      "attributes": {
+        "nomor_pb_umku": "912010738212400000001",
+        "nama": "ENA HEALTH INFORMATION SYSTEM, ENA HIS, ENA PRIMER",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ENA ENA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005504.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7438",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7341",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7438"
+      }
+    }
+  ]
+}

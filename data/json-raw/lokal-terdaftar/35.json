@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 35,
+      "from": 341,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 350,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=36",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=34"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8346",
+      "attributes": {
+        "nomor_pb_umku": "022010665225800030001",
+        "nama": "WEBSITE INDOPAY",
+        "website": "Indopay.net",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INDOPAY MULTISINERGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005857.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8346",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8266",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8346"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8345",
+      "attributes": {
+        "nomor_pb_umku": "022000660069800000001",
+        "nama": "SAP CLOUD SERVICES",
+        "website": "sap.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAP INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003902.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8345",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8247",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8345"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8344",
+      "attributes": {
+        "nomor_pb_umku": "912050483066500050007",
+        "nama": "MILEA (MANTAP INTELLIGENCE E-ASSISTANT)",
+        "website": "milea.bankmantap.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MANDIRI TASPEN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000851.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8344",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8264",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8344"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8343",
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000009",
+        "nama": "WINMARKET",
+        "website": "winmarket.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005304.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8343",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8263",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8343"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8342",
+      "attributes": {
+        "nomor_pb_umku": "190722002659400000003",
+        "nama": "PULSA QRIS CATAT UANG - ALEENA",
+        "website": "aleena.bukaolshop.site",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FISABIL MAHARDIKA PUTRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004940.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8342",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8262",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8342"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8341",
+      "attributes": {
+        "nomor_pb_umku": "200722003290400000001",
+        "nama": "TIXPULSA",
+        "website": "tixpulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RX CAHYONO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005442.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8341",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8260",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8341"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8340",
+      "attributes": {
+        "nomor_pb_umku": "022010544157800000003",
+        "nama": "DIGITAL SIGNATURE SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HEXA MAJU SAMASTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004544.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8340",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8261",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8340"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8339",
+      "attributes": {
+        "nomor_pb_umku": "912030072253200000001",
+        "nama": "VIDING.CO",
+        "website": "viding.co",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU BISA IBADAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005228.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8339",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8259",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8339"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8338",
+      "attributes": {
+        "nomor_pb_umku": "020322004839100010002",
+        "nama": "EDUSUPE - MIS AL HIJRIYAH SERUTSEWU",
+        "website": "edusupe.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV EDUSUPE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005706.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8338",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8258",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8338"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8337",
+      "attributes": {
+        "nomor_pb_umku": "912021807101900010006",
+        "nama": "BANK SULTENG SINKAT",
+        "website": "sikat.banksulteng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005711.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8337",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8257",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8337"
+      }
+    }
+  ]
+}

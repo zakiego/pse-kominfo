@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 61,
+      "from": 601,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 610,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=62",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=60"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8021",
+      "attributes": {
+        "nomor_pb_umku": "912020480116200010005",
+        "nama": "COMPANY PROFILE PT. TIGA MACAN MULTIMEDIA",
+        "website": "timobile.tech",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIGA MACAN MULTIMEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005449.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8021",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7945",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8021"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8020",
+      "attributes": {
+        "nomor_pb_umku": "190722007592500000001",
+        "nama": "JETPULSA",
+        "website": "jetpulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Muhamad Wahyudi",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005365.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8020",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7940",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8020"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8019",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230011",
+        "nama": "MIKROACA.COM",
+        "website": "mikroaca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8019",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7943",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8019"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8018",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020003",
+        "nama": "WEFITCLUBS.COM",
+        "website": "wefitclubs.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8018",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7941",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8018"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8017",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160024",
+        "nama": "MOBILE COLLECTION SYSTEM",
+        "website": "mcs.bsm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.39/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8017",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7938",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8017"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8016",
+      "attributes": {
+        "nomor_pb_umku": "200722000250400000002",
+        "nama": "KONSULTA.CO",
+        "website": "konsulta.co",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BARA INOVASI SEMESTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005486.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8016",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7939",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8016"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8015",
+      "attributes": {
+        "nomor_pb_umku": "126600141156100030002",
+        "nama": "EXADATA ACADEMY",
+        "website": "exadata.academy",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV EXADATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005298.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8015",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7935",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8015"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8014",
+      "attributes": {
+        "nomor_pb_umku": "812001203066600010003",
+        "nama": "MILOV WEBSITE",
+        "website": "milov.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMAN DEVLOOP INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005377.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8014",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7936",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8014"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8013",
+      "attributes": {
+        "nomor_pb_umku": "912020480116200010004",
+        "nama": "BALAP HOKI PORTAL",
+        "website": "balaphoki.timobile.tech",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIGA MACAN MULTIMEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005449.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8013",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7933",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8013"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8012",
+      "attributes": {
+        "nomor_pb_umku": "310322004597400000001",
+        "nama": "LISTOPIA.IO",
+        "website": "listopia.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LISTOPIA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005720.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8012",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7934",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8012"
+      }
+    }
+  ]
+}

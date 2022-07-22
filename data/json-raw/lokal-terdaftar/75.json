@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 75,
+      "from": 741,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 750,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=76",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=74"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7881",
+      "attributes": {
+        "nomor_pb_umku": "912010931131800120002",
+        "nama": "WEBSITE KORPORAT BANK JATENG",
+        "website": "bankjateng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005420.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7881",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7479",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7881"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7880",
+      "attributes": {
+        "nomor_pb_umku": "812011604106700000001",
+        "nama": "PANORAMA-JTB.COM",
+        "website": "panorama-jtb.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PANORAMA JTB TOURS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005418.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7880",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7570",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7880"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7879",
+      "attributes": {
+        "nomor_pb_umku": "912031821160200010001",
+        "nama": "INVENTORY SMART FINANCE",
+        "website": "inventory.smartfinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SMART MULTI FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005494.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7879",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7790",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7879"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7878",
+      "attributes": {
+        "nomor_pb_umku": "022010015229800010001",
+        "nama": "WEBSITE",
+        "website": "danagungramulti.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANAGUNG RAMULTI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005396.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7878",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7566",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7878"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7877",
+      "attributes": {
+        "nomor_pb_umku": "080722003667200000001",
+        "nama": "BANK ABDI",
+        "website": "bankabdi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT AKAR BUDAYA DANA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005624.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7877",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7702",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7877"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7876",
+      "attributes": {
+        "nomor_pb_umku": "912010386132400010001",
+        "nama": "PT USSI PINBUK PRIMA SOFTWARE",
+        "website": "bprprasta.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BALAGUNA PERASTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005102.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7876",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7789",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7876"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7875",
+      "attributes": {
+        "nomor_pb_umku": "912020757143200010001",
+        "nama": "BRILIANINVESTAMA.COM",
+        "website": "brilianinvestama.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR BRILIAN INVESTAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005409.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7875",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7791",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7875"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7874",
+      "attributes": {
+        "nomor_pb_umku": "912020849299900020001",
+        "nama": "PEOPLE XPERIENCE APP",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DKATALIS DIGITAL LAB",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004960.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7874",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7792",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7874"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7873",
+      "attributes": {
+        "nomor_pb_umku": "812021619105400020002",
+        "nama": "TIP TOP",
+        "website": "shop.tiptop.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIP TOP",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004785.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7873",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7788",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7873"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7872",
+      "attributes": {
+        "nomor_pb_umku": "812001002164900000002",
+        "nama": "KAKAOPAGE.CO.ID",
+        "website": "kakaopage.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NEO BAZAR INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005376.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7872",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7717",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7872"
+      }
+    }
+  ]
+}

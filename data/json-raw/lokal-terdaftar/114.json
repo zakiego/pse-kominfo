@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 114,
+      "from": 1131,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1140,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=115",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=113"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7487",
+      "attributes": {
+        "nomor_pb_umku": "912010279390400010001",
+        "nama": "WEBSITE PT. BPR HARTA TANAMAS",
+        "website": "bprhartatanamas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HARTA TANAMAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005346.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7487",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7394",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7487"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7486",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010009",
+        "nama": "BTPN.COM",
+        "website": "btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7486",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7340",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7486"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7485",
+      "attributes": {
+        "nomor_pb_umku": "812021319184101560002",
+        "nama": "BFIKU AGENT DAN SUPPLIER BFI FINANCE",
+        "website": "bfiku.bfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BFI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003857.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7485",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7388",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7485"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7484",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010008",
+        "nama": "SINAYA GIFT",
+        "website": "sinaya.more.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7484",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7332",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7484"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7483",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160012",
+        "nama": "APLIKASI BSI BISA",
+        "website": "amlbisa.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.26/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7483",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7390",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7483"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7482",
+      "attributes": {
+        "nomor_pb_umku": "022010544269300020002",
+        "nama": "AMFS AGEN LAKU PANDAI",
+        "website": "lakupandai.axa-mandiri.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AXA MANDIRI FINANCIAL SERVICES",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000538.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7482",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7177",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7482"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7481",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010019",
+        "nama": "WOW CUSTOMER PORTAL",
+        "website": "btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7481",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7325",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7481"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7480",
+      "attributes": {
+        "nomor_pb_umku": "912020995002900010001",
+        "nama": "PINTECH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTAPERDANA DELTASENTOSA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005355.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7480",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7387",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7480"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7479",
+      "attributes": {
+        "nomor_pb_umku": "912030111272600010010",
+        "nama": "JFXGRIT",
+        "website": "jfxgrit-app.jfx.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BULLION ECOSYSTEM INTERNATIONAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000155.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7479",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7386",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7479"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7478",
+      "attributes": {
+        "nomor_pb_umku": "040322000219700010001",
+        "nama": "WEBSITE",
+        "website": "ns1.idwebhost.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTA UTAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004926.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7478",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7380",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7478"
+      }
+    }
+  ]
+}

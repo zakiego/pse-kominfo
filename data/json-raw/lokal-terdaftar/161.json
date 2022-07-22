@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 161,
+      "from": 1601,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1610,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=162",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=160"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7010",
+      "attributes": {
+        "nomor_pb_umku": "812011619289900510001",
+        "nama": "APLIKASI ASURANSI SINAR MAS ONLINE",
+        "website": "sinarmas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI SINAR MAS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000513.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7010",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6847",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7010"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7009",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010025",
+        "nama": "WEBSITE DAN API PINANG PERFORMA",
+        "website": "pinang-performa.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004288.25/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7009",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6864",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7009"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7007",
+      "attributes": {
+        "nomor_pb_umku": "912020389091500010001",
+        "nama": "WIF KAIN",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIHIAKA ALPHA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001249.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7007",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6810",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7007"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7006",
+      "attributes": {
+        "nomor_pb_umku": "912010980155200010001",
+        "nama": "WEB BPR UKABIMA GRAZIA",
+        "website": "ukabima-grazia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT UKABIMA GRAZIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005029.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7006",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6862",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7006"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7005",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040015",
+        "nama": "UTTAMAPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.16/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7005",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6861",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7005"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7004",
+      "attributes": {
+        "nomor_pb_umku": "022000847259900010001",
+        "nama": "OFFICIAL WEBSITE HONDA SURABAYA CENTER",
+        "website": "hondasurabayacenter.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISTANA MOBIL SURABAYA INDAH",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005066.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7004",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6840",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7004"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7003",
+      "attributes": {
+        "nomor_pb_umku": "912021410279600010001",
+        "nama": "WEBSITE BPR RATNA ARTHA PUSAKA",
+        "website": "bprratna.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RATNA ARTHA PUSAKA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005059.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7003",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6860",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7003"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7002",
+      "attributes": {
+        "nomor_pb_umku": "912000875350100010001",
+        "nama": "WEBSITE RESMI PT. BPR UTOMO MANUNGGAL SEJAHTERA SUMSEL",
+        "website": "utomobanksumsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT UTOMO MANUNGGAL SEJAHTERA SUMSEL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005050.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7002",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6841",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7002"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7001",
+      "attributes": {
+        "nomor_pb_umku": "912020417284100040011",
+        "nama": "MITRA INDOGROSIR",
+        "website": "mitraindogrosir.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI CAKRAWALA CITRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004779.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7001",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6858",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7001"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7000",
+      "attributes": {
+        "nomor_pb_umku": "912031122151500010001",
+        "nama": "PT BPR SYARIAH VITKA CENTRAL",
+        "website": "bprsvitkacentral.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH VITKA CENTRAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005104.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7000",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6856",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7000"
+      }
+    }
+  ]
+}

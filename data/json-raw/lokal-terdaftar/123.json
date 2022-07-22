@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 123,
+      "from": 1221,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1230,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=124",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=122"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7397",
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010009",
+        "nama": "IDX INCUBATOR PORTAL",
+        "website": "idxincubator.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000832.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7397",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7287",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7397"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7396",
+      "attributes": {
+        "nomor_pb_umku": "912010735124300010001",
+        "nama": "WEBSITE HANYA UNTUK INFO BERUPA BERITA DAN PENAWARAN PRODUK.",
+        "website": "citradana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CITRADANA RAHAYU",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005177.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7396",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7294",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7396"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7395",
+      "attributes": {
+        "nomor_pb_umku": "123600010268600010001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "bprsariwiratama.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SARI WIRA TAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005013.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7395",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7288",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7395"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7394",
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000002",
+        "nama": "VIUIT DRIVER",
+        "website": "viuit.id",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005304.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7394",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7293",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7394"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7393",
+      "attributes": {
+        "nomor_pb_umku": "190422007426500000001",
+        "nama": "VOSPAY",
+        "website": "vospay.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VOSTROPAY PARAMARTA NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005321.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7393",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7284",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7393"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7392",
+      "attributes": {
+        "nomor_pb_umku": "912000889067200010001",
+        "nama": "PT. BPR ARTHA ADYAMURTHI",
+        "website": "bpradyamurthi.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA ADYAMURTHI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005325.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7392",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7289",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7392"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7391",
+      "attributes": {
+        "nomor_pb_umku": "912010688096200010002",
+        "nama": "SHINTA DAYA MOBILE",
+        "website": "bprshintadaya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SHINTA DAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005205.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7391",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7292",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7391"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7390",
+      "attributes": {
+        "nomor_pb_umku": "912010494046100010001",
+        "nama": "WEBSITE BPR PANDANARAN JAYA",
+        "website": "bprpandanaranjaya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PANDANARAN JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004546.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7390",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7290",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7390"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7389",
+      "attributes": {
+        "nomor_pb_umku": "812020280021300010005",
+        "nama": "ARENA OF VALOR",
+        "website": "aov.garena.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002712.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7389",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7125",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7389"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7388",
+      "attributes": {
+        "nomor_pb_umku": "812020280021300010004",
+        "nama": "LEAGUE OF LEGENDS PC",
+        "website": "lol.garena.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002712.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7388",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7099",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7388"
+      }
+    }
+  ]
+}

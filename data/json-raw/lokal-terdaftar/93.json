@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 93,
+      "from": 921,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 930,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=94",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=92"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7701",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230003",
+        "nama": "B2BACA.COM",
+        "website": "b2baca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7701",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7612",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7701"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7700",
+      "attributes": {
+        "nomor_pb_umku": "127000021213300010001",
+        "nama": "SINTASI",
+        "website": "sintasi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINTESA INTI PRESTASI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005103.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7700",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7609",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7700"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7699",
+      "attributes": {
+        "nomor_pb_umku": "912020573236100010001",
+        "nama": "CBS BPR",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MAHKOTA MITRA USAHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005407.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7699",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7605",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7699"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7698",
+      "attributes": {
+        "nomor_pb_umku": "026301002153700000001",
+        "nama": "QIWII",
+        "website": "app.qiwii.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KODE INOVASI WINATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005536.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7698",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7607",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7698"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7697",
+      "attributes": {
+        "nomor_pb_umku": "912001617105100000006",
+        "nama": "PPOB MOBILE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRANET SOFTWARE ONLINE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002883.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7697",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7586",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7697"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7696",
+      "attributes": {
+        "nomor_pb_umku": "912001307115700000001",
+        "nama": "APPSENSI",
+        "website": "appsensi.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APPSENSI TIGA RIBU",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005558.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7696",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7594",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7696"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7695",
+      "attributes": {
+        "nomor_pb_umku": "022201110082300010005",
+        "nama": "AIA EMPLOYEE BENEFITS",
+        "website": "employeebenefits.aia-financial.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIA FINANCIAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000007.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7695",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7604",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7695"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7694",
+      "attributes": {
+        "nomor_pb_umku": "912001617105100000005",
+        "nama": "APTIKNAS MALL",
+        "website": "malltik.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRANET SOFTWARE ONLINE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002883.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7694",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7592",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7694"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7693",
+      "attributes": {
+        "nomor_pb_umku": "812011114192800010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT BARELANG MANDIRI",
+        "website": "bprbm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BARELANG MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005617.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7693",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7602",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7693"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7692",
+      "attributes": {
+        "nomor_pb_umku": "022010617185100000001",
+        "nama": "GERAK",
+        "website": "gerak.asia",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GERAK BERSAMA KITA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005606.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7692",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7603",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7692"
+      }
+    }
+  ]
+}

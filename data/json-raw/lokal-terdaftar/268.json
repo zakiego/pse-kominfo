@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 268,
+      "from": 2671,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2680,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=269",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=267"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5855",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010007",
+        "nama": "E-MAIL BANK JAMBI",
+        "website": "mail.bankjambi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004292.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5855",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5718",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5855"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5854",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010006",
+        "nama": "SPAN BANK JAMBI",
+        "website": "span.bankjambi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004292.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5854",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5717",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5854"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5853",
+      "attributes": {
+        "nomor_pb_umku": "024301004038900020001",
+        "nama": "BPR KARTIKA MATUARI",
+        "website": "bprkartikamatuari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARTIKA MATUARI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004331.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5853",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5716",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5853"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5852",
+      "attributes": {
+        "nomor_pb_umku": "912000572049900010001",
+        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS MALUKU UTARA",
+        "website": "bprmodernternate.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS MALUKU UTARA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004247.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5852",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5715",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5852"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5851",
+      "attributes": {
+        "nomor_pb_umku": "912050483066500020002",
+        "nama": "MANTAP CASH MANAGEMENT (MCM)",
+        "website": "mcm.bankmantap.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MANDIRI TASPEN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000851.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5851",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5714",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5851"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5850",
+      "attributes": {
+        "nomor_pb_umku": "912000885021400010001",
+        "nama": "BPR CENTRAL KEPRI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CENTRAL KEPRI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004343.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5850",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5711",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5850"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5849",
+      "attributes": {
+        "nomor_pb_umku": "260422004343700010003",
+        "nama": "INTERNET BANKING BISNIS BANK SUPRA",
+        "website": "ibb.bprsupra.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004223.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5849",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5710",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5849"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5848",
+      "attributes": {
+        "nomor_pb_umku": "120200047039500010005",
+        "nama": "SMS MACROKIOSK (OTP) - BPR MODEX SULUT",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR MODERN EXPRESS SULUT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004252.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5848",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5709",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5848"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5847",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010005",
+        "nama": "MOBILE BANKING BANK JAMBI SYARIAH",
+        "website": "digitalsy.bankjambi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004292.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5847",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5707",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5847"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5846",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010004",
+        "nama": "MOBILE BANKING BANK JAMBI",
+        "website": "digital.bankjambi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004292.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5846",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5704",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5846"
+      }
+    }
+  ]
+}

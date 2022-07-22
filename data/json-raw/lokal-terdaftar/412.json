@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 412,
+      "from": 4111,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4120,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=413",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=411"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4409",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Market Indonesia Startup",
+        "website": "marketindonesia.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MARKET INDONESIA STARTUP",
+        "tanggal_daftar": "2022-05-03",
+        "tanggal_terbit": "2022-05-03",
+        "nomor_tanda_daftar": "002644.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4409",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4393",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4409"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4408",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Cyber Space Market Indonesia Startup",
+        "website": "cyberspace.marketindonesia.co.id",
+        "sektor": "Sektor Pangan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MARKET INDONESIA STARTUP",
+        "tanggal_daftar": "2022-05-03",
+        "tanggal_terbit": "2022-05-03",
+        "nomor_tanda_daftar": "002644.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4408",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4392",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4408"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4407",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pt.Market Indonesia startup",
+        "website": "marketindonesia.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MARKET INDONESIA STARTUP",
+        "tanggal_daftar": "2022-05-03",
+        "tanggal_terbit": "2022-05-03",
+        "nomor_tanda_daftar": "002644.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4407",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4391",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4407"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4401",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OKEPAY INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV YEYEP GUSTIAN",
+        "tanggal_daftar": "2022-05-02",
+        "tanggal_terbit": "2022-05-02",
+        "nomor_tanda_daftar": "002639.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4401",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4385",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4401"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4387",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "beliumkm",
+        "website": "belaumkm.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUMAH UMKM INDONESIA",
+        "tanggal_daftar": "2022-05-01",
+        "tanggal_terbit": "2022-05-01",
+        "nomor_tanda_daftar": "002607.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4387",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4371",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4387"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4406",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT Akar Inti Data",
+        "website": "www.akarintidata.ai",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKAR INTI DATA",
+        "tanggal_daftar": "2022-04-29",
+        "tanggal_terbit": "2022-04-29",
+        "nomor_tanda_daftar": "002643.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4406",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4390",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4406"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4405",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CV DUTA EDUKASI BOALEMO",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV DUTA EDUKASI BOALEMO",
+        "tanggal_daftar": "2022-04-29",
+        "tanggal_terbit": "2022-04-29",
+        "nomor_tanda_daftar": "002642.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4405",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4389",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4405"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4404",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SAHABAT INSURANCE MOBILE APPS",
+        "website": "sahabatinsurance.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI SAHABAT ARTHA PROTEKSI",
+        "tanggal_daftar": "2022-04-29",
+        "tanggal_terbit": "2022-04-29",
+        "nomor_tanda_daftar": "002641.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4404",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4388",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4404"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4403",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "sahabatinsurance.id",
+        "website": "sahabatinsurance.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI SAHABAT ARTHA PROTEKSI",
+        "tanggal_daftar": "2022-04-29",
+        "tanggal_terbit": "2022-04-29",
+        "nomor_tanda_daftar": "002641.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4403",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4387",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4403"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4402",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "1000saudara.com",
+        "website": "1000saudara.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA SERIBU SAUDARA",
+        "tanggal_daftar": "2022-04-29",
+        "tanggal_terbit": "2022-04-29",
+        "nomor_tanda_daftar": "002640.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4402",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4386",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4402"
+      }
+    }
+  ]
+}

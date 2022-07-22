@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 386,
+      "from": 3851,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3860,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=387",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=385"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4291",
+      "attributes": {
+        "nomor_pb_umku": "912000239300600030002",
+        "nama": "WELLINGS INDONESIA",
+        "website": "wellings.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA FARMA INDONESIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000298.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4291",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4284",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4291"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4289",
+      "attributes": {
+        "nomor_pb_umku": "912020024276300040002",
+        "nama": "NETWAVE",
+        "website": "indopedia.id",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NETWAVE MULTI MEDIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000303.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4289",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4285",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4289"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4288",
+      "attributes": {
+        "nomor_pb_umku": "070322005473100000001",
+        "nama": "MULTI KANAL",
+        "website": "multikanal.online",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MULTI MITRA BERJASA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000300.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4288",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4282",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4288"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4287",
+      "attributes": {
+        "nomor_pb_umku": "912000239300600030001",
+        "nama": "WELLING INDONESIA",
+        "website": "wellings.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA FARMA INDONESIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000298.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4287",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4280",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4287"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4286",
+      "attributes": {
+        "nomor_pb_umku": "912000420109501930001",
+        "nama": "KAI ACCESS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. KERETA API INDONESIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000297.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4286",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4279",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4286"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4284",
+      "attributes": {
+        "nomor_pb_umku": "812000091181800000001",
+        "nama": "HAKUHODO INDONESIA",
+        "website": "hakuhodo.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HITA WISTARA MAHIR",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002904.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4284",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4277",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4284"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4283",
+      "attributes": {
+        "nomor_pb_umku": "812031311007400000001",
+        "nama": "HAKUHODO ID",
+        "website": "HAKUHODO.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HARKAT FITRAH MAHIR",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002903.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4283",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4278",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4283"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4282",
+      "attributes": {
+        "nomor_pb_umku": "127600345206400000001",
+        "nama": "FOLLOWME",
+        "website": "FOLLOWME.COM",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FOLLOWME MARKETS INDONESIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002919.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4282",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4273",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4282"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4281",
+      "attributes": {
+        "nomor_pb_umku": "812021213051300000001",
+        "nama": "STOCKBIT WEB",
+        "website": "stockbit.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRENOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000277.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4281",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4274",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4281"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4279",
+      "attributes": {
+        "nomor_pb_umku": "812000189253900020001",
+        "nama": "APLIKASI REGISTRASI ONLINE",
+        "website": "didimax.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIDI MAX BERJANGKA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002760.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4279",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4272",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4279"
+      }
+    }
+  ]
+}

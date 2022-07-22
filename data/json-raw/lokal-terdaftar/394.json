@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 394,
+      "from": 3931,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3940,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=395",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=393"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4186",
+      "attributes": {
+        "nomor_pb_umku": "220522000055700000001",
+        "nama": "PT ALGAN SOLUSI KARSA",
+        "website": "stratifin.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ELANG PRASETYA ALFAREZ",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000455.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4186",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4187",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4186"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4185",
+      "attributes": {
+        "nomor_pb_umku": "022020676165500000001",
+        "nama": "BAJOJO.ID",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BAJOJO MINANG DIGITAL",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000453.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4185",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4186",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4185"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4184",
+      "attributes": {
+        "nomor_pb_umku": "022010564042300000001",
+        "nama": "ANTRIQUE",
+        "website": "antrique.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VISI KARYA PRAKARSA",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000445.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4184",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4184",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4184"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4182",
+      "attributes": {
+        "nomor_pb_umku": "128000070102500030001",
+        "nama": "SETIAWAN DIGI NET",
+        "website": "bc24pedia.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUNZI SETIAWAN",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000446.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4182",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4183",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4182"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4181",
+      "attributes": {
+        "nomor_pb_umku": "190522005282400000001",
+        "nama": "GLOBAL CAREER",
+        "website": "globalcareer.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL KARIR MANAJEMEN",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000358.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4181",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4182",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4181"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4180",
+      "attributes": {
+        "nomor_pb_umku": "240921002096300010001",
+        "nama": "TIPTIP",
+        "website": "Tiptip.tv",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIPTIP NETWORK INDONESIA",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000442.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4180",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4181",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4180"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4177",
+      "attributes": {
+        "nomor_pb_umku": "080322004229900020001",
+        "nama": "ROBOCRYP",
+        "website": "robocryp.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ROBOCRYP TEKNOLOGI INVESTASI",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000416.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4177",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4180",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4177"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4176",
+      "attributes": {
+        "nomor_pb_umku": "231021002078300000001",
+        "nama": "SWOOP MOVE",
+        "website": "swoopmove.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI MOBILITAS INDONESIA",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000437.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4176",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4179",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4176"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4175",
+      "attributes": {
+        "nomor_pb_umku": "022000165069800000002",
+        "nama": "LINOVHR CLOUD",
+        "website": "linovhr.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LINOV ROKET PRESTASI",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000326.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4175",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4177",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4175"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4174",
+      "attributes": {
+        "nomor_pb_umku": "080422003082600000001",
+        "nama": "HARMONIZ",
+        "website": "harmoniz.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA KELUARGA HARMONIS",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000312.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4174",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4178",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4174"
+      }
+    }
+  ]
+}

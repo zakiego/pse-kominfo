@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 251,
+      "from": 2501,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2510,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=252",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=250"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6038",
+      "attributes": {
+        "nomor_pb_umku": "120100071039800000001",
+        "nama": "YDB",
+        "website": "youdeservebetter.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YDB KREATIF INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003863.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6038",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5701",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6038"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6037",
+      "attributes": {
+        "nomor_pb_umku": "240422001057400000003",
+        "nama": "DAENGPAY INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "YEYEP GUSTIAN",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "002891.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6037",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5907",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6037"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6036",
+      "attributes": {
+        "nomor_pb_umku": "912020085006100010001",
+        "nama": "BPR MAJESTY GOLDEN RAYA",
+        "website": "bprmgr.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MAJESTY GOLDEN RAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004347.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6036",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5721",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6036"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6035",
+      "attributes": {
+        "nomor_pb_umku": "912041019206300020003",
+        "nama": "CLIENT AREA SRIWIJAYAHOST",
+        "website": "my.sriwijayahost.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SRIWIJAYA UTAMA KARYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004006.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6035",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5905",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6035"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6034",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010026",
+        "nama": "WEBMAIL CORPORATE",
+        "website": "webmail.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004179.26/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6034",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5904",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6034"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6033",
+      "attributes": {
+        "nomor_pb_umku": "912041019206300020002",
+        "nama": "WEBSITE SRIWIJAYA HOST",
+        "website": "shost.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SRIWIJAYA UTAMA KARYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004006.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6033",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5903",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6033"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6032",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010025",
+        "nama": "KONTEN MANAGEMENT SISTEM WEBSITE BANK SULSELBAR",
+        "website": "cmsssb.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004179.25/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6032",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5902",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6032"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6031",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010024",
+        "nama": "EDOC BANK SULSELBAR",
+        "website": "edoc.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004179.24/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6031",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5901",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6031"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6030",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010023",
+        "nama": "WHISTLEBLOWER SYSTEM BANK SULSELBAR",
+        "website": "wbs.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004179.22/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6030",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5849",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6030"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6029",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010022",
+        "nama": "CPANEL BANK SULSELBAR",
+        "website": "cpanel.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004179.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6029",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5847",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6029"
+      }
+    }
+  ]
+}

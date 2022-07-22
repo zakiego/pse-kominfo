@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 175,
+      "from": 1741,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1750,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=176",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=174"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6865",
+      "attributes": {
+        "nomor_pb_umku": "912020727205500040001",
+        "nama": "FAC ONLINE ASSESSMENT SYSTEM",
+        "website": "onlineassessment.firstasiaconsultants.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASIA UTAMA KONSULTAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005012.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6865",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6713",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6865"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6864",
+      "attributes": {
+        "nomor_pb_umku": "912010583286600010001",
+        "nama": "CORE BANKING SYSTEM VERSI IBS",
+        "website": "pancaartamonjali.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR PANCA ARTA MONJALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005019.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6864",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6715",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6864"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6863",
+      "attributes": {
+        "nomor_pb_umku": "912040293285600010001",
+        "nama": "WEBSITE PERUMDA ARTHA PERWIRA KAB PURBALINGGA",
+        "website": "arthaperwira.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR Artha Perwira Kabupaten Purbalingga",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004924.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6863",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6642",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6863"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6862",
+      "attributes": {
+        "nomor_pb_umku": "912020779284300010001",
+        "nama": "PT. BPR TANAH KONDANG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TANAH KONDANG",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004966.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6862",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6710",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6862"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6861",
+      "attributes": {
+        "nomor_pb_umku": "812011222157900020003",
+        "nama": "WEBSITE FIFGROUP",
+        "website": "fifgroup.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FEDERAL INTERNATIONAL FINANCE",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003148.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6861",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6709",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6861"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6860",
+      "attributes": {
+        "nomor_pb_umku": "125500030142700000005",
+        "nama": "IBS DASHBOARD",
+        "website": "bprhoki.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004617.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6860",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6708",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6860"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6859",
+      "attributes": {
+        "nomor_pb_umku": "912000989290100010001",
+        "nama": "WEBSITE BPR SUADANA",
+        "website": "bprsuadana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUADANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004873.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6859",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6707",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6859"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6858",
+      "attributes": {
+        "nomor_pb_umku": "812010998167600110005",
+        "nama": "MATCHQUIZ",
+        "website": "matchquiz.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIYAKOM",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004113.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6858",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6705",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6858"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6857",
+      "attributes": {
+        "nomor_pb_umku": "912020574351900010001",
+        "nama": "PT BANK PEKREDITAN RAKYAT NUSANTARA BONA PASOGIT 10",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 10",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004990.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6857",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6706",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6857"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6856",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MEMBERINA",
+        "website": "memberina.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6856",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6704",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6856"
+      }
+    }
+  ]
+}

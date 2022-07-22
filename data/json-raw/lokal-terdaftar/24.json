@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 24,
+      "from": 231,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 240,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=25",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=23"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8482",
+      "attributes": {
+        "nomor_pb_umku": "300921001340700000001",
+        "nama": "NINO911.ID",
+        "website": "911car.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA INOVASI JAYATAMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005934.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8482",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8400",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8482"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8481",
+      "attributes": {
+        "nomor_pb_umku": "912020676203600010001",
+        "nama": "CORE BANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PT BPR BALUNG ARTHA GUNA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005933.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8481",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8399",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8481"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8478",
+      "attributes": {
+        "nomor_pb_umku": "912001313135600010001",
+        "nama": "WEBSITE BPR PERDANA LINTAS KHATULISTIWA",
+        "website": "bprperintis.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PERDANA LINTAS KHATULISTIWA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005721.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8478",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8390",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8478"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8455",
+      "attributes": {
+        "nomor_pb_umku": "912010880039200030003",
+        "nama": "WEBSITE WANTEG",
+        "website": "wanteg.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WANTEG SEKURITAS",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "001888.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8455",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8371",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8455"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8454",
+      "attributes": {
+        "nomor_pb_umku": "812021609351600020003",
+        "nama": "HTTP://SUPPORT.DATAON.COM/",
+        "website": "support.dataon",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDODEV NIAGA INTERNET",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "001767.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8454",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6873",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8454"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8453",
+      "attributes": {
+        "nomor_pb_umku": "191021005363800010001",
+        "nama": "IBS (INTEGRATED BANKING SYSTEM)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR ARTHA KALIWUNGU",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005701.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8453",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8370",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8453"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8452",
+      "attributes": {
+        "nomor_pb_umku": "912040688277800010001",
+        "nama": "POPULIX",
+        "website": "populix.co",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT POPULIX INFORMASI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004114.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8452",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8343",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8452"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8451",
+      "attributes": {
+        "nomor_pb_umku": "912020744055900020001",
+        "nama": "WEBSITE COMPANY SMARTLEADERS",
+        "website": "smart-leaders.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI INTEGRASINDO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005922.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8451",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8369",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8451"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8450",
+      "attributes": {
+        "nomor_pb_umku": "022010158115300020006",
+        "nama": "SERVICES.ALLIANZ.CO.ID",
+        "website": "services.allianz.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI ALLIANZ LIFE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000950.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8450",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8342",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8450"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8449",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "VOLANTIS",
+        "website": "volantis.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRI DIGITAL PERKASA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005076.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8449",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8367",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8449"
+      }
+    }
+  ]
+}

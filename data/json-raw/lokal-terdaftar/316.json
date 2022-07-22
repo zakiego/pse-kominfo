@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 316,
+      "from": 3151,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3160,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=317",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=315"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5334",
+      "attributes": {
+        "nomor_pb_umku": "022401001042900040002",
+        "nama": "WEBSIE BNI MULTIFINANCE",
+        "website": "bnimultifinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BNI MULTIFINANCE",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003809.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5334",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5207",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5334"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5333",
+      "attributes": {
+        "nomor_pb_umku": "912030421225800000001",
+        "nama": "FORE COFFEE",
+        "website": "fore.coffee",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FORE KOPI INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003986.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5333",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5186",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5333"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5332",
+      "attributes": {
+        "nomor_pb_umku": "022401001042900040001",
+        "nama": "WEBSITE BNI MULTIFINANCE",
+        "website": "bnimultifinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BNI MULTIFINANCE",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003809.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5332",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5204",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5332"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5331",
+      "attributes": {
+        "nomor_pb_umku": "912020490075900030001",
+        "nama": "WEBSITE PERUSAHAAN",
+        "website": "takari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TAKARI KOKOH SEJAHTERA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003879.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5331",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5206",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5331"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5330",
+      "attributes": {
+        "nomor_pb_umku": "912011127166500000001",
+        "nama": "IMADANI",
+        "website": "madani-tech.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KRAKATAU CITRA ADHIYANA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003959.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5330",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5205",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5330"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5329",
+      "attributes": {
+        "nomor_pb_umku": "812011302055500020004",
+        "nama": "AUTOCILLIN MOBILE CLAIM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZURICH ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002558.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5329",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5203",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5329"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5328",
+      "attributes": {
+        "nomor_pb_umku": "912030170073100060001",
+        "nama": "CSM CORPORATAMA (WEBSITE GROUP)",
+        "website": "csmgroup.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CSM CORPORATAMA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003958.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5328",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5185",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5328"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5327",
+      "attributes": {
+        "nomor_pb_umku": "280122000173300170005",
+        "nama": "MPA E-COMMERCE",
+        "website": "multipratamaasiashop.jualan.me",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MULTI PRATAMA ASIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002170.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5327",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5202",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5327"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5326",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801130039",
+        "nama": "APLIKASI BRISIM",
+        "website": "brisim.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002468.35/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5326",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5201",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5326"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5325",
+      "attributes": {
+        "nomor_pb_umku": "912000319198400000001",
+        "nama": "INSANMADANIONLINE",
+        "website": "insanmadanionline.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUSTAKA INSAN MADANI",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "000774.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5325",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5200",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5325"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 159,
+      "from": 1581,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1590,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=160",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=158"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7030",
+      "attributes": {
+        "nomor_pb_umku": "028300094175900010001",
+        "nama": "WEBSITE BPR TRIHASTA PRASODJO",
+        "website": "bprtrihasta.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TRIHASTA PRASODJO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005113.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7030",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6886",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7030"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7029",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040017",
+        "nama": "BANTENPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7029",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6887",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7029"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7028",
+      "attributes": {
+        "nomor_pb_umku": "812011125256200020001",
+        "nama": "RUMAHWEB",
+        "website": "rumahweb.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV RUMAHWEB INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005008.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7028",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6884",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7028"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7027",
+      "attributes": {
+        "nomor_pb_umku": "912020417284100040012",
+        "nama": "TOKO MANDIRI INDOGROSIR",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI CAKRAWALA CITRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004779.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7027",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6885",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7027"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7026",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010026",
+        "nama": "API PINANG RITEL",
+        "website": "api.pinang-ritel.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004288.26/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7026",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6883",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7026"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7025",
+      "attributes": {
+        "nomor_pb_umku": "912000813209300000001",
+        "nama": "KAMUSKU",
+        "website": "kodelokus.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KODELOKUS SOAREKA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005080.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7025",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6881",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7025"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7024",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MEGA PAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7024",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6882",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7024"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7023",
+      "attributes": {
+        "nomor_pb_umku": "912020071111900030002",
+        "nama": "JOIN MOBILE 2 (ANDROID, IPAD OS, IPHONE OS)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JASA UTAMA CAPITAL SEKURITAS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001266.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7023",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6872",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7023"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7022",
+      "attributes": {
+        "nomor_pb_umku": "201021001382400000001",
+        "nama": "PAYPOIN",
+        "website": "paypoin.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KARYA RITEL NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005116.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7022",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6879",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7022"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7021",
+      "attributes": {
+        "nomor_pb_umku": "128700013259600410002",
+        "nama": "SISTEM PENDAFTARAN MYLAB TEBET",
+        "website": "mylab.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI KINAN MEDIKA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004444.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7021",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6878",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7021"
+      }
+    }
+  ]
+}

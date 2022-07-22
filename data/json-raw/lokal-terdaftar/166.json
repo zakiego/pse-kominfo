@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 166,
+      "from": 1651,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1660,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=167",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=165"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6959",
+      "attributes": {
+        "nomor_pb_umku": "022000371341700000001",
+        "nama": "CRAYONPEDIA PLATFORM",
+        "website": "app.crayonpedia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CRAYONPEDIA SOLUSI NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004964.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6959",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6808",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6959"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6958",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040012",
+        "nama": "TULUNGAGUNG PAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6958",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6811",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6958"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6957",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640046",
+        "nama": "WEBVIEW PENGKINIAN DATA",
+        "website": "pengkiniandata.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.47/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6957",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6785",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6957"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6956",
+      "attributes": {
+        "nomor_pb_umku": "912011507012600000001",
+        "nama": "GRAHATOYOTA.COM",
+        "website": "grahatoyota.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAHA MULIA AUTO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004271.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6956",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6809",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6956"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6955",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640045",
+        "nama": "WEBVIEW PENGKINIAN DATA 3",
+        "website": "pengkiniandata.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.50/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6955",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6803",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6955"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6954",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640044",
+        "nama": "ACS 3DS DEBIT SECONDARY",
+        "website": "3dsecuredebit2.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.49/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6954",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6795",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6954"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6953",
+      "attributes": {
+        "nomor_pb_umku": "912000973264400010001",
+        "nama": "PT. BPR ANUGERAH PAKTOMAS",
+        "website": "bpranugerahpaktomas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ANUGERAH PAKTOMAS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004955.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6953",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6805",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6953"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6952",
+      "attributes": {
+        "nomor_pb_umku": "912020293107400010001",
+        "nama": "PT BPR KUSUMA MANDALA",
+        "website": "bprkusumamandala.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KUSUMA MANDALA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005024.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6952",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6761",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6952"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6951",
+      "attributes": {
+        "nomor_pb_umku": "812001315186400010001",
+        "nama": "BPR LUHUR LANGGENG UTAMA",
+        "website": "bprluhurlanggengutama.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LUHUR LANGGENG UTAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005048.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6951",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6804",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6951"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6950",
+      "attributes": {
+        "nomor_pb_umku": "912010644203900010001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT LUMBUNG PITIH NAGARI TARANTANG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LUMBUNG PITIH NAGARI TARANTANG",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004961.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6950",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6798",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6950"
+      }
+    }
+  ]
+}

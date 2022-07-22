@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 370,
+      "from": 3691,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3700,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=371",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=369"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4661",
+      "attributes": {
+        "nomor_pb_umku": "050622000103300000001",
+        "nama": "GENCAR NEWS",
+        "website": "gencarnews.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ETOS GARDA NUSANTARA",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "003343.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4661",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4620",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4661"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4660",
+      "attributes": {
+        "nomor_pb_umku": "270522000047600000001",
+        "nama": "PORTAL BUANA NEW",
+        "website": "portalbuananew.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PORTAL BUANA MEDIA",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "003342.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4660",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4619",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4660"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4659",
+      "attributes": {
+        "nomor_pb_umku": "041021001090200010001",
+        "nama": "SATUBON",
+        "website": "satubon.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDO SUKSES MANDIRI",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "003339.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4659",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4618",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4659"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4658",
+      "attributes": {
+        "nomor_pb_umku": "120900014128500020002",
+        "nama": "AKAMAI CONTROL CENTER PORTAL (“ACC”)",
+        "website": "akamai.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKAMAI TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "003212.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4658",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4617",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4658"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4657",
+      "attributes": {
+        "nomor_pb_umku": "912020693005500010002",
+        "nama": "360KREDI",
+        "website": "360kredi.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI TERDEPAN NUSANTARA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "002862.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4657",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4260",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4657"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4656",
+      "attributes": {
+        "nomor_pb_umku": "127300141183800000001",
+        "nama": "MEDICAL TOURISM INDONESIA",
+        "website": "app.medicaltourism.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA WISATA MEDIKA",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "003338.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4656",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4616",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4656"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4655",
+      "attributes": {
+        "nomor_pb_umku": "022010077110500010001",
+        "nama": "ASTRAPAY",
+        "website": "astrapay.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASTRA DIGITAL ARTA",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "003337.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4655",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4615",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4655"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4654",
+      "attributes": {
+        "nomor_pb_umku": "022020880086400010001",
+        "nama": "EZKOP",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi SIMPAN PINJAM MAKMUR KARYA SEJAHTERA",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "003333.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4654",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4614",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4654"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4653",
+      "attributes": {
+        "nomor_pb_umku": "310522005865500000001",
+        "nama": "KONSULDONG",
+        "website": "konsuldong.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANNARINDO MULIA ABADI",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "003336.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4653",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4613",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4653"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4652",
+      "attributes": {
+        "nomor_pb_umku": "123200013086300000001",
+        "nama": "RAJADINGIN",
+        "website": "rajadingin.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEMAR DIGITALISASI NEGERI",
+        "tanggal_daftar": "2022-06-22",
+        "tanggal_terbit": "2022-06-22",
+        "nomor_tanda_daftar": "000142.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4652",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4612",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4652"
+      }
+    }
+  ]
+}

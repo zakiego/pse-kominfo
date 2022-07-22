@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 275,
+      "from": 2741,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2750,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=276",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=274"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5779",
+      "attributes": {
+        "nomor_pb_umku": "912020627149400010001",
+        "nama": "WWW.RISS.RADANAFINANCE.CO.ID",
+        "website": "riss.radanafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RADANA BHASKARA FINANCE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003890.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5779",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5642",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5779"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5778",
+      "attributes": {
+        "nomor_pb_umku": "912060174117900020002",
+        "nama": "KREDIKU",
+        "website": "krediku.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA CENTRAL FINANCE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004187.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5778",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5638",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5778"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5777",
+      "attributes": {
+        "nomor_pb_umku": "812000584098600020008",
+        "nama": "WEBSITE YAMALUBE PROMO",
+        "website": "yamalubepromo.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YAMAHA INDONESIA MOTOR MANUFACTURING",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003491.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5777",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5641",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5777"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5776",
+      "attributes": {
+        "nomor_pb_umku": "812021927148600010003",
+        "nama": "EFORM WG",
+        "website": "eformcms.kreditplus.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KB FINANSIA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000132.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5776",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5639",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5776"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5775",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040020",
+        "nama": "BJB LAKU",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003382.22/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5775",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5640",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5775"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5774",
+      "attributes": {
+        "nomor_pb_umku": "020200097141300010004",
+        "nama": "CLAIMS VENDOR ASSIGNMENT TOOL",
+        "website": "vendorassignment.chubb.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CHUBB GENERAL INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000030.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5774",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5636",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5774"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5773",
+      "attributes": {
+        "nomor_pb_umku": "912010184147600060005",
+        "nama": "HELLO YO",
+        "website": "helloyo.sg",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIGO INFORMATION INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "002108.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5773",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5617",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5773"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5771",
+      "attributes": {
+        "nomor_pb_umku": "230921004809600010002",
+        "nama": "HDONETWORK_ITCONSULTANT",
+        "website": "hdonetworkconsultant.web.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ENGGAR PRASETYAWAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003442.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5771",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5634",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5771"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5770",
+      "attributes": {
+        "nomor_pb_umku": "812011813258100010001",
+        "nama": "TUGUBRO APP",
+        "website": "askredbni.tib.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TUGU INSURANCE BROKERS",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003975.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5770",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5253",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5770"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5769",
+      "attributes": {
+        "nomor_pb_umku": "011121003075500010001",
+        "nama": "WEBSITE PERUSAHAAN (HTTPS://BPRKEDIRI.WIXSITE.COM/DHAHAEKONOMI)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DHAHA EKONOMI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004311.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5769",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5630",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5769"
+      }
+    }
+  ]
+}

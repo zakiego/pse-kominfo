@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 38,
+      "from": 371,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 380,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=39",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=37"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8316",
+      "attributes": {
+        "nomor_pb_umku": "031021001104600000001",
+        "nama": "KULAKSAYUR",
+        "website": "kulaksayur.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "GUNTUR ANGGA SAPUTRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005844.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8316",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8241",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8316"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8315",
+      "attributes": {
+        "nomor_pb_umku": "122100641232800010001",
+        "nama": "ANUGERAH BERLIAN BERKAH BERJAYA",
+        "website": "ab3network.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANUGERAH BERLIAN BERKAH BERJAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005845.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8315",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8240",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8315"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8314",
+      "attributes": {
+        "nomor_pb_umku": "912010866182500000005",
+        "nama": "JARI MOBILE COLLECTION (APPS FOR PT. BRI MULTIFINANCE INDONESIA)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JARI SOLUSI INTERNATIONAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004691.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8314",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8238",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8314"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8313",
+      "attributes": {
+        "nomor_pb_umku": "200722007655400000001",
+        "nama": "AROEMPULSA",
+        "website": "aroempulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Dadi Suryadi",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005822.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8313",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8234",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8313"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8312",
+      "attributes": {
+        "nomor_pb_umku": "128000053266100220003",
+        "nama": "TOKOPERKASA.COM",
+        "website": "tokoperkasa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIRAMAS JAYA PERKASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005800.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8312",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8236",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8312"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8311",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010015",
+        "nama": "WEBSITE BANK PAPUA",
+        "website": "bankpapua.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8311",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8235",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8311"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8310",
+      "attributes": {
+        "nomor_pb_umku": "812011410320700830016",
+        "nama": "NADA SAMBUNG PRIBADI [NSP]",
+        "website": "nsp.telkomsel.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000337.40/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8310",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8231",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8310"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8309",
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000006",
+        "nama": "MYBEB",
+        "website": "mybeb.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005304.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8309",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8232",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8309"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8308",
+      "attributes": {
+        "nomor_pb_umku": "812000482300500000005",
+        "nama": "MEKARI UNIV",
+        "website": "univ.mekari.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MID SOLUSI NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001906.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8308",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8229",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8308"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8307",
+      "attributes": {
+        "nomor_pb_umku": "020901100179700000001",
+        "nama": "NETMEDIC",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV FORTECH INDOASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005840.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8307",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8228",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8307"
+      }
+    }
+  ]
+}

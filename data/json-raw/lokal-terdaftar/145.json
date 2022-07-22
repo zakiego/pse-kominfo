@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 145,
+      "from": 1441,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1450,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=146",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=144"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7177",
+      "attributes": {
+        "nomor_pb_umku": "912020553197500100006",
+        "nama": "D-POINT",
+        "website": "dpoint.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000861.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7177",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7044",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7177"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7176",
+      "attributes": {
+        "nomor_pb_umku": "023101022279600020001",
+        "nama": "PESONA HERBAL INDONESIA",
+        "website": "pesona168.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PESONA HERBAL INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005213.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7176",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7060",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7176"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7175",
+      "attributes": {
+        "nomor_pb_umku": "912021300118500000001",
+        "nama": "LIVE.ON",
+        "website": "liveon.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIRCLES ASIA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005225.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7175",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7055",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7175"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7174",
+      "attributes": {
+        "nomor_pb_umku": "022000337218500000001",
+        "nama": "NALA TECH",
+        "website": "naladipatech.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SANDI ADRIAN RISALDI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005233.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7174",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7059",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7174"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7173",
+      "attributes": {
+        "nomor_pb_umku": "220422003826800030004",
+        "nama": "API KIOSINDONESIA",
+        "website": "Api.kiosindonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIOS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004236.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7173",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7057",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7173"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7172",
+      "attributes": {
+        "nomor_pb_umku": "022020115224500000001",
+        "nama": "SIMPELIN",
+        "website": "simpelin.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SIMPELIN HIDUP KITA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005235.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7172",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7054",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7172"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7171",
+      "attributes": {
+        "nomor_pb_umku": "190722002659400000001",
+        "nama": "MASTERCASH COLLECTION",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FISABIL MAHARDIKA PUTRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004940.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7171",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6760",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7171"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7170",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160006",
+        "nama": "API SANDBOX BSI",
+        "website": "apisandbox.bsm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7170",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7051",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7170"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7169",
+      "attributes": {
+        "nomor_pb_umku": "912040199236700070001",
+        "nama": "ANTARANEWS.COM ; ANTARAFOTO.COM",
+        "website": "antaranews.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PRM LEMBAGA KANTOR BERITA NASIONAL ANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005176.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7169",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7052",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7169"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7168",
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010003",
+        "nama": "CASH MANAGEMENT SYSTEM BANK RIAU KEPRI",
+        "website": "cms.bankriaukepri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005037.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7168",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7048",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7168"
+      }
+    }
+  ]
+}

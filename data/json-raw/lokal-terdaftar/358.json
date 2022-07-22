@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 358,
+      "from": 3571,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3580,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=359",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=357"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4896",
+      "attributes": {
+        "nomor_pb_umku": "912030053213600000003",
+        "nama": "MKM",
+        "website": "mkm.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAGNA KARSA MULYA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003472.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4896",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4766",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4896"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4895",
+      "attributes": {
+        "nomor_pb_umku": "812000284249100010006",
+        "nama": "APPECTUAL IT SOLUTIONS LLP",
+        "website": "lorealsalonshop.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT L`OREAL INDONESIA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "000473.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4895",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4765",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4895"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4894",
+      "attributes": {
+        "nomor_pb_umku": "812011611286500030003",
+        "nama": "INTERNET SERVICE PROVIDER",
+        "website": "comet.net.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSINDO BINTANG PRATAMA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003486.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4894",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4764",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4894"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4893",
+      "attributes": {
+        "nomor_pb_umku": "912030841052300010003",
+        "nama": "KPR CCB INDONESIA",
+        "website": "kprccb.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CHINA CONSTRUCTION BANK INDONESIA TBK",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003505.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4893",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4763",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4893"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4892",
+      "attributes": {
+        "nomor_pb_umku": "912030841052300010002",
+        "nama": "MOBILE BANKING CCB INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CHINA CONSTRUCTION BANK INDONESIA TBK",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003505.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4892",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4761",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4892"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4891",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800990035",
+        "nama": "BRIFAST REMITTANCE",
+        "website": "trx.brifast.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "002468.31/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4891",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4750",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4891"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4885",
+      "attributes": {
+        "nomor_pb_umku": "912031826095700060007",
+        "nama": "SEKOLAH.MU",
+        "website": "sekolah.mu",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEMESTA INTEGRASI DIGITAL",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "001327.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4885",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4754",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4885"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4884",
+      "attributes": {
+        "nomor_pb_umku": "912010063217900000001",
+        "nama": "DOCTORTOOL",
+        "website": "doctortool.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDIFA INFOYASA SURYANTARA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003519.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4884",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4752",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4884"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4803",
+      "attributes": {
+        "nomor_pb_umku": "812020076276200060001",
+        "nama": "WWW.PDT.CO.ID",
+        "website": "pdt.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRASETIA DWIDHARMA TEKNOLOGI",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "003498.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4803",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4745",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4803"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4802",
+      "attributes": {
+        "nomor_pb_umku": "028600191047600350002",
+        "nama": "LKP MASTER COURSE",
+        "website": "mastercourse.ac.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LKP MASTER COURSE",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-27",
+        "nomor_tanda_daftar": "000214.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4802",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4744",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4802"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 405,
+      "from": 4041,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4050,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=406",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=404"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4357",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Doctor Anywhere Indonesia",
+        "website": "doctoranywhere.co.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DOCTOR ANYWHERE INDONESIA",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002275.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4357",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4343",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4357"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4153",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Uninet Marketing Services",
+        "website": "www.uninetmg.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT UNINET MEDIA GLOBAL",
+        "tanggal_daftar": "2022-05-16",
+        "tanggal_terbit": "2022-05-16",
+        "nomor_tanda_daftar": "002698.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4153",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4457",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4153"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4472",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pasar Mikro",
+        "website": "www.pasarmikro.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PASAR MIKRO GLOBAL",
+        "tanggal_daftar": "2022-05-15",
+        "tanggal_terbit": "2022-05-15",
+        "nomor_tanda_daftar": "002697.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4472",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4456",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4472"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4471",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KORNET INTER MEDIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV YUSUF FAISAL",
+        "tanggal_daftar": "2022-05-15",
+        "tanggal_terbit": "2022-05-15",
+        "nomor_tanda_daftar": "002696.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4471",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4455",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4471"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4470",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SAKTI",
+        "website": "ptskk.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAKTI KINERJA KOLABORASINDO",
+        "tanggal_daftar": "2022-05-14",
+        "tanggal_terbit": "2022-05-14",
+        "nomor_tanda_daftar": "002695.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4470",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4454",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4470"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4469",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TANA HULU TERBAIK",
+        "website": "-",
+        "sektor": "Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TANA HULU TERBAIK",
+        "tanggal_daftar": "2022-05-13",
+        "tanggal_terbit": "2022-05-13",
+        "nomor_tanda_daftar": "002694.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4469",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4453",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4469"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4468",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Dishserve",
+        "website": "www.dishserve.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KULINER INOVATIF INDONESIA",
+        "tanggal_daftar": "2022-05-13",
+        "tanggal_terbit": "2022-05-13",
+        "nomor_tanda_daftar": "002693.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4468",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4452",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4468"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4465",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Tokban",
+        "website": "tokban.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TOKBAN GRAHA TEKNOLOGI",
+        "tanggal_daftar": "2022-05-13",
+        "tanggal_terbit": "2022-05-13",
+        "nomor_tanda_daftar": "002690.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4465",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4449",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4465"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4464",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MIFX",
+        "website": "mifx.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MONEX INVESTINDO FUTURES",
+        "tanggal_daftar": "2022-05-13",
+        "tanggal_terbit": "2022-05-13",
+        "nomor_tanda_daftar": "002689.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4464",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4448",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4464"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4463",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ningrat Muda Mandiri",
+        "website": "www.ningratmudamandiri.com/",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NINGRAT MUDA MANDIRI",
+        "tanggal_daftar": "2022-05-13",
+        "tanggal_terbit": "2022-05-13",
+        "nomor_tanda_daftar": "002688.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4463",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4447",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4463"
+      }
+    }
+  ]
+}

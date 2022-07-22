@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 43,
+      "from": 421,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 430,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=44",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=42"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8225",
+      "attributes": {
+        "nomor_pb_umku": "912020027122500000001",
+        "nama": "BUKU BALI",
+        "website": "bukubali.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MULTI BALI ABADI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005805.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8225",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8137",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8225"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8218",
+      "attributes": {
+        "nomor_pb_umku": "912001202295100010001",
+        "nama": "BANGKING SMART SYSTEM",
+        "website": "BPRPENEBEL.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PENEBEL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005797.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8218",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8105",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8218"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8217",
+      "attributes": {
+        "nomor_pb_umku": "131221003332500000001",
+        "nama": "SITU BPR ONLINE (SBO) CORE BANKING SYSTEM",
+        "website": "mitracerahsolusindo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA CERAH SOLUSINDO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005803.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8217",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8135",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8217"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8216",
+      "attributes": {
+        "nomor_pb_umku": "091021001360700020002",
+        "nama": "WORLDCOIN.ORG",
+        "website": "worldcoin.org",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SANDINA ABADI NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005783.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8216",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8134",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8216"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8215",
+      "attributes": {
+        "nomor_pb_umku": "022020089163100000002",
+        "nama": "TROPICALIFE.NET",
+        "website": "tropicalife.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANEKA MEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005425.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8215",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7899",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8215"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8214",
+      "attributes": {
+        "nomor_pb_umku": "022020089163100000001",
+        "nama": "INFLASH.CO.ID",
+        "website": "inflash.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANEKA MEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005425.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8214",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7905",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8214"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8213",
+      "attributes": {
+        "nomor_pb_umku": "100322000731300010002",
+        "nama": "SYSTEM REGISTRASI DAN HOSTING",
+        "website": "registrindo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JARINGAN REGISTRI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004458.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8213",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8133",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8213"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8212",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010011",
+        "nama": "AGENT PORTAL",
+        "website": "btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8212",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8097",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8212"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8211",
+      "attributes": {
+        "nomor_pb_umku": "912000121145300040001",
+        "nama": "BPR AGUNG SEJAHTERA",
+        "website": "bpragungsejahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT AGUNG SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005766.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8211",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8132",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8211"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8210",
+      "attributes": {
+        "nomor_pb_umku": "190722006687900000003",
+        "nama": "WEBSITE KLINIK BIMA MEDIA SEJAHTERA",
+        "website": "bmss.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JABARSOFT TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005145.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8210",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8131",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8210"
+      }
+    }
+  ]
+}

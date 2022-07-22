@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 362,
+      "from": 3611,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3620,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=363",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=361"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4764",
+      "attributes": {
+        "nomor_pb_umku": "310821004475300060001",
+        "nama": "ZEMANGAT",
+        "website": "zemangat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZEMANGAT ANAK BANGSA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003360.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4764",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4710",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4764"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4763",
+      "attributes": {
+        "nomor_pb_umku": "240222005653800010001",
+        "nama": "ALTRANUSA.COM",
+        "website": "altranusa.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALAM TRANSERVICE NUSANTARA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003448.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4763",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4709",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4763"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4762",
+      "attributes": {
+        "nomor_pb_umku": "812000693149400000001",
+        "nama": "ULKALOKA",
+        "website": "ulkaloka.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "UD. Pasifik Indah Garment",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "002960.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4762",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4708",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4762"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4761",
+      "attributes": {
+        "nomor_pb_umku": "110522004951700000004",
+        "nama": "MULIOREJO-DESA.ID",
+        "website": "muliorejo-desa.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003426.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4761",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4707",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4761"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4760",
+      "attributes": {
+        "nomor_pb_umku": "812001227093300010001",
+        "nama": "TANTOLINK",
+        "website": "tantonet.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TANTO INTIM LINE",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003246.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4760",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4706",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4760"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4759",
+      "attributes": {
+        "nomor_pb_umku": "240622007074200000001",
+        "nama": "PT. SUDUT LIMAPULUHKOTA MEDIA",
+        "website": "sudutlimapuluhkota.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ABDUL HAMID",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003445.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4759",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4705",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4759"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4758",
+      "attributes": {
+        "nomor_pb_umku": "912010672206400000001",
+        "nama": "CIPTALOKA.COM",
+        "website": "ciptaloka.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CIPTALOKA INTERMEDIA NUSANTARA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003443.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4758",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4704",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4758"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4756",
+      "attributes": {
+        "nomor_pb_umku": "110522004951700000003",
+        "nama": "BATANGTORU.ID",
+        "website": "batangtoru.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003426.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4756",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4703",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4756"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4755",
+      "attributes": {
+        "nomor_pb_umku": "230921004809600000001",
+        "nama": "HDONETWORK",
+        "website": "hdonetworkconsultant.web.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ENGGAR PRASETYAWAN",
+        "tanggal_daftar": "2022-06-25",
+        "tanggal_terbit": "2022-06-25",
+        "nomor_tanda_daftar": "003442.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4755",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4702",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4755"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4754",
+      "attributes": {
+        "nomor_pb_umku": "300422000153400000002",
+        "nama": "JAKARTALIMOUSINE WEB APPS",
+        "website": "jakartalimousine.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JAKARTA LIMOUSINE DAN RENTCAR",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003441.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4754",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4701",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4754"
+      }
+    }
+  ]
+}

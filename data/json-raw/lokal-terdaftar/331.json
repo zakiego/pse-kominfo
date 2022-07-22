@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 331,
+      "from": 3301,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3310,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=332",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=330"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5180",
+      "attributes": {
+        "nomor_pb_umku": "022040021085800010002",
+        "nama": "WALLEX INDONESIA",
+        "website": "wallex.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WALLEX TEKNOLOGI BERKAT",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "001757.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5180",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5046",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5180"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5179",
+      "attributes": {
+        "nomor_pb_umku": "912020318059100040001",
+        "nama": "DICODING INDONESIA",
+        "website": "dicoding.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRESENTOLOGICS",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003843.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5179",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5045",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5179"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5178",
+      "attributes": {
+        "nomor_pb_umku": "290622007246100010001",
+        "nama": "JAVA LIFE NUSANTARA",
+        "website": "javalife.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JAVA LIFE NUSANTARA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003844.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5178",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5044",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5178"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5177",
+      "attributes": {
+        "nomor_pb_umku": "912011408128500020001",
+        "nama": "WEBSITE",
+        "website": "reliance-finance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT USAHA PEMBIAYAAN RELIANCEINDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003429.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5177",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5042",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5177"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5175",
+      "attributes": {
+        "nomor_pb_umku": "022600090267200030005",
+        "nama": "OTTOPAY INDOMARCO",
+        "website": "ottopay.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REKSA TRANSAKSI SUKSES MAKMUR",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "000440.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5175",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5041",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5175"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5174",
+      "attributes": {
+        "nomor_pb_umku": "022030575283500000001",
+        "nama": "HYPE",
+        "website": "hype-plus.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA DIMENSI DIGITAL",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003823.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5174",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5040",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5174"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5173",
+      "attributes": {
+        "nomor_pb_umku": "912020954230500010002",
+        "nama": "MAYBANK FINANCE APP",
+        "website": "maybankfinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAYBANK INDONESIA FINANCE",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003479.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5173",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5039",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5173"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5172",
+      "attributes": {
+        "nomor_pb_umku": "022020615166800010001",
+        "nama": "VICTORIAINSURANCE.CO.ID",
+        "website": "victoriainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VICTORIA INSURANCE",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003826.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5172",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5038",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5172"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5171",
+      "attributes": {
+        "nomor_pb_umku": "812000390167501850001",
+        "nama": "INDOMOBIL FINANCE INDONESIA (IMFI) WEBSITE",
+        "website": "indomobilfinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOMOBIL FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003628.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5171",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5037",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5171"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5170",
+      "attributes": {
+        "nomor_pb_umku": "812010484269600000001",
+        "nama": "OLEHOLEH.CO.ID",
+        "website": "oleholeh.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL PLANET",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "000010.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5170",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5036",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5170"
+      }
+    }
+  ]
+}

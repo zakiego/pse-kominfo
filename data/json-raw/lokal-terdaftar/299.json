@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 299,
+      "from": 2981,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2990,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=300",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=298"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5528",
+      "attributes": {
+        "nomor_pb_umku": "812000390167501850007",
+        "nama": "INDOMOBIL FINANCE INDONESIA (IMFI) VENDOR BIDDING",
+        "website": "vendorbidding.indomobilfinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOMOBIL FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003628.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5528",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5395",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5528"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5527",
+      "attributes": {
+        "nomor_pb_umku": "140722000194700000001",
+        "nama": "MITRA SERVER TRANSAKSI",
+        "website": "Pulsaku.info",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HENDRA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004139.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5527",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5392",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5527"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5526",
+      "attributes": {
+        "nomor_pb_umku": "912031619290400050004",
+        "nama": "SATRIACORP.ID",
+        "website": "satriacorp.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SATRIA MEDIA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002851.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5526",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5391",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5526"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5525",
+      "attributes": {
+        "nomor_pb_umku": "912031619290400050003",
+        "nama": "SATRIA MEDIA TEKNOLOGI",
+        "website": "satriacorp.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SATRIA MEDIA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002851.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5525",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5390",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5525"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5524",
+      "attributes": {
+        "nomor_pb_umku": "912020714161200010001",
+        "nama": "BANTUSAKU",
+        "website": "bantusaku.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SMARTEC TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004054.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5524",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5279",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5524"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5523",
+      "attributes": {
+        "nomor_pb_umku": "812021410008400010001",
+        "nama": "JURAGANDISKON",
+        "website": "juragandiskon.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANUGERAH BINTANG INSANI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "000373.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5523",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5389",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5523"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5522",
+      "attributes": {
+        "nomor_pb_umku": "020222004899600000001",
+        "nama": "VERTAL",
+        "website": "vertal.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA OLAH DIGITAL",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004136.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5522",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5388",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5522"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5521",
+      "attributes": {
+        "nomor_pb_umku": "912040670121100010001",
+        "nama": "IKI MODAL",
+        "website": "ikimodal.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IKI KARUNIA INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004134.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5521",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5387",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5521"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5520",
+      "attributes": {
+        "nomor_pb_umku": "812010190004300000001",
+        "nama": "NOVELME1",
+        "website": "novelme.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FUNSOFT MOBINDO INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003895.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5520",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5386",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5520"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5519",
+      "attributes": {
+        "nomor_pb_umku": "022000015162300030001",
+        "nama": "HOSTINGAN",
+        "website": "hostingan.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOSTINGAN AWAN INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003937.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5519",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5381",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5519"
+      }
+    }
+  ]
+}

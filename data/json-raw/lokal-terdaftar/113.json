@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 113,
+      "from": 1121,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1130,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=114",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=112"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7497",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010010",
+        "nama": "BEEP.BTPN.COM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.16/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7497",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7364",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7497"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7496",
+      "attributes": {
+        "nomor_pb_umku": "026701002100300040006",
+        "nama": "WEBSITE STUDIO KAMI MANDIRI ID",
+        "website": "studiokami.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT STUDIO KAMI MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004407.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7496",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7398",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7496"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7495",
+      "attributes": {
+        "nomor_pb_umku": "912001012191400000001",
+        "nama": "LINTAS RAYA SAMUDRA",
+        "website": "lira.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LINTAS RAYA SAMUDRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005474.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7495",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7300",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7495"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7494",
+      "attributes": {
+        "nomor_pb_umku": "912000137170800000001",
+        "nama": "MINGPROMO",
+        "website": "mingpromo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA INOVASI GEMILANG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005406.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7494",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7317",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7494"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7493",
+      "attributes": {
+        "nomor_pb_umku": "812010998167600110010",
+        "nama": "XIMPAY STORE",
+        "website": "store.ximpay.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIYAKOM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004113.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7493",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7396",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7493"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7492",
+      "attributes": {
+        "nomor_pb_umku": "022010544269300020003",
+        "nama": "ASMIK",
+        "website": "layanan.axa-mandiri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AXA MANDIRI FINANCIAL SERVICES",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000538.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7492",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7178",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7492"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7491",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010018",
+        "nama": "WOW SUSAN",
+        "website": "btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7491",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7355",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7491"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7490",
+      "attributes": {
+        "nomor_pb_umku": "090422000888200020004",
+        "nama": "GAIDO MOBILE BANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH GAIDO INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004855.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7490",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7393",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7490"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7489",
+      "attributes": {
+        "nomor_pb_umku": "912020698073800010001",
+        "nama": "COMPANY PROFILE WEBSITE BPR SAHABAT",
+        "website": "bprsahabat.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT JAMBI CITRA SAHABAT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005389.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7489",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7392",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7489"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7488",
+      "attributes": {
+        "nomor_pb_umku": "190722008077400010003",
+        "nama": "FASTPAY (WEB TRANSAKSIONAL)",
+        "website": "bmsecure.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FASTPAY MEDIA NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005285.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7488",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7395",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7488"
+      }
+    }
+  ]
+}

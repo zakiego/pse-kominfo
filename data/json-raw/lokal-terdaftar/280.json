@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 280,
+      "from": 2791,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2800,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=281",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=279"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5727",
+      "attributes": {
+        "nomor_pb_umku": "912030169218300010001",
+        "nama": "ONPREMI",
+        "website": "onpremi.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEDANA PASIFIK SERVISTAMA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004042.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5727",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5382",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5727"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5726",
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030002",
+        "nama": "PROTEKSI PINTAR (SI PINTAR)",
+        "website": "mnc-insurance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000158.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5726",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5590",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5726"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5725",
+      "attributes": {
+        "nomor_pb_umku": "912030587109600000001",
+        "nama": "ITS PAYMENT",
+        "website": "its-pulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDO TERA SOLUSINDO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004286.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5725",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5589",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5725"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5724",
+      "attributes": {
+        "nomor_pb_umku": "912020070196500010001",
+        "nama": "TAKAFUL UMUM",
+        "website": "takafulumum.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI TAKAFUL UMUM",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004002.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5724",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5588",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5724"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5723",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620031",
+        "nama": "3DS CREDIT CARD",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "001669.33/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5723",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5583",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5723"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5722",
+      "attributes": {
+        "nomor_pb_umku": "912010686152200010001",
+        "nama": "PT BPR MINDOSARI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MINDOSARI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004258.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5722",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5586",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5722"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5721",
+      "attributes": {
+        "nomor_pb_umku": "022020680133400020002",
+        "nama": "WWW.KHAIA.CO.ID",
+        "website": "khaia.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MARI MENGGAPAI MIMPI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004278.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5721",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5587",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5721"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5720",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030006",
+        "nama": "ONE STEP PAYROLL BANK KALSEL",
+        "website": "payroll.bankkalsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004232.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5720",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5585",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5720"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5719",
+      "attributes": {
+        "nomor_pb_umku": "022020680133400020001",
+        "nama": "WWW.MEMBER.KHAIA.CO.ID",
+        "website": "member.khaia.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MARI MENGGAPAI MIMPI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004278.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5719",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5574",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5719"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5718",
+      "attributes": {
+        "nomor_pb_umku": "812001723173300010001",
+        "nama": "WEB PORTAL WWW.ASURANSIDAYINMITRA.COM",
+        "website": "asuransidayinmitra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI DAYIN MITRA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003801.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5718",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5584",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5718"
+      }
+    }
+  ]
+}

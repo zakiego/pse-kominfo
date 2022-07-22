@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 246,
+      "from": 2451,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2460,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=247",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=245"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6088",
+      "attributes": {
+        "nomor_pb_umku": "912000569164400000001",
+        "nama": "SILVANIX.COM",
+        "website": "silvanix.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIGA MANUNGGAL TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004150.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6088",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5961",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6088"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6087",
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090001",
+        "nama": "WEBSITE BPR LESTARI BALI",
+        "website": "bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004092.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6087",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5959",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6087"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6086",
+      "attributes": {
+        "nomor_pb_umku": "180722001486900000001",
+        "nama": "LOKALAN.COM",
+        "website": "lokalan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HERMAWAN SETIYANTO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004530.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6086",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5960",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6086"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6085",
+      "attributes": {
+        "nomor_pb_umku": "912010787078200000002",
+        "nama": "KFP. ID",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREDIT FINANCIAL PREDANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003909.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6085",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5956",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6085"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6084",
+      "attributes": {
+        "nomor_pb_umku": "812000371286600000001",
+        "nama": "INDOFUN GAMES",
+        "website": "indofungames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOFUN DIGITAL TECHNOLOGY",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004522.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6084",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5946",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6084"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6083",
+      "attributes": {
+        "nomor_pb_umku": "020622006029600000001",
+        "nama": "BPR BUMI SEDIAGUNA",
+        "website": "bprbumisediaguna.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUMI SEDIAGUNA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004398.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6083",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5954",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6083"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6082",
+      "attributes": {
+        "nomor_pb_umku": "812010895244500510002",
+        "nama": "IOH WEBSITE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOSAT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003423.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6082",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5953",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6082"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6081",
+      "attributes": {
+        "nomor_pb_umku": "912050276310400030001",
+        "nama": "BACKOFFICE SAS",
+        "website": "evergreensekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EVERGREEN SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004520.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6081",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5951",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6081"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6080",
+      "attributes": {
+        "nomor_pb_umku": "912030078234900000002",
+        "nama": "KLOB",
+        "website": "klob.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DAYALIMA ABISATYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004505.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6080",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5949",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6080"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6079",
+      "attributes": {
+        "nomor_pb_umku": "912021904224400000001",
+        "nama": "9TO9 ONLINE",
+        "website": "9to9.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUTERA KONSEPINDO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004496.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6079",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5950",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6079"
+      }
+    }
+  ]
+}

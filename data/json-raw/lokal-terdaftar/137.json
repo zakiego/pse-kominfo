@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 137,
+      "from": 1361,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1370,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=138",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=136"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7257",
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000002",
+        "nama": "APLIKASI MVICALL",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI BESTAMA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004632.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7257",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7150",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7257"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7256",
+      "attributes": {
+        "nomor_pb_umku": "190722006453900000001",
+        "nama": "SWIPEAPE",
+        "website": "Swipeape.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANDREW Y SUHADA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005282.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7256",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7155",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7256"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7255",
+      "attributes": {
+        "nomor_pb_umku": "190722008443100000001",
+        "nama": "DODOLANKUOTA",
+        "website": "dodolankuota.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Endah Sukro Pancawati",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005280.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7255",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7153",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7255"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7254",
+      "attributes": {
+        "nomor_pb_umku": "022000321126300000001",
+        "nama": "ANGGICHANGER",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV ANGGICHANGER",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005286.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7254",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7152",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7254"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7253",
+      "attributes": {
+        "nomor_pb_umku": "190722006852300010001",
+        "nama": "ANYMHOST ID",
+        "website": "anymhost.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AHMAD ANDY GALLIEN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005275.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7253",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7151",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7253"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7252",
+      "attributes": {
+        "nomor_pb_umku": "190722007397800000001",
+        "nama": "WEBSITE BPR PARO TUA",
+        "website": "bprparotua.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PARO TUA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005279.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7252",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7149",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7252"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7251",
+      "attributes": {
+        "nomor_pb_umku": "190722008077400010001",
+        "nama": "FASTPAY",
+        "website": "fastpay.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FASTPAY MEDIA NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005285.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7251",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7145",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7251"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7250",
+      "attributes": {
+        "nomor_pb_umku": "127700040102800000001",
+        "nama": "ABYPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KHAIRUL FAUZI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005281.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7250",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7143",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7250"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7249",
+      "attributes": {
+        "nomor_pb_umku": "190122001896900000001",
+        "nama": "P-STORE.NET",
+        "website": "p-store.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIJAYA DIGITAL GRUP",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005283.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7249",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7142",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7249"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7248",
+      "attributes": {
+        "nomor_pb_umku": "190722008366500000001",
+        "nama": "SURATPLUS",
+        "website": "suratplus.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "T. SAIFUDDIN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005273.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7248",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7140",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7248"
+      }
+    }
+  ]
+}

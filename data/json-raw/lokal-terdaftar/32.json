@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 32,
+      "from": 311,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 320,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=33",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=31"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8376",
+      "attributes": {
+        "nomor_pb_umku": "022000657248400000002",
+        "nama": "BAHASO.COM",
+        "website": "Bahaso.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BAHASO INTERMEDIA CAKRAWALA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005188.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8376",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7195",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8376"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8375",
+      "attributes": {
+        "nomor_pb_umku": "201221000752600070001",
+        "nama": "CV. FORTUNA JAYA ABADI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV FORTUNA JAYA ABADI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005874.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8375",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8295",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8375"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8374",
+      "attributes": {
+        "nomor_pb_umku": "100222000500300000001",
+        "nama": "4NEOWEB",
+        "website": "4neoweb.online",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DIKRI NALENDRA AMINADIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005860.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8374",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8294",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8374"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8373",
+      "attributes": {
+        "nomor_pb_umku": "190722000518300010002",
+        "nama": "FASTEST BOT",
+        "website": "fastestbot.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD YULIAN NOOR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005464.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8373",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8293",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8373"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8372",
+      "attributes": {
+        "nomor_pb_umku": "912000280226900020001",
+        "nama": "SESA.ID",
+        "website": "sesa.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KEBENARAN KESEHATAN DARI ALAM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005090.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8372",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8086",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8372"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8371",
+      "attributes": {
+        "nomor_pb_umku": "124700034152600010003",
+        "nama": "FOTOKOPI LIHUM",
+        "website": "lihum.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV LIHUM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000632.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8371",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8292",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8371"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8370",
+      "attributes": {
+        "nomor_pb_umku": "251121003544500000001",
+        "nama": "STEFANUSADE.WEB.ID",
+        "website": "stefanusade.web.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KAKA ADE BASODARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005872.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8370",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8291",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8370"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8369",
+      "attributes": {
+        "nomor_pb_umku": "200722007407800000006",
+        "nama": "TOKOH",
+        "website": "tokoh.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUQIET EFADLINUR BAKTIMY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005792.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8369",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8290",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8369"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8368",
+      "attributes": {
+        "nomor_pb_umku": "200722007407800000005",
+        "nama": "PILEG NETWORK",
+        "website": "pileg.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUQIET EFADLINUR BAKTIMY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005792.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8368",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8289",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8368"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8367",
+      "attributes": {
+        "nomor_pb_umku": "200722006094900000001",
+        "nama": "ABIBEY ID",
+        "website": "abibey.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NURMALIK WIJAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005851.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8367",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8288",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8367"
+      }
+    }
+  ]
+}

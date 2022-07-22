@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 249,
+      "from": 2481,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2490,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=250",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=248"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6058",
+      "attributes": {
+        "nomor_pb_umku": "026701002100300040001",
+        "nama": "FLIGHT DATA SYSTEM (FDS)",
+        "website": "-",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT STUDIO KAMI MANDIRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004407.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6058",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5906",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6058"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6057",
+      "attributes": {
+        "nomor_pb_umku": "040322004876400000002",
+        "nama": "TECHNOSINDO",
+        "website": "technosindo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ENVO TECHNOSINDO KREATIF",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004501.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6057",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5927",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6057"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6056",
+      "attributes": {
+        "nomor_pb_umku": "912020258190900140001",
+        "nama": "JASTAN APPS",
+        "website": "jastan.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JASA TANIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004181.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6056",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5924",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6056"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6055",
+      "attributes": {
+        "nomor_pb_umku": "040322004876400000001",
+        "nama": "ENVO APPS",
+        "website": "envoapps.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ENVO TECHNOSINDO KREATIF",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004501.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6055",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5923",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6055"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6054",
+      "attributes": {
+        "nomor_pb_umku": "812001704085400040002",
+        "nama": "FAMILYMART INDONESIA",
+        "website": "familymartindonesia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FAJAR MITRA INDAH",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001374.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6054",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5197",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6054"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6053",
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010001",
+        "nama": "WEBSITE BCA FINANCE",
+        "website": "bcafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BCA FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000037.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6053",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5921",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6053"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6052",
+      "attributes": {
+        "nomor_pb_umku": "912050270107200010001",
+        "nama": "WEBSITE PT. BPR BATANGHARI",
+        "website": "bankbprbatanghari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BATANGHARI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004485.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6052",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5922",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6052"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6051",
+      "attributes": {
+        "nomor_pb_umku": "912050881268200030001",
+        "nama": "PT BPR MRANGGEN MITRAPERSADA",
+        "website": "bprmmp.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MRANGGEN MITRAPERSADA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004498.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6051",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5920",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6051"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6050",
+      "attributes": {
+        "nomor_pb_umku": "240622004537300140001",
+        "nama": "SRIKANDI LISTRIK NETWORKING",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV SRIKANDI LISTRIK NETWORKING",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004127.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6050",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5919",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6050"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6049",
+      "attributes": {
+        "nomor_pb_umku": "140122002061300010001",
+        "nama": "PT BPR ANJUK LADANG PERSERODA",
+        "website": "bankanjukladang.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR ANJUK LADANG PERSERODA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004488.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6049",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5918",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6049"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 19,
+      "from": 181,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 190,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=20",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=18"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8532",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040010",
+        "nama": "TRANSFER LBBPRK",
+        "website": "pelaporan.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005098.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8532",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8448",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8532"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8531",
+      "attributes": {
+        "nomor_pb_umku": "812000172108700070037",
+        "nama": "SAMSUNG PAY",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAMSUNG ELECTRONICS INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004280.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8531",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8445",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8531"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8530",
+      "attributes": {
+        "nomor_pb_umku": "180722005704400000001",
+        "nama": "WARUNG DIGITAL",
+        "website": "warungdigitalofficial.jualan.me",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "M. ILHAM RAHIM",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004678.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8530",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8446",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8530"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8529",
+      "attributes": {
+        "nomor_pb_umku": "912010063281100010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT SURYA DANAKARYA",
+        "website": "suryadanakarya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA DANAKARYA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005960.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8529",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8442",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8529"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8528",
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000007",
+        "nama": "MVICALL WEBSITE",
+        "website": "Mvicall.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI BESTAMA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004632.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8528",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8444",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8528"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8527",
+      "attributes": {
+        "nomor_pb_umku": "812011108341700000001",
+        "nama": "TPS ONLINE",
+        "website": "seaport.tpsonline.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ELECTRONIC DATA INTERCHANGE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003587.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8527",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8368",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8527"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8526",
+      "attributes": {
+        "nomor_pb_umku": "180522005314800030001",
+        "nama": "VENDIS SFA",
+        "website": "l7systems.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT L7 SYSTEMS",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005962.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8526",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8440",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8526"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8525",
+      "attributes": {
+        "nomor_pb_umku": "024501025212800000001",
+        "nama": "MERKHA",
+        "website": "merkha.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MERKHA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005918.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8525",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8439",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8525"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8524",
+      "attributes": {
+        "nomor_pb_umku": "912010687135400010001",
+        "nama": "BANK PERKREDITAN RAKYAT TANJUNG PRATAMA",
+        "website": "bprtanjungpratama.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TANJUNG PRATAMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005927.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8524",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8437",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8524"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8523",
+      "attributes": {
+        "nomor_pb_umku": "022030412155900020047",
+        "nama": "HGCX (HYUNDAI GLOBAL CUSTOMER EXPERIENCE)",
+        "website": "ap.hyundaiglobalcx.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HYUNDAI MOTORS INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000635.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8523",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8438",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8523"
+      }
+    }
+  ]
+}

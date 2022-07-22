@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 366,
+      "from": 3651,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3660,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=367",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=365"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4716",
+      "attributes": {
+        "nomor_pb_umku": "210821000704900040001",
+        "nama": "PT DUA CERITA INDOMEDIA",
+        "website": "wartaduta.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUA CERITA INDOMEDIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003401.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4716",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4670",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4716"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4715",
+      "attributes": {
+        "nomor_pb_umku": "160222000030900000001",
+        "nama": "SLEEKTIV.COM & SLEEKTIV PRO",
+        "website": "sleektiv.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV SOLUSI KREATIF ANAK INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003400.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4715",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4669",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4715"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4714",
+      "attributes": {
+        "nomor_pb_umku": "140122000213900010001",
+        "nama": "KELASBERBAYAR",
+        "website": "kelasberbayar.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "USAHA KITA MILYARAN",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003398.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4714",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4668",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4714"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4713",
+      "attributes": {
+        "nomor_pb_umku": "270522000047600000003",
+        "nama": "PORTAL BUANA MEDIA",
+        "website": "PORTALBUANANEW.COM",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PORTAL BUANA MEDIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003342.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4713",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4667",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4713"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4712",
+      "attributes": {
+        "nomor_pb_umku": "301221002425600020001",
+        "nama": "FAZPASS",
+        "website": "fazpass.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FAZPASS INTEGRASI INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003394.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4712",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4665",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4712"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4711",
+      "attributes": {
+        "nomor_pb_umku": "270522000047600000002",
+        "nama": "PORTAL BUANA ASIA",
+        "website": "PORTALBUANANEW.ASIA",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PORTAL BUANA MEDIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003342.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4711",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4666",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4711"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4709",
+      "attributes": {
+        "nomor_pb_umku": "912021414159900020001",
+        "nama": "MALLRAYSPEED",
+        "website": "mallrayspeed.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RAYSPID INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003395.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4709",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4664",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4709"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4708",
+      "attributes": {
+        "nomor_pb_umku": "812001925005100000002",
+        "nama": "ZALORA",
+        "website": "zalora.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FASHION ESERVICES INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003393.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4708",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4663",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4708"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4707",
+      "attributes": {
+        "nomor_pb_umku": "130122002648600020001",
+        "nama": "GROWSIRE",
+        "website": "growsir-e.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GROWSIRE KARYA INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003390.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4707",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4662",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4707"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4705",
+      "attributes": {
+        "nomor_pb_umku": "912021406196200000001",
+        "nama": "ZALORA",
+        "website": "zalora.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FASHION MARKETPLACE INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003391.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4705",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4661",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4705"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 409,
+      "from": 4081,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4090,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=410",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=408"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4434",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "E-commerce & Kemitraan Market Tani",
+        "website": "marketani.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PASAR TANI INDONESIA",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002666.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4434",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4418",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4434"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4433",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "E2Pay Payment Gateway",
+        "website": "e2pay.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT E2PAY GLOBAL UTAMA",
+        "tanggal_daftar": "2022-05-10",
+        "tanggal_terbit": "2022-05-10",
+        "nomor_tanda_daftar": "002665.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4433",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4417",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4433"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4432",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GLOBAL AIDEN TEKNOLOGI",
+        "website": "www.aidenasia.com",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL AIDEN TEKNOLOGI",
+        "tanggal_daftar": "2022-05-10",
+        "tanggal_terbit": "2022-05-10",
+        "nomor_tanda_daftar": "002664.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4432",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4416",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4432"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4431",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.jet.co.id",
+        "website": "www.jet.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL JET EXPRESS",
+        "tanggal_daftar": "2022-05-10",
+        "tanggal_terbit": "2022-05-10",
+        "nomor_tanda_daftar": "002663.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4431",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4415",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4431"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4430",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "J&T Express",
+        "website": "jet.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL JET EXPRESS",
+        "tanggal_daftar": "2022-05-10",
+        "tanggal_terbit": "2022-05-10",
+        "nomor_tanda_daftar": "002663.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4430",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4414",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4430"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4347",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KiriminAja Aggregator Logistik",
+        "website": "kiriminaja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SELALU SIAP SOLUSI",
+        "tanggal_daftar": "2022-05-10",
+        "tanggal_terbit": "2022-05-10",
+        "nomor_tanda_daftar": "000710.06/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4347",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4333",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4347"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4429",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Investly",
+        "website": "investly.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INVESTASI CERDAS BERSAMA",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002662.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4429",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4413",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4429"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4428",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Meta Bisnis Indonesia",
+        "website": "calobisnis.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT METADATA BISNIS INDONESIA",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002661.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4428",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4412",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4428"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4427",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WARGA STORE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SANGKURIANG BERKAH NUSANTARA",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002660.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4427",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4411",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4427"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4426",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Flash Pay",
+        "website": "flashpay.co.th",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FLASH PAY INDONESIA",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002659.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4426",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4410",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4426"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 423,
+      "from": 4221,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4230,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=424",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=422"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "3976",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiserve Professional Service",
+        "website": "Digiserve.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL APLIKASI SOLUSI",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002584.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3976",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3914",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3976"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3975",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiserve Managed Security Service",
+        "website": "Digiserve.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL APLIKASI SOLUSI",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002584.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3975",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3913",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3975"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3973",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiserve Managed Network Service",
+        "website": "Digiserve.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL APLIKASI SOLUSI",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002584.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3973",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3912",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3973"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3972",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mokamall77",
+        "website": "mokamall77.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "JAPRIBOS INTI MANDIRI",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002583.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3972",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3892",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3972"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3971",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMS",
+        "website": "www.amconsults.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARTHAMAS SOLUSINDO",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002582.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3971",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3966",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3971"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3970",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "id.hm.com",
+        "website": "www.id.hm.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HINDO",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002581.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3970",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3928",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3970"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3969",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "decathlon.co.id",
+        "website": "decathlon.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DECATHLON SPORTS INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002537.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3969",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3945",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3969"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3968",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DEPOSITOBPR BY KOMUNAL",
+        "website": "depositobpr.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOMUNAL SEJAHTERA INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002580.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3968",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3737",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3968"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3967",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Microsite Pembelian Asuransi Jiwa",
+        "website": "bareng.zurich.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZURICH TOPAS LIFE",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002579.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3967",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3998",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3967"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3966",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TV Voucher",
+        "website": "tv-voucher.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL MEDIA NUSANTARA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002578.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3966",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3735",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3966"
+      }
+    }
+  ]
+}

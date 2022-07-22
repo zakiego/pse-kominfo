@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 115,
+      "from": 1141,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1150,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=116",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=114"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7477",
+      "attributes": {
+        "nomor_pb_umku": "912000282164300010001",
+        "nama": "WEBSITE PT. BPR INGERTAD BANGUN UTAMA",
+        "website": "bankibu.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT INGERTAD BANGUN UTAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005408.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7477",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7385",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7477"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7476",
+      "attributes": {
+        "nomor_pb_umku": "912020784340100010001",
+        "nama": "KBSTRACK.COM",
+        "website": "kbstrack.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYA BAKTI SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005202.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7476",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7384",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7476"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7475",
+      "attributes": {
+        "nomor_pb_umku": "081121000309900040002",
+        "nama": "CONCREATE PORTAL",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MASYARAKAT INDUSTRI KREATIF TEKNOLOGI INFORMASI DAN KOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005501.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7475",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7383",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7475"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7474",
+      "attributes": {
+        "nomor_pb_umku": "912030076266300010001",
+        "nama": "WWW.BPRAMIRA.COM",
+        "website": "bpramira.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTA MITRA RAKYAT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005451.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7474",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7382",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7474"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7473",
+      "attributes": {
+        "nomor_pb_umku": "912050197142200040001",
+        "nama": "TANAMDUIT REKSA DANA",
+        "website": "tanamduit.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT STAR MERCATO CAPITALE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005430.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7473",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7379",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7473"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7472",
+      "attributes": {
+        "nomor_pb_umku": "812011507226300000002",
+        "nama": "PPOB",
+        "website": "site.alt-on.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALTON MITRA SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005272.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7472",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7378",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7472"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7471",
+      "attributes": {
+        "nomor_pb_umku": "123300014256400020005",
+        "nama": "GROUP HEALTH PIC REPORTING",
+        "website": "health.hanwhalife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HANWHA LIFE INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000359.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7471",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7363",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7471"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7470",
+      "attributes": {
+        "nomor_pb_umku": "190322001484200020001",
+        "nama": "AWMELITEINTERNATIONAL.COM",
+        "website": "awmeliteinternational.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AWM ELITE INTERNATIONAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005495.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7470",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7321",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7470"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7469",
+      "attributes": {
+        "nomor_pb_umku": "912000994112600010001",
+        "nama": "ASSIST-BPR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR WUTAMA ARTHA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005375.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7469",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7377",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7469"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7468",
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010011",
+        "nama": "MICROSITE ESG IDX",
+        "website": "esg.idx.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000832.23/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7468",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7376",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7468"
+      }
+    }
+  ]
+}

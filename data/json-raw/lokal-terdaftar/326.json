@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 326,
+      "from": 3251,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3260,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=327",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=325"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5230",
+      "attributes": {
+        "nomor_pb_umku": "022010980017700000006",
+        "nama": "KARYAANILO",
+        "website": "karyaanilo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANILO ADIKARYA SENTOSA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003588.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5230",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5099",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5230"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5229",
+      "attributes": {
+        "nomor_pb_umku": "912000331200500000001",
+        "nama": "MEDIATAMA PROMO INDONESIA",
+        "website": "mediatamapro.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDIATAMA PROMO INDONESIA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003881.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5229",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5098",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5229"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5228",
+      "attributes": {
+        "nomor_pb_umku": "022010980017700000005",
+        "nama": "INNOVATIONKIT",
+        "website": "innovationkit.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANILO ADIKARYA SENTOSA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003588.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5228",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5097",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5228"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5227",
+      "attributes": {
+        "nomor_pb_umku": "812000599278300000001",
+        "nama": "EPSILON PEOPLECLOUD DIGITAL MEDIA SOLUTION (DMS)",
+        "website": "access.conversantmedia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT STAR REACHERS INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003865.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5227",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5066",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5227"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5226",
+      "attributes": {
+        "nomor_pb_umku": "022010980017700000004",
+        "nama": "TIJAROH",
+        "website": "tijaroh.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANILO ADIKARYA SENTOSA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003588.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5226",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5096",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5226"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5225",
+      "attributes": {
+        "nomor_pb_umku": "022010980017700000003",
+        "nama": "CONNECTBANK",
+        "website": "connectbank.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANILO ADIKARYA SENTOSA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003588.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5225",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5095",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5225"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5224",
+      "attributes": {
+        "nomor_pb_umku": "111221001339800010005",
+        "nama": "ADVIT",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "VROMEDIA INFORMATIKA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "001750.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5224",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5094",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5224"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5223",
+      "attributes": {
+        "nomor_pb_umku": "100322005016400020001",
+        "nama": "SIAPBOS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SIAPBOS BORNEO NUSANTARA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003546.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5223",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5093",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5223"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5222",
+      "attributes": {
+        "nomor_pb_umku": "812011726065900000001",
+        "nama": "LYTO",
+        "website": "lytogame.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LYTO DATARINDO FORTUNA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003743.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5222",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5092",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5222"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5221",
+      "attributes": {
+        "nomor_pb_umku": "912030970011100040004",
+        "nama": "MEGAXUS PAYMENT",
+        "website": "Bill.megaxus.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGAXUS INFOTECH",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003875.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5221",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5091",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5221"
+      }
+    }
+  ]
+}

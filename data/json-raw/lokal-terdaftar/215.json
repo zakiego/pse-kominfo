@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 215,
+      "from": 2141,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2150,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=216",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=214"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6439",
+      "attributes": {
+        "nomor_pb_umku": "912020051114300010001",
+        "nama": "BPR E-CASH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUNGAMAYANG AGROLOKA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004689.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6439",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6312",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6439"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6438",
+      "attributes": {
+        "nomor_pb_umku": "070122003269900010001",
+        "nama": "MYMETASUN",
+        "website": "metasun.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT METASUN INDO TECH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004290.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6438",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6310",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6438"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6437",
+      "attributes": {
+        "nomor_pb_umku": "912010441021900040001",
+        "nama": "JOHNNY ANDREAN SALON ONLINE SHOP",
+        "website": "johnnyandrean.com",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HARMONI MITRAJAYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004683.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6437",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6311",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6437"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6436",
+      "attributes": {
+        "nomor_pb_umku": "912020416089300010001",
+        "nama": "ROPPAN DELIVERY",
+        "website": "roppandelivery.com",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ROYAL PANCAPERSADA ANUGERAH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004695.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6436",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6306",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6436"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6435",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010012",
+        "nama": "RAYA API",
+        "website": "developers.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6435",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6307",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6435"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6434",
+      "attributes": {
+        "nomor_pb_umku": "812021927148600010009",
+        "nama": "DEASY",
+        "website": "kreditplus.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KB FINANSIA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000132.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6434",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6305",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6434"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6433",
+      "attributes": {
+        "nomor_pb_umku": "128100065134800010002",
+        "nama": "SOBAT ONLINE INDONESIA",
+        "website": "sobatonline.bukaolshop.site",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AHMAD HASAN BAJUBER",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004733.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6433",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6303",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6433"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6432",
+      "attributes": {
+        "nomor_pb_umku": "912040532184900040001",
+        "nama": "MCEASY",
+        "website": "mceasy.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OTTO MENARA GLOBALINDO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004729.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6432",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6304",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6432"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6431",
+      "attributes": {
+        "nomor_pb_umku": "912030512166400000001",
+        "nama": "WEBSITE SMART CONSULTING",
+        "website": "Smartcolaw.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SMART CONSULTING",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004734.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6431",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6302",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6431"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6430",
+      "attributes": {
+        "nomor_pb_umku": "912000992006600070006",
+        "nama": "APLIKASI VIRTUAL CLAIM POSINDO",
+        "website": "klaimposindo.asuransijasindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JASA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001609.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6430",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6299",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6430"
+      }
+    }
+  ]
+}

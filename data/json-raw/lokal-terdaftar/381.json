@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 381,
+      "from": 3801,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3810,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=382",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=380"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4371",
+      "attributes": {
+        "nomor_pb_umku": "812020091167500000002",
+        "nama": "FOX LOGGER",
+        "website": "tracker.foxlogger.info",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUMBER SINERGI MAKMUR",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "002918.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4371",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4357",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4371"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4370",
+      "attributes": {
+        "nomor_pb_umku": "170322002947500000001",
+        "nama": "CLOSEPAY (APLIKASI DIGITAL BISNIS)",
+        "website": "Closepay.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FOKUS TEKNOLOGI PEMBAYARAN",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "003173.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4370",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4356",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4370"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4369",
+      "attributes": {
+        "nomor_pb_umku": "912021126128300010004",
+        "nama": "TILAKA",
+        "website": "tilaka.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TILAKA NUSA TEKNOLOGI",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "002849.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4369",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4355",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4369"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4368",
+      "attributes": {
+        "nomor_pb_umku": "812000176280300000001",
+        "nama": "HELO-BABE",
+        "website": "babe.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MP GAMES",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "002831.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4368",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4354",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4368"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4367",
+      "attributes": {
+        "nomor_pb_umku": "130622008453200000001",
+        "nama": "WINDOW OF INDONESIA",
+        "website": "windowofindonesia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD ALPIAN",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "003065.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4367",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4353",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4367"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4342",
+      "attributes": {
+        "nomor_pb_umku": "130122003547500000001",
+        "nama": "SOLIS RESTO",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI LOGIKA KREASI",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "000378.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4342",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4328",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4342"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4341",
+      "attributes": {
+        "nomor_pb_umku": "812011222157900020001",
+        "nama": "FIFGROUP INTELLIGENT PERSONAL ASSISTANT ATAU FIONA",
+        "website": "fifgroup.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FEDERAL INTERNATIONAL FINANCE",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "000368.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4341",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4327",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4341"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4340",
+      "attributes": {
+        "nomor_pb_umku": "912010556233500020001",
+        "nama": "SRIBU.COM",
+        "website": "sribu.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SRIBU DIGITAL KREATIF",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "000369.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4340",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4326",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4340"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4339",
+      "attributes": {
+        "nomor_pb_umku": "070622005218100000001",
+        "nama": "LILI STYLE",
+        "website": "lili.style",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LILI STYLE INDONESIA",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "000372.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4339",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4325",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4339"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4338",
+      "attributes": {
+        "nomor_pb_umku": "912030886185300020002",
+        "nama": "LAPAKCHINA.COM",
+        "website": "Lapakchina.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OCOMMERCE CAPITAL INDONESIA",
+        "tanggal_daftar": "2022-06-13",
+        "tanggal_terbit": "2022-06-13",
+        "nomor_tanda_daftar": "002857.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4338",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4323",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4338"
+      }
+    }
+  ]
+}

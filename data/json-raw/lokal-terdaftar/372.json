@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 372,
+      "from": 3711,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3720,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=373",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=371"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4640",
+      "attributes": {
+        "nomor_pb_umku": "912030720189300010002",
+        "nama": "ACC.CO.ID (WEBSITE RESMI ASTRA CREDIT COMPANIES)",
+        "website": "acc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASTRA SEDAYA FINANCE",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003299.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4640",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4600",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4640"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4639",
+      "attributes": {
+        "nomor_pb_umku": "812010285299800010001",
+        "nama": "WEBSITE PERUSAHAAN",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JASA TEKNOLOGI INFORMASI IBM",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003297.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4639",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4598",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4639"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4638",
+      "attributes": {
+        "nomor_pb_umku": "130522004312700000001",
+        "nama": "REACH!",
+        "website": "getreach.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TUJUAN NYATA ANAK BANGSA",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "002910.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4638",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4599",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4638"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4637",
+      "attributes": {
+        "nomor_pb_umku": "912030838199700010001",
+        "nama": "MEMBER.ID",
+        "website": "member.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL LOYAL SEJAHTERA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "002813.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4637",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4591",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4637"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4636",
+      "attributes": {
+        "nomor_pb_umku": "912020235143900010001",
+        "nama": "MCNI",
+        "website": "m-cni.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CITRA NUSA INSAN CEMERLANG",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003285.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4636",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4597",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4636"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4635",
+      "attributes": {
+        "nomor_pb_umku": "812001623058400250005",
+        "nama": "LINTASARTA E-KYC",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKANUSA LINTASARTA",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003235.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4635",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4596",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4635"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4634",
+      "attributes": {
+        "nomor_pb_umku": "040622001126800000001",
+        "nama": "AGX",
+        "website": "agx.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HYDRAX DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003015.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4634",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4595",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4634"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4633",
+      "attributes": {
+        "nomor_pb_umku": "260122004405300000001",
+        "nama": "ICOMMUNITY",
+        "website": "icommunity.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERBAGI RELASI PERBESAR REZEKI",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003305.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4633",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4594",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4633"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4632",
+      "attributes": {
+        "nomor_pb_umku": "912030460280300000001",
+        "nama": "JIRUNK",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV JIRUNK",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003302.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4632",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4593",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4632"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4631",
+      "attributes": {
+        "nomor_pb_umku": "160921005519900100005",
+        "nama": "REPOWERDEFI.ID",
+        "website": "repowerdefi.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAVVIX DIGITAL BLOCKCHAIN",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "001348.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4631",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4592",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4631"
+      }
+    }
+  ]
+}

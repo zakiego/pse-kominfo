@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 59,
+      "from": 581,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 590,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=60",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=58"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8041",
+      "attributes": {
+        "nomor_pb_umku": "912050081291600020002",
+        "nama": "WEBSITE SUPRA SEKURITAS",
+        "website": "suprasekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUPRA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001081.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8041",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7963",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8041"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8040",
+      "attributes": {
+        "nomor_pb_umku": "912000296057200020001",
+        "nama": "HASAMITRA MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HASA MITRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005689.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8040",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7962",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8040"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8039",
+      "attributes": {
+        "nomor_pb_umku": "100921005075700010001",
+        "nama": "AWANDATA",
+        "website": "awandata.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA AWAN DATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005326.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8039",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7959",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8039"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8038",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010004",
+        "nama": "WIFI PRO WEBSITE",
+        "website": "activewifi.ina17.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8038",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7924",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8038"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8037",
+      "attributes": {
+        "nomor_pb_umku": "912030449041501110054",
+        "nama": "SELECTION EXAM",
+        "website": "exam.telkom.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001331.46/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8037",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7958",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8037"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8036",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160026",
+        "nama": "CUSTOMER ONLINE ONBOARDING VIDEOSTREAMING (COO VB)",
+        "website": "videostream.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.41/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8036",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7961",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8036"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8035",
+      "attributes": {
+        "nomor_pb_umku": "120800011163700060001",
+        "nama": "PERIKSALAB",
+        "website": "periksalab.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI TIGA SELARAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004728.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8035",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7957",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8035"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8034",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020004",
+        "nama": "CENTRALGROUPPROPERTY.COM",
+        "website": "centralgroupproperty.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8034",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7960",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8034"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8033",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010006",
+        "nama": "IOT RCS CONDITIONING MONITORING SYSTEM",
+        "website": "staging.ina17.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8033",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7956",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8033"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8032",
+      "attributes": {
+        "nomor_pb_umku": "912020085252400000001",
+        "nama": "APLIKASI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GADAIKU PASTI JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005743.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8032",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7953",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8032"
+      }
+    }
+  ]
+}

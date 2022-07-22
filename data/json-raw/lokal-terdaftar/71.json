@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 71,
+      "from": 701,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 710,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=72",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=70"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7921",
+      "attributes": {
+        "nomor_pb_umku": "022201110082300010008",
+        "nama": "AIA INDONESIA ANYA CHATBOT",
+        "website": "aia-financial.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIA FINANCIAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000007.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7921",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7837",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7921"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7920",
+      "attributes": {
+        "nomor_pb_umku": "912010691075200010001",
+        "nama": "BEE",
+        "website": "bee.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BITS MILIARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005595.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7920",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7836",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7920"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7919",
+      "attributes": {
+        "nomor_pb_umku": "912020114057900020001",
+        "nama": "WEBSITE PT. BPR CENTRAL SEJAHTERA",
+        "website": "bprbcs.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CENTRAL SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005581.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7919",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7834",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7919"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7918",
+      "attributes": {
+        "nomor_pb_umku": "126900068197100090001",
+        "nama": "OCJEK",
+        "website": "-",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CAHAYA LAMANDAU",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005633.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7918",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7833",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7918"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7917",
+      "attributes": {
+        "nomor_pb_umku": "912011301063400010001",
+        "nama": "WEBSITE COMPANY PROFELE",
+        "website": "bprbkkgrogol.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN GROGOL PERSERODA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005628.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7917",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7824",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7917"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7916",
+      "attributes": {
+        "nomor_pb_umku": "912050873310900010001",
+        "nama": "WEBSITE BPR PUNDI DANA MANDIRI",
+        "website": "bprpdm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PUNDI DANA MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005669.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7916",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7832",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7916"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7915",
+      "attributes": {
+        "nomor_pb_umku": "912040196170100010001",
+        "nama": "WEBSITE BPRBDS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BINA DANA SWADAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005700.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7915",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7830",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7915"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7914",
+      "attributes": {
+        "nomor_pb_umku": "022020530073800870002",
+        "nama": "FERIZY ONLINE TICKETING",
+        "website": "ferizy.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASDP INDONESIA FERRY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005154.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7914",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7826",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7914"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7913",
+      "attributes": {
+        "nomor_pb_umku": "912000248004700010004",
+        "nama": "APLIKASI BANK BOYOLALI MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK BOYOLALI (PERSERODA)",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005077.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7913",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7829",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7913"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7912",
+      "attributes": {
+        "nomor_pb_umku": "090622004403700000001",
+        "nama": "BONAFIT PAYMENT",
+        "website": "bonafitpay.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BONAFIT MULTI PAYMENT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005523.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7912",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7827",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7912"
+      }
+    }
+  ]
+}

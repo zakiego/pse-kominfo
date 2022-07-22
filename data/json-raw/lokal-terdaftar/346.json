@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 346,
+      "from": 3451,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3460,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=347",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=345"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5019",
+      "attributes": {
+        "nomor_pb_umku": "912010818097700010001",
+        "nama": "WEBSITE PANIN BANK",
+        "website": "panin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PAN INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "001240.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5019",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4888",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5019"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5018",
+      "attributes": {
+        "nomor_pb_umku": "812010396144900010008",
+        "nama": "WEB COLE HAAN",
+        "website": "colehaan.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KANMO RETAILINDO",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "001358.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5018",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4889",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5018"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5017",
+      "attributes": {
+        "nomor_pb_umku": "023500091207600040001",
+        "nama": "DATACENTER INDONESIA SUKSES MAKMUR",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DATACENTER INDONESIA SUKSES MAKMUR",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003636.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5017",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4890",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5017"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5016",
+      "attributes": {
+        "nomor_pb_umku": "912010818097700010001",
+        "nama": "ESBN",
+        "website": "esbn.panin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PAN INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "001240.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5016",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4882",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5016"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5015",
+      "attributes": {
+        "nomor_pb_umku": "912050589239700010001",
+        "nama": "WEBSITE PT BANK MNC INTERNASIONAL TBK",
+        "website": "mncbank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MNC INTERNASIONAL",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000453.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5015",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4876",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5015"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5014",
+      "attributes": {
+        "nomor_pb_umku": "912030225282400070002",
+        "nama": "CITI GOV",
+        "website": "demo.smartgov.teknolab.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CARTENZ TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "002974.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5014",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4887",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5014"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5013",
+      "attributes": {
+        "nomor_pb_umku": "022600090267200030004",
+        "nama": "OTTOKASIR",
+        "website": "ottopay.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REKSA TRANSAKSI SUKSES MAKMUR",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000440.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5013",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4885",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5013"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5012",
+      "attributes": {
+        "nomor_pb_umku": "912030225282400070001",
+        "nama": "CITIGOV",
+        "website": "demo.smartgov.teknolab.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CARTENZ TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "002974.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5012",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4884",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5012"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5011",
+      "attributes": {
+        "nomor_pb_umku": "912020553197500050002",
+        "nama": "D-BANK REGISTRATION",
+        "website": "register.dbank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000861.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5011",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4881",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5011"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5010",
+      "attributes": {
+        "nomor_pb_umku": "912020553197500050002",
+        "nama": "DANAMON ONLINE BANKING",
+        "website": "danamonline.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000861.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5010",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4880",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5010"
+      }
+    }
+  ]
+}

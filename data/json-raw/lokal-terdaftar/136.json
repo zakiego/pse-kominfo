@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 136,
+      "from": 1351,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1360,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=137",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=135"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7267",
+      "attributes": {
+        "nomor_pb_umku": "200722000130100000001",
+        "nama": "VIVAPAY",
+        "website": "viva-pay.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DIGITAL MUDA BERKARYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005293.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7267",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7162",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7267"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7266",
+      "attributes": {
+        "nomor_pb_umku": "022010835116600000001",
+        "nama": "WEB PENJUALAN BETON PRECAST",
+        "website": "indoprecast.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOPRECAST MITRA KARYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005248.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7266",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7161",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7266"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7265",
+      "attributes": {
+        "nomor_pb_umku": "121021001802200010002",
+        "nama": "AYOMOBILE",
+        "website": "ayomobile.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AYOMOBILE MEDIA INTERNATIONAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005036.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7265",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7116",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7265"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7264",
+      "attributes": {
+        "nomor_pb_umku": "200722000060300000001",
+        "nama": "JSTORE DIGITAL",
+        "website": "JStoredg.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "YASSAR AHMAD SHIDQI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005289.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7264",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7160",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7264"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7263",
+      "attributes": {
+        "nomor_pb_umku": "190921000477100000001",
+        "nama": "TOP-UP STATION",
+        "website": "topupstation.app",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KADEK YUDHI WIRAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003903.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7263",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7159",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7263"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7262",
+      "attributes": {
+        "nomor_pb_umku": "120722003700800000001",
+        "nama": "TERUSEND",
+        "website": "-",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SUMARSARI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005288.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7262",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7158",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7262"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7261",
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000005",
+        "nama": "WEBSITE PT.SINERGI BESTAMA INDONESIA",
+        "website": "sinergibest.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI BESTAMA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004632.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7261",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7157",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7261"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7260",
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000004",
+        "nama": "CUANTASTIC",
+        "website": "cuantastic.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI BESTAMA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004632.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7260",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7156",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7260"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7259",
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000002",
+        "nama": "APLIKASI ULAR TENGGO",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI BESTAMA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004632.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7259",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7147",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7259"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7258",
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000003",
+        "nama": "FUN QUIZ",
+        "website": "funquiz.apaajadeh.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI BESTAMA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004632.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7258",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7154",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7258"
+      }
+    }
+  ]
+}

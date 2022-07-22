@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 149,
+      "from": 1481,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1490,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=150",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=148"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7134",
+      "attributes": {
+        "nomor_pb_umku": "161021001350400000001",
+        "nama": "EAZYIN",
+        "website": "eazyin.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SYAHRUL SHAHRIAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005214.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7134",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7012",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7134"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7133",
+      "attributes": {
+        "nomor_pb_umku": "028701116052100010001",
+        "nama": "TRIPWE",
+        "website": "tripwe.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIPEDIA GLOBAL ADVENTURA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005033.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7133",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7001",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7133"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7132",
+      "attributes": {
+        "nomor_pb_umku": "912010688096200010001",
+        "nama": "WEBSITE BPR SHINTA DAYA",
+        "website": "bankshintadaya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SHINTA DAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005205.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7132",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7006",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7132"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7131",
+      "attributes": {
+        "nomor_pb_umku": "912010595142900010001",
+        "nama": "EBPR",
+        "website": "ukabima-lumbung-sejahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT UKABIMA LUMBUNG SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004800.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7131",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7007",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7131"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7130",
+      "attributes": {
+        "nomor_pb_umku": "912000483077200010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT CINTA MANIS AGROLOKA",
+        "website": "bprcintamanisagroloka.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CINTA MANIS AGROLOKA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005174.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7130",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7010",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7130"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7129",
+      "attributes": {
+        "nomor_pb_umku": "220422003826800030003",
+        "nama": "CENTER KIOSIN",
+        "website": "center.kiosindonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIOS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004236.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7129",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7009",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7129"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7128",
+      "attributes": {
+        "nomor_pb_umku": "912020575311400010001",
+        "nama": "WEBSITE BPR NAGA",
+        "website": "bprnaga.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NAGA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005138.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7128",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7008",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7128"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7127",
+      "attributes": {
+        "nomor_pb_umku": "022010338381800020001",
+        "nama": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 20",
+        "website": "bprnbp20.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 20",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005136.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7127",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7005",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7127"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7126",
+      "attributes": {
+        "nomor_pb_umku": "812000198100700110008",
+        "nama": "LAUT NUSANTARA",
+        "website": "lanus.xl.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL AXIATA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001718.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7126",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7004",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7126"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7125",
+      "attributes": {
+        "nomor_pb_umku": "190722002148400000001",
+        "nama": "SULTRAPAYMENT",
+        "website": "sultrapayment.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Muhammad Taufik",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004911.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7125",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7000",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7125"
+      }
+    }
+  ]
+}

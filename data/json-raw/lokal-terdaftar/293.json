@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 293,
+      "from": 2921,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2930,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=294",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=292"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5592",
+      "attributes": {
+        "nomor_pb_umku": "140422001374500010001",
+        "nama": "SAKAGO",
+        "website": "sakago.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAKA GLOBAL PERKASA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004190.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5592",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5460",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5592"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5591",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WINTRADING",
+        "website": "waterfront.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WATERFRONT SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003847.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5591",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5461",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5591"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5587",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MEMEFLORIST",
+        "website": "memeflorist.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MELINDO DIGITAMA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004128.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5587",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5459",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5587"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5585",
+      "attributes": {
+        "nomor_pb_umku": "010722002925700010001",
+        "nama": "WWW.GLOWING.CO.ID",
+        "website": "glowing.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL WING SEUNG",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004185.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5585",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5457",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5585"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5584",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBSITE RESMI PT. BPR PALU LOKAKADANA UTAMA",
+        "website": "bprpalu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004168.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5584",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5444",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5584"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5583",
+      "attributes": {
+        "nomor_pb_umku": "912010671095200020001",
+        "nama": "DIGIMOD E-LOAN",
+        "website": "digimod.bprpalu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004168.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5583",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5456",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5583"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5582",
+      "attributes": {
+        "nomor_pb_umku": "020200097141300010003",
+        "nama": "CHUBB TRAVEL B2B",
+        "website": "travel.chubb",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CHUBB GENERAL INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "000030.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5582",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5430",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5582"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5581",
+      "attributes": {
+        "nomor_pb_umku": "812010182251800040011",
+        "nama": "DAP OFFICIAL WEBSITE",
+        "website": "dap.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUTA ABADIPRIMANTARA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003602.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5581",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5454",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5581"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5580",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010003",
+        "nama": "CMS BANKSULSELBAR",
+        "website": "cms.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004179.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5580",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5455",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5580"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5579",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010002",
+        "nama": "WEBSITE BANK SULSELBAR",
+        "website": "banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004179.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5579",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5452",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5579"
+      }
+    }
+  ]
+}

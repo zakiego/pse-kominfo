@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 414,
+      "from": 4131,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4140,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=415",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=413"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4349",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mirae Asset Fund",
+        "website": "fund.miraeasset.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MIRAE ASSET SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "000815.08/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4349",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4335",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4349"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4345",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OTORAJA BP",
+        "website": "https://bp.otoraja.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OTORAJA NETWORK INDONESIA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "000332.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4345",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4331",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4345"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4344",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi Kejar Mimpi",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "000222.19/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4344",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4330",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4344"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4343",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Desty.app",
+        "website": "Desty.app",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DESTY KARSA WESYA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "000054.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4343",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4329",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4343"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4591",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PDaja.com",
+        "website": "https://www.pdaja.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SAHABAT SAMPOERNA",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "001422.06/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4591",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4554",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4591"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4394",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kepulauan Riau Indonesia Media",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV HENDRO PRIYONO",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002634.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4394",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4378",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4394"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4393",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FACEBOOK DAN MEDIA WEB LAINYA",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OMEGA PERKASA MANDIRI",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002632.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4393",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4377",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4393"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4392",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "lidipedia",
+        "website": "lidipedia.com",
+        "sektor": "Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LIDI PEDIA INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002631.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4392",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4376",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4392"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4391",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi Kargo Hermes Soft",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AERO SYSTEMS INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002630.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4391",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4375",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4391"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4390",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kargo Hermes Soft",
+        "website": "asyst.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AERO SYSTEMS INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002630.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4390",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4374",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4390"
+      }
+    }
+  ]
+}

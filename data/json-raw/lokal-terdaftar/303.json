@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 303,
+      "from": 3021,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3030,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=304",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=302"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5481",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BJB HCS",
+        "website": "hcs.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003382.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5481",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5344",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5481"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5480",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "REKRUTMENT BANK BJB",
+        "website": "rekrutmen.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003382.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5480",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5345",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5480"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5479",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MY FIRST STEP HC",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003382.16/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5479",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5348",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5479"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5477",
+      "attributes": {
+        "nomor_pb_umku": "121600012038800020001",
+        "nama": "WEBSITE REKSA DANA ONLINE DANADIPA",
+        "website": "danadipa-finansial.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DANADIPA SEJAHTERA FINANSIAL",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002046.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5477",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5347",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5477"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5476",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MAYBANKTRADE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAYBANK SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003748.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5476",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5346",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5476"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5473",
+      "attributes": {
+        "nomor_pb_umku": "912030751186400010001",
+        "nama": "WEB",
+        "website": "ivaroventura.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IVARO VENTURA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003889.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5473",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5343",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5473"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5470",
+      "attributes": {
+        "nomor_pb_umku": "022010055208900000001",
+        "nama": "HERCO DIGITAL",
+        "website": "hercodigital.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HERCO DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004087.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5470",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5342",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5470"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5469",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MIE-CLAIM",
+        "website": "eclaim.manulife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA MANULIFE INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "000645.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5469",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5341",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5469"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5468",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040014",
+        "nama": "BJB EPROCUREMENT",
+        "website": "eproc.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003382.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5468",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5340",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5468"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5467",
+      "attributes": {
+        "nomor_pb_umku": "023701013286100010001",
+        "nama": "CROWDE.CO",
+        "website": "crowde.co",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CROWDE MEMBANGUN BANGSA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004070.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5467",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5339",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5467"
+      }
+    }
+  ]
+}

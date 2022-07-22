@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 248,
+      "from": 2471,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2480,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=249",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=247"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6068",
+      "attributes": {
+        "nomor_pb_umku": "912020449101100020001",
+        "nama": "RAIZ INVEST",
+        "website": "raizinvest.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RAIZ INVEST INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004381.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6068",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5938",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6068"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6067",
+      "attributes": {
+        "nomor_pb_umku": "812031706197600010001",
+        "nama": "TEKNOSMART",
+        "website": "Teknosmart.co",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TEKNOSMART",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004500.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6067",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5937",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6067"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6066",
+      "attributes": {
+        "nomor_pb_umku": "912000569164400000001",
+        "nama": "WABLAS",
+        "website": "wablas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIGA MANUNGGAL TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004150.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6066",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5936",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6066"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6065",
+      "attributes": {
+        "nomor_pb_umku": "180722000410900000002",
+        "nama": "MICROMEDIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LUTFI JAYA HARIANTO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004491.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6065",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5935",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6065"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6064",
+      "attributes": {
+        "nomor_pb_umku": "912040289217600010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT GUDAM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GUDAM",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004509.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6064",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5934",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6064"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6063",
+      "attributes": {
+        "nomor_pb_umku": "912010880039200030002",
+        "nama": "WON - OPENING ACCOUNT ONLINE",
+        "website": "wanteg.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WANTEG SEKURITAS",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001888.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6063",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5933",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6063"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6062",
+      "attributes": {
+        "nomor_pb_umku": "171221002496300030004",
+        "nama": "AERONAUTIC",
+        "website": "aeropercetakan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV AERONAUTIC",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004503.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6062",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5931",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6062"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6061",
+      "attributes": {
+        "nomor_pb_umku": "912000784210200010001",
+        "nama": "WEBSITE PT. BPR TISH",
+        "website": "bprtish.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TISH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004493.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6061",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5932",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6061"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6060",
+      "attributes": {
+        "nomor_pb_umku": "180722000410900000001",
+        "nama": "MICROMRDIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LUTFI JAYA HARIANTO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004491.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6060",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5930",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6060"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6059",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040022",
+        "nama": "BJB WHISTLEBLOWING",
+        "website": "bjbwbs.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003382.24/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6059",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5929",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6059"
+      }
+    }
+  ]
+}

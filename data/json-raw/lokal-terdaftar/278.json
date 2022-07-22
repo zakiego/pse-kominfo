@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 278,
+      "from": 2771,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2780,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=279",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=277"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5747",
+      "attributes": {
+        "nomor_pb_umku": "812000583267300020003",
+        "nama": "WEBSITE DAN APLIKASI SHOPEEFOOD DRIVER",
+        "website": "shopeefood.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SHOPEE INTERNATIONAL INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000525.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5747",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5612",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5747"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5746",
+      "attributes": {
+        "nomor_pb_umku": "020500092258100020002",
+        "nama": "WEBSITE DANACITA",
+        "website": "danacita.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INCLUSIVE FINANCE GROUP",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000652.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5746",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5610",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5746"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5745",
+      "attributes": {
+        "nomor_pb_umku": "912040985125700010001",
+        "nama": "WWW.BANKMAS.CO.ID",
+        "website": "bankmas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MULTIARTA SENTOSA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "001066.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5745",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5553",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5745"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5744",
+      "attributes": {
+        "nomor_pb_umku": "912020150003700010003",
+        "nama": "IPROPOSE YOU",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA GENERALI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000217.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5744",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5609",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5744"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5743",
+      "attributes": {
+        "nomor_pb_umku": "230322005202500010001",
+        "nama": "PT BANK PERKREDTAN RAKYAT SARANTAU SASURAMBI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SARANTAU SASURAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004261.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5743",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5605",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5743"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5742",
+      "attributes": {
+        "nomor_pb_umku": "812001723173300010003",
+        "nama": "DAYIN CARE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI DAYIN MITRA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003801.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5742",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5607",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5742"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5741",
+      "attributes": {
+        "nomor_pb_umku": "812000583267300020002",
+        "nama": "WEBSITE DAN APLIKASI MITRA SHOPEE",
+        "website": "mitra.shopee.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SHOPEE INTERNATIONAL INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000525.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5741",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5606",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5741"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5740",
+      "attributes": {
+        "nomor_pb_umku": "121600240139600000001",
+        "nama": "DEALDEAL.ID",
+        "website": "dealdeal.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GEMINTANG KARYA DIGITAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004294.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5740",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5602",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5740"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5739",
+      "attributes": {
+        "nomor_pb_umku": "912020191159100010001",
+        "nama": "PT. BPR SOLOK SAKATOA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SOLOK SAKATO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004293.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5739",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5604",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5739"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5738",
+      "attributes": {
+        "nomor_pb_umku": "090622002786300010001",
+        "nama": "BSI NETWORK",
+        "website": "bsisukses.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERLIAN SEJATI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004285.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5738",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5603",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5738"
+      }
+    }
+  ]
+}

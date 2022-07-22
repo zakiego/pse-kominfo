@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 417,
+      "from": 4161,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4170,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=418",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=416"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4034",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "iSeller",
+        "website": "www.isellercommerce.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTERSOFT SOLUTIONS",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002620.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4034",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3905",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4034"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4033",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT WELLNESS PINK PEONY GARDENIA",
+        "website": "https://msha.ke/wellnesspinkpeonygardenia",
+        "sektor": "Sektor Kesehatan, Sektor Pangan, Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADE SRI MIYANTI",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002619.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4033",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3863",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4033"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4032",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VENTA COMP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOCHAMAD IWAN SETIYAWAN",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "001844.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4032",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3882",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4032"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4602",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PROPERTILORD",
+        "website": "propertilord.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI INVESTASI PROPERTI",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "000458.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4602",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4565",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4602"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4590",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Bank Sahabat Sampoerna",
+        "website": "https://www.banksampoerna.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SAHABAT SAMPOERNA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "001422.05/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4590",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4553",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4590"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4030",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.thebodyshop.co.id",
+        "website": "www.thebodyshop.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MONICA HIJAULESTARI",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002618.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4030",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3908",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4030"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4029",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ekrutes.id",
+        "website": "ekrutes.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CITA TEKAD GEMILANG",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002617.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4029",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3821",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4029"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4028",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DS-Key dan DS-Sign",
+        "website": "signatura.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL SIGNATURA INDONESIA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002616.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4028",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3761",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4028"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4027",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Wahana Inspirasi Nusantara",
+        "website": "reoncomics.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WAHANA INSPIRASI NUSANTARA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002615.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4027",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3874",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4027"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4026",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AirAsia Superapp",
+        "website": "www.airasia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIRASIA SUPERAPP INDONESIA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002614.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4026",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3736",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4026"
+      }
+    }
+  ]
+}

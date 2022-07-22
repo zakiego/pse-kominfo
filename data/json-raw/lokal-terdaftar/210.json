@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 210,
+      "from": 2091,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2100,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=211",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=209"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6493",
+      "attributes": {
+        "nomor_pb_umku": "9120100870365000000003",
+        "nama": "INSPIRASIBIZ",
+        "website": "inspirasi.biz",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INSPIRASI MEDIA KREATIF",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "002807.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6493",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6359",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6493"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6492",
+      "attributes": {
+        "nomor_pb_umku": "260122005924100000002",
+        "nama": "SETOKO",
+        "website": "setoko.co",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEKITAR TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004750.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6492",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6358",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6492"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6491",
+      "attributes": {
+        "nomor_pb_umku": "211221004173800000001",
+        "nama": "LAZTER",
+        "website": "lazter.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LAZTER COM INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004753.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6491",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6357",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6491"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6490",
+      "attributes": {
+        "nomor_pb_umku": "160722000473900000001",
+        "nama": "ARENA KUOTA",
+        "website": "arenakuota.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DENI MULYANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004399.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6490",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6355",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6490"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6489",
+      "attributes": {
+        "nomor_pb_umku": "170722001917500000001",
+        "nama": "CONSTANTIODOTCOM",
+        "website": "constantio.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TB HADYANSYAH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004757.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6489",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6354",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6489"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6488",
+      "attributes": {
+        "nomor_pb_umku": "180722007000400000001",
+        "nama": "SOLUSI DIGITAL",
+        "website": "member.solusidigitalonline.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KHOLILUR ROHMAN",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004759.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6488",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6353",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6488"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6487",
+      "attributes": {
+        "nomor_pb_umku": "080921000011600020001",
+        "nama": "ARDVRO",
+        "website": "ardvro.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARDVRO SISTEM TEKNOLOGI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004754.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6487",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6352",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6487"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6486",
+      "attributes": {
+        "nomor_pb_umku": "022010471229700000001",
+        "nama": "DEWABIZ",
+        "website": "dewabiz.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DEWABISNIS DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004758.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6486",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6351",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6486"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6485",
+      "attributes": {
+        "nomor_pb_umku": "023301021086300010001",
+        "nama": "TRIP.COM",
+        "website": "trip.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CTRIP INTERNATIONAL INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004440.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6485",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6319",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6485"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6484",
+      "attributes": {
+        "nomor_pb_umku": "260122005924100000001",
+        "nama": "SEKITAR",
+        "website": "sekitar.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEKITAR TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004750.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6484",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6350",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6484"
+      }
+    }
+  ]
+}

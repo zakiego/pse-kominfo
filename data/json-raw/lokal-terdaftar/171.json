@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 171,
+      "from": 1701,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1710,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=172",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=170"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6906",
+      "attributes": {
+        "nomor_pb_umku": "912020727205500040002",
+        "nama": "FAC VIRTUAL ASSESSMENT CENTER",
+        "website": "vast.firstasiaconsultants.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASIA UTAMA KONSULTAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005012.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6906",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6733",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6906"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6905",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "GAMELOFT-SEA.COM",
+        "website": "gameloft-sea.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GAMELOFT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004660.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6905",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6758",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6905"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6904",
+      "attributes": {
+        "nomor_pb_umku": "190722002490400000001",
+        "nama": "KLUBSEHAT.COM",
+        "website": "klubsehat.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "GUARDI INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004908.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6904",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6754",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6904"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6903",
+      "attributes": {
+        "nomor_pb_umku": "190722005221800000001",
+        "nama": "ZIFAPAY.COM",
+        "website": "zifapay.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANDI PURNOMO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005057.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6903",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6757",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6903"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6902",
+      "attributes": {
+        "nomor_pb_umku": "027500092178200020001",
+        "nama": "MULTIFINANCE.ANADANA.COM",
+        "website": "NS21.Domaincontrol.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANADANA GLOBAL MULTIFINANCE",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005049.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6902",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6755",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6902"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6901",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000014",
+        "nama": "MEMBRAN",
+        "website": "membran.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6901",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6756",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6901"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6900",
+      "attributes": {
+        "nomor_pb_umku": "190722005133100000001",
+        "nama": "GOLDEN TOP - PULSA MURAH",
+        "website": "tonpay.bukaolshop.site",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JODDIN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005053.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6900",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6752",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6900"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6899",
+      "attributes": {
+        "nomor_pb_umku": "812001504133500010001",
+        "nama": "MY ASTRAPROPERTY",
+        "website": "admin.astraproperty.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MENARA ASTRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005025.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6899",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6750",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6899"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6898",
+      "attributes": {
+        "nomor_pb_umku": "912020293107400010001",
+        "nama": "BANKING SMART SYSTEM (BSS)",
+        "website": "bprkusumamandala.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KUSUMA MANDALA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005024.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6898",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6748",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6898"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6897",
+      "attributes": {
+        "nomor_pb_umku": "912000672380600010001",
+        "nama": "PT BPR TATAARTA SWADAYA",
+        "website": "tataartaswadaya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TATAARTA SWADAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004974.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6897",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6749",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6897"
+      }
+    }
+  ]
+}

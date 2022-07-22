@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 4,
+      "from": 31,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 40,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=5",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=3"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8682",
+      "attributes": {
+        "nomor_pb_umku": "022020177183100020004",
+        "nama": "BDK MOBILE PT. BPR BANK DAERAH KARANGANYAR (PERSERODA)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH KARANGANYAR PERSERODA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006057.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8682",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8601",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8682"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8681",
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000009",
+        "nama": "SERVICE.DEV.PERIKSAIN.ID",
+        "website": "service.dev.periksain.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004561.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8681",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8600",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8681"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8680",
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000008",
+        "nama": "PARTNER.PERIKSAIN.ID",
+        "website": "partner.periksain.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004561.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8680",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8599",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8680"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8679",
+      "attributes": {
+        "nomor_pb_umku": "022060984298200000002",
+        "nama": "MATAWAKTU.CO.ID",
+        "website": "matawaktu.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDIA MATA WAKTU",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005853.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8679",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8598",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8679"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8678",
+      "attributes": {
+        "nomor_pb_umku": "022020177183100020003",
+        "nama": "WHAT.IF WHATSAPP NOTIFICATION PT. BPR BANK DAERAH KARANGANYAR (PERSERODA)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH KARANGANYAR PERSERODA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006057.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8678",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8597",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8678"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8677",
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000007",
+        "nama": "BACKOFFICE.PERIKSAIN.ID",
+        "website": "backoffice.periksain.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004561.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8677",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8596",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8677"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8676",
+      "attributes": {
+        "nomor_pb_umku": "022030588131100020001",
+        "nama": "M-INSURANCE",
+        "website": "megainsurance.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM MEGA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005839.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8676",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8592",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8676"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8675",
+      "attributes": {
+        "nomor_pb_umku": "022010671145600010002",
+        "nama": "VA BANK GIRI SUKA DANA",
+        "website": "girisukadana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK GIRI SUKA DANA WONOGIRI PERSERODA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006053.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8675",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8594",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8675"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8674",
+      "attributes": {
+        "nomor_pb_umku": "210722002117900000001",
+        "nama": "PT BANK PERKREDITAN RAKYAT DUTA PARAMARTA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DUTA PARAMARTA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006041.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8674",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8595",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8674"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8673",
+      "attributes": {
+        "nomor_pb_umku": "022020177183100020002",
+        "nama": "WEBSITE COMPANY PT. BPR BANK DAERAH KARANGANYAR (PERSERODA)",
+        "website": "bankdaerah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH KARANGANYAR PERSERODA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006057.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8673",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8593",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8673"
+      }
+    }
+  ]
+}

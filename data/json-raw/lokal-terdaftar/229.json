@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 229,
+      "from": 2281,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2290,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=230",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=228"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6271",
+      "attributes": {
+        "nomor_pb_umku": "912040030025300000001",
+        "nama": "I-FUN GAMES",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOMOBI KREASI UTAMA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004189.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6271",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6132",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6271"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6270",
+      "attributes": {
+        "nomor_pb_umku": "022010677195100000001",
+        "nama": "NOVELTOON",
+        "website": "noveltoon.mobi",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MANGA TOON GROUP",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004613.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6270",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6129",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6270"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6269",
+      "attributes": {
+        "nomor_pb_umku": "150722004447400000001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT LPN PANDAI SIKEK",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LPN PANDAI SIKEK",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004363.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6269",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6128",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6269"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6268",
+      "attributes": {
+        "nomor_pb_umku": "912010267208600010002",
+        "nama": "ADAJALANS.CO.ID",
+        "website": "adajalans.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHAGUNA MANDIRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004039.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6268",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6127",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6268"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6267",
+      "attributes": {
+        "nomor_pb_umku": "200522004775200010001",
+        "nama": "BERSAMA KITA BISA NETWORKS",
+        "website": "guardlinereborn.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERSAMA KITA BISA NETWORKS",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004342.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6267",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6126",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6267"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6266",
+      "attributes": {
+        "nomor_pb_umku": "180722004925100000001",
+        "nama": "MARKETPLACE NISA",
+        "website": "mitramarketplacenisa.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AHMAD KODRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004648.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6266",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6124",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6266"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6265",
+      "attributes": {
+        "nomor_pb_umku": "111021003781900060001",
+        "nama": "CUIT",
+        "website": "gocuit.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOMUNITAS KARYA TRANSFORMASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004447.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6265",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6101",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6265"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6264",
+      "attributes": {
+        "nomor_pb_umku": "912020972074400020002",
+        "nama": "EBB CORNER",
+        "website": "ebbcorner.sequis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA SEQUIS FINANCIAL",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003810.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6264",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6125",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6264"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6262",
+      "attributes": {
+        "nomor_pb_umku": "125500030142700000001",
+        "nama": "IBS CORE BANKING",
+        "website": "hokibank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004617.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6262",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6123",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6262"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6261",
+      "attributes": {
+        "nomor_pb_umku": "120700032292500010002",
+        "nama": "G-MONEY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK GANESHA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000807.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6261",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6122",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6261"
+      }
+    }
+  ]
+}

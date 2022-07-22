@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 313,
+      "from": 3121,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3130,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=314",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=312"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5366",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBSITE JACCS MPM FINANCE",
+        "website": "jaccs-mpmfinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JACCS MITRA PINASTHIKA MUSTIKA FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003984.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5366",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5237",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5366"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5365",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040013",
+        "nama": "BJB CASH MANAGEMENT ACCOUNT SERVICE ONLINE",
+        "website": "cms.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003382.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5365",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5236",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5365"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5364",
+      "attributes": {
+        "nomor_pb_umku": "812020290271200000001",
+        "nama": "KOTAMAYA",
+        "website": "kotamaya.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOTA MAYA KREATIVINDO",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003792.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5364",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5235",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5364"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5362",
+      "attributes": {
+        "nomor_pb_umku": "812000390167501850005",
+        "nama": "KENDARAANBEKAS",
+        "website": "kendaraanbekas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOMOBIL FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003628.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5362",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5234",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5362"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5361",
+      "attributes": {
+        "nomor_pb_umku": "812020280021300010002",
+        "nama": "INFORMATION PAGE APLIKASI GAMES (BLOCKMAN GO, CONTRA RETURNS, SPEED DRIFTERS, FAIRY TAIL)",
+        "website": "garena.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002712.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5361",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5229",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5361"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5360",
+      "attributes": {
+        "nomor_pb_umku": "812000390167501850004",
+        "nama": "INDOMOBIL FINANCE INDONESIA (IMFI) KENDARAANBEKAS.COM",
+        "website": "kendaraanbekas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOMOBIL FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003628.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5360",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5233",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5360"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5359",
+      "attributes": {
+        "nomor_pb_umku": "912010887059200000001",
+        "nama": "RELIPAY",
+        "website": "reli.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RELIANCEINTEGRASI DUNIA ANDA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "000178.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5359",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5232",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5359"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5358",
+      "attributes": {
+        "nomor_pb_umku": "812000390167501850003",
+        "nama": "IMFI EZ FOR YOU",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOMOBIL FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003628.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5358",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5231",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5358"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5357",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040012",
+        "nama": "INTERNET BANKING CORPORATE (IBC)",
+        "website": "bjbcorp.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003382.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5357",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5230",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5357"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5356",
+      "attributes": {
+        "nomor_pb_umku": "812011618390100000001",
+        "nama": "AMWAY.ID",
+        "website": "amway.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMINDOWAY JAYA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003512.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5356",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5018",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5356"
+      }
+    }
+  ]
+}

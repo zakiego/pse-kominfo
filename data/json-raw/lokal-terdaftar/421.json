@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 421,
+      "from": 4201,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4210,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=422",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=420"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "3994",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FH Indonesia",
+        "website": "www.fullertonhealth.co.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FULLERTON HEALTH INDONESIA",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002591.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3994",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3920",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3994"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3993",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Octopus Ubah Jadi Sampah Berharga",
+        "website": "octopus.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CERITA UNTUK ANAK NEGERI",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002590.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3993",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3974",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3993"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3992",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BLUEMOON MEDIA PLATFORM",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "BLUEMOON MEDIA PARTNER INDONESIA",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002589.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3992",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3854",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3992"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3991",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Hanamel Anatoth Brata Mulia",
+        "website": "hanamelanatoth.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "HANAMEL ANATOTH BRATA MULIA",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002588.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3991",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3856",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3991"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6313",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Tukar Tambah",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "001807.04/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6313",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3955",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6313"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4594",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Komputer dan Perlengkapannya",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MILLO PERKASA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002577.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4594",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4557",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4594"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4593",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FEED",
+        "website": "feed.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "000337.35/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4593",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4556",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4593"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4536",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Maha Nagari Nusantara",
+        "website": "Torch.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHA NAGARI NUSANTARA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "002585.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4536",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4516",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4536"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3989",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BBTI Testing",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "001807.05/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3989",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3956",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3989"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3987",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Maujual",
+        "website": "maujual.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-04-21",
+        "tanggal_terbit": "2022-04-21",
+        "nomor_tanda_daftar": "001807.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3987",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3954",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3987"
+      }
+    }
+  ]
+}

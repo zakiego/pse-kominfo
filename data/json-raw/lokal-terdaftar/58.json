@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 58,
+      "from": 571,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 580,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=59",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=57"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8051",
+      "attributes": {
+        "nomor_pb_umku": "128700010188400000001",
+        "nama": "GADAI MULIA",
+        "website": "gadaimulia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUKSES ANEKA MULIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005672.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8051",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7967",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8051"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8050",
+      "attributes": {
+        "nomor_pb_umku": "130622004515600000001",
+        "nama": "SIMASIF! LEGAL TECH",
+        "website": "somasikan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KARISMA LEGALINDO UTAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005746.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8050",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7946",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8050"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8049",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020004",
+        "nama": "CENTRAL10X.COM",
+        "website": "central10x.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8049",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7972",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8049"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8048",
+      "attributes": {
+        "nomor_pb_umku": "126600141156100030003",
+        "nama": "UMKMKU",
+        "website": "umkmku.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV EXADATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005298.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8048",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7971",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8048"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8047",
+      "attributes": {
+        "nomor_pb_umku": "210322002147800020001",
+        "nama": "KB BUKOPIN FINANCE",
+        "website": "bukopinfinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KB BUKOPIN FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005734.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8047",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7968",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8047"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8046",
+      "attributes": {
+        "nomor_pb_umku": "100122003478500000002",
+        "nama": "AMAL.ID",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FATTRA KURNIADY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005729.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8046",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7966",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8046"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8045",
+      "attributes": {
+        "nomor_pb_umku": "912060285219600000001",
+        "nama": "SMARTEXCHANGE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT COMPASIA TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003956.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8045",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7969",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8045"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8044",
+      "attributes": {
+        "nomor_pb_umku": "022010258193100000001",
+        "nama": "KARTUSTOK - PENCATATAN STOCK",
+        "website": "kartustok.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDROMEDA GLOBAL DATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005709.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8044",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7970",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8044"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8043",
+      "attributes": {
+        "nomor_pb_umku": "070322003271400000002",
+        "nama": "RAKYATPOS",
+        "website": "rakyatpos.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JALUR SUTRA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005604.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8043",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7965",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8043"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8042",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010004",
+        "nama": "PESTA REWARD WEBSITE",
+        "website": "pestareward.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8042",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7929",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8042"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 262,
+      "from": 2611,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2620,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=263",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=261"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5916",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010020",
+        "nama": "API SIM SDM BANKSULSELBAR",
+        "website": "apisdm.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5916",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5621",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5916"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5915",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010019",
+        "nama": "APLIKASI SALES APP PT BANKSULSELBAR",
+        "website": "sales.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5915",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5651",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5915"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5914",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010018",
+        "nama": "APLIKASI PUR DIGITAL PT BANKSULSELBAR",
+        "website": "pur-digital.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5914",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5708",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5914"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5913",
+      "attributes": {
+        "nomor_pb_umku": "150722006800800020001",
+        "nama": "PT. NERA QUA MINERAL",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NERA QUA MINERAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004387.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5913",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5777",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5913"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5912",
+      "attributes": {
+        "nomor_pb_umku": "280322001226500010001",
+        "nama": "BANK KARANGANYAR",
+        "website": "bankkaranganyar.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PUD BPR BANK KARANGANYAR",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004386.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5912",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5776",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5912"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5911",
+      "attributes": {
+        "nomor_pb_umku": "190522007646300000001",
+        "nama": "CENTRAL GAMERS ID",
+        "website": "centralgamers.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CENTRAL GAMERS INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004388.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5911",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5775",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5911"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5910",
+      "attributes": {
+        "nomor_pb_umku": "290522001293300010001",
+        "nama": "UMKM BANGKIT",
+        "website": "umkm-bangkit.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEGUH AMAN LESTARI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004385.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5910",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5774",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5910"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5909",
+      "attributes": {
+        "nomor_pb_umku": "160722000017300000001",
+        "nama": "TAJIR FULSA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ABDULLATIF",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004384.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5909",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5773",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5909"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5908",
+      "attributes": {
+        "nomor_pb_umku": "128500011261400000001",
+        "nama": "KASYR ID",
+        "website": "kasyr.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KASYR SIBERNETIKA INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000572.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5908",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5772",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5908"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5907",
+      "attributes": {
+        "nomor_pb_umku": "160722000010300000001",
+        "nama": "GIGILOGI",
+        "website": "gigilogi.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "GIGILOGI USAHA BERSAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004380.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5907",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5771",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5907"
+      }
+    }
+  ]
+}

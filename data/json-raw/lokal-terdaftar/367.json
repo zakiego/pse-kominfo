@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 367,
+      "from": 3661,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3670,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=368",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=366"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4704",
+      "attributes": {
+        "nomor_pb_umku": "912030239104200040001",
+        "nama": "BOSWISATA",
+        "website": "boswisata.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BOS SOLUSI WISATA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003392.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4704",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4659",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4704"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4703",
+      "attributes": {
+        "nomor_pb_umku": "160322002587400050003",
+        "nama": "YUKLIK",
+        "website": "yuklik.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SMART MULTI TRADE",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002344.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4703",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4658",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4703"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4702",
+      "attributes": {
+        "nomor_pb_umku": "812021323096500040001",
+        "nama": "AGOES DJOENAEDI HARSOBISONO",
+        "website": "genetek.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EFFRENSINDO KENCANA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003086.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4702",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4657",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4702"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4701",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980032",
+        "nama": "INTERNET BANKING WEB BANK BRI",
+        "website": "Ib.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.28/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4701",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4656",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4701"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4700",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980031",
+        "nama": "LAYANAN PERBANKAN DIGITAL APLIKASI WEB BRI ECOPAY",
+        "website": "commercialcard.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.27/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4700",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4655",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4700"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4699",
+      "attributes": {
+        "nomor_pb_umku": "912021119178300000001",
+        "nama": "ELEFIN",
+        "website": "elefin.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VIGO TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003386.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4699",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4654",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4699"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4698",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980030",
+        "nama": "MICROSITE WEALTH MANAGEMENT BRI",
+        "website": "bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.26/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4698",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4653",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4698"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4697",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980029",
+        "nama": "MICROSITE KARTU KREDIT BRI",
+        "website": "Kartukredit.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.25/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4697",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4652",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4697"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4696",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980028",
+        "nama": "BRI CREDIT CARD MOBILE",
+        "website": "mobilecc.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.24/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4696",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4651",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4696"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4695",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980027",
+        "nama": "CERIA",
+        "website": "bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.23/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4695",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4650",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4695"
+      }
+    }
+  ]
+}

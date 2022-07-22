@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 162,
+      "from": 1611,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1620,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=163",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=161"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6999",
+      "attributes": {
+        "nomor_pb_umku": "040921002953300000001",
+        "nama": "PLAYSHIFT GAMES",
+        "website": "playshift-games.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV PLAYSHIFT GAMES",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005078.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6999",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6780",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6999"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6998",
+      "attributes": {
+        "nomor_pb_umku": "022010140033900010002",
+        "nama": "WWW.BPRPANDE.COM",
+        "website": "bprpande.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PANDE ARTHA DEWATA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004605.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6998",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6855",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6998"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6997",
+      "attributes": {
+        "nomor_pb_umku": "122500444292300020008",
+        "nama": "PORTAL BANK BPD BALI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH BALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004518.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6997",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6821",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6997"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6996",
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010001",
+        "nama": "EMAIL CORPORATE BANK RIAU KEPRI",
+        "website": "mail.bankriaukepri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005037.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6996",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6844",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6996"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6995",
+      "attributes": {
+        "nomor_pb_umku": "022000323191700020001",
+        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS SULTRA",
+        "website": "bprmodex-sultra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS SULTRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005089.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6995",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6854",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6995"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6994",
+      "attributes": {
+        "nomor_pb_umku": "912060183174300020002",
+        "nama": "IBS CORE BANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN JAWA TENGAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004958.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6994",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6849",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6994"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6993",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040014",
+        "nama": "SIPIKA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6993",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6853",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6993"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6992",
+      "attributes": {
+        "nomor_pb_umku": "812001406111900000001",
+        "nama": "WEBSITE KOPERASI JASA BERKARYA SUKSES SEJAHTERA",
+        "website": "koperasiberkaryasukses.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi JASA BERKARYA SUKSES SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004866.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6992",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6851",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6992"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6991",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010024",
+        "nama": "WEBSITE PARTNERSHIP PINANG PERFORMA",
+        "website": "partnership.pinang-performa.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004288.24/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6991",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6852",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6991"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6990",
+      "attributes": {
+        "nomor_pb_umku": "041121001530200010002",
+        "nama": "AYOINSIGHT",
+        "website": "ayoinsights.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INSIGHT INOVASI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002934.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6990",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6850",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6990"
+      }
+    }
+  ]
+}

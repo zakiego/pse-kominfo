@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 317,
+      "from": 3161,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3170,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=318",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=316"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5324",
+      "attributes": {
+        "nomor_pb_umku": "250422001040400000001",
+        "nama": "TOKO RAKYAT BAHAGIA",
+        "website": "tokorakyatbahagia.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ISMAIL MARZUQI",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003996.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5324",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5199",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5324"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5323",
+      "attributes": {
+        "nomor_pb_umku": "120722000041300030001",
+        "nama": "PT KHAIRUL ANUGRAH TEKNOLOGI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KHAIRUL ANUGRAH TEKNOLOGI",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003995.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5323",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5198",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5323"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5322",
+      "attributes": {
+        "nomor_pb_umku": "912030068291200000001",
+        "nama": "TRIBELIO.COM",
+        "website": "tribelio.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIBELIO DIGITAL GLOBAL",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003982.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5322",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5196",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5322"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5321",
+      "attributes": {
+        "nomor_pb_umku": "024901002133900000001",
+        "nama": "AMBIZ",
+        "website": "ambiz.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI BERBAGI ILMU PENGETAHUAN",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003992.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5321",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5195",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5321"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5320",
+      "attributes": {
+        "nomor_pb_umku": "912000749085600020005",
+        "nama": "DICICILAJA",
+        "website": "dicicilaja.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIRA DINAMIKA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003745.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5320",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5194",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5320"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5319",
+      "attributes": {
+        "nomor_pb_umku": "912000749085600020004",
+        "nama": "DICICILAJA.COM",
+        "website": "dicicilaja.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIRA DINAMIKA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003745.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5319",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5193",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5319"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5318",
+      "attributes": {
+        "nomor_pb_umku": "912030697006400000003",
+        "nama": "XERATIC",
+        "website": "xeratic.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUTERA HANDAL INDOTAMA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003988.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5318",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5192",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5318"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5317",
+      "attributes": {
+        "nomor_pb_umku": "812000694148400000001",
+        "nama": "BARANTUM.COM",
+        "website": "barantum.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOSADA GROUP INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003884.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5317",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5177",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5317"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5316",
+      "attributes": {
+        "nomor_pb_umku": "912030697006400000002",
+        "nama": "XELLR.ID",
+        "website": "xellr.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUTERA HANDAL INDOTAMA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003988.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5316",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5191",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5316"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5315",
+      "attributes": {
+        "nomor_pb_umku": "912030697006400000001",
+        "nama": "DQLAB.ID",
+        "website": "dqlab.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUTERA HANDAL INDOTAMA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003988.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5315",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5190",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5315"
+      }
+    }
+  ]
+}

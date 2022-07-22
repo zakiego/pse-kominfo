@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 224,
+      "from": 2231,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2240,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=225",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=223"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6322",
+      "attributes": {
+        "nomor_pb_umku": "912010050143300010001",
+        "nama": "INTEGRATED MICROBANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LAWU ARTHA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004601.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6322",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6189",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6322"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6321",
+      "attributes": {
+        "nomor_pb_umku": "021101014226400020001",
+        "nama": "HOTELMURAH.COM",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOTEL MURAH TRAVELINDO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003821.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6321",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6174",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6321"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6320",
+      "attributes": {
+        "nomor_pb_umku": "022010675208100000001",
+        "nama": "WEBSITE NIGHTSPADE MULTI KREASI",
+        "website": "nightspade.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NIGHTSPADE MULTI KREASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004602.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6320",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6187",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6320"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6319",
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS JATENG",
+        "website": "bprmodex-jateng.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004638.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6319",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6185",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6319"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6318",
+      "attributes": {
+        "nomor_pb_umku": "261121004210400010001",
+        "nama": "BULANAN.APP",
+        "website": "bulanan.app",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BELANJA BULANAN ONLINE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004645.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6318",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6176",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6318"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6317",
+      "attributes": {
+        "nomor_pb_umku": "912030724280600010001",
+        "nama": "LUMBUNG DANA",
+        "website": "lumbungdana.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LUMBUNG DANA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004658.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6317",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6182",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6317"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6316",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010009",
+        "nama": "JCONNECT E-LOAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6316",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6183",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6316"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6315",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040029",
+        "nama": "BJB UNIVERSITY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003382.31/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6315",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6184",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6315"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6314",
+      "attributes": {
+        "nomor_pb_umku": "912030077198800040003",
+        "nama": "WEBSITE",
+        "website": "suryayudha.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA YUDHAKENCANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001835.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6314",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6178",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6314"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6312",
+      "attributes": {
+        "nomor_pb_umku": "290921000848400010001",
+        "nama": "PT. BPR BATANG SELO",
+        "website": "bprbatangselo.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BATANG SELO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004302.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6312",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6181",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6312"
+      }
+    }
+  ]
+}

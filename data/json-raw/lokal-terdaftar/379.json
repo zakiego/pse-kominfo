@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 379,
+      "from": 3781,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3790,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=380",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=378"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4521",
+      "attributes": {
+        "nomor_pb_umku": "812000290008700000001",
+        "nama": "COMMUTER.ID",
+        "website": "krl.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KERETA COMMUTER INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "003126.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4521",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4504",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4521"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4520",
+      "attributes": {
+        "nomor_pb_umku": "812011904198500040043",
+        "nama": "GPS TRACKER",
+        "website": "menngroup.id",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MENN TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "000280.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4520",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4503",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4520"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4519",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800930017",
+        "nama": "BRI LOYALTY POIN (BRIPOIN)",
+        "website": "bripoin.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "002468.13/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4519",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4502",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4519"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4518",
+      "attributes": {
+        "nomor_pb_umku": "260522001232900010001",
+        "nama": "SHOPIFY",
+        "website": "atelierpadmala.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PABRIK SARI SENI",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "000283.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4518",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4501",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4518"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4517",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800930016",
+        "nama": "BRISPOT KONSUMER",
+        "website": "Brispotkonsumer.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "002468.12/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4517",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4500",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4517"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4516",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800930015",
+        "nama": "BRISPOT EKSTERNAL",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "002468.11/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4516",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4499",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4516"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4515",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800930014",
+        "nama": "BRISTORE",
+        "website": "bristore.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "002468.10/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4515",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4498",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4515"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4514",
+      "attributes": {
+        "nomor_pb_umku": "128800060143100000001",
+        "nama": "ALESHAPUTRISHOP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "EMA NUR LUTHFIYANI",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "000281.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4514",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4497",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4514"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4385",
+      "attributes": {
+        "nomor_pb_umku": "110122003815800000001",
+        "nama": "CARIBARANG.ID",
+        "website": "caribarang.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL TRADING SOLUSINDO",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "002809.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4385",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4369",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4385"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4384",
+      "attributes": {
+        "nomor_pb_umku": "812021816232400010004",
+        "nama": "OCTO ONLINE ONBOARDING (3O)",
+        "website": "bukatabungan.cimbniaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-06-14",
+        "tanggal_terbit": "2022-06-14",
+        "nomor_tanda_daftar": "000222.20/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4384",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4368",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4384"
+      }
+    }
+  ]
+}

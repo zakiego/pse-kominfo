@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 283,
+      "from": 2821,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2830,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=284",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=282"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5697",
+      "attributes": {
+        "nomor_pb_umku": "022010823184800010003",
+        "nama": "MNCLIFE.COM",
+        "website": "mnclife.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC LIFE ASSURANCE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000182.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5697",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5559",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5697"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5696",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030001",
+        "nama": "BANK KALSEL ONLINE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004232.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5696",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5557",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5696"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5695",
+      "attributes": {
+        "nomor_pb_umku": "022000859078200010001",
+        "nama": "LAHAN SIKAM",
+        "website": "lahansikam.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAMPUNG BERKAH FINANSIAL TEKNOLOGI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004255.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5695",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5558",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5695"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5694",
+      "attributes": {
+        "nomor_pb_umku": "027001023128300000001",
+        "nama": "AGEN PULSA",
+        "website": "isipulsa.web.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV PAYID DIGITAL SOLUTION",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004253.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5694",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5556",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5694"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5693",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010014",
+        "nama": "APLIKASI E-PROCUREMENT BANK SULSELBAR",
+        "website": "eproc.banksulselbar.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5693",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5555",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5693"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5692",
+      "attributes": {
+        "nomor_pb_umku": "912000820106600020005",
+        "nama": "AGRION MILL",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISAN TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "001665.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5692",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5554",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5692"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5691",
+      "attributes": {
+        "nomor_pb_umku": "812001903120400120006",
+        "nama": "SKY ORDER",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINAR SOSRO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003487.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5691",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5552",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5691"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5690",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "QRIS BANK SULSELBAR",
+        "website": "qris.banksulsebar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5690",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5551",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5690"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5689",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SARANA SULSEL VENTURA",
+        "website": "saranasulselventura.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA SULSEL VENTURA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004201.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5689",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5549",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5689"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5688",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010012",
+        "nama": "VIRTUAL ACCOUNT BANKSULSELBAR",
+        "website": "va.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5688",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5548",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5688"
+      }
+    }
+  ]
+}

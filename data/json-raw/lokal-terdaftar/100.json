@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 100,
+      "from": 991,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1000,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=101",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=99"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7628",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010002",
+        "nama": "CASH MANAGEMENT SYSTEM (CMS) CORPORATE PT. BANK PEMBANGUNAN DAERAH PAPUA",
+        "website": "ib.bankpapua.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7628",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7525",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7628"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7627",
+      "attributes": {
+        "nomor_pb_umku": "812010993220500020001",
+        "nama": "MOBILE BANKING, CBS ISLAMIC BANKING APPLICATION (IBA), VIRTUAL ACCOUNT, PPOB",
+        "website": "ns1.webdesignsuroboyo.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH BAKTIMAKMUR INDAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005480.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7627",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7522",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7627"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7626",
+      "attributes": {
+        "nomor_pb_umku": "029401007155200020001",
+        "nama": "PENTA MICRO SYSTEM ONLINE",
+        "website": "gunungslametsyariah.blogspot.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH GUNUNG SLAMET",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005412.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7626",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7524",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7626"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7625",
+      "attributes": {
+        "nomor_pb_umku": "912031509135900000002",
+        "nama": "WEBSITE INDONESIAGO.DIGITAL",
+        "website": "Indonesiago.digital",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BP Partnership",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005271.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7625",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7519",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7625"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7624",
+      "attributes": {
+        "nomor_pb_umku": "912020150003700010005",
+        "nama": "ALIVE",
+        "website": "alive.generali.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA GENERALI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000217.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7624",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7520",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7624"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7623",
+      "attributes": {
+        "nomor_pb_umku": "912010382293100010001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PERMATA SEDANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005196.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7623",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7517",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7623"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7622",
+      "attributes": {
+        "nomor_pb_umku": "200722004634700000001",
+        "nama": "PT. BPR PITIH GUMARANG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PITIH GUMARANG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005552.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7622",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7515",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7622"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7621",
+      "attributes": {
+        "nomor_pb_umku": "912001401032700010001",
+        "nama": "SITUS BANK",
+        "website": "bankarya.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARYA BIRA KARSA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005579.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7621",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7516",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7621"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7620",
+      "attributes": {
+        "nomor_pb_umku": "912030076266300010002",
+        "nama": "BPRAMIRA.COM",
+        "website": "bpramira.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTA MITRA RAKYAT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005451.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7620",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7514",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7620"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7619",
+      "attributes": {
+        "nomor_pb_umku": "022010513077500060001",
+        "nama": "UZONE.ID",
+        "website": "uzone.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT METRA - NET",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001479.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7619",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7512",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7619"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 112,
+      "from": 1111,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1120,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=113",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=111"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7507",
+      "attributes": {
+        "nomor_pb_umku": "912020213108600000002",
+        "nama": "MOBILE APP RUPARUPA",
+        "website": "ruparupa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PL",
+        "nama_perusahaan": "PL OMNI DIGITAMA INTERNUSA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002516.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7507",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7391",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7507"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7506",
+      "attributes": {
+        "nomor_pb_umku": "091121000087600060001",
+        "nama": "WEBSITE PERUSAHAAN PT. BINTANG TEKNOLOGI PRATAMA",
+        "website": "bintangteknologi.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BINTANG TEKNOLOGI PRATAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005297.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7506",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7397",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7506"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7505",
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010004",
+        "nama": "E-PENSION DPLK (DPLK ASTRA)",
+        "website": "ava-dplk.astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000603.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7505",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7405",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7505"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7504",
+      "attributes": {
+        "nomor_pb_umku": "020401023292900010001",
+        "nama": "PT. BPR MITRA SUMBER MAKMUR",
+        "website": "bprmsm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRA SUMBER MAKMUR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005482.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7504",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7404",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7504"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7503",
+      "attributes": {
+        "nomor_pb_umku": "026301024248900000001",
+        "nama": "EKA ONLINE",
+        "website": "mb2.bankeka.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT EKA BUMI ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005335.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7503",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7403",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7503"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7502",
+      "attributes": {
+        "nomor_pb_umku": "912020571214200010001",
+        "nama": "BANK TDN",
+        "website": "banktdn.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TOELOENGREDJO DASA NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005337.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7502",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7389",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7502"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7501",
+      "attributes": {
+        "nomor_pb_umku": "912000248004700010002",
+        "nama": "LAYANAN SMS BANKING BANK BOYOLALI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK BOYOLALI (PERSERODA)",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005077.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7501",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7402",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7501"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7500",
+      "attributes": {
+        "nomor_pb_umku": "022010449033500000001",
+        "nama": "QUBISA",
+        "website": "qubisa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WIN MANAGEMENT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005236.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7500",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7400",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7500"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7499",
+      "attributes": {
+        "nomor_pb_umku": "022000110062700020001",
+        "nama": "PT BPR CAHAYA BUMI ARTHA",
+        "website": "cahayabumiartha.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "BLU",
+        "nama_perusahaan": "BLU PT. BPR CAHAYA BUMI ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005356.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7499",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7399",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7499"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7498",
+      "attributes": {
+        "nomor_pb_umku": "110122004905900020001",
+        "nama": "APS PREMIUM VALET",
+        "website": "apsolusi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANGKASA PRIMA SOLUSI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005204.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7498",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7258",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7498"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 320,
+      "from": 3191,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3200,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=321",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=319"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5294",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040008",
+        "nama": "MERCHANT MANAGEMENT SYSTEM",
+        "website": "mms.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003382.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5294",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5165",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5294"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5293",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040007",
+        "nama": "BJB POIN",
+        "website": "bjbpoin.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003382.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5293",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5162",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5293"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5292",
+      "attributes": {
+        "nomor_pb_umku": "812021918055300000003",
+        "nama": "SHOPEE, TOKOPEDIA, LAZADA, DLL",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FORMULA JELITA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003954.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5292",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5161",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5292"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5291",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "ALNIS DIGITALINDO GROUP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALNIS DIGITALINDO GROUP",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003967.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5291",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5160",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5291"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5290",
+      "attributes": {
+        "nomor_pb_umku": "912030850231200050001",
+        "nama": "HERZA CLOUD",
+        "website": "herza.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HERZA DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003965.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5290",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5159",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5290"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5289",
+      "attributes": {
+        "nomor_pb_umku": "812011006071400030004",
+        "nama": "BRANKAS OPEN BANKING",
+        "website": "Brankas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRANKAS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000699.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5289",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5158",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5289"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5288",
+      "attributes": {
+        "nomor_pb_umku": "812011006071400030003",
+        "nama": "BRANKAS - OPEN BANKING PLATFORM",
+        "website": "Brankas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRANKAS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000699.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5288",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5156",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5288"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5287",
+      "attributes": {
+        "nomor_pb_umku": "170322004820600010001",
+        "nama": "WEBSITE",
+        "website": "rindang-sejahtera.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RINDANG SEJAHTERA FINANCE",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003952.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5287",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5157",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5287"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5286",
+      "attributes": {
+        "nomor_pb_umku": "029301023016400000001",
+        "nama": "VIPOZY BY ONVI",
+        "website": "vipozy.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ONVI SISTEM INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003955.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5286",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5155",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5286"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5285",
+      "attributes": {
+        "nomor_pb_umku": "912030170073100060001",
+        "nama": "CSM CORPORATAMA",
+        "website": "indorent.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CSM CORPORATAMA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003958.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5285",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5154",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5285"
+      }
+    }
+  ]
+}

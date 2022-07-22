@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 413,
+      "from": 4121,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4130,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=414",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=412"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4588",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Halodoc",
+        "website": "www.halodoc.co.id",
+        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDIA DOKTER INVESTAMA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "001413.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4588",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4551",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4588"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4400",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OkePay",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV YEYEP GUSTIAN",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "002639.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4400",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4384",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4400"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4399",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IJIN KU",
+        "website": "ijinku.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIRO PATNER ABADI",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "002638.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4399",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4383",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4399"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4398",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "andeskabpdotnet",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDESKA BINA PERSADA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "002637.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4398",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4382",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4398"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4397",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ANDESKABP",
+        "website": "andeskabp.net",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDESKA BINA PERSADA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "002637.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4397",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4381",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4397"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4396",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT JAYA BAYA SEJAHTERA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV JAYADI",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "002636.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4396",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4380",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4396"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4395",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Nuumi Pulsa",
+        "website": "mpulsa.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV NUUMI HZM",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "002635.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4395",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4379",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4395"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4363",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRIMO (Mobile Banking App.Bank BRI)",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "002468.06/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4363",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4349",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4363"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4356",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.pawlyclinic.co.id",
+        "website": "www.pawlyclinic.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KESEHATAN HEWAN PELIHARAAN PAWLYCLINIC",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "002156.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4356",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4342",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4356"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4351",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Web Selling",
+        "website": "www.fpgins.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI FPG INDONESIA",
+        "tanggal_daftar": "2022-04-28",
+        "tanggal_terbit": "2022-04-28",
+        "nomor_tanda_daftar": "001527.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4351",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4337",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4351"
+      }
+    }
+  ]
+}

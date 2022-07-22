@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 323,
+      "from": 3221,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3230,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=324",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=322"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5261",
+      "attributes": {
+        "nomor_pb_umku": "100722000533700000001",
+        "nama": "APOTEK",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "OLGA ASSIRAQ",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003942.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5261",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5129",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5261"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5260",
+      "attributes": {
+        "nomor_pb_umku": "023101008267700000001",
+        "nama": "BACKLINK.CO.ID",
+        "website": "backlink.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANDY NUGROHO",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003941.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5260",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5128",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5260"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5259",
+      "attributes": {
+        "nomor_pb_umku": "029101010033400000001",
+        "nama": "SOLUSI DIAGRAM (SOLUGRAM.COM)",
+        "website": "solugram.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DEBRIAN RUHUT SARAGIH",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003939.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5259",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5127",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5259"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5258",
+      "attributes": {
+        "nomor_pb_umku": "160622005363200010001",
+        "nama": "SMARTKLIKS.ID",
+        "website": "Smartkliks.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT POHON LEMON INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003828.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5258",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5032",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5258"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5257",
+      "attributes": {
+        "nomor_pb_umku": "300821003740500010001",
+        "nama": "WEBSITE COMPANY PROFILE",
+        "website": "bluehost.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TARA TIANA",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003934.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5257",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5125",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5257"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5256",
+      "attributes": {
+        "nomor_pb_umku": "100722000080400000001",
+        "nama": "AKSATAWISATA.COM",
+        "website": "aksatawisata.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AKSATA WISATA TRAVEL",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003933.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5256",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5124",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5256"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5255",
+      "attributes": {
+        "nomor_pb_umku": "070322002967600000001",
+        "nama": "ZELFORS",
+        "website": "zelfors.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AZIMA TEKNOLOGI INFORKASI",
+        "tanggal_daftar": "2022-07-09",
+        "tanggal_terbit": "2022-07-09",
+        "nomor_tanda_daftar": "003930.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5255",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5123",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5255"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5254",
+      "attributes": {
+        "nomor_pb_umku": "912000564211800000001",
+        "nama": "WISEREE",
+        "website": "wiseree.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL OTOMAT DIGITAL",
+        "tanggal_daftar": "2022-07-09",
+        "tanggal_terbit": "2022-07-09",
+        "nomor_tanda_daftar": "003885.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5254",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5122",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5254"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5253",
+      "attributes": {
+        "nomor_pb_umku": "090722001057100000001",
+        "nama": "IKLAN MOBIL BEKAS SIMOBIL.ID",
+        "website": "simobil.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NASRUL ANSORI",
+        "tanggal_daftar": "2022-07-09",
+        "tanggal_terbit": "2022-07-09",
+        "nomor_tanda_daftar": "003921.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5253",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5121",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5253"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5252",
+      "attributes": {
+        "nomor_pb_umku": "090722001057100000001",
+        "nama": "APLIKASI JODOH APPJODOH",
+        "website": "appjodoh.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NASRUL ANSORI",
+        "tanggal_daftar": "2022-07-09",
+        "tanggal_terbit": "2022-07-09",
+        "nomor_tanda_daftar": "003921.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5252",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5120",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5252"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 406,
+      "from": 4051,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4060,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=407",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=405"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4452",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Swish Shopping Folder",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INMOBI INDONESIA TECHNOLOGIES",
+        "tanggal_daftar": "2022-05-13",
+        "tanggal_terbit": "2022-05-13",
+        "nomor_tanda_daftar": "002691.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4452",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4436",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4452"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4354",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Farmazi",
+        "website": "Farmazi.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDLINX ASIA TEKNOLOGI",
+        "tanggal_daftar": "2022-05-13",
+        "tanggal_terbit": "2022-05-13",
+        "nomor_tanda_daftar": "001998.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4354",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4340",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4354"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4147",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Transaksi Aset Kripto",
+        "website": "luno.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LUNO INDONESIA JOINT VENTURE",
+        "tanggal_daftar": "2022-05-13",
+        "tanggal_terbit": "2022-05-13",
+        "nomor_tanda_daftar": "002692.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4147",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4451",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4147"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4462",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Vapemal",
+        "website": "vapemal.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VEMO DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002687.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4462",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4446",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4462"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4459",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SEWAAJA",
+        "website": "sewaaja.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAHA SEWA INOVASI",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002686.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4459",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4443",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4459"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4458",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "klikMRO.com",
+        "website": "klikMRO.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EMARO ONLINE INDONESIA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002685.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4458",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4442",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4458"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4457",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kawan Lama",
+        "website": "kawanlama.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KAWAN LAMA SEJAHTERA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002684.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4457",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4441",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4457"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4455",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bumame",
+        "website": "bumamefarmasi.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUDIMANMAJU MEGAH FARMASI",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002682.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4455",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4439",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4455"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4454",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Integrated Distributions Semesta System (iDss)",
+        "website": "idss.ptncs.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA CARD SEMESTA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002681.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4454",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4438",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4454"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4451",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REVA",
+        "website": "www.reva.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERSATU TERBANG TINGGI",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002680.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4451",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4435",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4451"
+      }
+    }
+  ]
+}

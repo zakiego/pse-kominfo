@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 332,
+      "from": 3311,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3320,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=333",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=331"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5169",
+      "attributes": {
+        "nomor_pb_umku": "022010980017700000001",
+        "nama": "ANIPAY",
+        "website": "anipay.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANILO ADIKARYA SENTOSA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003588.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5169",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5034",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5169"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5168",
+      "attributes": {
+        "nomor_pb_umku": "023500090370600010001",
+        "nama": "OTTOCASH",
+        "website": "ottocash.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRANSAKSI ARTHA GEMILANG",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "000398.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5168",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5033",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5168"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5167",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801110038",
+        "nama": "BRI WHISTLEBLOWING SYSTEM",
+        "website": "whistleblowing-system.bri.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "002468.34/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5167",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5031",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5167"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5166",
+      "attributes": {
+        "nomor_pb_umku": "912040130256100690004",
+        "nama": "CORPORATE WEBSITE BCAMF",
+        "website": "bcamf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BCA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003026.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5166",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5030",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5166"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5165",
+      "attributes": {
+        "nomor_pb_umku": "022000213259300020001",
+        "nama": "INVITE - INVESTINDO TRADING SYSTEM (MOBILE - IOS & ANDROID)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INVESTINDO NUSANTARA SEKURITAS",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003813.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5165",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5029",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5165"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5164",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801110037",
+        "nama": "WEB KEAGENAN",
+        "website": "Agen.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "002468.33/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5164",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5028",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5164"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5163",
+      "attributes": {
+        "nomor_pb_umku": "022000213259300020001",
+        "nama": "INVITE - INVESTINDO TRADING SYSTEM (DESKTOP)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INVESTINDO NUSANTARA SEKURITAS",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003813.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5163",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5027",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5163"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5162",
+      "attributes": {
+        "nomor_pb_umku": "912020071111900030001",
+        "nama": "JOIN DESKTOP",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JASA UTAMA CAPITAL SEKURITAS",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "001266.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5162",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5026",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5162"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5161",
+      "attributes": {
+        "nomor_pb_umku": "022000213259300020001",
+        "nama": "INVITE - INVESTINDO NUSANTARA SEKURITAS (WEB)",
+        "website": "invite.investindosekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INVESTINDO NUSANTARA SEKURITAS",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003813.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5161",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5025",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5161"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5160",
+      "attributes": {
+        "nomor_pb_umku": "022030338140300020001",
+        "nama": "MAYBANK TRADE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAYBANK SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003748.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5160",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5024",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5160"
+      }
+    }
+  ]
+}

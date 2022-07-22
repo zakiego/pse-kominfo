@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 51,
+      "from": 501,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 510,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=52",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=50"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8122",
+      "attributes": {
+        "nomor_pb_umku": "812010595177700050002",
+        "nama": "PINTAR",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PINTAR PEMENANG ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004749.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8122",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8045",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8122"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8121",
+      "attributes": {
+        "nomor_pb_umku": "912040480237100010001",
+        "nama": "WEBSITE PT. BPR WELERI JAYAPESADA",
+        "website": "bprwjp.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT WELERI JAYAPERSADA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005614.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8121",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8032",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8121"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8120",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160029",
+        "nama": "HUJAN REZEKI BSI MOBILE",
+        "website": "bsimobileinternal.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.44/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8120",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8042",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8120"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8119",
+      "attributes": {
+        "nomor_pb_umku": "022010258193100000003",
+        "nama": "DROVAT - DISTRIBUSI EBUPOT DAN EFAKTUR PAJAK",
+        "website": "drovat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDROMEDA GLOBAL DATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005709.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8119",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8040",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8119"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8118",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020011",
+        "nama": "THEICONCENTRAL.ID",
+        "website": "theiconcentral.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8118",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8039",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8118"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8117",
+      "attributes": {
+        "nomor_pb_umku": "200722007160400000001",
+        "nama": "WEVITATION",
+        "website": "wevitation.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ARIS PUJUD KURNIAWAN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005765.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8117",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8037",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8117"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8116",
+      "attributes": {
+        "nomor_pb_umku": "912040586089600010001",
+        "nama": "WEB PORTAL",
+        "website": "bprsaudarakita.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SAUDARAKITA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005770.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8116",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8038",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8116"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8115",
+      "attributes": {
+        "nomor_pb_umku": "060921007373600010001",
+        "nama": "WWW.DAHSYAT.COM",
+        "website": "dahsyat.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TDW RESOURCES",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005769.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8115",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8033",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8115"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8114",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010007",
+        "nama": "EDC BANK PAPUA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8114",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8036",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8114"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8113",
+      "attributes": {
+        "nomor_pb_umku": "022010258193100000002",
+        "nama": "DROMINDER - APLIKASI MANAJEMEN REMINDER",
+        "website": "drominder.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDROMEDA GLOBAL DATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005709.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8113",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8035",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8113"
+      }
+    }
+  ]
+}

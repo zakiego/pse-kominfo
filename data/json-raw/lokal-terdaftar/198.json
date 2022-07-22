@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 198,
+      "from": 1971,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1980,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=199",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=197"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6617",
+      "attributes": {
+        "nomor_pb_umku": "912020854242900010001",
+        "nama": "UTOMOBILE",
+        "website": "utomobank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT UTOMO MANUNGGAL SEJAHTERA LAMPUNG",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004706.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6617",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6474",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6617"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6616",
+      "attributes": {
+        "nomor_pb_umku": "151221001413500010001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "bprpuskusa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PUSKUSA BALIDWIPA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004324.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6616",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6473",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6616"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6615",
+      "attributes": {
+        "nomor_pb_umku": "081021000511300010001",
+        "nama": "DEJAYO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PHIDECTAMA ABEPURA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004821.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6615",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6469",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6615"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6614",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640040",
+        "nama": "APLIKASI BCA YOUNG COMMUNITY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.42/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6614",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6467",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6614"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6613",
+      "attributes": {
+        "nomor_pb_umku": "190722000342700000001",
+        "nama": "IBS CORE USSI",
+        "website": "bprgianyar.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GIANYAR PARTASEDANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004790.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6613",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6470",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6613"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6612",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010017",
+        "nama": "API DEV PARTNER BANK RAYA",
+        "website": "api.dev.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004288.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6612",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6471",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6612"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6611",
+      "attributes": {
+        "nomor_pb_umku": "020122000657900010002",
+        "nama": "KEBIJAKAN.CO.ID - ARAH JURNALISME BERKUALITAS DAN INDEPENDEN",
+        "website": "Kebijakan.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KEBIJAKAN INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004833.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6611",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6468",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6611"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6610",
+      "attributes": {
+        "nomor_pb_umku": "912000821206800010001",
+        "nama": "WEBSITE",
+        "website": "bankdms.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA MITRA SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004535.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6610",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6460",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6610"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6609",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801190054",
+        "nama": "BRI SMART BILLING",
+        "website": "brismartbilling.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002468.50/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6609",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6466",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6609"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6608",
+      "attributes": {
+        "nomor_pb_umku": "190722000957300010001",
+        "nama": "GOBANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH GIANYAR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004828.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6608",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6465",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6608"
+      }
+    }
+  ]
+}

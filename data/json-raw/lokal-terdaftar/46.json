@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 46,
+      "from": 451,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 460,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=47",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=45"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8187",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160031",
+        "nama": "BSPI (BANK SYARIAH INDONESIA PERFORMANCE INDICATOR)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.46/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8187",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8106",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8187"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8186",
+      "attributes": {
+        "nomor_pb_umku": "912020383211900010001",
+        "nama": "INFO DANUS",
+        "website": "bprdn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005772.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8186",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8102",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8186"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8185",
+      "attributes": {
+        "nomor_pb_umku": "812001925005100000003",
+        "nama": "ZALORA.CO.ID",
+        "website": "zalora.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FASHION ESERVICES INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003393.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8185",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8103",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8185"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8184",
+      "attributes": {
+        "nomor_pb_umku": "912020688340400010001",
+        "nama": "PT BPR ARTHA BUANA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA BUANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005528.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8184",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7742",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8184"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8183",
+      "attributes": {
+        "nomor_pb_umku": "812011604106700000004",
+        "nama": "KATRINA.ID",
+        "website": "katrina.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PANORAMA JTB TOURS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005418.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8183",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8104",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8183"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8182",
+      "attributes": {
+        "nomor_pb_umku": "812021816232400030009",
+        "nama": "MORTGAGE ONLINE FORM",
+        "website": "apply.cimbniaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000222.23/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8182",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8101",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8182"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8181",
+      "attributes": {
+        "nomor_pb_umku": "022010477028100010001",
+        "nama": "ISSS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BIMA HAYU PRATAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005710.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8181",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8098",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8181"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8180",
+      "attributes": {
+        "nomor_pb_umku": "912011013207400010004",
+        "nama": "KASIR.ID",
+        "website": "kasir.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PEMBAYARAN LINTAS USAHA SUKSES",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004049.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8180",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8096",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8180"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8179",
+      "attributes": {
+        "nomor_pb_umku": "812031706197600010002",
+        "nama": "ONLINK",
+        "website": "onlink.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TEKNOSMART",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004500.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8179",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8100",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8179"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8178",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010008",
+        "nama": "WIFIPRO PLATFORM",
+        "website": "activewifi.ina17.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8178",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8092",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8178"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 99,
+      "from": 981,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 990,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=100",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=98"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7638",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040004",
+        "nama": "WARUNG APP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005098.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7638",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7536",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7638"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7637",
+      "attributes": {
+        "nomor_pb_umku": "123700069063500010003",
+        "nama": "APLIKASI MOBILE CICIL CICILAN KHUSUS MAHASISWA",
+        "website": "cicil.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CICIL SOLUSI MITRA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005560.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7637",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7535",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7637"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7636",
+      "attributes": {
+        "nomor_pb_umku": "912030026109100010001",
+        "nama": "BPR MANUK AYU",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MANUK AYU",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005533.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7636",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7533",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7636"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7635",
+      "attributes": {
+        "nomor_pb_umku": "912000383261300010001",
+        "nama": "WEBSITE PT BPR TJANDRA ARTHA LESTARI",
+        "website": "tjandra.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TJANDRA ARTHA LESTARI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005539.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7635",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7532",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7635"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7634",
+      "attributes": {
+        "nomor_pb_umku": "022000769172400000001",
+        "nama": "HONDA TUGU",
+        "website": "hondatugu.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TUGU MOTOR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005313.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7634",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7531",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7634"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7633",
+      "attributes": {
+        "nomor_pb_umku": "022010544269300020004",
+        "nama": "AXA MANDIRI MOBILE SYSTEM ( AMOST)",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AXA MANDIRI FINANCIAL SERVICES",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000538.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7633",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7513",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7633"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7632",
+      "attributes": {
+        "nomor_pb_umku": "912020293045500010001",
+        "nama": "PT. DEJAYO AGEN SOFTWARE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYA SARI SEDANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005072.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7632",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7529",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7632"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7631",
+      "attributes": {
+        "nomor_pb_umku": "191021002064300010001",
+        "nama": "BPR DIAN FARAQO GEMILANG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DIAN FARAQO GEMILANG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005339.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7631",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7526",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7631"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7630",
+      "attributes": {
+        "nomor_pb_umku": "100522000122800020001",
+        "nama": "MIBAS POLARIS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ANAK NEGERI PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004904.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7630",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7528",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7630"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7629",
+      "attributes": {
+        "nomor_pb_umku": "290921002455900000001",
+        "nama": "RUMAH INSPIRASI",
+        "website": "rumahinspirasi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUMAH INSPIRASI MEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005583.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7629",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7521",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7629"
+      }
+    }
+  ]
+}

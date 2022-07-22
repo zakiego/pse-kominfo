@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 68,
+      "from": 671,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 680,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=69",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=67"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7951",
+      "attributes": {
+        "nomor_pb_umku": "912030134061700010001",
+        "nama": "SOSIAL MEDIA DAN EMAIL",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PRIMA JAMBI MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005642.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7951",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7850",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7951"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7950",
+      "attributes": {
+        "nomor_pb_umku": "200722002991200000001",
+        "nama": "PT. BPR BUMIAYU BANGUN CITRA",
+        "website": "bankcitra.net",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUMIAYU BANGUN CITRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005502.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7950",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7867",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7950"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7949",
+      "attributes": {
+        "nomor_pb_umku": "150122000131900020001",
+        "nama": "MISS MASS LOGISTIC",
+        "website": "mismasslogistic.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV ARTJAVA PUTRA PRIMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005563.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7949",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7808",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7949"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7948",
+      "attributes": {
+        "nomor_pb_umku": "812020280021300010009",
+        "nama": "CALL OF DUTY MOBILE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002712.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7948",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7844",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7948"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7947",
+      "attributes": {
+        "nomor_pb_umku": "020322004839100010001",
+        "nama": "EDUSUPE",
+        "website": "edusupe.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV EDUSUPE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005706.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7947",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7865",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7947"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7946",
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010002",
+        "nama": "CHATBOT ASTARI",
+        "website": "zendesk.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BCA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000037.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7946",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7860",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7946"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7945",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010003",
+        "nama": "COMPANY PROFILE",
+        "website": "ina17.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7945",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7863",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7945"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7944",
+      "attributes": {
+        "nomor_pb_umku": "123200064177100000002",
+        "nama": "MEDI-CALL PET-CARE SERVICES",
+        "website": "pet-care.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PT. MEDIKA NUSANTARA GUMILANG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005668.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7944",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7862",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7944"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7943",
+      "attributes": {
+        "nomor_pb_umku": "912000813209300000002",
+        "nama": "SALATKU",
+        "website": "kodelokus.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KODELOKUS SOAREKA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005080.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7943",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7857",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7943"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7942",
+      "attributes": {
+        "nomor_pb_umku": "190722006325500000001",
+        "nama": "LAUTANPAY",
+        "website": "lautanpay.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD ARBI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005143.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7942",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7856",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7942"
+      }
+    }
+  ]
+}

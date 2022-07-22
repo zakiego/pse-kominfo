@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 208,
+      "from": 2071,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2080,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=209",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=207"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6514",
+      "attributes": {
+        "nomor_pb_umku": "125800051267500010002",
+        "nama": "OPAPER APP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OPAPER INTERNATIONAL INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004772.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6514",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6380",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6514"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6513",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020006",
+        "nama": "ATKP PT BDP KALTIM KALTARA",
+        "website": "atkp.bankaltimtara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004622.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6513",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6379",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6513"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6512",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020005",
+        "nama": "CMS SPAN PT BPD KALTIM KALTARA",
+        "website": "span.bankaltimtara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004622.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6512",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6377",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6512"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6511",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020004",
+        "nama": "CASH MANAGEMENT SYSTEM PT BPD KALTIM KALTARA",
+        "website": "CMS.BANKALTIMTAR.CO.ID",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004622.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6511",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6376",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6511"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6510",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020003",
+        "nama": "MOBILE BANKING PT BPD KALTIM KALTARA",
+        "website": "IB.BANKALTIMTAR.CO.ID",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004622.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6510",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6375",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6510"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6508",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020002",
+        "nama": "INTERNET BANKING PT BPD KALTIM KALTARA",
+        "website": "IB.BANKALTIMTARA.CO.ID",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004622.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6508",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6374",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6508"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6507",
+      "attributes": {
+        "nomor_pb_umku": "180722007355100010001",
+        "nama": "HOSTEKO HOSTING INDONESIA",
+        "website": "hosteko.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TRI WAHYUDI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004769.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6507",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6373",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6507"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6506",
+      "attributes": {
+        "nomor_pb_umku": "121900056068600030004",
+        "nama": "WEBSITE FLASALE",
+        "website": "flasale.co",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PALUGADA SUMBER SUKSES",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004228.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6506",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6372",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6506"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6505",
+      "attributes": {
+        "nomor_pb_umku": "912000932262400010001",
+        "nama": "BANK KLATEN VA",
+        "website": "bankklaten.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK KLATEN (PERSERODA) KABUPATEN KLATEN",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004765.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6505",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6371",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6505"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6504",
+      "attributes": {
+        "nomor_pb_umku": "912050271361500010001",
+        "nama": "ITRAM",
+        "website": "itram.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIMEGAH ASSET MANAGEMENT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004662.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6504",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6368",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6504"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 310,
+      "from": 3091,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3100,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=311",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=309"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5403",
+      "attributes": {
+        "nomor_pb_umku": "260821005057400010003",
+        "nama": "M-OJEK MERCHANT",
+        "website": "m-ojek.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEDAN OJEK INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003815.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5403",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5275",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5403"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5402",
+      "attributes": {
+        "nomor_pb_umku": "260821005057400010002",
+        "nama": "M-OJEK DRIVER",
+        "website": "m-ojek.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEDAN OJEK INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003815.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5402",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5274",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5402"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5401",
+      "attributes": {
+        "nomor_pb_umku": "912011013207400010001",
+        "nama": "ESPAY",
+        "website": "espay.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PEMBAYARAN LINTAS USAHA SUKSES",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004049.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5401",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5271",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5401"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5400",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620021",
+        "nama": "WEBSITE (PORTAL) API BCA",
+        "website": "developer.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001669.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5400",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5272",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5400"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5399",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620021",
+        "nama": "VIRA",
+        "website": "vira.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001669.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5399",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5270",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5399"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5398",
+      "attributes": {
+        "nomor_pb_umku": "022010271098900020003",
+        "nama": "SRIBUU",
+        "website": "sribuu.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAJU BERSAMA ALIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004016.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5398",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5268",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5398"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5397",
+      "attributes": {
+        "nomor_pb_umku": "120222001790300040001",
+        "nama": "SEA MAKEUP BEAUTY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEA MAKEUP BEAUTY",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004047.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5397",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5267",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5397"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5396",
+      "attributes": {
+        "nomor_pb_umku": "022010270370800000001",
+        "nama": "HALOBELANJA",
+        "website": "halobelanja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HALO BELANJA DOTCOM",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004030.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5396",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5265",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5396"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5395",
+      "attributes": {
+        "nomor_pb_umku": "912020297162200020005",
+        "nama": "ACCOUNTING SPORT GLOVE INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SPORT GLOVE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004036.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5395",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5263",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5395"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5393",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900030005",
+        "nama": "RAJA BILLER",
+        "website": "rajabiller.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002933.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5393",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5262",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5393"
+      }
+    }
+  ]
+}

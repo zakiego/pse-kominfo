@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 324,
+      "from": 3231,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3240,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=325",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=323"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5251",
+      "attributes": {
+        "nomor_pb_umku": "090722001057100000001",
+        "nama": "APLIKASI JODOH AYONIKAH",
+        "website": "ayonikah.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NASRUL ANSORI",
+        "tanggal_daftar": "2022-07-09",
+        "tanggal_terbit": "2022-07-09",
+        "nomor_tanda_daftar": "003921.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5251",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5119",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5251"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5250",
+      "attributes": {
+        "nomor_pb_umku": "912030422061700000001",
+        "nama": "APLIKASI KNODS",
+        "website": "tenant.knods.app",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LABTEK INDIE INDONESIA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003839.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5250",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5118",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5250"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5249",
+      "attributes": {
+        "nomor_pb_umku": "250322004745200030001",
+        "nama": "ALK FILO OPTIMA",
+        "website": "alk.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALK FILO OPTIMA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003904.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5249",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5117",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5249"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5248",
+      "attributes": {
+        "nomor_pb_umku": "160422000128300020001",
+        "nama": "JAPRIME",
+        "website": "japrime.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JAPRI PAY NUSANTARA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003901.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5248",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5115",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5248"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5247",
+      "attributes": {
+        "nomor_pb_umku": "812000599278300000002",
+        "nama": "EPSILON PEOPLECLOUD DIGITAL MEDIA SOLUTION(DMS)",
+        "website": "epsilon.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT STAR REACHERS INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003865.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5247",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5067",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5247"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5246",
+      "attributes": {
+        "nomor_pb_umku": "022050982284300010001",
+        "nama": "RUMAH PEKERJA INDONESIA",
+        "website": "rumahpekerja.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU MANAJEMEN",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003900.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5246",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5113",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5246"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5245",
+      "attributes": {
+        "nomor_pb_umku": "022070387285500060003",
+        "nama": "COMPANY HOMEPAGE WEBSITE",
+        "website": "obf.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ORICO BALIMOR FINANCE",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003893.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5245",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5112",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5245"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5244",
+      "attributes": {
+        "nomor_pb_umku": "912020641142900040009",
+        "nama": "DANAI.ID",
+        "website": "danai.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIWISISTA FINANSIAL TEKNOLOGI",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003898.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5244",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5111",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5244"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5243",
+      "attributes": {
+        "nomor_pb_umku": "022070387285500060002",
+        "nama": "MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ORICO BALIMOR FINANCE",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003893.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5243",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5110",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5243"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5242",
+      "attributes": {
+        "nomor_pb_umku": "270522002815200050001",
+        "nama": "EPAD",
+        "website": "amandata.intermatika.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MANGUN PERSADA AMANDATA INTERMATIKA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003897.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5242",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5109",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5242"
+      }
+    }
+  ]
+}

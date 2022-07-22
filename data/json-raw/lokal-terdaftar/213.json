@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 213,
+      "from": 2121,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2130,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=214",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=212"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6463",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010001",
+        "nama": "PORTAL BANK SULUTGO",
+        "website": "banksulutgo.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004481.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6463",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5892",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6463"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6462",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010002",
+        "nama": "KNOWLEDGE MANAGEMENT SYSTEM (KMS)",
+        "website": "banksulutgo.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004481.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6462",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5894",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6462"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6461",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010002",
+        "nama": "E-ABSEN BANK SULUTGO",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004481.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6461",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5896",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6461"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6460",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010001",
+        "nama": "E-LEARNING BSG",
+        "website": "banksulutgo.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004481.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6460",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5897",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6460"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6459",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010001",
+        "nama": "E-SPTPD",
+        "website": "banksulutgo.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004481.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6459",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5899",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6459"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6458",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010015",
+        "nama": "SERVICES CMS BANK RAYA",
+        "website": "services.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6458",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6325",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6458"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6457",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010014",
+        "nama": "RATEBOARD CMS BANK RAYA",
+        "website": "rateboard.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6457",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6324",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6457"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6456",
+      "attributes": {
+        "nomor_pb_umku": "812011603263100000002",
+        "nama": "DEPAY (DES PAYMENT SYSTEM)",
+        "website": "depay.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DES TEKNOLOGI INFORMASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004668.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6456",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6322",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6456"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6455",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010013",
+        "nama": "DASHBOARD PINANG",
+        "website": "pinang.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6455",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6323",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6455"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6454",
+      "attributes": {
+        "nomor_pb_umku": "020501015027700030001",
+        "nama": "RICHNITY",
+        "website": "richnity.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RICHNITAS GLOBAL SEJAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004677.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6454",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6266",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6454"
+      }
+    }
+  ]
+}

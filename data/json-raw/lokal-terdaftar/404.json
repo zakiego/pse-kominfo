@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 404,
+      "from": 4031,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4040,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=405",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=403"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4476",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Biizaa Asia Technology",
+        "website": "biizaa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIIZAA ASIA TECHNOLOGY",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002702.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4476",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4460",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4476"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4475",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SICATRA",
+        "website": "idwebhost.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV SAIFU RAMDHANI",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002701.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4475",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4459",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4475"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4474",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PSE",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Pangan, Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CETEKU KARYA UTAMA",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002699.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4474",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4458",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4474"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4460",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Hdk.id",
+        "website": "hdk-solution.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HADEKA MULTISOLUTION",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002700.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4460",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4444",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4460"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4453",
+      "attributes": {
+        "nomor_pb_umku": "022010822221600000002",
+        "nama": "DEMAND SIDE PLATFORM",
+        "website": "(www.)dsp.inmobi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INMOBI INDONESIA TECHNOLOGIES",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002691.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4453",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4437",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4453"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4386",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Travellin",
+        "website": "travellin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZURICH ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002558.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4386",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4370",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4386"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4364",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SenyuM Mobile",
+        "website": "https://umi.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002468.07/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4364",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4350",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4364"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4362",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WWW.REDBUS.ID",
+        "website": "WWW.REDBUS.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IBIBO GROUP INDONESIA",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002704.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4362",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4348",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4362"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4359",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Informasi Manajemen Continuous Auditing Continuous Monitoring (SIM-CACM)",
+        "website": "lkpp.go.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIDAN CONSULTANCY SERVICES",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002377.06/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4359",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4345",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4359"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4358",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Jasa Konsultansi Badan Usaha Pengembangan Sistem Informasi Manajemen Continuous Auditing Continuous Monitoring",
+        "website": "www.lkpp.go.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIDAN CONSULTANCY SERVICES",
+        "tanggal_daftar": "2022-05-17",
+        "tanggal_terbit": "2022-05-17",
+        "nomor_tanda_daftar": "002377.05/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4358",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4344",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4358"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 52,
+      "from": 511,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 520,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=53",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=51"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8112",
+      "attributes": {
+        "nomor_pb_umku": "101221003031700080001",
+        "nama": "BYRU.ID",
+        "website": "byru.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI KERAH BYRU",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003854.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8112",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8034",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8112"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8111",
+      "attributes": {
+        "nomor_pb_umku": "200722007018600000001",
+        "nama": "PORTAL WEB DAN SISTEM INFORMASI IPK INDONESIA",
+        "website": "ipkindonesia.or.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IKATAN PSIKOLOG KLINIS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005757.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8111",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8028",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8111"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8110",
+      "attributes": {
+        "nomor_pb_umku": "026401025177300000001",
+        "nama": "SISTEM ASSET MANAGEMENT",
+        "website": "assetlive.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DATA INTI PRIMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005209.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8110",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8029",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8110"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8109",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020010",
+        "nama": "THEICONCENTRAL.COM",
+        "website": "theiconcentral.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8109",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8030",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8109"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8108",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020015",
+        "nama": "VIOLA",
+        "website": "bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003560.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8108",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7494",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8108"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8107",
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010004",
+        "nama": "APLIKASI PUNGUTAN TABUNGAN DAN KREDIT",
+        "website": "pungutan.bankdaerahbangli.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005716.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8107",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8027",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8107"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8106",
+      "attributes": {
+        "nomor_pb_umku": "122700065074200000001",
+        "nama": "KAIA-PAY: AGEN PULSA & PPOB MURAH",
+        "website": "kaiapay.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV KAIA PROJECT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005520.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8106",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8024",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8106"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8105",
+      "attributes": {
+        "nomor_pb_umku": "190722006687900000002",
+        "nama": "WEBSITE APOTEK ONLINE",
+        "website": "pharmacy-mahira.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JABARSOFT TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005145.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8105",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8026",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8105"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8104",
+      "attributes": {
+        "nomor_pb_umku": "200722000346300000001",
+        "nama": "RESTU RELOAD",
+        "website": "restureload.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "restu sukmara",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005423.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8104",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8023",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8104"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8103",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020009",
+        "nama": "THECENTRALHOMES.COM",
+        "website": "thecentralhomes.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8103",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8022",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8103"
+      }
+    }
+  ]
+}

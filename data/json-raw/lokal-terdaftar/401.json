@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 401,
+      "from": 4001,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4010,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=402",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=400"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4502",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMK ATK",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002722.04/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4502",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4486",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4502"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4501",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMK  PPOB & PAYMENT",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002722.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4501",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4485",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4501"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4500",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMK  TENOLOGI & KOMPUTER",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002722.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4500",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4484",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4500"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4499",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMK Buku Store",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002722.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4499",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4483",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4499"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4498",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Andalin Trade",
+        "website": "trade.andalin.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EXIMKU TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002721.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4498",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4482",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4498"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4497",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Punyabersama.id",
+        "website": "beta2.punyabersama.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERSAMA MILIK BANGSA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002720.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4497",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4481",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4497"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4496",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Hotel Swift Inn Aeropolis Jakarta",
+        "website": "www.swiftinns.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ESTRELLA DUABELAS INDONESIA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002719.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4496",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4480",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4496"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4495",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT Kerinci Merangin Hidro",
+        "website": "-",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KERINCI MERANGIN HIDRO",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002718.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4495",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4479",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4495"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4494",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Formi",
+        "website": "formi.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FORMI UNTUNG BERSAMA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002716.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4494",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4478",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4494"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4493",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BrownMix Factory Indonesia",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BROWNMIX FACTORY INDONESIA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002715.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4493",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4477",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4493"
+      }
+    }
+  ]
+}

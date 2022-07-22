@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 397,
+      "from": 3961,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3970,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=398",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=396"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4150",
+      "attributes": {
+        "nomor_pb_umku": "026801013221300020001",
+        "nama": "ALKAMIL",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV ALKAMIL GROUP",
+        "tanggal_daftar": "2022-05-26",
+        "tanggal_terbit": "2022-05-26",
+        "nomor_tanda_daftar": "000384.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4150",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4155",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4150"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4149",
+      "attributes": {
+        "nomor_pb_umku": "127300010142500020001",
+        "nama": "YUKJUALBELI.COM",
+        "website": "yukjualbeli.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PASAR RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-05-26",
+        "tanggal_terbit": "2022-05-26",
+        "nomor_tanda_daftar": "001491.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4149",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4154",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4149"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5489",
+      "attributes": {
+        "nomor_pb_umku": "912031619290400050001",
+        "nama": "WECOPOS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SATRIA MEDIA TEKNOLOGI",
+        "tanggal_daftar": "2022-05-25",
+        "tanggal_terbit": "2022-05-25",
+        "nomor_tanda_daftar": "002851.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5489",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4152",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5489"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4146",
+      "attributes": {
+        "nomor_pb_umku": "128700020064700000002",
+        "nama": "JEMPOL KIOS",
+        "website": "jempolkios.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA DISTRIBUSI UTAMA",
+        "tanggal_daftar": "2022-05-25",
+        "tanggal_terbit": "2022-05-25",
+        "nomor_tanda_daftar": "000336.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4146",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4149",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4146"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4145",
+      "attributes": {
+        "nomor_pb_umku": "812011302351400050003",
+        "nama": "ALOKLIK.COM",
+        "website": "aloklik.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANDUNG SCIENTIFIC TECHNICAL INDONESIA",
+        "tanggal_daftar": "2022-05-25",
+        "tanggal_terbit": "2022-05-25",
+        "nomor_tanda_daftar": "002405.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4145",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4148",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4145"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4144",
+      "attributes": {
+        "nomor_pb_umku": "912000633132700000002",
+        "nama": "SIPLAH BLIBLI MEDIATEK INTERNUSA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEDIATEK INTERNUSA",
+        "tanggal_daftar": "2022-05-25",
+        "tanggal_terbit": "2022-05-25",
+        "nomor_tanda_daftar": "000364.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4144",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4146",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4144"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4143",
+      "attributes": {
+        "nomor_pb_umku": "912000633132700000001",
+        "nama": "SIPLAH MEDIATEK INTERNUSA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEDIATEK INTERNUSA",
+        "tanggal_daftar": "2022-05-25",
+        "tanggal_terbit": "2022-05-25",
+        "nomor_tanda_daftar": "000364.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4143",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4145",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4143"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4127",
+      "attributes": {
+        "nomor_pb_umku": "027201000151300030001",
+        "nama": "HEAD HUNTER",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "WIDDY FERDIANSYAH",
+        "tanggal_daftar": "2022-05-25",
+        "tanggal_terbit": "2022-05-25",
+        "nomor_tanda_daftar": "000361.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4127",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4129",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4127"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4126",
+      "attributes": {
+        "nomor_pb_umku": "812011302055500020003",
+        "nama": "CORPORATE WEB E-COMMERCE",
+        "website": "asuransi.zurich.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZURICH ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-05-25",
+        "tanggal_terbit": "2022-05-25",
+        "nomor_tanda_daftar": "002558.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4126",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4128",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4126"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4125",
+      "attributes": {
+        "nomor_pb_umku": "091121004964500000003",
+        "nama": "SUMUL STORE",
+        "website": "bukaolshop.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DENURATO SUMUL GROUP",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "000348.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4125",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4126",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4125"
+      }
+    }
+  ]
+}

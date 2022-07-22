@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 85,
+      "from": 841,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 850,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=86",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=84"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7781",
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010006",
+        "nama": "SMS MACROKIOSK OTP - BPR MODERN EXPRESS JATENG",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004638.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7781",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7694",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7781"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7780",
+      "attributes": {
+        "nomor_pb_umku": "231221001405500020003",
+        "nama": "ADX ASIA THE ORIGAMI",
+        "website": "theorigami.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NARADA SAHARA KENCANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005404.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7780",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7696",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7780"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7779",
+      "attributes": {
+        "nomor_pb_umku": "912040539211500060003",
+        "nama": "WEB VICTORIA SEKURITAS INDONESIA",
+        "website": "victoria-sekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VICTORIA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000701.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7779",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7697",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7779"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7778",
+      "attributes": {
+        "nomor_pb_umku": "812001706126200030001",
+        "nama": "WEBSITE ORANGE DENTAL",
+        "website": "orangedentalhouse.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RADHINTA SENTOSA ABADI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004593.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7778",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7695",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7778"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7777",
+      "attributes": {
+        "nomor_pb_umku": "912020784300400010001",
+        "nama": "WEBSITE SHOP ROEGAN",
+        "website": "roegan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA GANTENG SEJATI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005652.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7777",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7686",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7777"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7776",
+      "attributes": {
+        "nomor_pb_umku": "912021706093100010001",
+        "nama": "BPR MITRA LESTARI",
+        "website": "bprmitralestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRA LESTARI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005518.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7776",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7690",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7776"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7775",
+      "attributes": {
+        "nomor_pb_umku": "200722006015900000001",
+        "nama": "PT BPR SOLIDER",
+        "website": "bprsolider.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SOLIDER",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005651.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7775",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7688",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7775"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7774",
+      "attributes": {
+        "nomor_pb_umku": "190722006295400000001",
+        "nama": "WEBSITE",
+        "website": "bprsahabatsejati.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SAHABAT SEJATI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005640.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7774",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7687",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7774"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7773",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BPR PARO LABA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PARO LABA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005637.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7773",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7684",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7773"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7772",
+      "attributes": {
+        "nomor_pb_umku": "912020187143600010003",
+        "nama": "PANTURA APLIKASI",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INFINITY AIR MEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005438.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7772",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7643",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7772"
+      }
+    }
+  ]
+}

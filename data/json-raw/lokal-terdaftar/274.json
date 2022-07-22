@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 274,
+      "from": 2731,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2740,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=275",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=273"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5791",
+      "attributes": {
+        "nomor_pb_umku": "912010422102800010002",
+        "nama": "AKSELERAN APPS (ANDROID & IOS)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKSELERAN KEUANGAN INKLUSIF INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "001986.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5791",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5654",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5791"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5789",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "E-BANKING BPR SUPRA",
+        "website": "ibprsupra.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004223.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5789",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5652",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5789"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5787",
+      "attributes": {
+        "nomor_pb_umku": "912010882266600000001",
+        "nama": "BOTIKA",
+        "website": "botika.online",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BOTIKA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004316.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5787",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5648",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5787"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5786",
+      "attributes": {
+        "nomor_pb_umku": "912050476167900040003",
+        "nama": "SMS MACROKIOSK  (OTP) - BPR IRIAN SENTOSA",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT IRIAN SENTOSA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004307.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5786",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5649",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5786"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5785",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "HARRISMA STORE",
+        "website": "Harrismastore.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HARRISMA BUWANA JAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004296.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5785",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5647",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5785"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5784",
+      "attributes": {
+        "nomor_pb_umku": "121021004185900010001",
+        "nama": "PT. BPR BIMA ABDI SWADAYA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "M.HIDAYATULLAH",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004318.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5784",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5646",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5784"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5783",
+      "attributes": {
+        "nomor_pb_umku": "912020627149400010002",
+        "nama": "WWW.RADANAFINANCE.CO.ID",
+        "website": "radanafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RADANA BHASKARA FINANCE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003890.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5783",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5645",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5783"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5782",
+      "attributes": {
+        "nomor_pb_umku": "912000456125300130002",
+        "nama": "POSAJA!",
+        "website": "posfin.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT POS FINANSIAL INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004166.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5782",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5644",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5782"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5781",
+      "attributes": {
+        "nomor_pb_umku": "912050476167900040002",
+        "nama": "WEBSITE RESMI PT. BPR IRIAN SENTOSA",
+        "website": "bpririan.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT IRIAN SENTOSA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004307.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5781",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5643",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5781"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5780",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020002",
+        "nama": "IBB BPRKS",
+        "website": "ibb.bprks.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004305.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5780",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5637",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5780"
+      }
+    }
+  ]
+}

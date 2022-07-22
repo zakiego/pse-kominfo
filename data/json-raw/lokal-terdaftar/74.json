@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 74,
+      "from": 731,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 740,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=75",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=73"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7891",
+      "attributes": {
+        "nomor_pb_umku": "912010931131800120007",
+        "nama": "MOBILE BANKING BANK JATENG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005420.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7891",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7539",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7891"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7890",
+      "attributes": {
+        "nomor_pb_umku": "912040479265100000001",
+        "nama": "PT BPR SUMBER DANA MAS",
+        "website": "bprsumberdanamas.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUMBER DANA MAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005665.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7890",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7803",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7890"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7889",
+      "attributes": {
+        "nomor_pb_umku": "912010931131800120006",
+        "nama": "LAKUPANDAI BANK JATENG",
+        "website": "ibanking.bankjateng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005420.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7889",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7530",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7889"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7888",
+      "attributes": {
+        "nomor_pb_umku": "912010931131800120005",
+        "nama": "CMS PEMDA BANK JATENG",
+        "website": "bibs.bankjateng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005420.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7888",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7518",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7888"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7887",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040007",
+        "nama": "NBP SYS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005098.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7887",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7802",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7887"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7886",
+      "attributes": {
+        "nomor_pb_umku": "022010776089300010001",
+        "nama": "WEBSITE COMPANY PROFILE",
+        "website": "bankpundhiartaindonesia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PUNDHI ARTA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005010.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7886",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7800",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7886"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7885",
+      "attributes": {
+        "nomor_pb_umku": "125900032145900020001",
+        "nama": "JEJALA",
+        "website": "jejala.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JEJALA PARARTA INTERNATIONAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005694.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7885",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7799",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7885"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7884",
+      "attributes": {
+        "nomor_pb_umku": "912010931131800120004",
+        "nama": "BIMA QR BANK JATENG",
+        "website": "bimaqris.bankjateng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005420.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7884",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7553",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7884"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7883",
+      "attributes": {
+        "nomor_pb_umku": "912020310124900040002",
+        "nama": "WEBSITE  WAHANA INTERFOOD NUSANTARA, TBK",
+        "website": "wahana-interfood.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WAHANA INTERFOOD NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005545.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7883",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7797",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7883"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7882",
+      "attributes": {
+        "nomor_pb_umku": "912010931131800120003",
+        "nama": "INTERNET BANKING PERSONAL DAN BUSINESS BANK JATENG",
+        "website": "ibanking.bankjateng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005420.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7882",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7495",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7882"
+      }
+    }
+  ]
+}

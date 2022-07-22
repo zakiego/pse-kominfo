@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 395,
+      "from": 3941,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3950,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=396",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=394"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4173",
+      "attributes": {
+        "nomor_pb_umku": "270522004261800000001",
+        "nama": "ANDROID OS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HERU WIDODO",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000435.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4173",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4176",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4173"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4172",
+      "attributes": {
+        "nomor_pb_umku": "022000165069800000001",
+        "nama": "LINOVHR",
+        "website": "linovhr.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LINOV ROKET PRESTASI",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000326.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4172",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4175",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4172"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4171",
+      "attributes": {
+        "nomor_pb_umku": "129000023055400090003",
+        "nama": "LEARNINGX",
+        "website": "learningx.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL INVESTMENT INSTITUSI",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000353.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4171",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4174",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4171"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4170",
+      "attributes": {
+        "nomor_pb_umku": "151121003312400000001",
+        "nama": "CITRUST",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CITRUST SARI INDONESIA",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000429.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4170",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4173",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4170"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4166",
+      "attributes": {
+        "nomor_pb_umku": "122100071380900000001",
+        "nama": "HOUMI",
+        "website": "houmi.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOUMI DIGITAL PROPERTINDO",
+        "tanggal_daftar": "2022-05-29",
+        "tanggal_terbit": "2022-05-29",
+        "nomor_tanda_daftar": "000424.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4166",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4172",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4166"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4165",
+      "attributes": {
+        "nomor_pb_umku": "230322005918300000001",
+        "nama": "SAHABATBISNIS.ID",
+        "website": "sahabatbisnis.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAHABAT BISNIS INOVASI",
+        "tanggal_daftar": "2022-05-29",
+        "tanggal_terbit": "2022-05-29",
+        "nomor_tanda_daftar": "000360.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4165",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4171",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4165"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4164",
+      "attributes": {
+        "nomor_pb_umku": "240422001057400000002",
+        "nama": "OKEPAY - SERVER PULSA & PPOB",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "YEYEP GUSTIAN",
+        "tanggal_daftar": "2022-05-29",
+        "tanggal_terbit": "2022-05-29",
+        "nomor_tanda_daftar": "000422.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4164",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4170",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4164"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4163",
+      "attributes": {
+        "nomor_pb_umku": "290522000272800000001",
+        "nama": "PUCHAI",
+        "website": "PUCHAI.MY.ID",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "UMI IMAMAH NURSABRINA LINATI",
+        "tanggal_daftar": "2022-05-29",
+        "tanggal_terbit": "2022-05-29",
+        "nomor_tanda_daftar": "000421.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4163",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4169",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4163"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4162",
+      "attributes": {
+        "nomor_pb_umku": "280522002221300000001",
+        "nama": "INTERNET",
+        "website": "intajwhp.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SYAHRUL MUKMIN",
+        "tanggal_daftar": "2022-05-28",
+        "tanggal_terbit": "2022-05-28",
+        "nomor_tanda_daftar": "000420.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4162",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4168",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4162"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4161",
+      "attributes": {
+        "nomor_pb_umku": "221021004309800100001",
+        "nama": "INDONESIA TES DAN TELEFARMASI (INATTI)",
+        "website": "inatti.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WEDEET DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-05-28",
+        "tanggal_terbit": "2022-05-28",
+        "nomor_tanda_daftar": "000418.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4161",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4167",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4161"
+      }
+    }
+  ]
+}

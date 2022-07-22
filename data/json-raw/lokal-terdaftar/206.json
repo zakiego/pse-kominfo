@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 206,
+      "from": 2051,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2060,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=207",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=205"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6534",
+      "attributes": {
+        "nomor_pb_umku": "127100054022800020002",
+        "nama": "GLIMCASH",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLIM MEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003520.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6534",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6349",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6534"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6533",
+      "attributes": {
+        "nomor_pb_umku": "912010055238400000003",
+        "nama": "PORTAL WEB / PLAFTORM DIGITAL",
+        "website": "laguku.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MELON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000583.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6533",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6400",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6533"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6532",
+      "attributes": {
+        "nomor_pb_umku": "912010938152200010001",
+        "nama": "ASSISTINDO",
+        "website": "bprkotasamarinda.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PD. BPR KOTA SAMARINDA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004639.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6532",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6399",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6532"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6531",
+      "attributes": {
+        "nomor_pb_umku": "290921004142200080001",
+        "nama": "WEGODEV",
+        "website": "wegodev.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WEGODEV TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004784.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6531",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6398",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6531"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6530",
+      "attributes": {
+        "nomor_pb_umku": "250322004362600010001",
+        "nama": "ETHAN SHOP",
+        "website": "ethan-shop.netlify.app",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "EKO SETIAJI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004782.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6530",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6397",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6530"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6529",
+      "attributes": {
+        "nomor_pb_umku": "912010055238400000002",
+        "nama": "PORTAL WEB/PLATOFRM DIGITAL",
+        "website": "mainbro.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MELON INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000583.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6529",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6396",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6529"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6528",
+      "attributes": {
+        "nomor_pb_umku": "912010055238400000002",
+        "nama": "PORTAL WEB/PLATFORM DIGITAL",
+        "website": "imstore.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MELON INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000583.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6528",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6395",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6528"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6527",
+      "attributes": {
+        "nomor_pb_umku": "022010761064600020079",
+        "nama": "PANINTI.COM",
+        "website": "Paninti.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PANINTI HUB INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003997.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6527",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6394",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6527"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6526",
+      "attributes": {
+        "nomor_pb_umku": "912010769107400010001",
+        "nama": "BPR DAYA LUMBUNG ASIA",
+        "website": "bprdla.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DAYA LUMBUNG ASIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004636.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6526",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6393",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6526"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6525",
+      "attributes": {
+        "nomor_pb_umku": "022010544157800000001",
+        "nama": "SI- @MAN  (DIBACA SI AMAN)",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HEXA MAJU SAMASTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004544.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6525",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6391",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6525"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 364,
+      "from": 3631,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3640,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=365",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=363"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4741",
+      "attributes": {
+        "nomor_pb_umku": "110522004951700000002",
+        "nama": "BANTUDESA.COM",
+        "website": "bantudesa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003426.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4741",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4691",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4741"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4740",
+      "attributes": {
+        "nomor_pb_umku": "110522004951700000001",
+        "nama": "SHOP BANTUDESA",
+        "website": "shop.bantudesa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003426.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4740",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4690",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4740"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4739",
+      "attributes": {
+        "nomor_pb_umku": "812010691296600000001",
+        "nama": "SISTECH KHARISMA SE",
+        "website": "sistechkharisma.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SISTECH KHARISMA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003421.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4739",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4689",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4739"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4738",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980034",
+        "nama": "BRI CERIA",
+        "website": "bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "002468.30/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4738",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4688",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4738"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4735",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980033",
+        "nama": "BRI SMART CAMPUS",
+        "website": "brismartcampus.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "002468.29/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4735",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4687",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4735"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4734",
+      "attributes": {
+        "nomor_pb_umku": "022010515230500010003",
+        "nama": "RTI INVESTOR",
+        "website": "investor.rti.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RTI INFOKOM",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003415.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4734",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4685",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4734"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4733",
+      "attributes": {
+        "nomor_pb_umku": "022010515230500010002",
+        "nama": "RTI ANALYTICS",
+        "website": "analytics.rit.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RTI INFOKOM",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003415.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4733",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4684",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4733"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4732",
+      "attributes": {
+        "nomor_pb_umku": "022010515230500010001",
+        "nama": "RTI BUSINESS",
+        "website": "rti.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RTI INFOKOM",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003415.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4732",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4683",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4732"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4731",
+      "attributes": {
+        "nomor_pb_umku": "128900010101700000001",
+        "nama": "EDUKREASI.COM",
+        "website": "edukreasi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ROBBY ALDIAN PUTRA PRATAMA ADJIE",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003414.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4731",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4682",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4731"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4730",
+      "attributes": {
+        "nomor_pb_umku": "240622002259200020002",
+        "nama": "WWW.PUSBIMTEKPALIRA.COM",
+        "website": "pusbimtekpalira.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PADEPOKAN LITERASI NUSANTARA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003416.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4730",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4681",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4730"
+      }
+    }
+  ]
+}

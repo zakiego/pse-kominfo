@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 389,
+      "from": 3881,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3890,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=390",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=388"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4245",
+      "attributes": {
+        "nomor_pb_umku": "912001101330500110001",
+        "nama": "MAKASSAR COMPUTINDO",
+        "website": "makassarcomputindo.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MAKASSAR COMPUTINDO",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002933.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4245",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4240",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4245"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4244",
+      "attributes": {
+        "nomor_pb_umku": "912040287176800020001",
+        "nama": "PITIK - SMART BROILER FARMING",
+        "website": "pitik.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PITIK DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002915.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4244",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4238",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4244"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4243",
+      "attributes": {
+        "nomor_pb_umku": "027701018192600000001",
+        "nama": "MEDIA MENARA INDONESIA",
+        "website": "menaraindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDIA MENARA INDONESIA",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002872.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4243",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4239",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4243"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4242",
+      "attributes": {
+        "nomor_pb_umku": "030622005543700020001",
+        "nama": "KODIPEST",
+        "website": "kodipest.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA CERDAS BERKARYA",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002929.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4242",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4237",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4242"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4241",
+      "attributes": {
+        "nomor_pb_umku": "912011907022200000001",
+        "nama": "CV DROPSHIP",
+        "website": "dropshipaja.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV DROPSHIP",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002925.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4241",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4236",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4241"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4238",
+      "attributes": {
+        "nomor_pb_umku": "100522004084300010001",
+        "nama": "PAYHERE",
+        "website": "payhere.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PAYHERE NUSWANTARA INTERNATIONAL",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002918.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4238",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4235",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4238"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4237",
+      "attributes": {
+        "nomor_pb_umku": "912001321370600000002",
+        "nama": "WEBSITE (KLEANER INDONESIA)",
+        "website": "kleaner.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTERNUSA TERUS JAYA",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002858.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4237",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4233",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4237"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4235",
+      "attributes": {
+        "nomor_pb_umku": "912000633132700000003",
+        "nama": "SIPLAH BLIBLI CV. MEDIATEK INTERNUSA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEDIATEK INTERNUSA",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002729.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4235",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4231",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4235"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4233",
+      "attributes": {
+        "nomor_pb_umku": "124500031084500030002",
+        "nama": "REC-TRA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BEDJO SELAWASE BOSS BERJANGKA",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002320.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4233",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4219",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4233"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4232",
+      "attributes": {
+        "nomor_pb_umku": "190522007020500000001",
+        "nama": "BLOCKDREAM MEDIA",
+        "website": "blockdreammedia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BLOCKDREAM MEDIA INTERNASIONAL",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002840.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4232",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4230",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4232"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 296,
+      "from": 2951,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2960,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=297",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=295"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5558",
+      "attributes": {
+        "nomor_pb_umku": "912001022144300000002",
+        "nama": "PORTALPULSA",
+        "website": "portalpulsa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IBENCORP TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004104.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5558",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5423",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5558"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5557",
+      "attributes": {
+        "nomor_pb_umku": "022010823184800010002",
+        "nama": "WEBSITE MOTION LIFE (WWW.MOTION-LIFE.ID)",
+        "website": "motion-life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC LIFE ASSURANCE",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "000182.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5557",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5422",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5557"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5556",
+      "attributes": {
+        "nomor_pb_umku": "812010182251800040008",
+        "nama": "KINGKOIL WEBSITE",
+        "website": "kingkoil.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUTA ABADIPRIMANTARA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003602.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5556",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5418",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5556"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5555",
+      "attributes": {
+        "nomor_pb_umku": "022000168299900010001",
+        "nama": "BETANG MOBILE",
+        "website": "bankkalteng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004154.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5555",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5421",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5555"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5554",
+      "attributes": {
+        "nomor_pb_umku": "191121003265800010001",
+        "nama": "PT BPR MUKOMUKO MAKMUR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MUKOMUKO MAKMUR",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004144.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5554",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5420",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5554"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5553",
+      "attributes": {
+        "nomor_pb_umku": "912000954270900020001",
+        "nama": "YESDOK",
+        "website": "yesdok.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YES DOK INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004109.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5553",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5419",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5553"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5552",
+      "attributes": {
+        "nomor_pb_umku": "912040271149100010001",
+        "nama": "WEBSITE",
+        "website": "rmv.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RELIANCE MODAL VENTURA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004158.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5552",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5417",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5552"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5551",
+      "attributes": {
+        "nomor_pb_umku": "812001717110600000002",
+        "nama": "BALI FURNITURE HANDICRAFTS",
+        "website": "balifurniturehandicrafts.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FUZEN DECOR BALI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003616.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5551",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5416",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5551"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5550",
+      "attributes": {
+        "nomor_pb_umku": "812020077256100020136",
+        "nama": "LG.COM/ID",
+        "website": "lg.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LG ELECTRONICS INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004046.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5550",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5269",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5550"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5549",
+      "attributes": {
+        "nomor_pb_umku": "100122002961800020001",
+        "nama": "E-COMMERCE",
+        "website": "nyrtea.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NYRTEA BEAUTIKA NETWORK",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004152.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5549",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5415",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5549"
+      }
+    }
+  ]
+}

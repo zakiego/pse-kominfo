@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 338,
+      "from": 3371,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3380,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=339",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=337"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5108",
+      "attributes": {
+        "nomor_pb_umku": "912000921103500020003",
+        "nama": "XGO",
+        "website": "XGO.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONUSA TELEMEDIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003544.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5108",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4969",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5108"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5107",
+      "attributes": {
+        "nomor_pb_umku": "123200020004700050003",
+        "nama": "JUMPA DOKTER",
+        "website": "jumpadokter.castellumdigital.org",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CASTELLUM DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003112.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5107",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4965",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5107"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5106",
+      "attributes": {
+        "nomor_pb_umku": "123200020004700050002",
+        "nama": "SILACAK",
+        "website": "silacak.kemkes.go.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CASTELLUM DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003112.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5106",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4964",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5106"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5105",
+      "attributes": {
+        "nomor_pb_umku": "060722000668500000001",
+        "nama": "JASA DIGITAL INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOCHAMAD RIZALDI KUSUMO",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003778.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5105",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4968",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5105"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5104",
+      "attributes": {
+        "nomor_pb_umku": "912020193193100020004",
+        "nama": "APLIKASI EMAS MEGA FINANCE",
+        "website": "megafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA FINANCE",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003406.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5104",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4967",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5104"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5103",
+      "attributes": {
+        "nomor_pb_umku": "912020193193100020003",
+        "nama": "MEGA FINANCE WEBSITE",
+        "website": "megafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA FINANCE",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003406.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5103",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4966",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5103"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5098",
+      "attributes": {
+        "nomor_pb_umku": "912050578320300020001",
+        "nama": "TRIMA",
+        "website": "ps.trimegah.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIMEGAH SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003769.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5098",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4963",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5098"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5097",
+      "attributes": {
+        "nomor_pb_umku": "180622000895200020001",
+        "nama": "BITBROMO",
+        "website": "bitbromo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EVEREST KRIPTO INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003770.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5097",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4962",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5097"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5096",
+      "attributes": {
+        "nomor_pb_umku": "912000251118700020005",
+        "nama": "BOOST SUPPLIER PORTAL",
+        "website": "portal.kedai.boost.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AXIATA DIGITAL SERVICES INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "000200.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5096",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4959",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5096"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5095",
+      "attributes": {
+        "nomor_pb_umku": "121600165194400010001",
+        "nama": "JUSTIKA.COM",
+        "website": "justika.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JUSTIKA MEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003756.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5095",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4958",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5095"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 183,
+      "from": 1821,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1830,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=184",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=182"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6781",
+      "attributes": {
+        "nomor_pb_umku": "190722002703100000004",
+        "nama": "CEKCEPAT APP",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADVO MATRIKS INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004928.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6781",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6630",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6781"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6780",
+      "attributes": {
+        "nomor_pb_umku": "812001024049800000001",
+        "nama": "DEPATU",
+        "website": "depatu.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREATIVITAS ASET INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004942.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6780",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6628",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6780"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6779",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040005",
+        "nama": "CIJPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6779",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6627",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6779"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6778",
+      "attributes": {
+        "nomor_pb_umku": "124000068130900000001",
+        "nama": "BPR ADI JAYA",
+        "website": "bpradijaya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ADI JAYA MULIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004486.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6778",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6625",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6778"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6777",
+      "attributes": {
+        "nomor_pb_umku": "912030988194800010001",
+        "nama": "DEJAYO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CAHAYA ARTHABALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004982.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6777",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6626",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6777"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6776",
+      "attributes": {
+        "nomor_pb_umku": "912040280200500020001",
+        "nama": "ISLAMIC BANKING APLICATION (IBA)",
+        "website": "bprs-sdm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH SAKA DANA MULIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004929.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6776",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6624",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6776"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6775",
+      "attributes": {
+        "nomor_pb_umku": "241221002626500010001",
+        "nama": "PARTYING",
+        "website": "partying.sg",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OLA CHAT TECH",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004744.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6775",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6623",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6775"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6774",
+      "attributes": {
+        "nomor_pb_umku": "912010131143300000001",
+        "nama": "UBIKLAN.COM",
+        "website": "ubiklan.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HELPIO GLOVIN TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004922.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6774",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6611",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6774"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6773",
+      "attributes": {
+        "nomor_pb_umku": "190722002074200000001",
+        "nama": "BANKING SMART SYSTEM (BSS)",
+        "website": "bankvaris.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT VARIS MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004889.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6773",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6621",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6773"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6772",
+      "attributes": {
+        "nomor_pb_umku": "190722003775400000002",
+        "nama": "REDIBAYAR",
+        "website": "redibayar.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KIOS PERMAI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004976.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6772",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6622",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6772"
+      }
+    }
+  ]
+}

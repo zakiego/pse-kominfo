@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 300,
+      "from": 2991,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3000,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=301",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=299"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5518",
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010005",
+        "nama": "TRAVEL INSURANCE AGENT",
+        "website": "travelagent.bcainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003517.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5518",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5380",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5518"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5517",
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010004",
+        "nama": "FLEXAS",
+        "website": "flexas.bcainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003517.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5517",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5379",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5517"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5516",
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010003",
+        "nama": "BCAINSURANCE MOBILE APPS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003517.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5516",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5378",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5516"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5515",
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010002",
+        "nama": "WEBSITE BCAINSURANCE",
+        "website": "bcainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003517.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5515",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5377",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5515"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5514",
+      "attributes": {
+        "nomor_pb_umku": "022010351048300010003",
+        "nama": "M-SYARIAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MEGA SYARIAH",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004034.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5514",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5376",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5514"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5513",
+      "attributes": {
+        "nomor_pb_umku": "123700245186900000005",
+        "nama": "BAKULAN ELEKTRIK",
+        "website": "bakulanelektrik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TERA KREASI SEMESTA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004115.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5513",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5375",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5513"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5512",
+      "attributes": {
+        "nomor_pb_umku": "812011702350700050002",
+        "nama": "VIVA MEDIKA APPS",
+        "website": "vivamedika.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VIVA MEDIKA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004120.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5512",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5374",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5512"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5511",
+      "attributes": {
+        "nomor_pb_umku": "123700245186900000004",
+        "nama": "SAHABATBAYAR",
+        "website": "sahabatbayar.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TERA KREASI SEMESTA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004115.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5511",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5373",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5511"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5510",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000003",
+        "nama": "TIMECLOCK.ID",
+        "website": "timeclock.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003983.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5510",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5326",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5510"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5509",
+      "attributes": {
+        "nomor_pb_umku": "812011702350700050001",
+        "nama": "VIVA MEDIKA",
+        "website": "Vivamedika.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VIVA MEDIKA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004120.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5509",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5372",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5509"
+      }
+    }
+  ]
+}

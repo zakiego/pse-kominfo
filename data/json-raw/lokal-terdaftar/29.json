@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 29,
+      "from": 281,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 290,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=30",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=28"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8407",
+      "attributes": {
+        "nomor_pb_umku": "280921000532900000001",
+        "nama": "LUQMANTRONIK",
+        "website": "luqmantronik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD LUQMAN AL HAKIM",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005259.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8407",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8327",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8407"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8406",
+      "attributes": {
+        "nomor_pb_umku": "912030217301600010002",
+        "nama": "TUPPERKLIK.COM",
+        "website": "tupperklik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CAHAYA PRESTASI INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004963.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8406",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8305",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8406"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8405",
+      "attributes": {
+        "nomor_pb_umku": "912000555244500010001",
+        "nama": "WEBSITE BPR BINTAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERUMDA BPR BINTAN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005891.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8405",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8323",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8405"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8404",
+      "attributes": {
+        "nomor_pb_umku": "126500031272600010001",
+        "nama": "PINTECH CORE BANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH KUDUS PERSERODA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005885.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8404",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8322",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8404"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8402",
+      "attributes": {
+        "nomor_pb_umku": "022010025275300010001",
+        "nama": "PT. BPR BKK KOTA SEMARANG (PERSERODA)",
+        "website": "kotasemarang.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN KOTA SEMARANG PERSERODA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005647.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8402",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8321",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8402"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8401",
+      "attributes": {
+        "nomor_pb_umku": "912000612201800010001",
+        "nama": "PT. BPR PARO DANA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PARO DANA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005895.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8401",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8320",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8401"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8400",
+      "attributes": {
+        "nomor_pb_umku": "912040472125500000001",
+        "nama": "BPR TANJUNG TANI",
+        "website": "bprtanjungtani.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TANJUNG TANI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005887.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8400",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8318",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8400"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8399",
+      "attributes": {
+        "nomor_pb_umku": "270522000882400010001",
+        "nama": "DENGER-IND",
+        "website": "dengerind.com",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HARSA REVOLUSI NUSANTARA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005712.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8399",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8317",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8399"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8398",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "META WATER",
+        "website": "metawater.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA MEMILES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000700.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8398",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8316",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8398"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8397",
+      "attributes": {
+        "nomor_pb_umku": "912030472125400000001",
+        "nama": "WEBSITE, INSTAGRAM",
+        "website": "polluxbank.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT POLLUX",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005888.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8397",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8313",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8397"
+      }
+    }
+  ]
+}

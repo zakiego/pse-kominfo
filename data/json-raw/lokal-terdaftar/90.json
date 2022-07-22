@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 90,
+      "from": 891,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 900,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=91",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=89"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7731",
+      "attributes": {
+        "nomor_pb_umku": "912010665134600000004",
+        "nama": "SUARAKLOPEDIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PAKAR LAYANAN TANPA BATAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005476.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7731",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7641",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7731"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7730",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010003",
+        "nama": "IOT RCS (CONDITIONING MONITORING SYSTEM)",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7730",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7583",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7730"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7729",
+      "attributes": {
+        "nomor_pb_umku": "022020471114800010001",
+        "nama": "BKKPURWOREJO.COM",
+        "website": "bkkpurworejo.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN PURWOREJO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005631.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7729",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7638",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7729"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7728",
+      "attributes": {
+        "nomor_pb_umku": "070921002689500000001",
+        "nama": "TDW OUTLET",
+        "website": "dailywash.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANUGRAH LIMA SEMESTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005582.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7728",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7634",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7728"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7727",
+      "attributes": {
+        "nomor_pb_umku": "912030084112800010002",
+        "nama": "GO-BANKING",
+        "website": "bprkhrisna.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KHRISNA DARMA ADIPALA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005565.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7727",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7613",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7727"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7726",
+      "attributes": {
+        "nomor_pb_umku": "125100061340700000001",
+        "nama": "BATIX",
+        "website": "batix.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BATIAN BAGJA BUANALANGGENG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005635.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7726",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7637",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7726"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7725",
+      "attributes": {
+        "nomor_pb_umku": "021101020011900000001",
+        "nama": "LAKUUU",
+        "website": "lakuuu.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKUUU TEKNOLOGI DIGITAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005515.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7725",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7636",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7725"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7724",
+      "attributes": {
+        "nomor_pb_umku": "022010172092300020001",
+        "nama": "PD BPR BAHTERAMAS BOMBANA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PD. BPR BAHTERAMAS BOMBANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005577.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7724",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7633",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7724"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7723",
+      "attributes": {
+        "nomor_pb_umku": "812020387175500000001",
+        "nama": "EXABYTES",
+        "website": "exabytes.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EXABYTES NETWORK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005334.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7723",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7625",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7723"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7722",
+      "attributes": {
+        "nomor_pb_umku": "812010998167600110011",
+        "nama": "MINI-ME",
+        "website": "mini-me.co",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIYAKOM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004113.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7722",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7631",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7722"
+      }
+    }
+  ]
+}

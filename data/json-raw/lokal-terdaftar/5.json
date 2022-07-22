@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 5,
+      "from": 41,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 50,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=6",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=4"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8672",
+      "attributes": {
+        "nomor_pb_umku": "912010179084300010001",
+        "nama": "NATA CONNEXINDO DIGITAL",
+        "website": "nataconnexindo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NATA CONNEXINDO DIGITAL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006051.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8672",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8589",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8672"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8671",
+      "attributes": {
+        "nomor_pb_umku": "129600013269900160002",
+        "nama": "MEDIKLIK",
+        "website": "mediklik.co.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SYNAPSA MEDIKATAMA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004595.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8671",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8588",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8671"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8670",
+      "attributes": {
+        "nomor_pb_umku": "028800091215400010001",
+        "nama": "BALDAH MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BALDAH SENTOSA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006018.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8670",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8586",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8670"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8669",
+      "attributes": {
+        "nomor_pb_umku": "812011802002900160005",
+        "nama": "ENGLISHACADEMY",
+        "website": "english-academy.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUANG RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "001737.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8669",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8587",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8669"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8668",
+      "attributes": {
+        "nomor_pb_umku": "812011108341700000003",
+        "nama": "HADIRKOE",
+        "website": "hadirkoe.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ELECTRONIC DATA INTERCHANGE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003587.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8668",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8585",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8668"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8667",
+      "attributes": {
+        "nomor_pb_umku": "022000276144500010001",
+        "nama": "WEBSITE",
+        "website": "bprxen.co",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT XEN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005985.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8667",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8573",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8667"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8666",
+      "attributes": {
+        "nomor_pb_umku": "912050098111500010001",
+        "nama": "LIGHTCOACH APP",
+        "website": "lightcoach-indonesia.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PARAMA BOGA SEHAT",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005455.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8666",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8584",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8666"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8665",
+      "attributes": {
+        "nomor_pb_umku": "812011802002900160004",
+        "nama": "BRAINACADEMY",
+        "website": "brainacademy.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUANG RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "001737.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8665",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8583",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8665"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8664",
+      "attributes": {
+        "nomor_pb_umku": "912030579169600100002",
+        "nama": "ARVENTIS MEGA INDONESIA",
+        "website": "arventisintl.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARVENTIS MEGA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004534.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8664",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8582",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8664"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8663",
+      "attributes": {
+        "nomor_pb_umku": "912001301341900010002",
+        "nama": "WEBSITE BPR KROYA BANGUNARTHA",
+        "website": "bankbangunartha.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KROYA BANGUNARTHA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005871.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8663",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8581",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8663"
+      }
+    }
+  ]
+}

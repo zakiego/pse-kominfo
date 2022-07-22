@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 167,
+      "from": 1661,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1670,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=168",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=166"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6949",
+      "attributes": {
+        "nomor_pb_umku": "912000975059800010001",
+        "nama": "IBS (INTEGRATED BANKING SYSTEM)",
+        "website": "dutabhakti.insani.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DUTABHAKTI INSANI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005020.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6949",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6801",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6949"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6948",
+      "attributes": {
+        "nomor_pb_umku": "912020989380300010001",
+        "nama": "MCL",
+        "website": "bankabj.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA BALI JAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005087.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6948",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6802",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6948"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6947",
+      "attributes": {
+        "nomor_pb_umku": "812001315186400010001",
+        "nama": "PT. BPR LUHUR LANGGENG UTAMA",
+        "website": "bprluhurlanggengutama.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LUHUR LANGGENG UTAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005048.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6947",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6751",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6947"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6946",
+      "attributes": {
+        "nomor_pb_umku": "912000091248400010001",
+        "nama": "PT. BPR UNIVERSAL KARYA MANDIRI RIAU",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT UNIVERSAL KARYA MANDIRI RIAU",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005031.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6946",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6797",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6946"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6945",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBVIEW PENGKINIAN DATA 2",
+        "website": "pengkiniandata.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.48/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6945",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6793",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6945"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6944",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "KREDITEK",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004617.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6944",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6800",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6944"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6943",
+      "attributes": {
+        "nomor_pb_umku": "912020727205500040004",
+        "nama": "FAC FIRSTCLASS",
+        "website": "firstclass.firstasiaconsultants.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASIA UTAMA KONSULTAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005012.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6943",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6773",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6943"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6942",
+      "attributes": {
+        "nomor_pb_umku": "912010470340800000001",
+        "nama": "WEBSITE",
+        "website": "bprmanggala.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LSE MANGGALA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005075.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6942",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6792",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6942"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6941",
+      "attributes": {
+        "nomor_pb_umku": "912030676149900010002",
+        "nama": "WEBSITE BANKSURYA.COM",
+        "website": "banksurya.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYAJAYA UBUD",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004998.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6941",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6794",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6941"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6940",
+      "attributes": {
+        "nomor_pb_umku": "912020727205500040003",
+        "nama": "FAC WEBSITE",
+        "website": "firstasiaconsultants.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASIA UTAMA KONSULTAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005012.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6940",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6753",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6940"
+      }
+    }
+  ]
+}

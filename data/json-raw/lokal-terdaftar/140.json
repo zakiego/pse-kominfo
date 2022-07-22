@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 140,
+      "from": 1391,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1400,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=141",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=139"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7227",
+      "attributes": {
+        "nomor_pb_umku": "912030449041501110053",
+        "nama": "USEETV GO",
+        "website": "useetv.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001331.45/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7227",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7114",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7227"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7226",
+      "attributes": {
+        "nomor_pb_umku": "912031509135900000001",
+        "nama": "WEBSITE BPLFOUNDATION.OR.ID",
+        "website": "bplfoundation.or.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BP Partnership",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005271.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7226",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7110",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7226"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7225",
+      "attributes": {
+        "nomor_pb_umku": "022010312270400010001",
+        "nama": "MEDIA INFORMASI PERUSAHAAN",
+        "website": "bprsahabatsedati.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SAHABAT SEDATI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005264.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7225",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7113",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7225"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7224",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160008",
+        "nama": "JADIBERKAH",
+        "website": "jadiberkah.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.22/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7224",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7112",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7224"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7223",
+      "attributes": {
+        "nomor_pb_umku": "912001326298400000001",
+        "nama": "JAMTANGAN.COM",
+        "website": "jamtangan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MING JAYA SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005130.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7223",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7106",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7223"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7222",
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010007",
+        "nama": "AKUBANKRIAUKEPRI (AKUBRK)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005037.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7222",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7109",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7222"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7221",
+      "attributes": {
+        "nomor_pb_umku": "021601007202500010001",
+        "nama": "INDOWARUNG",
+        "website": "Indowarung.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WARUNG KELONTONG DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005230.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7221",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7108",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7221"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7220",
+      "attributes": {
+        "nomor_pb_umku": "912021327016200400004",
+        "nama": "AGENCY WEB PORTAL",
+        "website": "agency.car.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA CENTRAL ASIA RAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001212.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7220",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7107",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7220"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7219",
+      "attributes": {
+        "nomor_pb_umku": "912050884239300060001",
+        "nama": "ARNET SUKSES MANDIRI",
+        "website": "netlife.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARNET SUKSES MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005261.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7219",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7105",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7219"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7218",
+      "attributes": {
+        "nomor_pb_umku": "022020872134800000002",
+        "nama": "EPOSYANDU",
+        "website": "eposyandu.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INFOKES INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000314.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7218",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7104",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7218"
+      }
+    }
+  ]
+}

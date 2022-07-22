@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 50,
+      "from": 491,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 500,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=51",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=49"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8132",
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010006",
+        "nama": "SISTEM SURAT PT BPR BANK DAERAH BANGLI (PERSERODA)",
+        "website": "surat.bankdaerahbangli.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005716.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8132",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8053",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8132"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8131",
+      "attributes": {
+        "nomor_pb_umku": "912010480268200010001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DINAR JAGAD",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005776.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8131",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8052",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8131"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8130",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010008",
+        "nama": "E-LEARNING BANK PAPUA",
+        "website": "university.bankpapua.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8130",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8051",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8130"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8129",
+      "attributes": {
+        "nomor_pb_umku": "130821001373600060001",
+        "nama": "IN LEAF INDONESIA",
+        "website": "inleafindonesia.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTINUSA NATURAL MAXIMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005764.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8129",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8047",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8129"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8128",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160030",
+        "nama": "BSIMOBILETWO",
+        "website": "bsimobiletwo.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.45/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8128",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8050",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8128"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8127",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020012",
+        "nama": "CENTRALHILLS.ID",
+        "website": "centralhills.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8127",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8049",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8127"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8126",
+      "attributes": {
+        "nomor_pb_umku": "912020284184200010001",
+        "nama": "WEBSITE BPR KANDIMADUARTA",
+        "website": "bprkma.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KANDIMADU ARTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005714.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8126",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8048",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8126"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8125",
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010005",
+        "nama": "SISTEM ABSENSI PT BPR BANK DAERAH BANGLI (PERSERODA)",
+        "website": "pegawai.bankdaerahbangli.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005716.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8125",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8046",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8125"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8124",
+      "attributes": {
+        "nomor_pb_umku": "022010258193100000004",
+        "nama": "DROPINVOICE - MANAJEMEN PENERIMAAN TAGIHAN",
+        "website": "dropinvoice.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDROMEDA GLOBAL DATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005709.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8124",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8044",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8124"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8123",
+      "attributes": {
+        "nomor_pb_umku": "812021213236800000001",
+        "nama": "WEBSITE ELSON SOLUSI GLOBAL",
+        "website": "elson.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ELSON SOLUSI GLOBAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005761.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8123",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8018",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8123"
+      }
+    }
+  ]
+}

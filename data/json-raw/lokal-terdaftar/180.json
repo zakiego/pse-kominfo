@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 180,
+      "from": 1791,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1800,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=181",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=179"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6815",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000007",
+        "nama": "DUTALIA",
+        "website": "dutalia.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6815",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6668",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6815"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6814",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "UNIT PENGENDALIAN GRATIFIKASI (UPG)",
+        "website": "upg.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004213.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6814",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6667",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6814"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6813",
+      "attributes": {
+        "nomor_pb_umku": "812010998167600110001",
+        "nama": "FUNSELEB",
+        "website": "Funseleb.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIYAKOM",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004113.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6813",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6656",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6813"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6812",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040009",
+        "nama": "MADIUNPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6812",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6664",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6812"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6811",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000006",
+        "nama": "BROMO SWALAYAN",
+        "website": "bromoswalayan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6811",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6663",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6811"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6810",
+      "attributes": {
+        "nomor_pb_umku": "290422000838600000001",
+        "nama": "SIBELIO",
+        "website": "sibelio.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SIBELIO PERDANA SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004947.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6810",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6653",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6810"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6809",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040008",
+        "nama": "COOP PAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6809",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6661",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6809"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6808",
+      "attributes": {
+        "nomor_pb_umku": "020801003085400020001",
+        "nama": "SINAR SUKSES IMPIAN",
+        "website": "551.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINAR SUKSES IMPIAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004921.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6808",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6659",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6808"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6807",
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000005",
+        "nama": "TODODO",
+        "website": "tododo.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004979.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6807",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6660",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6807"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6806",
+      "attributes": {
+        "nomor_pb_umku": "190422005857400000001",
+        "nama": "DAYSTOCK",
+        "website": "daystock.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD HAIKAL GUNARYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004811.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6806",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6658",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6806"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 308,
+      "from": 3071,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3080,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=309",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=307"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5423",
+      "attributes": {
+        "nomor_pb_umku": "812010974276800010001",
+        "nama": "OURCITRUS",
+        "website": "OURCITRUS.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GEMILANG CITRUS BERJAYA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004029.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5423",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5293",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5423"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5422",
+      "attributes": {
+        "nomor_pb_umku": "110322005784100020001",
+        "nama": "SUARALINTASINDONESIA.COM",
+        "website": "suaralintasindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MEDIA SUARA LINTAS INDONESIA GROUP",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004043.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5422",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5264",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5422"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5421",
+      "attributes": {
+        "nomor_pb_umku": "130622005866900010001",
+        "nama": "YIHAA.ID",
+        "website": "Yihaa.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI RAYA DIGITAL",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003833.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5421",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5035",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5421"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5420",
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020004",
+        "nama": "WAKAF IKHLAS",
+        "website": "wakaf.bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001879.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5420",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5292",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5420"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5419",
+      "attributes": {
+        "nomor_pb_umku": "290622000447400000001",
+        "nama": "NGEKLIK.ID",
+        "website": "ngeklik.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANGKIT BINA JAYA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003838.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5419",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5063",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5419"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5418",
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020004",
+        "nama": "VA WEB BANK BJB SYARIAH",
+        "website": "vaweb.bjbs.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001879.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5418",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5289",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5418"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5417",
+      "attributes": {
+        "nomor_pb_umku": "140622003113700010001",
+        "nama": "KLIKIN.ID",
+        "website": "klikin.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SMART SULTAN TRADE",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003214.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5417",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5290",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5417"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5416",
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020003",
+        "nama": "IB CASH MASALAHAN - ADMIN (CASH MANAGEMENT SYSTEM)",
+        "website": "ibcash-admin.bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001879.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5416",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5116",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5416"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5415",
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020003",
+        "nama": "IB CASH MASLAHAH (CASH MANAGEMENT SYSTEM)",
+        "website": "ibcash.bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001879.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5415",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5114",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5415"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5414",
+      "attributes": {
+        "nomor_pb_umku": "812001104192600050002",
+        "nama": "HTTPS://USAHA.CO.ID/",
+        "website": "usaha.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CEKINDO BUSINESS INTERNATIONAL",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004058.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5414",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5287",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5414"
+      }
+    }
+  ]
+}

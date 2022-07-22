@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 155,
+      "from": 1541,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1550,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=156",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=154"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7072",
+      "attributes": {
+        "nomor_pb_umku": "190722003787700000001",
+        "nama": "BAGUSPULSA",
+        "website": "baguspulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FIRMANSYAH",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004981.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7072",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6944",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7072"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7071",
+      "attributes": {
+        "nomor_pb_umku": "912030170073100060003",
+        "nama": "CSM CORPORATAMA (INDORENT CARE)",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CSM CORPORATAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003958.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7071",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6940",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7071"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7070",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160004",
+        "nama": "SISTEM INFORMASI PEGAWAI BANK BSI",
+        "website": "sip.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7070",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6943",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7070"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7069",
+      "attributes": {
+        "nomor_pb_umku": "812021129139900020004",
+        "nama": "MIPOS",
+        "website": "manulife.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA MANULIFE INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000645.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7069",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6938",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7069"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7068",
+      "attributes": {
+        "nomor_pb_umku": "081021001025400000001",
+        "nama": "KUYY",
+        "website": "kuyyaja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREASI UNTUK INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005181.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7068",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6935",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7068"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7067",
+      "attributes": {
+        "nomor_pb_umku": "022010351048300010004",
+        "nama": "E-MAIL CORPORATE BANK MEGA SYARIAH",
+        "website": "mail.megasyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MEGA SYARIAH",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004034.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7067",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6807",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7067"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7066",
+      "attributes": {
+        "nomor_pb_umku": "912000236286900010001",
+        "nama": "WEBSITE BPR ARTHA RAHAYU",
+        "website": "bprartharahayu.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA RAHAYU",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005085.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7066",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6933",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7066"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7065",
+      "attributes": {
+        "nomor_pb_umku": "280622001761300000001",
+        "nama": "AYOFOTO",
+        "website": "ayofoto.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AYOFOTO MEDIA INTERNATIONAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005159.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7065",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6926",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7065"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7064",
+      "attributes": {
+        "nomor_pb_umku": "027501029175900000001",
+        "nama": "WEBSITE & MEDIA SOSIAL BPR CITRA DUMOGA",
+        "website": "bprcitra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CITRA DUMOGA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005170.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7064",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6934",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7064"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7063",
+      "attributes": {
+        "nomor_pb_umku": "126200070195100000001",
+        "nama": "JARIVIS",
+        "website": "jarivis.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JARI KARYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005156.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7063",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6930",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7063"
+      }
+    }
+  ]
+}

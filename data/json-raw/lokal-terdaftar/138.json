@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 138,
+      "from": 1371,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1380,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=139",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=137"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7247",
+      "attributes": {
+        "nomor_pb_umku": "912040684223200010001",
+        "nama": "NBPSYS",
+        "website": "bprnbp3.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 3",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005277.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7247",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7141",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7247"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7246",
+      "attributes": {
+        "nomor_pb_umku": "812011507226300000001",
+        "nama": "GAUL IB",
+        "website": "site.alt-on.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALTON MITRA SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005272.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7246",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7138",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7246"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7245",
+      "attributes": {
+        "nomor_pb_umku": "024801005016400000001",
+        "nama": "JAGOANSERVER.COM",
+        "website": "jagoanserver.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LINTAS DATA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005276.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7245",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7137",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7245"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7244",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020014",
+        "nama": "KB BUKOPIN PPOB WEB SERVICE",
+        "website": "ppob-wsprd.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003560.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7244",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7135",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7244"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7243",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020013",
+        "nama": "KB BUKOPIN REPORT PPOB",
+        "website": "ppob-report.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003560.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7243",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7128",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7243"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7242",
+      "attributes": {
+        "nomor_pb_umku": "190722008110800000001",
+        "nama": "W RELOAD",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HANIF HERDI SUPRAPTO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005249.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7242",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7134",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7242"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7241",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160009",
+        "nama": "INFOLELANG BANK BSI",
+        "website": "infolelang.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.23/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7241",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7133",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7241"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7240",
+      "attributes": {
+        "nomor_pb_umku": "190722008227100000001",
+        "nama": "BOSKU.ID-BISNIS KONTER",
+        "website": "Bosku.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KELVIN DIMASTAKA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005257.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7240",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7130",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7240"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7239",
+      "attributes": {
+        "nomor_pb_umku": "812000198100700110011",
+        "nama": "REGISTRASI RUPS XL AXIATA",
+        "website": "registrasirups.xlaxiata.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL AXIATA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001718.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7239",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7129",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7239"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7238",
+      "attributes": {
+        "nomor_pb_umku": "912040787330500010001",
+        "nama": "SISTEM DIGITAL BPR NBP 27 (SISHCA, SISKO, SMA & DOMPET NBP)",
+        "website": "bprnbp27.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 27",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004937.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7238",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7127",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7238"
+      }
+    }
+  ]
+}

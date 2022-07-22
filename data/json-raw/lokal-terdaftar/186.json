@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 186,
+      "from": 1851,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1860,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=187",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=185"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6751",
+      "attributes": {
+        "nomor_pb_umku": "122000046288100010001",
+        "nama": "WEBSITE BPR ARTHABUDAYA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHABUDAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004905.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6751",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6599",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6751"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6750",
+      "attributes": {
+        "nomor_pb_umku": "912010727139300010001",
+        "nama": "WEBSITE",
+        "website": "tayudutapersada.site",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TAYU DUTAPERSADA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004951.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6750",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6597",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6750"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6749",
+      "attributes": {
+        "nomor_pb_umku": "912010540012900080003",
+        "nama": "LUARSEKOLAH",
+        "website": "luarsekolah.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI EDUKASI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004743.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6749",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6596",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6749"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6748",
+      "attributes": {
+        "nomor_pb_umku": "912020878202200000001",
+        "nama": "OFFICIAL WEBSITE DEALER HONDA IBRM",
+        "website": "hondaibrm.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISTANA BANDUNG RAYA MOTOR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004852.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6748",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6594",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6748"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6747",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "WEBFORM BSI",
+        "website": "webform.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6747",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6595",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6747"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6746",
+      "attributes": {
+        "nomor_pb_umku": "912050570284400010001",
+        "nama": "BPR HAMINDO NATAMAKMUR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PT BPR HAMINDO NATAMAKMUR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004949.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6746",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6593",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6746"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6745",
+      "attributes": {
+        "nomor_pb_umku": "912000783257500010001",
+        "nama": "PT BPR LABUHAN DANA SENTOSA",
+        "website": "banklds.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LABUHAN DANA SENTOSA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004900.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6745",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6592",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6745"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6744",
+      "attributes": {
+        "nomor_pb_umku": "812000393047500010003",
+        "nama": "INSTAGRAM PT BPR SURYA UTAMA (PT_BPR_SURYA_UTAMA)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA UTAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004411.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6744",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6590",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6744"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6743",
+      "attributes": {
+        "nomor_pb_umku": "190722003319500000001",
+        "nama": "KALIPULSA",
+        "website": "KALIPULSA.COM",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SAEFUL ARIFIN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004952.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6743",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6589",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6743"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6742",
+      "attributes": {
+        "nomor_pb_umku": "029901021224900000001",
+        "nama": "PORTAL AHLIWEB.COM",
+        "website": "ahliweb.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "UNGGUL CAHYA SAPUTRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004941.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6742",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6588",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6742"
+      }
+    }
+  ]
+}

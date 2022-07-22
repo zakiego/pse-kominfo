@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 168,
+      "from": 1671,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1680,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=169",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=167"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6939",
+      "attributes": {
+        "nomor_pb_umku": "027500092178200020002",
+        "nama": "ANADANA CASH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANADANA GLOBAL MULTIFINANCE",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005049.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6939",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6791",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6939"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6938",
+      "attributes": {
+        "nomor_pb_umku": "028701013128100010008",
+        "nama": "KITA KERJA",
+        "website": "Kitakerja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUNDI MAS BERJAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003781.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6938",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6775",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6938"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6937",
+      "attributes": {
+        "nomor_pb_umku": "912011120056500020001",
+        "nama": "E-PAYS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPAS QUINDO PRATAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000651.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6937",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6790",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6937"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6936",
+      "attributes": {
+        "nomor_pb_umku": "812001727287600000002",
+        "nama": "NETVERSE",
+        "website": "netverse.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NET MEDIA DIGITAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001730.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6936",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6779",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6936"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6935",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030007",
+        "nama": "APLIKASI PPOB BANK KALSEL",
+        "website": "ppob.bankkalsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004232.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6935",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6784",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6935"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6934",
+      "attributes": {
+        "nomor_pb_umku": "122800063193300000001",
+        "nama": "GURUMUDA.NET",
+        "website": "gurumuda.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALEXSANDER SAN LOHAT",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005056.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6934",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6789",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6934"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6933",
+      "attributes": {
+        "nomor_pb_umku": "912021224237300010001",
+        "nama": "TALISMAN SYSTEM UNITE NETWORK (T-SUN)",
+        "website": "tsun.talisman.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TALISMAN INSURANCE BROKERS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005071.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6933",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6788",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6933"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6932",
+      "attributes": {
+        "nomor_pb_umku": "912000474222100010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT ADIL JAYA ARTHA",
+        "website": "bpraja.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ADIL JAYA ARTHA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004863.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6932",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6787",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6932"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6931",
+      "attributes": {
+        "nomor_pb_umku": "812020696297600020001",
+        "nama": "HOTDEAL INDONESIA",
+        "website": "hotdeal.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CASHTREE FOR INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004609.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6931",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6786",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6931"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6930",
+      "attributes": {
+        "nomor_pb_umku": "812011621150500080001",
+        "nama": "INTEGRATED BANKING SYSTEM (IBS)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BOBATO LESTARI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004313.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6930",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6781",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6930"
+      }
+    }
+  ]
+}

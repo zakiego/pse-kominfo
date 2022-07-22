@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 60,
+      "from": 591,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 600,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=61",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=59"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8031",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010006",
+        "nama": "WHOP PORTAL",
+        "website": "whop.ina17.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8031",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7954",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8031"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8030",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010004",
+        "nama": "MOBILE BANKING BANK PAPUA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8030",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7955",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8030"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8029",
+      "attributes": {
+        "nomor_pb_umku": "100122003478500000001",
+        "nama": "KLINIKHP.ID",
+        "website": "klinikhp.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FATTRA KURNIADY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005729.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8029",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7952",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8029"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8028",
+      "attributes": {
+        "nomor_pb_umku": "912000296057200020001",
+        "nama": "HASAMITRA",
+        "website": "hasamitra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HASA MITRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005689.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8028",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7951",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8028"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8027",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160025",
+        "nama": "IKURMA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.40/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8027",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7949",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8027"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8026",
+      "attributes": {
+        "nomor_pb_umku": "190722005283900000001",
+        "nama": "TAMA PULSA",
+        "website": "tamapulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PRATAMA DIDIK PRASOJO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005725.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8026",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7950",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8026"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8025",
+      "attributes": {
+        "nomor_pb_umku": "912050278293900050001",
+        "nama": "HTTPS://EBCONNECT.COM/",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EBCONNECTION INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004375.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8025",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7944",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8025"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8024",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010005",
+        "nama": "DOMAIN INA17 (PANDI)",
+        "website": "ina17.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8024",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7942",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8024"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8023",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230012",
+        "nama": "ACA-KOMUNITAS.COM",
+        "website": "aca-komunitas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8023",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7947",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8023"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8022",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010004",
+        "nama": "COMEDS WEBSITE",
+        "website": "comeds.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8022",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7917",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8022"
+      }
+    }
+  ]
+}

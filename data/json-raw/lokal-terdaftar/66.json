@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 66,
+      "from": 651,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 660,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=67",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=65"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7971",
+      "attributes": {
+        "nomor_pb_umku": "912010675035900010001",
+        "nama": "PT. BPR DANAKU MAPAN LESTARI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANAKU MAPAN LESTARI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005724.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7971",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7886",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7971"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7970",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230008",
+        "nama": "TRAVELSAFE-ACAINS.COM",
+        "website": "travelsafe-acains.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7970",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7887",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7970"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7969",
+      "attributes": {
+        "nomor_pb_umku": "912030784298700510038",
+        "nama": "HANGRY",
+        "website": "ishangry.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MODULAR KULINER INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005421.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7969",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7884",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7969"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7968",
+      "attributes": {
+        "nomor_pb_umku": "022000944203300010002",
+        "nama": "MY MUGEN",
+        "website": "hondamugen.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRAUSAHA GENTANIAGA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005705.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7968",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7885",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7968"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7967",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160021",
+        "nama": "LANDING PAGE PEMBUKAAN REKENING ONLINE",
+        "website": "bsiapi.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.35/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7967",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7883",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7967"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7966",
+      "attributes": {
+        "nomor_pb_umku": "022020787006200000002",
+        "nama": "ALAN CREATIVE",
+        "website": "alan.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALAN MEDIATECH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005648.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7966",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7882",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7966"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7965",
+      "attributes": {
+        "nomor_pb_umku": "023001021067600010001",
+        "nama": "JASA KEUANGAN ONLINE BPR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRA PANDANARAN MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005603.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7965",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7878",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7965"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7964",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040009",
+        "nama": "COMPANY PROFILE NBP",
+        "website": "ptnbp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005098.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7964",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7880",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7964"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7963",
+      "attributes": {
+        "nomor_pb_umku": "912040787057200000001",
+        "nama": "CORE BANKING SYSTEM IBS GEN2",
+        "website": "banklanggeng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LANGGENGLESTARI BERSAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005684.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7963",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7879",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7963"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7962",
+      "attributes": {
+        "nomor_pb_umku": "812011604106700000002",
+        "nama": "WUPI.ID",
+        "website": "ver2.wupi.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PANORAMA JTB TOURS INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005418.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7962",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7877",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7962"
+      }
+    }
+  ]
+}

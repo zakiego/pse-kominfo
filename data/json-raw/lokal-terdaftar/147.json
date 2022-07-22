@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 147,
+      "from": 1461,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1470,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=148",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=146"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7157",
+      "attributes": {
+        "nomor_pb_umku": "122500444292300020010",
+        "nama": "MOBILE COLLECTION BANK BPD BALI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH BALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004518.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7157",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7035",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7157"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7156",
+      "attributes": {
+        "nomor_pb_umku": "190722006599200000001",
+        "nama": "BAROKAH ELECTRIC",
+        "website": "barokahelectric.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RESTU JATIDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005192.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7156",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7030",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7156"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7155",
+      "attributes": {
+        "nomor_pb_umku": "190722007612500000001",
+        "nama": "RAJAWALI PULSA INDONESIA",
+        "website": "rajawalireload.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "STEFANUS HARTONO KURNIAWAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005217.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7155",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7034",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7155"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7154",
+      "attributes": {
+        "nomor_pb_umku": "912020417284100040012",
+        "nama": "TOKO MANDIRI INDOGROSIR (TMI)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI CAKRAWALA CITRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004779.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7154",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7033",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7154"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7153",
+      "attributes": {
+        "nomor_pb_umku": "812000198100700110009",
+        "nama": "XL AXIATA PORTAL",
+        "website": "xlaxiata.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL AXIATA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001718.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7153",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7032",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7153"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7152",
+      "attributes": {
+        "nomor_pb_umku": "912020977264100000001",
+        "nama": "MPSTORE",
+        "website": "mpstore.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MODERN PULSA INVESTAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005221.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7152",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7031",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7152"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7151",
+      "attributes": {
+        "nomor_pb_umku": "301021000497400010001",
+        "nama": "SELLON",
+        "website": "sellon.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SELLON TECH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005082.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7151",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7029",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7151"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7150",
+      "attributes": {
+        "nomor_pb_umku": "812021129277300040001",
+        "nama": "BANK MEGA CONTACT MANAGEMENT SYSTEM",
+        "website": "mcms.bankmega.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MEGA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001040.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7150",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7028",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7150"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7149",
+      "attributes": {
+        "nomor_pb_umku": "190722006878200000001",
+        "nama": "WEBSITE OFFICIAL PT. BPR KARYA GUNA MANDIRI",
+        "website": "bprkaryagunamandiri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RELBI LIDIANI HUSADA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005201.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7149",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7027",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7149"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7148",
+      "attributes": {
+        "nomor_pb_umku": "190722007612500000001",
+        "nama": "RAJAWALI RELOAD",
+        "website": "Rajawalireload.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "STEFANUS HARTONO KURNIAWAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005217.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7148",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7014",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7148"
+      }
+    }
+  ]
+}

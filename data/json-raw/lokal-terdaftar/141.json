@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 141,
+      "from": 1401,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1410,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=142",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=140"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7217",
+      "attributes": {
+        "nomor_pb_umku": "022010064092300000001",
+        "nama": "ERP INDONESIA (ERP.ID)",
+        "website": "erp.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NOFRIZA NINDIYASARI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005265.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7217",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7103",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7217"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7216",
+      "attributes": {
+        "nomor_pb_umku": "190722001643300000001",
+        "nama": "ISTANA KUOTA",
+        "website": "istanakuota.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Gusti Kesuma Giri",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005122.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7216",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7102",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7216"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7215",
+      "attributes": {
+        "nomor_pb_umku": "912050483066500040005",
+        "nama": "WHISTLEBLOWING SYSTEM",
+        "website": "bankmandiritaspen.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MANDIRI TASPEN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000851.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7215",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7101",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7215"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7214",
+      "attributes": {
+        "nomor_pb_umku": "190722003465900000001",
+        "nama": "DPULSA",
+        "website": "mitradpulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DIAN JAELANI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004977.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7214",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7100",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7214"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7213",
+      "attributes": {
+        "nomor_pb_umku": "180722006441300000001",
+        "nama": "YAKENA",
+        "website": "yakena.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV YAKENA DOT COM",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005220.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7213",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7097",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7213"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7212",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020013",
+        "nama": "COLLECTION BPRKS",
+        "website": "collection.bprks.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004305.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7212",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7096",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7212"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7211",
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010006",
+        "nama": "BRK QRIS MERCHANT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005037.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7211",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7095",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7211"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7210",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020012",
+        "nama": "KB BUKOPIN AGEN PPOB",
+        "website": "ppob-bayar.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003560.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7210",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7064",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7210"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7209",
+      "attributes": {
+        "nomor_pb_umku": "912020553197500100009",
+        "nama": "DCARD MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000861.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7209",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7075",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7209"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7208",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020011",
+        "nama": "KB BUKOPIN MANAGEMENT PPOB",
+        "website": "ppob-mitra.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003560.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7208",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7053",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7208"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 335,
+      "from": 3341,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3350,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=336",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=334"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5139",
+      "attributes": {
+        "nomor_pb_umku": "912020572150200020001",
+        "nama": "EDUCOURSE FOR SCHOOL",
+        "website": "school.educourse.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MALEO EDUKASI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003805.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5139",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5002",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5139"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5138",
+      "attributes": {
+        "nomor_pb_umku": "812021028053900000001",
+        "nama": "BRAMBANG",
+        "website": "brambang.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BURSA INTERAKTIF GEMILANG",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003797.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5138",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5001",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5138"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5137",
+      "attributes": {
+        "nomor_pb_umku": "128300022028500030001",
+        "nama": "PT RELABS NET DAYACIPTA",
+        "website": "relabs.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RELABS NET DAYACIPTA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003786.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5137",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5000",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5137"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5136",
+      "attributes": {
+        "nomor_pb_umku": "027800099141200080001",
+        "nama": "SISTEM INFORMASI PENGADAAN DI SEKOLAH",
+        "website": "siplah.kemdikbud.go.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TANAH AIR TEKNOLOGI",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003804.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5136",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4999",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5136"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5135",
+      "attributes": {
+        "nomor_pb_umku": "912031104341600010001",
+        "nama": "ASSIST",
+        "website": "anugerahsekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANUGERAH SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003767.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5135",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4997",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5135"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5134",
+      "attributes": {
+        "nomor_pb_umku": "912021722076900010001",
+        "nama": "KLIKPROSPERA.COM",
+        "website": "prosperaasset.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PROSPERA ASSET MANAGEMENT",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003541.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5134",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4989",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5134"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5133",
+      "attributes": {
+        "nomor_pb_umku": "060722005591500000001",
+        "nama": "PT. TIM LEGAL CORP",
+        "website": "jasakulegalitas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TIM LEGAL CORP",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003800.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5133",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4996",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5133"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5132",
+      "attributes": {
+        "nomor_pb_umku": "241121003699600020001",
+        "nama": "QUINTAL",
+        "website": "quintal.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT QUINTAL EDUTAMA SOLUSINDO",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003768.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5132",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4961",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5132"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5131",
+      "attributes": {
+        "nomor_pb_umku": "812010379286800000002",
+        "nama": "MINISO APPLICATION",
+        "website": "miniso.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT Miniso Internasional Compani",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003798.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5131",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4995",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5131"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5130",
+      "attributes": {
+        "nomor_pb_umku": "812001227073100000003",
+        "nama": "V BOT DIGITAL BY PT OMEGA KREASI BERSAMA",
+        "website": "vbotdigital.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OMEGA KREASI BERSAMA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003671.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5130",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4994",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5130"
+      }
+    }
+  ]
+}

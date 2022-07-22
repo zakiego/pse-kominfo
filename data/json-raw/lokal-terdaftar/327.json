@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 327,
+      "from": 3261,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3270,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=328",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=326"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5220",
+      "attributes": {
+        "nomor_pb_umku": "912030970011100040003",
+        "nama": "MEGAXUS.COM",
+        "website": "megaxus.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGAXUS INFOTECH",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003875.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5220",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5089",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5220"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5219",
+      "attributes": {
+        "nomor_pb_umku": "912030970011100040002",
+        "nama": "MEGAXUS INFOTECH",
+        "website": "megaxus.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGAXUS INFOTECH",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003875.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5219",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5090",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5219"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5218",
+      "attributes": {
+        "nomor_pb_umku": "211221001451400010001",
+        "nama": "PT MAXS DIGITAL TEKNOLOGI",
+        "website": "maxspos.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAXS DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003799.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5218",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5088",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5218"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5217",
+      "attributes": {
+        "nomor_pb_umku": "912030970011100040001",
+        "nama": "DUNIAPP.COM (WEBSITE/PLATFORM UNTUK KONTEN DIGITAL, APLIKASI MOBILE GAME)",
+        "website": "duniapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGAXUS INFOTECH",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003875.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5217",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5087",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5217"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5216",
+      "attributes": {
+        "nomor_pb_umku": "080722000906200000003",
+        "nama": "STARINDO.SANTOSO (SHOPEE)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RATNAWATI",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003876.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5216",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5086",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5216"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5215",
+      "attributes": {
+        "nomor_pb_umku": "912020954230500010003",
+        "nama": "MLELANG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAYBANK INDONESIA FINANCE",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003479.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5215",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5084",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5215"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5214",
+      "attributes": {
+        "nomor_pb_umku": "080722000906200000002",
+        "nama": "STARINDO SANTOSO (TOKOPEDIA)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RATNAWATI",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003876.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5214",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5085",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5214"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5213",
+      "attributes": {
+        "nomor_pb_umku": "812021810231600000002",
+        "nama": "PT. XDC INDONESIA",
+        "website": "paradisestore.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XDC INDONESIA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003824.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5213",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5082",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5213"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5212",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "STARINDO_SAN (LAZADA)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RATNAWATI",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003876.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5212",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5083",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5212"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5211",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600140001",
+        "nama": "CUSTOMER PORTFOLIO MANAGEMENT (CPM)",
+        "website": "cpm.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "000863.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5211",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5081",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5211"
+      }
+    }
+  ]
+}

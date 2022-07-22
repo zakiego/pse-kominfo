@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 42,
+      "from": 411,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 420,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=43",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=41"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8264",
+      "attributes": {
+        "nomor_pb_umku": "022010576340700000001",
+        "nama": "PROFESI.IO",
+        "website": "profesi.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SRW ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003696.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8264",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8181",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8264"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8263",
+      "attributes": {
+        "nomor_pb_umku": "022201005088500060001",
+        "nama": "ANDALAN DOMPET PUTERA INDONESIA",
+        "website": "adope.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDALAN DOMPET PUTERA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000521.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8263",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8180",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8263"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8256",
+      "attributes": {
+        "nomor_pb_umku": "912021807101900010003",
+        "nama": "BANK SULTENG PAYROLL DAN KAS NON TUNAI",
+        "website": "banksulteng.emobile.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005711.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8256",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8172",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8256"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8255",
+      "attributes": {
+        "nomor_pb_umku": "241121001786100020001",
+        "nama": "BMS PULSA",
+        "website": "bmspulsa.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BERKAH MULTISARANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005350.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8255",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8136",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8255"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8254",
+      "attributes": {
+        "nomor_pb_umku": "912040888199100010001",
+        "nama": "IS MESSENGER",
+        "website": "is-messenger.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA APLIKASI DIGITAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005671.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8254",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8167",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8254"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8249",
+      "attributes": {
+        "nomor_pb_umku": "021101018045700000002",
+        "nama": "STOVIA",
+        "website": "stovia.co",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PAKAR ALGORITMA ANDALAN SEMUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005621.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8249",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8168",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8249"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8248",
+      "attributes": {
+        "nomor_pb_umku": "200722007407800000001",
+        "nama": "PAMERBIO",
+        "website": "pamer.bio",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUQIET EFADLINUR BAKTIMY",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005792.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8248",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8166",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8248"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8241",
+      "attributes": {
+        "nomor_pb_umku": "128000053266100220002",
+        "nama": "KIRAMAS JAYA PERKASA",
+        "website": "kiramasjayaperkasa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIRAMAS JAYA PERKASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005800.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8241",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8156",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8241"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8237",
+      "attributes": {
+        "nomor_pb_umku": "812021816232400030010",
+        "nama": "BANKING PAYMENT GATEWAY",
+        "website": "ipg.cimbniaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000222.24/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8237",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8154",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8237"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8233",
+      "attributes": {
+        "nomor_pb_umku": "027801005218200020002",
+        "nama": "QAZWA FINTECH P2P LENDING SYARIAH",
+        "website": "qazwa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT QAZWA MITRA HASANAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004018.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8233",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8149",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8233"
+      }
+    }
+  ]
+}

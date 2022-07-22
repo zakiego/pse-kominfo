@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 108,
+      "from": 1071,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1080,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=109",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=107"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7548",
+      "attributes": {
+        "nomor_pb_umku": "190722008293400000001",
+        "nama": "HIDOK DAN MYHOSPITAL",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTERSOLUSI CIPTA SOFTINDO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005263.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7548",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7131",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7548"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7547",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BANKING SMART SISTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUKIT TANJUNG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004986.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7547",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7442",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7547"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7546",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160014",
+        "nama": "CONTRIBUTION MARGIN (CM)",
+        "website": "cm.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.28/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7546",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7444",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7546"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7545",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230001",
+        "nama": "ACA-MOBILE.COM",
+        "website": "aca-mobile.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7545",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7369",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7545"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7544",
+      "attributes": {
+        "nomor_pb_umku": "200722000965100000002",
+        "nama": "PUTRA VOUCHER",
+        "website": "putravoucher.wlabel.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PUTRA SELULER MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005318.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7544",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7439",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7544"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7542",
+      "attributes": {
+        "nomor_pb_umku": "022020332138300010001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT MERTHA SEDANA",
+        "website": "bprmerthasedana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MERTHA SEDANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004983.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7542",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6903",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7542"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7541",
+      "attributes": {
+        "nomor_pb_umku": "912011803156500010001",
+        "nama": "WEBSITE",
+        "website": "bankbkc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR KABUPATEN CIREBON",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005555.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7541",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7434",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7541"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7540",
+      "attributes": {
+        "nomor_pb_umku": "022060795051500010001",
+        "nama": "SISTIM ARB",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DIFOBUTAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005416.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7540",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7438",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7540"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7539",
+      "attributes": {
+        "nomor_pb_umku": "110122004905900020003",
+        "nama": "APS - AIRPORT PREMIUM SERVICES",
+        "website": "apsolusi.com",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANGKASA PRIMA SOLUSI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005204.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7539",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7297",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7539"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7538",
+      "attributes": {
+        "nomor_pb_umku": "912020577232100010001",
+        "nama": "INSTAGRAM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MERTOYUDAN MAKMUR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004841.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7538",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7435",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7538"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 290,
+      "from": 2891,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2900,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=291",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=289"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5627",
+      "attributes": {
+        "nomor_pb_umku": "022020131076800030001",
+        "nama": "INVESTASIKU",
+        "website": "investasiku.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA CAPITAL SEKURITAS",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004209.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5627",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5490",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5627"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5626",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620030",
+        "nama": "SITUS BCA SOLITAIRE & PRIORITAS 2",
+        "website": "prioritas.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001669.32/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5626",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5489",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5626"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5625",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620029",
+        "nama": "SITUS BCA SOLITAIRE & PRIORITAS 1",
+        "website": "prioritas.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001669.31/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5625",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5488",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5625"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5624",
+      "attributes": {
+        "nomor_pb_umku": "912030059083100010001",
+        "nama": "INTEGRATED MICROBANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ANTAR RUMEKSA ARTA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004208.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5624",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5487",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5624"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5623",
+      "attributes": {
+        "nomor_pb_umku": "812010182251800040013",
+        "nama": "SIMPLYBLOX WEBSITE",
+        "website": "simplyblox.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUTA ABADIPRIMANTARA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003602.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5623",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5484",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5623"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5622",
+      "attributes": {
+        "nomor_pb_umku": "131221002999900010001",
+        "nama": "PT.BPR LPN TALAWI SAKATO",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LUMBUNG PITIH NAGARI TALAWI SAKATO",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004184.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5622",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5485",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5622"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5619",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEB PORTAL MCF",
+        "website": "mcf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA CENTRAL FINANCE",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004187.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5619",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5486",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5619"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5615",
+      "attributes": {
+        "nomor_pb_umku": "010322003512300010001",
+        "nama": "WWW.SMARTTEAM.ID",
+        "website": "smartteam.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRYA SMART MANDIRI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004210.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5615",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5483",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5615"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5614",
+      "attributes": {
+        "nomor_pb_umku": "070722001472900040001",
+        "nama": "SIAKU",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SIAKU HARAPAN BERSAMA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004206.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5614",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5482",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5614"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5613",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620028",
+        "nama": "SITUS EXPO",
+        "website": "expo.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001669.30/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5613",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5481",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5613"
+      }
+    }
+  ]
+}

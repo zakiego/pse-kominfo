@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 400,
+      "from": 3991,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4000,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=401",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=399"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4509",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Lubna Cell Express",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV RULLY MULYADI",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002726.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4509",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4493",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4509"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4508",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NEFAGOS HOME INDUSTRI",
+        "website": "-",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Kesehatan, Sektor Keuangan, Sektor Pangan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV FERIWANSYAH",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002725.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4508",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4492",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4508"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4507",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Medikademia.id",
+        "website": "https://www.medikademia.id/",
+        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EKA DIGITAL TRIDAYA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002727.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4507",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4491",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4507"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4461",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Hadeka Multisolution",
+        "website": "hdk-solution.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HADEKA MULTISOLUTION",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002700.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4461",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4445",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4461"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4366",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRI Digital Saving",
+        "website": "Bukarekening.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002468.09/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4366",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4352",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4366"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4365",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Internet Banking Bisnis (iBBIZ)",
+        "website": "https://biz.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002468.08/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4365",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4351",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4365"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4506",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SISFO Manajemen Sekolah Digitalku - MsD",
+        "website": "intismacindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTISMAC INDONESIA GROUP",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002724.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4506",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4490",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4506"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4505",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SISFO Manajemen Sekolah Digitalku - (MsD)",
+        "website": "intismacindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTISMAC INDONESIA GROUP",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002724.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4505",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4489",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4505"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4504",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMK   TOP UP & PAYMENT",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002722.06/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4504",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4488",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4504"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4503",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMK  BOOK STORE",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-05-19",
+        "tanggal_terbit": "2022-05-19",
+        "nomor_tanda_daftar": "002722.05/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4503",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4487",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4503"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 330,
+      "from": 3291,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3300,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=331",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=329"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5190",
+      "attributes": {
+        "nomor_pb_umku": "912000880203100020001",
+        "nama": "NEUROVI MEDICAL SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TAMADUN TEKNOLOGI INTERNASIONAL",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003845.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5190",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5051",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5190"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5189",
+      "attributes": {
+        "nomor_pb_umku": "912010411014800000001",
+        "nama": "MUSLIMPERGI",
+        "website": "muslimpergi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MUSLIMINA INDO PERSADA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003835.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5189",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5052",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5189"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5188",
+      "attributes": {
+        "nomor_pb_umku": "812010484269600000003",
+        "nama": "ELEVENIA MART (EMART)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL PLANET",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "000010.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5188",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5057",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5188"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5187",
+      "attributes": {
+        "nomor_pb_umku": "912000938121400010002",
+        "nama": "ROCKET POCKET",
+        "website": "rocketpocket.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MIDAZPAY DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "001714.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5187",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5056",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5187"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5186",
+      "attributes": {
+        "nomor_pb_umku": "812010484269600000002",
+        "nama": "EPP.ELEVENIA.BIZ",
+        "website": "elevenia.biz",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL PLANET",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "000010.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5186",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5054",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5186"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5185",
+      "attributes": {
+        "nomor_pb_umku": "022010980017700000002",
+        "nama": "AAS1",
+        "website": "aas1.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANILO ADIKARYA SENTOSA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003588.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5185",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5053",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5185"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5184",
+      "attributes": {
+        "nomor_pb_umku": "240921002096300010001",
+        "nama": "TIPTIP.",
+        "website": "Tiptip.tv",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIPTIP NETWORK INDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "002911.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5184",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5043",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5184"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5183",
+      "attributes": {
+        "nomor_pb_umku": "912011408128500020004",
+        "nama": "RELI-HOME",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT USAHA PEMBIAYAAN RELIANCEINDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003429.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5183",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5049",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5183"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5182",
+      "attributes": {
+        "nomor_pb_umku": "912011408128500020003",
+        "nama": "RELIDANA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT USAHA PEMBIAYAAN RELIANCEINDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003429.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5182",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5048",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5182"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5181",
+      "attributes": {
+        "nomor_pb_umku": "912011408128500020002",
+        "nama": "APLIKASI ADMINISTRASI KREDIT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT USAHA PEMBIAYAAN RELIANCEINDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-07",
+        "nomor_tanda_daftar": "003429.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5181",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5047",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5181"
+      }
+    }
+  ]
+}

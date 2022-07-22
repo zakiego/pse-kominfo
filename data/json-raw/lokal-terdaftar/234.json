@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 234,
+      "from": 2331,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2340,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=235",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=233"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6219",
+      "attributes": {
+        "nomor_pb_umku": "029501021229100010001",
+        "nama": "SITUS PT BPR SARI DANANIAGA",
+        "website": "bprsaridananiaga.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SARI DANANIAGA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004549.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6219",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6084",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6219"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6218",
+      "attributes": {
+        "nomor_pb_umku": "912020279118300010004",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-COLLECTION - BPR MODERN EXPRESS SULAWESI SELATAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS SULAWESI SELATAN",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004591.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6218",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6083",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6218"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6217",
+      "attributes": {
+        "nomor_pb_umku": "122000247281600010001",
+        "nama": "WEBSITE ARTARINDO",
+        "website": "artarindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI ARTARINDO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004573.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6217",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6081",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6217"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6216",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000008",
+        "nama": "FLEXCODESDK.COM",
+        "website": "flexcodesdk.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003983.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6216",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6073",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6216"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6215",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "IBS USSI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SARI WERDHI SEDANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004577.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6215",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6078",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6215"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6214",
+      "attributes": {
+        "nomor_pb_umku": "122500444292300020006",
+        "nama": "AGEN MAILAKU BPD BALI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH BALI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004518.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6214",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6075",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6214"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6213",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801190049",
+        "nama": "COMMODITY CHAIN (PADICHAIN)",
+        "website": "padichain.id",
+        "sektor": "Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "002468.45/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6213",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6077",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6213"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6211",
+      "attributes": {
+        "nomor_pb_umku": "912000614262100020001",
+        "nama": "ICBS",
+        "website": "kbij.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREDIT BIRO INDONESIA JAYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004133.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6211",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6076",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6211"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6210",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "QAZWA.ID",
+        "website": "Qazwa.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT QAZWA MITRA HASANAH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004018.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6210",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6074",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6210"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6209",
+      "attributes": {
+        "nomor_pb_umku": "912020676043100020001",
+        "nama": "BACKOFFICE S21",
+        "website": "intifikasa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI FIKASA SEKURITAS",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004565.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6209",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6069",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6209"
+      }
+    }
+  ]
+}

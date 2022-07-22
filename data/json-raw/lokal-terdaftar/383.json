@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 383,
+      "from": 3821,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3830,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=384",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=382"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4326",
+      "attributes": {
+        "nomor_pb_umku": "121121000833600010001",
+        "nama": "PLATFORM JUAL BELI ASET DIGITAL KRIPTO",
+        "website": "nvxchange.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASET KRIPTO INTERNASIONAL",
+        "tanggal_daftar": "2022-06-10",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "002930.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4326",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4313",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4326"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4325",
+      "attributes": {
+        "nomor_pb_umku": "022010822221600000003",
+        "nama": "INMOBI EXCHANGE",
+        "website": "exchange.inmobi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INMOBI INDONESIA TECHNOLOGIES",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "002868.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4325",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4276",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4325"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4324",
+      "attributes": {
+        "nomor_pb_umku": "812011321073600330019",
+        "nama": "PELNI PASSENGERS SERVICE SYSTEM",
+        "website": "ticket.pelni.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. PELAYARAN NASIONAL INDONESIA",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "002766.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4324",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4191",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4324"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4319",
+      "attributes": {
+        "nomor_pb_umku": "912030533163400010001",
+        "nama": "TRIPPER",
+        "website": "tripper.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUA SURYA DINAMIKA",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "002883.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4319",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4306",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4319"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4318",
+      "attributes": {
+        "nomor_pb_umku": "912050089380600020002",
+        "nama": "FULUSME.ID",
+        "website": "fulusme.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FINTEK ANDALAN SOLUSI TEKNOLOGI",
+        "tanggal_daftar": "2022-06-10",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "000113.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4318",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4311",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4318"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4317",
+      "attributes": {
+        "nomor_pb_umku": "812031112185100020001",
+        "nama": "ANNORA JAYA ABADI",
+        "website": "indonesiavisaservice.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANNORA JAYA ABADI",
+        "tanggal_daftar": "2022-06-10",
+        "tanggal_terbit": "2022-06-10",
+        "nomor_tanda_daftar": "000324.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4317",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4310",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4317"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4316",
+      "attributes": {
+        "nomor_pb_umku": "022020510300800160002",
+        "nama": "JETHOSTING",
+        "website": "jethosting.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CELEBES CIPTA KARYA",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000333.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4316",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4309",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4316"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4315",
+      "attributes": {
+        "nomor_pb_umku": "081021001412400010001",
+        "nama": "DUITCROWD",
+        "website": "duitcrowd.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT URUN DANA MAJU NUSANTARA",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000264.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4315",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4308",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4315"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4313",
+      "attributes": {
+        "nomor_pb_umku": "125300042264600020001",
+        "nama": "YUKBID",
+        "website": "yukbid.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GOLDEN GLOBAL TEKNOLOGI",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000289.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4313",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4307",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4313"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4312",
+      "attributes": {
+        "nomor_pb_umku": "022030113270500000001",
+        "nama": "HELLO NONA CO.",
+        "website": "hellonona.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "CHITRA KRISNA SEPTYANI",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "002206.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4312",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4305",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4312"
+      }
+    }
+  ]
+}

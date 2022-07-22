@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 163,
+      "from": 1621,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1630,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=164",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=162"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6989",
+      "attributes": {
+        "nomor_pb_umku": "912040781276800010001",
+        "nama": "BPR TALABUMI SUNGGAL",
+        "website": "bprtalabumisunggal.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TALABUMI SUNGGAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004968.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6989",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6848",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6989"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6988",
+      "attributes": {
+        "nomor_pb_umku": "812031313249500010001",
+        "nama": "NETVISIMEDIA",
+        "website": "netvisimedia.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NET VISI MEDIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005099.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6988",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6846",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6988"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6987",
+      "attributes": {
+        "nomor_pb_umku": "912010980155200010001",
+        "nama": "WEBSITE BPR UKABIMA GRAZIA",
+        "website": "bprgrazia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT UKABIMA GRAZIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005029.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6987",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6845",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6987"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6986",
+      "attributes": {
+        "nomor_pb_umku": "912000813209300000001",
+        "nama": "SHALATKU",
+        "website": "kodelokus.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KODELOKUS SOAREKA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005080.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6986",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6843",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6986"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6985",
+      "attributes": {
+        "nomor_pb_umku": "912050770118200010001",
+        "nama": "PT BPR NIJI",
+        "website": "bprniji.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PT Bank Perkreditan Rakyat Niji",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005094.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6985",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6842",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6985"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6984",
+      "attributes": {
+        "nomor_pb_umku": "812001303166800780007",
+        "nama": "MUAMALAT DIGITAL INTEGRATED ACCESS (MADINA)",
+        "website": "bankmuamalat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MUAMALAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002012.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6984",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6819",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6984"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6983",
+      "attributes": {
+        "nomor_pb_umku": "190722006012700000001",
+        "nama": "DATENSHI",
+        "website": "datenshi.pw",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "I MADE OCY DARMA PUTRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005109.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6983",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6838",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6983"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6982",
+      "attributes": {
+        "nomor_pb_umku": "022030475238400000001",
+        "nama": "SAKKEN CARE",
+        "website": "sakkencare.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV SAKKEN GROUP",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005105.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6982",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6837",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6982"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6981",
+      "attributes": {
+        "nomor_pb_umku": "812011728199100010001",
+        "nama": "PT BPR ARTAMULYA BUMIMUKTI",
+        "website": "bprartamulya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTAMULYA BUMIMUKTI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005044.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6981",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6834",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6981"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6980",
+      "attributes": {
+        "nomor_pb_umku": "021801200243700000001",
+        "nama": "PANNER SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RAFELINO CLAUDIUS KELEN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004840.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6980",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6835",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6980"
+      }
+    }
+  ]
+}

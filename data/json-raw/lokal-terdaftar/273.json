@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 273,
+      "from": 2721,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2730,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=274",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=272"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5801",
+      "attributes": {
+        "nomor_pb_umku": "912020375052400010001",
+        "nama": "WEBSITE PT SEQUIS ASET MANAJEMEN",
+        "website": "sequisam.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEQUIS ASET MANAJEMEN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004326.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5801",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5663",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5801"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5800",
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010004",
+        "nama": "NEOBIZ",
+        "website": "neobiz.nobubank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004124.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5800",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5662",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5800"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5799",
+      "attributes": {
+        "nomor_pb_umku": "022000678310600010001",
+        "nama": "INVOILA",
+        "website": "invoila.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOL MITRA FINTEC",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004315.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5799",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5661",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5799"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5798",
+      "attributes": {
+        "nomor_pb_umku": "812021927148600010004",
+        "nama": "MOBILE COLLECTION SYSTEM (MCS)",
+        "website": "mcs.kreditplus.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KB FINANSIA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000132.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5798",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5660",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5798"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5797",
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030003",
+        "nama": "MOTION SURE WEB APPLICATION",
+        "website": "motion-sure.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000158.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5797",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5657",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5797"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5796",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040021",
+        "nama": "BJB GIFT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003382.23/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5796",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5659",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5796"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5795",
+      "attributes": {
+        "nomor_pb_umku": "912000770128500080001",
+        "nama": "BPR GENTENG",
+        "website": "bprgenteng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT GENTENG",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004322.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5795",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5658",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5795"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5794",
+      "attributes": {
+        "nomor_pb_umku": "812020280021300010003",
+        "nama": "BOOYAH LIVE",
+        "website": "booyah.live",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "002712.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5794",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5655",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5794"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5793",
+      "attributes": {
+        "nomor_pb_umku": "912010123248100020001",
+        "nama": "WIDYA ROBOTICS",
+        "website": "widya.ai",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WIDYA INOVASI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004279.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5793",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5653",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5793"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5792",
+      "attributes": {
+        "nomor_pb_umku": "912020645048200010001",
+        "nama": "WIDYA IMERSIF",
+        "website": "widyaimersif.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WIDYA IMERSIF TEKNOLOGI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004295.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5792",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5650",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5792"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 341,
+      "from": 3401,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3410,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=342",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=340"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5071",
+      "attributes": {
+        "nomor_pb_umku": "912020621018900040004",
+        "nama": "TRUST FINANCE INDONESIA 4",
+        "website": "trustfinanceindonesia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRUST FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003712.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5071",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4937",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5071"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5070",
+      "attributes": {
+        "nomor_pb_umku": "912020621018900040003",
+        "nama": "TRUST FINANCE INDONESIA 3",
+        "website": "trustfinanceindonesia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRUST FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003712.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5070",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4936",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5070"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5069",
+      "attributes": {
+        "nomor_pb_umku": "912020621018900040002",
+        "nama": "TRUST FINANCE INDONESIA 2",
+        "website": "trustfinanceindonesia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRUST FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "tanggal_terbit": "2022-07-05",
+        "nomor_tanda_daftar": "003712.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5069",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4935",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5069"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5068",
+      "attributes": {
+        "nomor_pb_umku": "022020663274200190001",
+        "nama": "SAKTIPOINT",
+        "website": "indo-sakti.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDOSAKTI CAKRAWALA NUSANTARA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003734.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5068",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4934",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5068"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5067",
+      "attributes": {
+        "nomor_pb_umku": "812011028280100010002",
+        "nama": "WEBSITE CHINALIFE INSURANCE INDONESIA",
+        "website": "chinalife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CHINA LIFE INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003632.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5067",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4922",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5067"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5066",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900030003",
+        "nama": "SPEEDCASH",
+        "website": "speedcash.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "002933.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5066",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4933",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5066"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5065",
+      "attributes": {
+        "nomor_pb_umku": "030122003621400000001",
+        "nama": "PHARMAPP",
+        "website": "pharmapp.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV KUSUMA ARTHAJAYA DIGITAL",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003713.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5065",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4932",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5065"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5064",
+      "attributes": {
+        "nomor_pb_umku": "022000222029500030001",
+        "nama": "XFERS STRAITSX INDONESIA",
+        "website": "straitsx.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XFERS STRAITSX INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "001448.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5064",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4626",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5064"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5063",
+      "attributes": {
+        "nomor_pb_umku": "200222000003200020003",
+        "nama": "AMK HOSTING",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "002722.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5063",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4931",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5063"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5062",
+      "attributes": {
+        "nomor_pb_umku": "912020621018900040001",
+        "nama": "TRUST FINANCE INDONESIA",
+        "website": "trustfinanceindonesia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRUST FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003712.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5062",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4930",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5062"
+      }
+    }
+  ]
+}

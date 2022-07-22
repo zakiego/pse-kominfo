@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 309,
+      "from": 3081,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3090,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=310",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=308"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5413",
+      "attributes": {
+        "nomor_pb_umku": "812001104192600050001",
+        "nama": "HTTPS://CEKINDOBUSINESSCENTER.COM/",
+        "website": "cekindobusinesscenter.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CEKINDO BUSINESS INTERNATIONAL",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004058.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5413",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5286",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5413"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5412",
+      "attributes": {
+        "nomor_pb_umku": "912000749085600020006",
+        "nama": "ADIRAKU",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIRA DINAMIKA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003745.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5412",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5285",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5412"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5411",
+      "attributes": {
+        "nomor_pb_umku": "912000448196500010012",
+        "nama": "DISTRIBUTOR TRADE CENTER",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001807.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5411",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5284",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5411"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5410",
+      "attributes": {
+        "nomor_pb_umku": "912000448196500010012",
+        "nama": "TRADE IN MHI",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001807.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5410",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5283",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5410"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5409",
+      "attributes": {
+        "nomor_pb_umku": "912000448196500010011",
+        "nama": "TUKAR TAMBAH LITE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001807.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5409",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5282",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5409"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5408",
+      "attributes": {
+        "nomor_pb_umku": "120722003096900000001",
+        "nama": "APLIKASIR",
+        "website": "aplikasir.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKASI NIAGA INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004026.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5408",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5281",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5408"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5407",
+      "attributes": {
+        "nomor_pb_umku": "812020096205300000002",
+        "nama": "FLIGHT INFORMATION DISPLAY SYSTEM",
+        "website": "notifbox.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV NERS INTI PERSADA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004037.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5407",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5280",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5407"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5406",
+      "attributes": {
+        "nomor_pb_umku": "022010015059900010001",
+        "nama": "KREDITO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FINTEK DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003998.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5406",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5278",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5406"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5405",
+      "attributes": {
+        "nomor_pb_umku": "120722005076900000001",
+        "nama": "CANDY LIVE",
+        "website": "candylive.xyz",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRILLIANT FUTURE TECHNOLOGY",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004053.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5405",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5277",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5405"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5404",
+      "attributes": {
+        "nomor_pb_umku": "812020096205300000001",
+        "nama": "FIDS & AAS",
+        "website": "notifbox.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV NERS INTI PERSADA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004037.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5404",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5276",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5404"
+      }
+    }
+  ]
+}

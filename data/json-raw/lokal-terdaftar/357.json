@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 357,
+      "from": 3561,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3570,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=358",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=356"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4906",
+      "attributes": {
+        "nomor_pb_umku": "022000874098100010002",
+        "nama": "SYARIAH BUKOPIN CASH MANAGEMNET (SBCM)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN SYARIAH",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003490.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4906",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4774",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4906"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4905",
+      "attributes": {
+        "nomor_pb_umku": "912000927044600040009",
+        "nama": "OGAWA.ID",
+        "website": "ogawa.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUTA ABADI PERDANA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003171.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4905",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4775",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4905"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4904",
+      "attributes": {
+        "nomor_pb_umku": "912030841052300010001",
+        "nama": "INTERNET BANKING CCB INDONESIA",
+        "website": "IB.BANKCCBI.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CHINA CONSTRUCTION BANK INDONESIA TBK",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003505.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4904",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4751",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4904"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4903",
+      "attributes": {
+        "nomor_pb_umku": "912030841052300010006",
+        "nama": "WEBSITE CCB INDONESIA",
+        "website": "IDN.CCB.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CHINA CONSTRUCTION BANK INDONESIA TBK",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003505.06/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4903",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4773",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4903"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4902",
+      "attributes": {
+        "nomor_pb_umku": "912030841052300010005",
+        "nama": "CCB PARTNERS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CHINA CONSTRUCTION BANK INDONESIA TBK",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003505.05/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4902",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4772",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4902"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4901",
+      "attributes": {
+        "nomor_pb_umku": "280622006280400000001",
+        "nama": "SPEKTA STUDIO",
+        "website": "spekta.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "YULIANTO DWI SAPUTRO",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003528.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4901",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4771",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4901"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4900",
+      "attributes": {
+        "nomor_pb_umku": "812021620132500070001",
+        "nama": "WWW.OTO.CO.ID",
+        "website": "oto.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OTO MULTIARTHA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003420.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4900",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4770",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4900"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4899",
+      "attributes": {
+        "nomor_pb_umku": "912030841052300010004",
+        "nama": "EMAIL PORTAL CCB INDONESIA",
+        "website": "webmail.bankccbi.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CHINA CONSTRUCTION BANK INDONESIA TBK",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003505.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4899",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4767",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4899"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4898",
+      "attributes": {
+        "nomor_pb_umku": "812011803147400000001",
+        "nama": "NIMBLY TECH",
+        "website": "hellonimbly.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANALISALES DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003485.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4898",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4769",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4898"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4897",
+      "attributes": {
+        "nomor_pb_umku": "912030786126600010001",
+        "nama": "JTO HOMEPAGE",
+        "website": "jto.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JTRUST OLYMPINDO MULTI FINANCE",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003510.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4897",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4768",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4897"
+      }
+    }
+  ]
+}

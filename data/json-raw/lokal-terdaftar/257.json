@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 257,
+      "from": 2561,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2570,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=258",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=256"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5971",
+      "attributes": {
+        "nomor_pb_umku": "812001513039100010003",
+        "nama": "CASH MANAGEMENT SYSTEM",
+        "website": "apps.paninbanksyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PANIN DUBAI SYARIAH",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004413.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5971",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5825",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5971"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5970",
+      "attributes": {
+        "nomor_pb_umku": "201021001192300010001",
+        "nama": "BRAFO",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WADAH INOVASI NEUROSAINS",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004427.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5970",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5832",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5970"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5969",
+      "attributes": {
+        "nomor_pb_umku": "812011611041300000001",
+        "nama": "SIMPOOL",
+        "website": "myapp.simpool.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IKKAT INOVASI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004373.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5969",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5791",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5969"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5968",
+      "attributes": {
+        "nomor_pb_umku": "124500064170700000001",
+        "nama": "ATURKULINER",
+        "website": "aturkuliner.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI BERDAYAKAN BANGSA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "003880.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5968",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5830",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5968"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5967",
+      "attributes": {
+        "nomor_pb_umku": "220422003826800000002",
+        "nama": "APLIKASI KIOSIN",
+        "website": "kiosindonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIOS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004236.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5967",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5829",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5967"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5966",
+      "attributes": {
+        "nomor_pb_umku": "121900056068600000003",
+        "nama": "APLIKASI FKIOS",
+        "website": "fkios.io",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PALUGADA SUMBER SUKSES",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004228.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5966",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5827",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5966"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5965",
+      "attributes": {
+        "nomor_pb_umku": "160722001886200000001",
+        "nama": "BUKAOLSHOP",
+        "website": "bukaolshop.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BAGUS ANJARI SUWITO",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004425.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5965",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5826",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5965"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5964",
+      "attributes": {
+        "nomor_pb_umku": "190921000152700000002",
+        "nama": "DIGITAL INVITATIONS INDONESIA",
+        "website": "digitalinvitations.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RAHMAT RAMADHAN PUTRA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004423.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5964",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5824",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5964"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5963",
+      "attributes": {
+        "nomor_pb_umku": "190921000152700000001",
+        "nama": "SISDA.ID",
+        "website": "sisda.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RAHMAT RAMADHAN PUTRA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004423.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5963",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5823",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5963"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5962",
+      "attributes": {
+        "nomor_pb_umku": "029401015047100010001",
+        "nama": "FP MOBILE TOPUP",
+        "website": "familypulsa.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV SERVER NUSANTARA SOLUSINDO",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004249.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5962",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5822",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5962"
+      }
+    }
+  ]
+}

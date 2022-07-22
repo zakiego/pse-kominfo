@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 64,
+      "from": 631,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 640,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=65",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=63"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7991",
+      "attributes": {
+        "nomor_pb_umku": "812001203066600010001",
+        "nama": "TRIPPLE HOKI",
+        "website": "3plehoki.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMAN DEVLOOP INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005377.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7991",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7733",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7991"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7990",
+      "attributes": {
+        "nomor_pb_umku": "110522001763500000001",
+        "nama": "BANK PERKREDITAN RAKYAT DANA NIAGA 1",
+        "website": "bprdananiaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA NIAGA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005629.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7990",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7910",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7990"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7989",
+      "attributes": {
+        "nomor_pb_umku": "126600141156100030001",
+        "nama": "EXADATA DIGITAL",
+        "website": "exadata.digital",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV EXADATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005298.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7989",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7907",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7989"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7988",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160022",
+        "nama": "GO UMKM BY BSI",
+        "website": "go-umkm.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.37/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7988",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7906",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7988"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7987",
+      "attributes": {
+        "nomor_pb_umku": "200722000250400000001",
+        "nama": "INNOV.ID",
+        "website": "innov.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BARA INOVASI SEMESTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005486.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7987",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7904",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7987"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7986",
+      "attributes": {
+        "nomor_pb_umku": "190722007520300000001",
+        "nama": "PT BPR BAHTERA MASYARAKAT JABAR",
+        "website": "bankbahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BAHTERA MASYARAKAT JABAR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005374.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7986",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7903",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7986"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7985",
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010003",
+        "nama": "FINA SHOWROOM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BCA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000037.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7985",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7900",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7985"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7984",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230009",
+        "nama": "ACA-EPOLIS",
+        "website": "aca-epolis.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7984",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7902",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7984"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7983",
+      "attributes": {
+        "nomor_pb_umku": "812010791224500050190",
+        "nama": "MOBILE APP INFORMA",
+        "website": "informa.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOME CENTER INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002939.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7983",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7901",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7983"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7982",
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000006",
+        "nama": "MVICALL APPS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI BESTAMA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004632.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7982",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7896",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7982"
+      }
+    }
+  ]
+}

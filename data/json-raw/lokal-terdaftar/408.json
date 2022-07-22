@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 408,
+      "from": 4071,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4080,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=409",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=407"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4352",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Artificial Intelligence",
+        "website": "tel-access.biz",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELEAKSES SOLUSINDO",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "001621.04/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4352",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4338",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4352"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4137",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KENGOLD",
+        "website": "kengold.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KANARA EMAS NUSANTARA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002683.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4137",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4440",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4137"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4586",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BITRAS",
+        "website": "bitras.com",
+        "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BITRAS",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002673.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4586",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4549",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4586"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4441",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "natindocargo.com",
+        "website": "natindocargo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NATINDO SEJAHTERA INDONESIA",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002672.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4441",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4425",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4441"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4440",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "o'sweet singapore",
+        "website": "https://osweetsingapore.com/",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARKATAMA CAKKAVATI INDONESIA",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002671.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4440",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4424",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4440"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4439",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PanenID",
+        "website": "www.panen.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PANEN INDONESIA SEJAHTERA",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002670.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4439",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4423",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4439"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4438",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "lippershop",
+        "website": "lippershop.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDARA BARATA SUKSES",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002669.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4438",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4422",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4438"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4437",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Savesola",
+        "website": "lippershop.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KHARISMA SENTOSA RETAIL",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002668.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4437",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4421",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4437"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4436",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Reflow Indonesia",
+        "website": "reflowindonesia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERJAYA KREASI INDONESIA",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002667.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4436",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4420",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4436"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4435",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Marketplace & Kemitraan Usaha",
+        "website": "www.marketani.com",
+        "sektor": "Sektor Keuangan, Sektor Pangan, Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PASAR TANI INDONESIA",
+        "tanggal_daftar": "2022-05-11",
+        "tanggal_terbit": "2022-05-11",
+        "nomor_tanda_daftar": "002666.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4435",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4419",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4435"
+      }
+    }
+  ]
+}

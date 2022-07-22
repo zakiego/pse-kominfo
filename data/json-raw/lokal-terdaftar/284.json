@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 284,
+      "from": 2831,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2840,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=285",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=283"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5687",
+      "attributes": {
+        "nomor_pb_umku": "812010584298900000017",
+        "nama": "NEW TPM",
+        "website": "toyotaprospectmanagement.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TOYOTA-ASTRA MOTOR",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "001276.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5687",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5547",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5687"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5686",
+      "attributes": {
+        "nomor_pb_umku": "912010172269100010001",
+        "nama": "WEBSITE COMPANY PROFILE PT. BANK PERKREDITAN RAKYAT BUANA MANDIRI",
+        "website": "bpr-buanamandiri.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUANA MANDIRI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004251.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5686",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5546",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5686"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5685",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010011",
+        "nama": "TNT DEVELOPMENT BANKSULSELBAR",
+        "website": "tnt-dev.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5685",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5545",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5685"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5684",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010010",
+        "nama": "TNT BANKSULSELBAR",
+        "website": "tnt.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5684",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5544",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5684"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5683",
+      "attributes": {
+        "nomor_pb_umku": "150722000435600000001",
+        "nama": "PULSA GENGGAM",
+        "website": "pulsagenggam.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TIARA MERCUSIANA PRATIWI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004250.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5683",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5543",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5683"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5682",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010009",
+        "nama": "KAMPUS BILLING BANKSULSELBAR",
+        "website": "kampus.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5682",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5542",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5682"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5681",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010008",
+        "nama": "HOSPITAL BILLING  BANKSULSELBAR SYARIAH",
+        "website": "hospital-syariah.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5681",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5541",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5681"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5680",
+      "attributes": {
+        "nomor_pb_umku": "121021005267400010001",
+        "nama": "WEBSITE",
+        "website": "bankprismadana.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PRISMA DANA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004248.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5680",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5540",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5680"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5679",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010007",
+        "nama": "HOSPITAL BILLING BANKSULSELBAR",
+        "website": "hospital.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5679",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5539",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5679"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5678",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010006",
+        "nama": "API DEVELOPMENT BANKSULSELBAR",
+        "website": "apidev.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5678",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5538",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5678"
+      }
+    }
+  ]
+}

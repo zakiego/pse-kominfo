@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 419,
+      "from": 4181,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4190,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=420",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=418"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4014",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "beliumkm.id",
+        "website": "beliumkm.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUMAH UMKM INDONESIA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002607.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4014",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3832",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4014"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4013",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "belaumkm.id",
+        "website": "beliumkm.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUMAH UMKM INDONESIA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002607.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4013",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3831",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4013"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4012",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CV JAYA BERSAMA",
+        "website": "https://cvjayabersama.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV JAYA BERSAMA",
+        "tanggal_daftar": "2022-04-25",
+        "tanggal_terbit": "2022-04-25",
+        "nomor_tanda_daftar": "002606.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4012",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3952",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4012"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6373",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Whatsapp Bussiness",
+        "website": "https://bkharisma.business.site//",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "KURNIA HASIBUAN ARISMA",
+        "tanggal_daftar": "2022-04-24",
+        "tanggal_terbit": "2022-04-24",
+        "nomor_tanda_daftar": "002604.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6373",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3872",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6373"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4011",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "minigram indonesia sejahtera",
+        "website": "minigram.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MINIGRAM INDONESIA SEJAHTERA",
+        "tanggal_daftar": "2022-04-24",
+        "tanggal_terbit": "2022-04-24",
+        "nomor_tanda_daftar": "002605.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4011",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3710",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4011"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4009",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.bhayangkaranews.my.id",
+        "website": "www.bhayangkaranews.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDIA NARASI JARINGAN RAKYAT",
+        "tanggal_daftar": "2022-04-23",
+        "tanggal_terbit": "2022-04-23",
+        "nomor_tanda_daftar": "001736.04/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4009",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3743",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4009"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4008",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AsiaCommerce.id",
+        "website": "asiacommerce.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MATAHARI LABS",
+        "tanggal_daftar": "2022-04-23",
+        "tanggal_terbit": "2022-04-23",
+        "nomor_tanda_daftar": "002603.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4008",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3811",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4008"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4007",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Naldo Studio",
+        "website": "Golanstudio.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RONALDO NAINGGOLAN",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002602.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4007",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3798",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4007"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4006",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KOPI SUSU",
+        "website": "kopisusu.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi PILIHAN SAHABAT SEMUA",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002601.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4006",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3750",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4006"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4005",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AGENBISNIS.COM",
+        "website": "AGENBISNIS.COM",
+        "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "AGEN BISNIS DAN USAHA NASIONAL",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002600.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4005",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3865",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4005"
+      }
+    }
+  ]
+}

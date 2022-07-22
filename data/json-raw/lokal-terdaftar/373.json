@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 373,
+      "from": 3721,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3730,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=374",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=372"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4630",
+      "attributes": {
+        "nomor_pb_umku": "300522005835100040001",
+        "nama": "HOKIGOLD (PREMIUM EXPERT ADVISOR SOFTWARE FOR TRADING)",
+        "website": "pthoki.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HEXA OKE KREATIF INDONESIA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003292.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4630",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4590",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4630"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4629",
+      "attributes": {
+        "nomor_pb_umku": "200622006401700000001",
+        "nama": "TOKO NFT",
+        "website": "tokonft.shop",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TOKO NFT NASIONAL",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003293.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4629",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4589",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4629"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4627",
+      "attributes": {
+        "nomor_pb_umku": "022010727086300010001",
+        "nama": "WISE",
+        "website": "wise.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WISE PAYMENTS INDONESIA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003282.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4627",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4587",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4627"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4626",
+      "attributes": {
+        "nomor_pb_umku": "110522002977400080006",
+        "nama": "REY DE PARFUM",
+        "website": "reydeparfum.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PARFUM INDONESIA RAYA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "002677.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4626",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4588",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4626"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4625",
+      "attributes": {
+        "nomor_pb_umku": "123100068067200000001",
+        "nama": "FARMACARE",
+        "website": "app.farmacare.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JENDELA AKSES SEHAT",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003156.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4625",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4586",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4625"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4624",
+      "attributes": {
+        "nomor_pb_umku": "020921003480600010001",
+        "nama": "KALTENGONLINE",
+        "website": "kaltengonline.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA BERITA NUSANTARA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003281.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4624",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4585",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4624"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4623",
+      "attributes": {
+        "nomor_pb_umku": "090422001649500010002",
+        "nama": "KENALINKED INDONESIA",
+        "website": "kenalinked.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KENALINKED INDONESIA GRUP",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "002572.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4623",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4584",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4623"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4622",
+      "attributes": {
+        "nomor_pb_umku": "190322000454700000001",
+        "nama": "GOWISATA",
+        "website": "gagataplikasiwisata.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GAGAT APLIKASI WISATA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "002790.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4622",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4583",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4622"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4621",
+      "attributes": {
+        "nomor_pb_umku": "812000284249100010005",
+        "nama": "WEBSITE – SFCC PLATFORM",
+        "website": "yslbeauty.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT L`OREAL INDONESIA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "000473.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4621",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4582",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4621"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4620",
+      "attributes": {
+        "nomor_pb_umku": "022010614341800060003",
+        "nama": "TEKNOLOGI KARYA DIGITAL NUSA",
+        "website": "tkdn.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI KARYA DIGITAL NUSA",
+        "tanggal_daftar": "2022-06-20",
+        "tanggal_terbit": "2022-06-20",
+        "nomor_tanda_daftar": "003273.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4620",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4581",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4620"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 40,
+      "from": 391,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 400,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=41",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=39"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8296",
+      "attributes": {
+        "nomor_pb_umku": "140222006592100000001",
+        "nama": "FOKUSUMKM4GO",
+        "website": "fokusumkm4go.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "Yayasan",
+        "nama_perusahaan": "Yayasan FOKUS UMKM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005841.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8296",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8216",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8296"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8295",
+      "attributes": {
+        "nomor_pb_umku": "060422003340800160002",
+        "nama": "PT. SUBARJA SOLUSI PERKASA",
+        "website": "subarja.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SUBARJA SOLUSI PERKASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004071.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8295",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8215",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8295"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8294",
+      "attributes": {
+        "nomor_pb_umku": "912010866182500000003",
+        "nama": "JARI MOBILE COLLECTION (APPS FOR MANDIRI)",
+        "website": "jari.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JARI SOLUSI INTERNATIONAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004691.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8294",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8213",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8294"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8293",
+      "attributes": {
+        "nomor_pb_umku": "912021807101900010004",
+        "nama": "BANK SULTENG WEBSITE",
+        "website": "banksulteng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005711.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8293",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8212",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8293"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8292",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010014",
+        "nama": "DEVELOPMENT NEW MOBILE BANKING ULTIMATE BANK PAPUA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8292",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8210",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8292"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8291",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010013",
+        "nama": "DEVELOPMENT APLIKASI LAKU PANDAI BANK PAPUA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8291",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8208",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8291"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8290",
+      "attributes": {
+        "nomor_pb_umku": "912040585350300010001",
+        "nama": "BETASOFT",
+        "website": "dutakepri.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DUTA KEPULAUAN RIAU",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005534.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8290",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7770",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8290"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8289",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020015",
+        "nama": "THESERENITYCENTRAL",
+        "website": "theserenitycentral.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8289",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8207",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8289"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8288",
+      "attributes": {
+        "nomor_pb_umku": "812000482300500000004",
+        "nama": "MEKARI",
+        "website": "mekari.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MID SOLUSI NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001906.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8288",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8206",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8288"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8287",
+      "attributes": {
+        "nomor_pb_umku": "241121001786100020002",
+        "nama": "BMS GROSIR",
+        "website": "bmsgrosir.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BERKAH MULTISARANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005350.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8287",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8205",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8287"
+      }
+    }
+  ]
+}

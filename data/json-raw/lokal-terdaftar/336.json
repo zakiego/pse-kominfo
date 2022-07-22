@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 336,
+      "from": 3351,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3360,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=337",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=335"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5129",
+      "attributes": {
+        "nomor_pb_umku": "912021327016200400003",
+        "nama": "ECLIS",
+        "website": "client.car.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA CENTRAL ASIA RAYA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "001212.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5129",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4993",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5129"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5128",
+      "attributes": {
+        "nomor_pb_umku": "912000125271700010001",
+        "nama": "INDOFUND.ID",
+        "website": "indofund.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BURSA AKSELERASI INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003794.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5128",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4991",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5128"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5127",
+      "attributes": {
+        "nomor_pb_umku": "812010379286800000001",
+        "nama": "MINISO APP",
+        "website": "miniso.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT Miniso Internasional Compani",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003798.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5127",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4992",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5127"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5126",
+      "attributes": {
+        "nomor_pb_umku": "912021327016200400003",
+        "nama": "EPOS",
+        "website": "eposv3.car.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA CENTRAL ASIA RAYA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "001212.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5126",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4990",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5126"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5125",
+      "attributes": {
+        "nomor_pb_umku": "124200073248100010001",
+        "nama": "KOLEKTIBEL.COM",
+        "website": "kolektibel.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KELOLA ASET DIGITAL",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003747.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5125",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4988",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5125"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5124",
+      "attributes": {
+        "nomor_pb_umku": "912000963110900020002",
+        "nama": "FIS TRADING SERVER",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MACQUARIE SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "000771.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5124",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4987",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5124"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5122",
+      "attributes": {
+        "nomor_pb_umku": "812001227073100000002",
+        "nama": "VBOTDIGITAL",
+        "website": "vbotdigital.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OMEGA KREASI BERSAMA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003671.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5122",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4986",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5122"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5121",
+      "attributes": {
+        "nomor_pb_umku": "912010578023600010001",
+        "nama": "ABSIMASFINANCE.CO.ID",
+        "website": "absimasfinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AB SINAR MAS MULTIFINANCE",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003787.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5121",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4985",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5121"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5120",
+      "attributes": {
+        "nomor_pb_umku": "241121002649900000003",
+        "nama": "MOMOFINGO",
+        "website": "momofingo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA ERA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "001771.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5120",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4982",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5120"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5119",
+      "attributes": {
+        "nomor_pb_umku": "812010682351500020002",
+        "nama": "HTTPS://WWW.UNIPIN.COM/",
+        "website": "unipin.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUA PULUH EMPAT JAM ONLINE",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "001872.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5119",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4981",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5119"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 350,
+      "from": 3491,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3500,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=351",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=349"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4979",
+      "attributes": {
+        "nomor_pb_umku": "090622006805600020001",
+        "nama": "LINGOTALK LEARNING MANAGEMENT SYSTEM",
+        "website": "lingotalk.co",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PENDIDIKAN NUSANTARA DIGITAL",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003598.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4979",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4847",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4979"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4978",
+      "attributes": {
+        "nomor_pb_umku": "128200053024400010001",
+        "nama": "SANFIND",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SURYA ARTHA NUSANTARA FINANCE",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003385.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4978",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4846",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4978"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4977",
+      "attributes": {
+        "nomor_pb_umku": "200921004169200030001",
+        "nama": "DOKTERHUB",
+        "website": "dokterhub.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GERIN MITRA HUSADA",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003594.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4977",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4845",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4977"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4976",
+      "attributes": {
+        "nomor_pb_umku": "023301001274700020009",
+        "nama": "LIFEGOAL",
+        "website": "goal.life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA IFG",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "001739.10/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4976",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4844",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4976"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4975",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020002",
+        "nama": "KB BUKOPIN SMS BANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003560.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4975",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4842",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4975"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4974",
+      "attributes": {
+        "nomor_pb_umku": "023301001274700020008",
+        "nama": "LIFEUP",
+        "website": "up.life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA IFG",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "001739.09/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4974",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4841",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4974"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4973",
+      "attributes": {
+        "nomor_pb_umku": "210322006176700010001",
+        "nama": "TTCHAT",
+        "website": "ttchat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT QUYAN TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003232.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4973",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4830",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4973"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4972",
+      "attributes": {
+        "nomor_pb_umku": "912030111272600010006",
+        "nama": "METALGO",
+        "website": "metalgo.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BULLION ECOSYSTEM INTERNATIONAL",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "000155.08/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4972",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4840",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4972"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4971",
+      "attributes": {
+        "nomor_pb_umku": "240622005099900010001",
+        "nama": "BLIMOBIL",
+        "website": "blimobil.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NAWA CARCIEGE INDONESIA",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003494.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4971",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4839",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4971"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4970",
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010004",
+        "nama": "MYACCESS",
+        "website": "myaccess.brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "002423.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4970",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4838",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4970"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 261,
+      "from": 2601,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2610,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=262",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=260"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5926",
+      "attributes": {
+        "nomor_pb_umku": "912010430046700000001",
+        "nama": "BROKERAGE OFFICE SYSTEM (BOFIS)",
+        "website": "idxsti.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IDX SOLUSI TEKNOLOGI INFORMASI",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004390.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5926",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5785",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5926"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5925",
+      "attributes": {
+        "nomor_pb_umku": "022010229168100010002",
+        "nama": "MARS CLOUD",
+        "website": "marstech.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MARS TECH GLOBAL",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004392.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5925",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5787",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5925"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5924",
+      "attributes": {
+        "nomor_pb_umku": "090622001519300000001",
+        "nama": "APIK EDU",
+        "website": "indonesiakompeten.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "APIK EDU INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004395.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5924",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5786",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5924"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5923",
+      "attributes": {
+        "nomor_pb_umku": "912020572150200030002",
+        "nama": "EDUCOURSE.ID",
+        "website": "educourse.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MALEO EDUKASI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "003805.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5923",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5784",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5923"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5922",
+      "attributes": {
+        "nomor_pb_umku": "912000365258200010001",
+        "nama": "STAIRWAYGAMES.COM",
+        "website": "stairwaygames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BARONG GAJAH SERASI",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004391.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5922",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5783",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5922"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5921",
+      "attributes": {
+        "nomor_pb_umku": "022010229168100000001",
+        "nama": "WEBSITE",
+        "website": "marstech.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MARS TECH GLOBAL",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004392.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5921",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5782",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5921"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5920",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900000005",
+        "nama": "MAKASSARROBOTIKA.COM",
+        "website": "makassarrobotika.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "002941.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5920",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5781",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5920"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5919",
+      "attributes": {
+        "nomor_pb_umku": "230422000437400000001",
+        "nama": "MITRARPAY",
+        "website": "mitrarpay.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD RUDID KHAIDAR",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004378.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5919",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5780",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5919"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5918",
+      "attributes": {
+        "nomor_pb_umku": "022020160159500000001",
+        "nama": "LIMECOMMERCE.COM",
+        "website": "limecommerce.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LIGHTMEDIA INOVASI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004389.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5918",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5779",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5918"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5917",
+      "attributes": {
+        "nomor_pb_umku": "022601105226400010001",
+        "nama": "AGSET PAYMENT",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AGUNG SETIAWAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004383.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5917",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5778",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5917"
+      }
+    }
+  ]
+}

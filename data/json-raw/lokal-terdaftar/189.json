@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 189,
+      "from": 1881,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1890,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=190",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=188"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6721",
+      "attributes": {
+        "nomor_pb_umku": "912020132272800010001",
+        "nama": "COREBANKING SISTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi BANK PERKREDITAN RAKYAT JETIS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004809.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6721",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6569",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6721"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6720",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "DASHBOARD KEMENTERIAN 2 (THRU ACCOUNT)",
+        "website": "dmkl2.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6720",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6552",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6720"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6719",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "BSI SMART",
+        "website": "smartagent.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6719",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6568",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6719"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6718",
+      "attributes": {
+        "nomor_pb_umku": "120900050128500000001",
+        "nama": "SPORTIVA GAMES",
+        "website": "sportivagames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SPORTIVA BAKTI NUSA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004676.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6718",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6166",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6718"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6717",
+      "attributes": {
+        "nomor_pb_umku": "120100049142800010001",
+        "nama": "PT BPR PUSPITA SARI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PUSPITA SARI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004897.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6717",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6562",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6717"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6716",
+      "attributes": {
+        "nomor_pb_umku": "912020454032900000001",
+        "nama": "HIPAJAK",
+        "website": "hipajak.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INVESTA HIPA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003752.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6716",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6567",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6716"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6715",
+      "attributes": {
+        "nomor_pb_umku": "912020662237100000001",
+        "nama": "IBS CORE BANKING SYSTEM",
+        "website": "ussi-software.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT USSI PINBUK PRIMA SOFTWARE",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004837.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6715",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6563",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6715"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6714",
+      "attributes": {
+        "nomor_pb_umku": "812020697207500000003",
+        "nama": "CARASUN: TROPICAL SKIN EXPERT",
+        "website": "carasunbeauty.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOCIOLLA RITEL INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001814.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6714",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6566",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6714"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6713",
+      "attributes": {
+        "nomor_pb_umku": "090422000888200020001",
+        "nama": "USID GATEWAY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH GAIDO INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004855.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6713",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6561",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6713"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6712",
+      "attributes": {
+        "nomor_pb_umku": "180722005898200000001",
+        "nama": "HTTPS://WWW.COGNITIX.ID/",
+        "website": "cognitix.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT COGNITIX TIKET INOVASI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004874.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6712",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6558",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6712"
+      }
+    }
+  ]
+}

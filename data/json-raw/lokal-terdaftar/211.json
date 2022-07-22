@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 211,
+      "from": 2101,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2110,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=212",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=210"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6483",
+      "attributes": {
+        "nomor_pb_umku": "140722007420600000001",
+        "nama": "ARTOMORO ID",
+        "website": "voucher-tv.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HEDI ISWAHYUDI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004746.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6483",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6348",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6483"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6482",
+      "attributes": {
+        "nomor_pb_umku": "022020780074900000001",
+        "nama": "LAPAKSAYUR.ID",
+        "website": "lapaksayur.id",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "WICAKSONO ADI PURNOMO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004752.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6482",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6347",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6482"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6481",
+      "attributes": {
+        "nomor_pb_umku": "180722006770100000001",
+        "nama": "SATUSPEDIA",
+        "website": "satuspedia.jualan.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AGUNG PAMBUDI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004751.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6481",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6346",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6481"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6480",
+      "attributes": {
+        "nomor_pb_umku": "022000117173800010001",
+        "nama": "PROFESI.COM",
+        "website": "Profesi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUDI UTOMO INDUSTRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004422.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6480",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6345",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6480"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6479",
+      "attributes": {
+        "nomor_pb_umku": "022030226161900000001",
+        "nama": "WAKU",
+        "website": "wakuliner.com",
+        "sektor": "Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIGIT REPUBLIK APLIKASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004747.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6479",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6344",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6479"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6478",
+      "attributes": {
+        "nomor_pb_umku": "129500054046400000002",
+        "nama": "CARBON ADDONS",
+        "website": "carbonadoons.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI HIJAU SANGKABIRA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003936.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6478",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6341",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6478"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6477",
+      "attributes": {
+        "nomor_pb_umku": "080722004088900000003",
+        "nama": "GIRLS UNITE COMMUNITY",
+        "website": "girlsunite.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KISAH KARYA KAMI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004730.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6477",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6340",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6477"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6476",
+      "attributes": {
+        "nomor_pb_umku": "812011908120100000002",
+        "nama": "NAGA CYBER DEFENSE WEBSITE",
+        "website": "nagacyberdefense.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PL",
+        "nama_perusahaan": "PL DIAS NAGA ALPHA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004424.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6476",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6339",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6476"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6475",
+      "attributes": {
+        "nomor_pb_umku": "812011908120100000002",
+        "nama": "NAGA CYBERSECURITY",
+        "website": "nagacybersecurity.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PL",
+        "nama_perusahaan": "PL DIAS NAGA ALPHA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004424.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6475",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6338",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6475"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6474",
+      "attributes": {
+        "nomor_pb_umku": "080722004088900000002",
+        "nama": "ART&TALE",
+        "website": "artandtale.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KISAH KARYA KAMI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004730.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6474",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6337",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6474"
+      }
+    }
+  ]
+}

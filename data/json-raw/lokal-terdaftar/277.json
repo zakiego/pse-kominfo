@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 277,
+      "from": 2761,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2770,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=278",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=276"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5758",
+      "attributes": {
+        "nomor_pb_umku": "121900056068600000002",
+        "nama": "HOST FKIOS",
+        "website": "host.fkios.io",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PALUGADA SUMBER SUKSES",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004228.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5758",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5623",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5758"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5757",
+      "attributes": {
+        "nomor_pb_umku": "912010998042600020001",
+        "nama": "KBPR AMANAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi BANK PERKREDITAN RAKYAT AMANAH",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004297.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5757",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5622",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5757"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5756",
+      "attributes": {
+        "nomor_pb_umku": "912020679108600000001",
+        "nama": "PT BPR SAMAWA KENCANA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SAMAWA KENCANA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004262.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5756",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5620",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5756"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5754",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010017",
+        "nama": "APLIKASI RENCANA BISNIS BANK",
+        "website": "rbb.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5754",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5562",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5754"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5753",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010016",
+        "nama": "SIM SDM BANK SULSELBAR",
+        "website": "simsdm.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5753",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5581",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5753"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5752",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010001",
+        "nama": "BANKRAYA.CO.ID",
+        "website": "bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004288.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5752",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5619",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5752"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5751",
+      "attributes": {
+        "nomor_pb_umku": "912010398064400010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT LUHAK NAN TUO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LUHAK NAN TUO",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004275.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5751",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5618",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5751"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5750",
+      "attributes": {
+        "nomor_pb_umku": "912021509165200010001",
+        "nama": "SISTEM INFORMASI PENGELOLA INFORMASI PERKREDITAN",
+        "website": "IdScore.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PEFINDO BIRO KREDIT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004084.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5750",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5616",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5750"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5749",
+      "attributes": {
+        "nomor_pb_umku": "912011911026100050001",
+        "nama": "MITRA PAJAKKU",
+        "website": "pajakku.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA PAJAKKU",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000881.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5749",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5613",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5749"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5748",
+      "attributes": {
+        "nomor_pb_umku": "090921002412700010001",
+        "nama": "PT BPR KOTA ARANG SEJAHTERA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KOTA ARANG SEJAHTERA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004161.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5748",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5614",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5748"
+      }
+    }
+  ]
+}

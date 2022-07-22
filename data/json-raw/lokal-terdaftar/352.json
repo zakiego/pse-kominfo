@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 352,
+      "from": 3511,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3520,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=353",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=351"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4960",
+      "attributes": {
+        "nomor_pb_umku": "290622008312300000001",
+        "nama": "LUBNA CELL EXPRESS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LUBNA CELL EXPRESS",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003578.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4960",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4828",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4960"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4959",
+      "attributes": {
+        "nomor_pb_umku": "290622007616200000001",
+        "nama": "PORTAL INFO",
+        "website": "bogorcompany.site",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DARMAWI MACHMUD",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003574.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4959",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4827",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4959"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4958",
+      "attributes": {
+        "nomor_pb_umku": "912010198084400000001",
+        "nama": "SKOR",
+        "website": "skorpoints.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SKOR DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003550.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4958",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4826",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4958"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4957",
+      "attributes": {
+        "nomor_pb_umku": "912030969245200000001",
+        "nama": "DAUKY.CO.ID",
+        "website": "DAUKY.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERSAMA DAUKY MULYA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003569.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4957",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4825",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4957"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4956",
+      "attributes": {
+        "nomor_pb_umku": "912001415008800010001",
+        "nama": "SIDIA (SISTEM INFORMASI DIGITAL ASWATA)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI WAHANA TATA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003568.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4956",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4823",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4956"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4955",
+      "attributes": {
+        "nomor_pb_umku": "912030864265700000001",
+        "nama": "ELZATTA.COM",
+        "website": "Elzatta.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERSAMA ZATTA MULYA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003567.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4955",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4824",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4955"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4954",
+      "attributes": {
+        "nomor_pb_umku": "160921002393400030002",
+        "nama": "MOSTRANS E-POD",
+        "website": "mostrans.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MOSTRANS GLOBAL DIGILOG",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003527.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4954",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4822",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4954"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4953",
+      "attributes": {
+        "nomor_pb_umku": "912000921103500020002",
+        "nama": "CUBMU",
+        "website": "cubmu.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONUSA TELEMEDIA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003544.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4953",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4821",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4953"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4952",
+      "attributes": {
+        "nomor_pb_umku": "160921002393400030001",
+        "nama": "MOSTRANS",
+        "website": "mostrans.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MOSTRANS GLOBAL DIGILOG",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003527.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4952",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4820",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4952"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4951",
+      "attributes": {
+        "nomor_pb_umku": "022000077169200000002",
+        "nama": "LENDINGHUB.ID",
+        "website": "lendinghub.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CINTA INOVASI DALAM NEGERI",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003322.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4951",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4818",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4951"
+      }
+    }
+  ]
+}

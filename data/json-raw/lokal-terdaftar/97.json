@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 97,
+      "from": 961,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 970,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=98",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=96"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7658",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040032",
+        "nama": "SIBOS BANK BJB",
+        "website": "sibos.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003382.34/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7658",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7556",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7658"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7657",
+      "attributes": {
+        "nomor_pb_umku": "140622007936100030001",
+        "nama": "WEBSITE PT. KLINIK KERJA INDONESIA",
+        "website": "klinikkerja.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KLINIK KERJA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005612.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7657",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7554",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7657"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7656",
+      "attributes": {
+        "nomor_pb_umku": "128900071212100020001",
+        "nama": "PT BPR MITRA PATI MANDIRI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRA PATI MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005061.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7656",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7551",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7656"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7655",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640049",
+        "nama": "WEBSITE REGISTRASI BYC 2",
+        "website": "cyb.ourapps.site",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001669.56/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7655",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7508",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7655"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7654",
+      "attributes": {
+        "nomor_pb_umku": "912020187143600010002",
+        "nama": "PT. INFINITY AIR MEDIA COMPANY PROFILE",
+        "website": "iamplanet.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INFINITY AIR MEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005438.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7654",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7527",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7654"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7653",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160017",
+        "nama": "SABI",
+        "website": "sabihasanahku.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.31/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7653",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7550",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7653"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7652",
+      "attributes": {
+        "nomor_pb_umku": "912000552116900010001",
+        "nama": "PT BPR KARIMUN SEJAHTERA",
+        "website": "karimunsejahtera.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARIMUN SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005397.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7652",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7381",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7652"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7651",
+      "attributes": {
+        "nomor_pb_umku": "912040077131300010001",
+        "nama": "PT. BPR DANA RAYA JAWA TIMUR",
+        "website": "danarayajatim.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA RAYA JAWA TIMUR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005352.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7651",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7549",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7651"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7650",
+      "attributes": {
+        "nomor_pb_umku": "200722003915800000001",
+        "nama": "BPR RINI BHAKTINUSA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RINI BHAKTINUSA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005576.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7650",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7544",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7650"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7649",
+      "attributes": {
+        "nomor_pb_umku": "022201110082300010004",
+        "nama": "AIA INDONESIA IPOS",
+        "website": "dc2.aia-financial.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIA FINANCIAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000007.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7649",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7547",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7649"
+      }
+    }
+  ]
+}

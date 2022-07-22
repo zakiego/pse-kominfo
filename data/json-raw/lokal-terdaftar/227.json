@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 227,
+      "from": 2261,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2270,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=228",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=226"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6291",
+      "attributes": {
+        "nomor_pb_umku": "128800024052900040005",
+        "nama": "DIBIMBING WEB APP",
+        "website": "dibimbing.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIBIMBING DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004661.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6291",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6153",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6291"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6290",
+      "attributes": {
+        "nomor_pb_umku": "812000393047500010001",
+        "nama": "APLIKASI RETAIL BPR (ARB) PT BPR SURYA UTAMA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA UTAMA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004411.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6290",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6151",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6290"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6289",
+      "attributes": {
+        "nomor_pb_umku": "061021003581400010001",
+        "nama": "WEBSITE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TATA KARYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004611.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6289",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6150",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6289"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6288",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010006",
+        "nama": "E LEARNING BANK RAYA",
+        "website": "elearning.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6288",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6148",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6288"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6287",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040027",
+        "nama": "GARANSI BANK ONLINE",
+        "website": "garansibank.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003382.29/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6287",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6146",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6287"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6286",
+      "attributes": {
+        "nomor_pb_umku": "9120107170422241260001",
+        "nama": "SIMPELPOL",
+        "website": "simpelpol.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA GLOBAL INOVASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004628.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6286",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6145",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6286"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6285",
+      "attributes": {
+        "nomor_pb_umku": "8120001860126143387777770007",
+        "nama": "RUANG ILMIAH",
+        "website": "ruangilmiah-dexa.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DEXA MEDICA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004547.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6285",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6028",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6285"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6284",
+      "attributes": {
+        "nomor_pb_umku": "060722007304800010001",
+        "nama": "NALURI",
+        "website": "naluri.life",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NALURI HIDUP INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004352.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6284",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6144",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6284"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6283",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "EDC",
+        "website": "BPRINDRA.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT INDRA CANDRA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004579.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6283",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6143",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6283"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6282",
+      "attributes": {
+        "nomor_pb_umku": "912010267208600010003",
+        "nama": "ADAJALANS",
+        "website": "adajalans.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHAGUNA MANDIRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004039.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6282",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6142",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6282"
+      }
+    }
+  ]
+}

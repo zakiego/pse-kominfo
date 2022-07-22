@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 243,
+      "from": 2421,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2430,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=244",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=242"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6119",
+      "attributes": {
+        "nomor_pb_umku": "240122006817100010001",
+        "nama": "BPRMARCORINDO",
+        "website": "bprmarcorindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR. MARCORINDO PERDANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004533.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6119",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5991",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6119"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6118",
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050003",
+        "nama": "CASH MANAGEMENT SYSTEM BANK BPD DIY",
+        "website": "cm.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004410.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6118",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5987",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6118"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6117",
+      "attributes": {
+        "nomor_pb_umku": "124600051277300120001",
+        "nama": "AGILITY",
+        "website": "agility.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AG INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004511.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6117",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5988",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6117"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6116",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801190048",
+        "nama": "MICROSITE PROMO BRI",
+        "website": "promo.bri.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "002468.44/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6116",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5986",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6116"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6115",
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010002",
+        "nama": "ASTRA LIFE (CORPORATE WEBSITE)",
+        "website": "astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000603.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6115",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5985",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6115"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6114",
+      "attributes": {
+        "nomor_pb_umku": "124600051277300120001",
+        "nama": "ALTIUSPEOPLE",
+        "website": "altius.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AG INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004511.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6114",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5984",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6114"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6113",
+      "attributes": {
+        "nomor_pb_umku": "022010433237400020001",
+        "nama": "WINTERA",
+        "website": "wintera.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WINN TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004543.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6113",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5981",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6113"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6112",
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030005",
+        "nama": "MNCINSURANCE.COM",
+        "website": "mnc-insurance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000158.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6112",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5952",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6112"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6111",
+      "attributes": {
+        "nomor_pb_umku": "128800024014700020001",
+        "nama": "TUKUKLIK.COM",
+        "website": "tukuklik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BUDI JAYA SENTOSA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004523.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6111",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5970",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6111"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6110",
+      "attributes": {
+        "nomor_pb_umku": "180722002136900000001",
+        "nama": "LEGIONFC",
+        "website": "legionfc.my.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANGGA SAIDI WILASTRA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004541.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6110",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5982",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6110"
+      }
+    }
+  ]
+}

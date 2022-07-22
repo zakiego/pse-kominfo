@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 368,
+      "from": 3671,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3680,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=369",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=367"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4694",
+      "attributes": {
+        "nomor_pb_umku": "170222007584600010002",
+        "nama": "JODJO DRIVER",
+        "website": "-",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JODJO DIGITAL SULTENG",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003363.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4694",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4649",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4694"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4693",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980026",
+        "nama": "GAJIAPPS",
+        "website": "member.gaji.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.22/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4693",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4648",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4693"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4692",
+      "attributes": {
+        "nomor_pb_umku": "140422001494800000001",
+        "nama": "BEVANDER",
+        "website": "bevander.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BEVANDER INOVASI SUKSES ABADI",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003371.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4692",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4645",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4692"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4691",
+      "attributes": {
+        "nomor_pb_umku": "241221002636600000001",
+        "nama": "TWOBABOX",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TWOBA BOX INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002782.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4691",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4646",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4691"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4690",
+      "attributes": {
+        "nomor_pb_umku": "021221001757500170001",
+        "nama": "CANDIO",
+        "website": "candio.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CANDRA DIGITALINDO",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003376.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4690",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4647",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4690"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4689",
+      "attributes": {
+        "nomor_pb_umku": "170222007584600010001",
+        "nama": "JODJO CUSTOMER",
+        "website": "-",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JODJO DIGITAL SULTENG",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003363.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4689",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4644",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4689"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4687",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980025",
+        "nama": "DIGIPAY002",
+        "website": "digipay002.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.21/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4687",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4643",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4687"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4686",
+      "attributes": {
+        "nomor_pb_umku": "170122004443500020001",
+        "nama": "LOKERKITA.ID",
+        "website": "lokerkita.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LOKER KITA INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003356.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4686",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4642",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4686"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4682",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800980024",
+        "nama": "SBN ONLINE BRI",
+        "website": "sbn.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "002468.20/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4682",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4641",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4682"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4674",
+      "attributes": {
+        "nomor_pb_umku": "812021707209900010001",
+        "nama": "BIMA MULTI FINANCE",
+        "website": "bimafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMA MULTI FINANCE",
+        "tanggal_daftar": "2022-06-23",
+        "tanggal_terbit": "2022-06-23",
+        "nomor_tanda_daftar": "003361.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4674",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4633",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4674"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 231,
+      "from": 2301,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2310,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=232",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=230"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6250",
+      "attributes": {
+        "nomor_pb_umku": "912020972074400020001",
+        "nama": "AJK ONLINE",
+        "website": "AJKONLINE.SEQUIS.CO.ID",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA SEQUIS FINANCIAL",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003810.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6250",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6114",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6250"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6249",
+      "attributes": {
+        "nomor_pb_umku": "912030593192500010001",
+        "nama": "INDRA MOBILE",
+        "website": "bprindra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT INDRA CANDRA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004579.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6249",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6110",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6249"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6248",
+      "attributes": {
+        "nomor_pb_umku": "260422004343700010008",
+        "nama": "E-MAIL BPR SUPRA (2)",
+        "website": "mail.bprsupra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004223.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6248",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6112",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6248"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6247",
+      "attributes": {
+        "nomor_pb_umku": "180722000027600000001",
+        "nama": "KATAKI SHOP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALI RAJA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004477.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6247",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6111",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6247"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6246",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640033",
+        "nama": "WEBFORM BANK GARANSI 2",
+        "website": "webform.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001669.35/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6246",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6109",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6246"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6244",
+      "attributes": {
+        "nomor_pb_umku": "812010289155300000001",
+        "nama": "POINT BLANK",
+        "website": "pointblank.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZEPETTO INTERACTIVE INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004615.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6244",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6107",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6244"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6243",
+      "attributes": {
+        "nomor_pb_umku": "260422004343700010007",
+        "nama": "E-MAIL BPR SUPRA (1)",
+        "website": "mail.bprsupra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004223.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6243",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6106",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6243"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6242",
+      "attributes": {
+        "nomor_pb_umku": "912001104059900050001",
+        "nama": "HONEST APP",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HONEST FINANCIAL TECHNOLOGIES",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003719.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6242",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6105",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6242"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6241",
+      "attributes": {
+        "nomor_pb_umku": "124700024235700000001",
+        "nama": "LACAKGPSTRACKERKU",
+        "website": "gpstrackerku.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SISTRACK SOLUSINDO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004618.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6241",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6104",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6241"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6240",
+      "attributes": {
+        "nomor_pb_umku": "912020259293500020003",
+        "nama": "WEBSITE INFOLEGALITAS",
+        "website": "infolegalitas.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRO LEGAL INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004079.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6240",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6103",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6240"
+      }
+    }
+  ]
+}

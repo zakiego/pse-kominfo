@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 152,
+      "from": 1511,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1520,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=153",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=151"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7104",
+      "attributes": {
+        "nomor_pb_umku": "022010765189200010001",
+        "nama": "ETHIS",
+        "website": "ethis.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ETHIS FINTEK INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005172.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7104",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6972",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7104"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7103",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030011",
+        "nama": "REKRUTMEN BANK KALSEL TALENTA",
+        "website": "rekrutmen.bankkalsel.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004232.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7103",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6939",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7103"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7100",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030010",
+        "nama": "EMPLOYEE HEALTH SERVICE",
+        "website": "hcis.bankkalsel.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004232.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7100",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6951",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7100"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7099",
+      "attributes": {
+        "nomor_pb_umku": "812001614218200010001",
+        "nama": "SARANA GLOBAL FINANCE INDONESIA",
+        "website": "sgfinance.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA GLOBAL FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005162.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7099",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6967",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7099"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7098",
+      "attributes": {
+        "nomor_pb_umku": "190722001120900000001",
+        "nama": "KIOS KONTER",
+        "website": "kioskonter.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PUJI ASTUTI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004853.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7098",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6965",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7098"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7097",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030009",
+        "nama": "DIGITAL ASSESSMENT TEST",
+        "website": "hcis.bankkalsel.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004232.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7097",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6952",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7097"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7096",
+      "attributes": {
+        "nomor_pb_umku": "022000323191700020003",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN  BPR MODERN EXPRESS SULTRA",
+        "website": "digimod.bprmodernkendari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS SULTRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005089.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7096",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6964",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7096"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7095",
+      "attributes": {
+        "nomor_pb_umku": "190722007070300000001",
+        "nama": "ASB STORE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AFIF SUBAGJA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005190.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7095",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6963",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7095"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7094",
+      "attributes": {
+        "nomor_pb_umku": "120500041031100020001",
+        "nama": "COMPANY PROFILE BPR HAYURA ARTALOLA",
+        "website": "bprhayura.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HAYURA ARTALOLA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005047.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7094",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6962",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7094"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7093",
+      "attributes": {
+        "nomor_pb_umku": "190722006687900000001",
+        "nama": "WEBSITE PT JABARSOFT TEKNOLOGI INDONESIA",
+        "website": "jabarsoft.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JABARSOFT TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005145.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7093",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6942",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7093"
+      }
+    }
+  ]
+}

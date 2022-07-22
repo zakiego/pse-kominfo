@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 307,
+      "from": 3061,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3070,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=308",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=306"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5434",
+      "attributes": {
+        "nomor_pb_umku": "129100070099600010001",
+        "nama": "PULSABAYAR",
+        "website": "pulsabayar.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PULSABAYAR SINAR PANBERSI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004074.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5434",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5306",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5434"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5433",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801160040",
+        "nama": "LINKUMKM",
+        "website": "linkumkm.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002468.36/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5433",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5304",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5433"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5432",
+      "attributes": {
+        "nomor_pb_umku": "120722005076900000002",
+        "nama": "MANGO LIVE",
+        "website": "mangolive.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRILLIANT FUTURE TECHNOLOGY",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004053.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5432",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5301",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5432"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5431",
+      "attributes": {
+        "nomor_pb_umku": "812000073159400020007",
+        "nama": "WWW.CDKJOURNAL.COM ATAU CDKJOURNAL",
+        "website": "cdkjournal.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KALBE FARMA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003191.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5431",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5300",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5431"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5429",
+      "attributes": {
+        "nomor_pb_umku": "290622007620400030002",
+        "nama": "PERDAGANGAN ECERAN KOMPUTER DAN PERLENGKAPANNYA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BUKIT BENDERA NATA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003644.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5429",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5299",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5429"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5428",
+      "attributes": {
+        "nomor_pb_umku": "028200092075300010001",
+        "nama": "NJ PULSA",
+        "website": "njpulsareload.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MATAHARI SINAR PANBERSI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004069.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5428",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5298",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5428"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5427",
+      "attributes": {
+        "nomor_pb_umku": "120422005510600020001",
+        "nama": "GARDATIPIKORNEWS.COM",
+        "website": "gardatipikornews.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARDATIPIKOR MEDIA PERSADA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004067.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5427",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5296",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5427"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5426",
+      "attributes": {
+        "nomor_pb_umku": "240921003657900000001",
+        "nama": "GUSUMULE GAMING",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUCHLIS ARDIANSYAH",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004068.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5426",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5297",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5426"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5425",
+      "attributes": {
+        "nomor_pb_umku": "120722006270600000001",
+        "nama": "GMW",
+        "website": "gmstation.renderforestsites.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "GAJAH MADA WIJAYA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004061.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5425",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5295",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5425"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5424",
+      "attributes": {
+        "nomor_pb_umku": "290622007620400030001",
+        "nama": "PERDAGANGAN ONLINE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BUKIT BENDERA NATA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003644.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5424",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5294",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5424"
+      }
+    }
+  ]
+}

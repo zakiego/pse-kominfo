@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 67,
+      "from": 661,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 670,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=68",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=66"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7961",
+      "attributes": {
+        "nomor_pb_umku": "022000479130500310002",
+        "nama": "MYALKES",
+        "website": "myalkes.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "YOSEFIN CHRISTINA C.K",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005527.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7961",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7876",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7961"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7960",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230007",
+        "nama": "ACAINTR.COM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7960",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7875",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7960"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7959",
+      "attributes": {
+        "nomor_pb_umku": "912030983008400010001",
+        "nama": "WEBSITE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR WUTAMA ARTHA SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005707.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7959",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7864",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7959"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7958",
+      "attributes": {
+        "nomor_pb_umku": "912020619298100000001",
+        "nama": "JAGAT.LIVE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BENSON MEDIA KREASI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005661.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7958",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7748",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7958"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7957",
+      "attributes": {
+        "nomor_pb_umku": "912031703177200020001",
+        "nama": "LIGASYS",
+        "website": "lngrisk.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LIBERTY AND GENERAL RISK SERVICES",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005185.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7957",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7871",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7957"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7956",
+      "attributes": {
+        "nomor_pb_umku": "812010993172400020143",
+        "nama": "WEBSITE ACE HARDWARE INDONESIA ( WWW.ACEHARDWARE.CO.ID )",
+        "website": "acehardware.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ACE HARDWARE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003759.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7956",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7873",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7956"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7955",
+      "attributes": {
+        "nomor_pb_umku": "022201110082300010009",
+        "nama": "AIA INDONESIA VYMO (BLAST)",
+        "website": "aiablast.lms.getvymo.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIA FINANCIAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000007.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7955",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7872",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7955"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7954",
+      "attributes": {
+        "nomor_pb_umku": "912031821160200010002",
+        "nama": "WEBSITE SMART FINANCE",
+        "website": "smartfinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SMART MULTI FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005494.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7954",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7828",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7954"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7953",
+      "attributes": {
+        "nomor_pb_umku": "912031509135900000004",
+        "nama": "WEBSITE PRABU.BIZ.ID",
+        "website": "prabu.biz.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BP Partnership",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005271.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7953",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7870",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7953"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7952",
+      "attributes": {
+        "nomor_pb_umku": "026301024248900000007",
+        "nama": "BANK EKA - CUSTOMER SELF INQUIRY SYSTEM",
+        "website": "si.bankeka.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT EKA BUMI ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005335.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7952",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7866",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7952"
+      }
+    }
+  ]
+}

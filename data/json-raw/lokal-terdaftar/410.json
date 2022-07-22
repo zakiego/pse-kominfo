@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 410,
+      "from": 4091,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4100,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=411",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=409"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4425",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kesehatan",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV KLINIK PERMATA MEDIKA",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002658.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4425",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4409",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4425"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4424",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AIN SHOP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CHUROTUL AINNIAH",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002657.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4424",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4408",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4424"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4423",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Enerba Teknologi",
+        "website": "enerba-teknologi.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ENERBA TEKNOLOGI",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002656.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4423",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4407",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4423"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4422",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Durasafe",
+        "website": "durasafe.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DURASAFE WORKWEAR INDONESIA",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002655.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4422",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4406",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4422"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4361",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "E-Recruitment",
+        "website": "recruitment.homecredit.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOME CREDIT INDONESIA",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002393.07/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4361",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4347",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4361"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4360",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Candidate Mobile Application (CMA)",
+        "website": "cma.homecredit.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOME CREDIT INDONESIA",
+        "tanggal_daftar": "2022-05-09",
+        "tanggal_terbit": "2022-05-09",
+        "nomor_tanda_daftar": "002393.06/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4360",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4346",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4360"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4587",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK BUMNU INDONESIA",
+        "website": "www.bumnuindonesia.co.id",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Kesehatan, Sektor Keuangan, Sektor Pangan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BADAN USAHA MILIK NAHDLATUL ULAMA",
+        "tanggal_daftar": "2022-05-07",
+        "tanggal_terbit": "2022-05-07",
+        "nomor_tanda_daftar": "002652.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4587",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4550",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4587"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4421",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Zillingo",
+        "website": "https://zilingotrade.id/id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZILLION TECH INDONESIA",
+        "tanggal_daftar": "2022-05-07",
+        "tanggal_terbit": "2022-05-07",
+        "nomor_tanda_daftar": "002654.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4421",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4405",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4421"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4420",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CIPTA INDAH PERSADA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA INDAH PERSADA",
+        "tanggal_daftar": "2022-05-07",
+        "tanggal_terbit": "2022-05-07",
+        "nomor_tanda_daftar": "002653.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4420",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4404",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4420"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4419",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Solusi Bisnis Indonesia",
+        "website": "izin99.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA IZIN INDONESIA",
+        "tanggal_daftar": "2022-05-07",
+        "tanggal_terbit": "2022-05-07",
+        "nomor_tanda_daftar": "002651.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4419",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4403",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4419"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 253,
+      "from": 2521,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2530,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=254",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=252"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6018",
+      "attributes": {
+        "nomor_pb_umku": "170722001904100000001",
+        "nama": "ANEKAFX",
+        "website": "anekafx.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ABDULLAH ZUHRI",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004469.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6018",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5878",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6018"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6016",
+      "attributes": {
+        "nomor_pb_umku": "270422003389100000001",
+        "nama": "AZ STORE",
+        "website": "azapplication.bukaolshop.site",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DIAZ MUAMMAR BIMANTARA",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004466.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6016",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5880",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6016"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6015",
+      "attributes": {
+        "nomor_pb_umku": "170722001857100000001",
+        "nama": "TUPAPUA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ARHAN NUDDIN",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004468.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6015",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5879",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6015"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6014",
+      "attributes": {
+        "nomor_pb_umku": "100322000731300010001",
+        "nama": "SISTEM REGISTRASI DOMAIN DAN LAINNYA",
+        "website": "registrindo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JARINGAN REGISTRI INDONESIA",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004458.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6014",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5877",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6014"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6013",
+      "attributes": {
+        "nomor_pb_umku": "912001002157500000001",
+        "nama": "EPRENEUR INTERNATIONAL",
+        "website": "epreneur.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV EPRENEUR INTERNATIONAL",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004464.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6013",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5876",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6013"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6011",
+      "attributes": {
+        "nomor_pb_umku": "170722001360600000001",
+        "nama": "POLARIS PULSA",
+        "website": "polarispulsa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOCH. SAIFUDIN",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004452.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6011",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5875",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6011"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6010",
+      "attributes": {
+        "nomor_pb_umku": "160722001886200000002",
+        "nama": "WEBSITE OLSHOP OLEH BUKAOLSHOP",
+        "website": "bukaolshop.site",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BAGUS ANJARI SUWITO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004425.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6010",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5874",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6010"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6009",
+      "attributes": {
+        "nomor_pb_umku": "270422004726400000002",
+        "nama": "NOURAPAY",
+        "website": "nourapay.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FARID ARIS P",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004463.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6009",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5873",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6009"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6008",
+      "attributes": {
+        "nomor_pb_umku": "180921001002800000001",
+        "nama": "QIOSFIN",
+        "website": "qiosfin.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV QIOSFIN MULTIPAYMENT INDONESIA",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004461.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6008",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5872",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6008"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6007",
+      "attributes": {
+        "nomor_pb_umku": "170921000140900000001",
+        "nama": "RUGSTORE.ID",
+        "website": "RUGSTORE.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NOVYAN MOEZHAKY UMBARA",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-17",
+        "nomor_tanda_daftar": "004460.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6007",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5871",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6007"
+      }
+    }
+  ]
+}

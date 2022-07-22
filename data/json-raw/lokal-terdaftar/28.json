@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 28,
+      "from": 271,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 280,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=29",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=27"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8417",
+      "attributes": {
+        "nomor_pb_umku": "022020089163100000004",
+        "nama": "MYMAGZ.NET",
+        "website": "mymagz.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANEKA MEDIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005425.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8417",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8334",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8417"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8416",
+      "attributes": {
+        "nomor_pb_umku": "912010972226200010001",
+        "nama": "BPR NUSAMBA KUBUTAMBAHAN",
+        "website": "bprnusamba-kubutambahan.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005882.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8416",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8315",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8416"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8415",
+      "attributes": {
+        "nomor_pb_umku": "128400070092100020001",
+        "nama": "APLIKASI MYECO",
+        "website": "myeco.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MYECO TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005472.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8415",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8333",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8415"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8414",
+      "attributes": {
+        "nomor_pb_umku": "022010158115300020005",
+        "nama": "ALLIANZ SMART POINT",
+        "website": "alacards.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI ALLIANZ LIFE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000950.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8414",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8328",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8414"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8413",
+      "attributes": {
+        "nomor_pb_umku": "022020425044900010001",
+        "nama": "SITUS BPR CAHAYA WIRAPUTRA",
+        "website": "bprcahayawiraputra.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CAHAYA WIRAPUTRA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005719.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8413",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8332",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8413"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8412",
+      "attributes": {
+        "nomor_pb_umku": "024100092127500000001",
+        "nama": "PT MAHADA GROUP INTERNASIONAL",
+        "website": "mahada.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHADA GROUP INTERNASIONAL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005022.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8412",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8319",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8412"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8411",
+      "attributes": {
+        "nomor_pb_umku": "022010553188300000001",
+        "nama": "IZY SHOP - MALLTOGO",
+        "website": "malltogo.izy.ai",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GAHAR INOVASI ABADI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005658.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8411",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8331",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8411"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8410",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801200059",
+        "nama": "WEBSITE KORPORAT BRI",
+        "website": "bri.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "002468.55/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8410",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8330",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8410"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8409",
+      "attributes": {
+        "nomor_pb_umku": "912011209054200010001",
+        "nama": "BANK PERKREDITAN RAKYAT",
+        "website": "bprmangunpundiyasa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MANGUN PUNDIYASA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005897.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8409",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8329",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8409"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8408",
+      "attributes": {
+        "nomor_pb_umku": "180722004169100000001",
+        "nama": "CORE BANKING TATA ASIA",
+        "website": "datasolusi.net",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TATA ASIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005513.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8408",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8326",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8408"
+      }
+    }
+  ]
+}

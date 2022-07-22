@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 390,
+      "from": 3891,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3900,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=391",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=389"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4231",
+      "attributes": {
+        "nomor_pb_umku": "912050881242300020001",
+        "nama": "TICMIEDU",
+        "website": "ticmiedu.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIAN CAPITAL MARKET ELECTRONIC LIBRARY",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002841.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4231",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4228",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4231"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4230",
+      "attributes": {
+        "nomor_pb_umku": "060622001466100000001",
+        "nama": "PRO DIGITAL AGENCY",
+        "website": "prodigitalagency.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ANJAS SWARA",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002910.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4230",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4227",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4230"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4229",
+      "attributes": {
+        "nomor_pb_umku": "912001617105100000001",
+        "nama": "FASILITATOR VIRTUAL ACCOUNT",
+        "website": "msodc.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRANET SOFTWARE ONLINE",
+        "tanggal_daftar": "2022-06-04",
+        "tanggal_terbit": "2022-06-04",
+        "nomor_tanda_daftar": "002779.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4229",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4226",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4229"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4228",
+      "attributes": {
+        "nomor_pb_umku": "912040480017400100001",
+        "nama": "USP MOBILE",
+        "website": "induk.uspminatani.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi KOP UNIT DESA MINATANI",
+        "tanggal_daftar": "2022-06-04",
+        "tanggal_terbit": "2022-06-04",
+        "nomor_tanda_daftar": "002862.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4228",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4225",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4228"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4227",
+      "attributes": {
+        "nomor_pb_umku": "912000746018600010002",
+        "nama": "JAGO",
+        "website": "jagocoffee.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SATUAN TEKNOLOGI BERJALAN",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "002888.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4227",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4224",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4227"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4226",
+      "attributes": {
+        "nomor_pb_umku": "812021506234200010001",
+        "nama": "CHOPE",
+        "website": "chope.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KUHI SOLUTIONS",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "002768.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4226",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4223",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4226"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4225",
+      "attributes": {
+        "nomor_pb_umku": "912010027129200010010",
+        "nama": "JAKONE PAY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK DKI",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "001682.10/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4225",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4222",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4225"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4224",
+      "attributes": {
+        "nomor_pb_umku": "912030654200900010001",
+        "nama": "DKONSUL",
+        "website": "dkonsul.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL URBAN ESENSIAL",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "000644.06/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4224",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4221",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4224"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4223",
+      "attributes": {
+        "nomor_pb_umku": "022010166246700000001",
+        "nama": "GOORITA",
+        "website": "goorita.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEMERU INDONESIA MAJU",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "002741.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4223",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4220",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4223"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4221",
+      "attributes": {
+        "nomor_pb_umku": "812001700283900060036",
+        "nama": "PORTAL PENGAJUAN PRODUK PEGADAIAN (P4)",
+        "website": "pinjaman.pegadaian.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PEGADAIAN",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "001631.35/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4221",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4218",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4221"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 347,
+      "from": 3461,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3470,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=348",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=346"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5009",
+      "attributes": {
+        "nomor_pb_umku": "912030111272600010008",
+        "nama": "GOLDX",
+        "website": "goldex.icdx.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BULLION ECOSYSTEM INTERNATIONAL",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000155.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5009",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4879",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5009"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5008",
+      "attributes": {
+        "nomor_pb_umku": "912030111272600010007",
+        "nama": "JFXGOLDX",
+        "website": "jfxgoldx.jfx.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BULLION ECOSYSTEM INTERNATIONAL",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000155.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5008",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4878",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5008"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5007",
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010006",
+        "nama": "MY LIFE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "002423.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5007",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4875",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5007"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5006",
+      "attributes": {
+        "nomor_pb_umku": "912020655244100010001",
+        "nama": "FINTECH PLATFORM",
+        "website": "matajari.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MATAJARI MITRA SOLUSI",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003465.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5006",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4874",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5006"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5005",
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010005",
+        "nama": "WEBSITE BRI LIFE",
+        "website": "brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "002423.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5005",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4873",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5005"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5004",
+      "attributes": {
+        "nomor_pb_umku": "010722003362300000001",
+        "nama": "CITCALL",
+        "website": "citcall.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CITCALL TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003631.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5004",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4872",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5004"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5003",
+      "attributes": {
+        "nomor_pb_umku": "912020553197500050001",
+        "nama": "DANAMON CHAT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "000861.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5003",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4860",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5003"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5002",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "TOKOFANS",
+        "website": "tokofans.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "TOKOFANS SMM INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003630.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5002",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4871",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5002"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5001",
+      "attributes": {
+        "nomor_pb_umku": "180622000116400020001",
+        "nama": "FIXPULSA",
+        "website": "fixpulsa.top",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SURYA SENTOSA SELALU",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003627.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5001",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4870",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5001"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5000",
+      "attributes": {
+        "nomor_pb_umku": "170222006255900030001",
+        "nama": "KAISARCAHYABERKAH.COM",
+        "website": "kaisarcahyaberkah.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KAISAR CAHYA BERKAH",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "002995.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5000",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4869",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5000"
+      }
+    }
+  ]
+}

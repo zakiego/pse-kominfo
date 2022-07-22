@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 269,
+      "from": 2681,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2690,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=270",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=268"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5845",
+      "attributes": {
+        "nomor_pb_umku": "150722004590300000001",
+        "nama": "KEDAI ONLINE",
+        "website": "kedaionline.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD ICHSAN IRIANDY BARUS",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004344.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5845",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5706",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5845"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5844",
+      "attributes": {
+        "nomor_pb_umku": "020200093244300130012",
+        "nama": "ABSENSI",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi KARYAWAN PEDAMI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003679.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5844",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5703",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5844"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5843",
+      "attributes": {
+        "nomor_pb_umku": "024401022127900010001",
+        "nama": "CORE BANKING SYSTEM IBA",
+        "website": "banksyariahalmabrur.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARIAH AL MABRUR KLATEN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004336.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5843",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5705",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5843"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5842",
+      "attributes": {
+        "nomor_pb_umku": "912010184147600060006",
+        "nama": "LIKEE",
+        "website": "likee.video",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIGO INFORMATION INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "002108.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5842",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5656",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5842"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5841",
+      "attributes": {
+        "nomor_pb_umku": "120200047039500010004",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-COLLECTION - BPR MODEX SULUT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR MODERN EXPRESS SULUT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004252.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5841",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5702",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5841"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5840",
+      "attributes": {
+        "nomor_pb_umku": "190122004259300010001",
+        "nama": "WEBSITE ABB",
+        "website": "abb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BHAKTI BHAYANGKARA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004337.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5840",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5698",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5840"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5839",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010003",
+        "nama": "CMS BANK JAMBI",
+        "website": "cms.bankjambi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004292.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5839",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5700",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5839"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5838",
+      "attributes": {
+        "nomor_pb_umku": "120200047039500010003",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN CUSTOMER - BPR MODEX SULUT",
+        "website": "kredit.bprmodex-sulut.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR MODERN EXPRESS SULUT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004252.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5838",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5699",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5838"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5837",
+      "attributes": {
+        "nomor_pb_umku": "912020780066200030001",
+        "nama": "MICROSITE",
+        "website": "pinjamaja.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VERENA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004110.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5837",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5697",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5837"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5836",
+      "attributes": {
+        "nomor_pb_umku": "912030925217200040007",
+        "nama": "MYAVIN (APLIKASI MOBILE VIA ANDROID DAN IOS)",
+        "website": "myavin.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AVIN KAYA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004246.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5836",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5695",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5836"
+      }
+    }
+  ]
+}

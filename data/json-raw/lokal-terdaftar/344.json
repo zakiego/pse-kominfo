@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 344,
+      "from": 3431,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3440,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=345",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=343"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5039",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "PAGARMERBAUTIGA-DESA.ID",
+        "website": "pagarmerbautiga-desa.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003426.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5039",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4911",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5039"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5038",
+      "attributes": {
+        "nomor_pb_umku": "110522004951700000005",
+        "nama": "SEIMENCIRIM-DESA.ID",
+        "website": "seimencirim-desa.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "tanggal_terbit": "2022-07-04",
+        "nomor_tanda_daftar": "003426.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5038",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4910",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5038"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5037",
+      "attributes": {
+        "nomor_pb_umku": "022000031039400000001",
+        "nama": "CV. MANGGALA TRI SAKTI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MANGGALA TRI SAKTI",
+        "tanggal_daftar": "2022-07-03",
+        "tanggal_terbit": "2022-07-03",
+        "nomor_tanda_daftar": "003649.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5037",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4909",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5037"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5036",
+      "attributes": {
+        "nomor_pb_umku": "912020072279200000001",
+        "nama": "CARL & CLAIRE PERFUMERY",
+        "website": "carlandclaire.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PESONA AURA KHARISMA",
+        "tanggal_daftar": "2022-07-03",
+        "tanggal_terbit": "2022-07-03",
+        "nomor_tanda_daftar": "003538.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5036",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4908",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5036"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5035",
+      "attributes": {
+        "nomor_pb_umku": "121300161124600000001",
+        "nama": "ENGLISHBILLION.COM",
+        "website": "englishbillion.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LEIT LINGUA INTELEGENSIA",
+        "tanggal_daftar": "2022-07-03",
+        "tanggal_terbit": "2022-07-03",
+        "nomor_tanda_daftar": "003676.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5035",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4907",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5035"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5034",
+      "attributes": {
+        "nomor_pb_umku": "200522000006100150001",
+        "nama": "ARKANU",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ARYAN KARYA NUSA",
+        "tanggal_daftar": "2022-07-03",
+        "tanggal_terbit": "2022-07-03",
+        "nomor_tanda_daftar": "003672.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5034",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4906",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5034"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5033",
+      "attributes": {
+        "nomor_pb_umku": "022000053235600000001",
+        "nama": "SEAL CENTORIA",
+        "website": "seal-centoria.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JANSSEN TANU",
+        "tanggal_daftar": "2022-07-03",
+        "tanggal_terbit": "2022-07-03",
+        "nomor_tanda_daftar": "003667.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5033",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4905",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5033"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5032",
+      "attributes": {
+        "nomor_pb_umku": "021000192150500050002",
+        "nama": "DESTY.PAGE",
+        "website": "desty.app",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DESTY KARSA WESYA",
+        "tanggal_daftar": "2022-07-02",
+        "tanggal_terbit": "2022-07-02",
+        "nomor_tanda_daftar": "000054.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5032",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4904",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5032"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5031",
+      "attributes": {
+        "nomor_pb_umku": "300522000629600000001",
+        "nama": "NAQIYYA STORE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NAQIYYA BERKAH NIAGA",
+        "tanggal_daftar": "2022-07-02",
+        "tanggal_terbit": "2022-07-02",
+        "nomor_tanda_daftar": "003650.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5031",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4903",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5031"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5030",
+      "attributes": {
+        "nomor_pb_umku": "022010921247700000001",
+        "nama": "OYUMME",
+        "website": "oyum.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEBAR DIGITAL KREASI",
+        "tanggal_daftar": "2022-07-02",
+        "tanggal_terbit": "2022-07-02",
+        "nomor_tanda_daftar": "003647.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5030",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4902",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5030"
+      }
+    }
+  ]
+}

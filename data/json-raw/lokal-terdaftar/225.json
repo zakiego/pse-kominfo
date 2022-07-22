@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 225,
+      "from": 2241,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2250,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=226",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=224"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6311",
+      "attributes": {
+        "nomor_pb_umku": "022020574234800000001",
+        "nama": "TOPINDOKU",
+        "website": "topindoku.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PT TOPINDO SOLUSI KOMUNIKA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004667.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6311",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6160",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6311"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6310",
+      "attributes": {
+        "nomor_pb_umku": "812011603263100000001",
+        "nama": "ABSENKU",
+        "website": "absenku.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DES TEKNOLOGI INFORMASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004668.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6310",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6179",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6310"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6309",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010008",
+        "nama": "JCONNECT INVEST",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6309",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6180",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6309"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6308",
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "SMS MACROKIOSK (OTP) - BPR MODERN EXPRESS JATENG",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004638.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6308",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6175",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6308"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6307",
+      "attributes": {
+        "nomor_pb_umku": "912031305241800010001",
+        "nama": "PT BPR NUSANTARA BONA PASOGIT 34",
+        "website": "bprnbp34.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 34",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004575.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6307",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6173",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6307"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6306",
+      "attributes": {
+        "nomor_pb_umku": "124700024235700000003",
+        "nama": "SOFTWARE INVENTORY SISTRACK",
+        "website": "inventory.biz.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SISTRACK SOLUSINDO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004618.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6306",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6172",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6306"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6305",
+      "attributes": {
+        "nomor_pb_umku": "128100020256400010001",
+        "nama": "USSI PINBUK PRIMA SOFTWARE",
+        "website": "bankurban.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR URBAN BALI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004675.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6305",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6171",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6305"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6304",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010007",
+        "nama": "SMS BANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6304",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6170",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6304"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6303",
+      "attributes": {
+        "nomor_pb_umku": "912031018068900010002",
+        "nama": "WWW.PIGIJO.COM",
+        "website": "pigijo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TOURINDO GUIDE INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004538.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6303",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6169",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6303"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6302",
+      "attributes": {
+        "nomor_pb_umku": "022010677195100000003",
+        "nama": "AUDIOTOON",
+        "website": "audiotoon.mobi",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MANGA TOON GROUP",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004613.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6302",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6168",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6302"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 124,
+      "from": 1231,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1240,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=125",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=123"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7387",
+      "attributes": {
+        "nomor_pb_umku": "912000335046100000001",
+        "nama": "AVANA",
+        "website": "WWW.AVANA.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NIAGA MASA DEPAN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005489.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7387",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7285",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7387"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7386",
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090011",
+        "nama": "LANDING PAGE KREDIT MULTIGUNA PRIMA",
+        "website": "ringankancicilan.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004092.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7386",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7286",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7386"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7385",
+      "attributes": {
+        "nomor_pb_umku": "200722002087700000001",
+        "nama": "ASSIST-BPR.NE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PERMATA HATI JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005411.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7385",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7283",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7385"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7384",
+      "attributes": {
+        "nomor_pb_umku": "912000182185500030001",
+        "nama": "TOPGOLF.CO.ID",
+        "website": "topgolf.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TOPINDO LUCKY SPORTS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005208.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7384",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7240",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7384"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7383",
+      "attributes": {
+        "nomor_pb_umku": "022010581264800010001",
+        "nama": "BBW MOBILE BANKING",
+        "website": "bbw.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BARON BIONDI WILLIAM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003962.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7383",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7281",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7383"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7382",
+      "attributes": {
+        "nomor_pb_umku": "024601002025600010002",
+        "nama": "PT BPR NUSANTARA BONA PASOGIT 32",
+        "website": "bprnbp32.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 32",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005203.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7382",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7234",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7382"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7381",
+      "attributes": {
+        "nomor_pb_umku": "812001402053300000003",
+        "nama": "SOLUSI SISTEM NUTECH INTEGASI",
+        "website": "nutech-integrasi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUTECH INTEGRASI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005148.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7381",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7277",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7381"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7380",
+      "attributes": {
+        "nomor_pb_umku": "912030589221300020002",
+        "nama": "BANK PERKREDITAN RAKYAT",
+        "website": "bprdarsa.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PT. BPR DANA SELARAS SENTOSA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005399.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7380",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7282",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7380"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7379",
+      "attributes": {
+        "nomor_pb_umku": "161221004103500020001",
+        "nama": "ESHAN APLIKASI KLINIK DAN APOTEK",
+        "website": "eshan.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV NUGRAHA SANTOSA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005467.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7379",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7280",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7379"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7378",
+      "attributes": {
+        "nomor_pb_umku": "912020293107400010002",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "bprkusumamandala.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KUSUMA MANDALA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005024.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7378",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7278",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7378"
+      }
+    }
+  ]
+}

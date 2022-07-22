@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 220,
+      "from": 2191,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2200,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=221",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=219"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6364",
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN CUSTOMER-BPR MODERN EXPRESS JATENG",
+        "website": "kredit.bprmodernsemarang.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004638.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6364",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6227",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6364"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6363",
+      "attributes": {
+        "nomor_pb_umku": "180722006024900000001",
+        "nama": "SUBANG PEDIA",
+        "website": "subangpedia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AHMAD AUFA MUSTAHDI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004701.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6363",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6226",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6363"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6362",
+      "attributes": {
+        "nomor_pb_umku": "812021927148600010006",
+        "nama": "COLLECTION HUB",
+        "website": "Kreditplus.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KB FINANSIA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000132.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6362",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6213",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6362"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6361",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010017",
+        "nama": "JATIM ELEKTRONIK TRANSFER SISTEM (JETS)",
+        "website": "jets.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6361",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6225",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6361"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6360",
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN - BPR MODERN EXPRESS JATENG",
+        "website": "digimod.bprmodernsemarang.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004638.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6360",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6223",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6360"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6359",
+      "attributes": {
+        "nomor_pb_umku": "912010267208600010004",
+        "nama": "EMAIL BPRAGM.COM",
+        "website": "BPRAGM.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHAGUNA MANDIRI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004039.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6359",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6224",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6359"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6358",
+      "attributes": {
+        "nomor_pb_umku": "912050483066500020003",
+        "nama": "WEBSITE PENSIUN BERKARYA",
+        "website": "pensiunberkarya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MANDIRI TASPEN",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000851.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6358",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6219",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6358"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6357",
+      "attributes": {
+        "nomor_pb_umku": "912010217115700010006",
+        "nama": "MANAGEMENT INFORMATION SYSTEM DANAKINI",
+        "website": "mis.danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DANA KINI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001681.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6357",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6217",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6357"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6356",
+      "attributes": {
+        "nomor_pb_umku": "912010217115700010006",
+        "nama": "MERCHANT DASHBOARD",
+        "website": "merchant.danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DANA KINI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001681.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6356",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6207",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6356"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6355",
+      "attributes": {
+        "nomor_pb_umku": "812021914078400040002",
+        "nama": "FLEETWEB-ID",
+        "website": "cartrack.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CARTRACK TECHNOLOGIES INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004669.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6355",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6222",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6355"
+      }
+    }
+  ]
+}

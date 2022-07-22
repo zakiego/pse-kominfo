@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 37,
+      "from": 361,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 370,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=38",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=36"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8326",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010016",
+        "nama": "SAP SUCCESSFACTORS BTPN",
+        "website": "performancemanager10.successfactors.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8326",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8214",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8326"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8325",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010015",
+        "nama": "JENIUS VIDEO CALL UNLINK",
+        "website": "jenius-cec.cloud.btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8325",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8227",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8325"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8324",
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000007",
+        "nama": "JADIPERGI",
+        "website": "jadipergi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005304.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8324",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8245",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8324"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8323",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010014",
+        "nama": "JENIUS UNLINK VERIFICATION",
+        "website": "unlink.jenius.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8323",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8233",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8323"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8322",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010013",
+        "nama": "JENIUS VIDEO CALL",
+        "website": "jenius-kyc.cloud.btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8322",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8237",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8322"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8321",
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000007",
+        "nama": "RHAPSODY MOBILE CHECK IN",
+        "website": "realta.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004583.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8321",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8116",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8321"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8320",
+      "attributes": {
+        "nomor_pb_umku": "912021807101900010005",
+        "nama": "BANK SULTENG UNIFI",
+        "website": "unifi.banksulteng.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005711.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8320",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8242",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8320"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8319",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010012",
+        "nama": "JENIUS WEBSITE",
+        "website": "jenius.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.22/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8319",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8239",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8319"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8318",
+      "attributes": {
+        "nomor_pb_umku": "912010579133200010001",
+        "nama": "SIPT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BINTANG NIAGA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005681.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8318",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8243",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8318"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8317",
+      "attributes": {
+        "nomor_pb_umku": "022010158115300020004",
+        "nama": "CISSONIUS MFT",
+        "website": "cissonius.allianz.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI ALLIANZ LIFE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000950.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8317",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8230",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8317"
+      }
+    }
+  ]
+}

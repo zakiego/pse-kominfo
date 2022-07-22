@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 351,
+      "from": 3501,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3510,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=352",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=350"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4969",
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010003",
+        "nama": "DIGIFORM",
+        "website": "digiform.brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "002423.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4969",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4837",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4969"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4968",
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010002",
+        "nama": "MOKLAIM",
+        "website": "moklaim.brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "002423.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4968",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4836",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4968"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4967",
+      "attributes": {
+        "nomor_pb_umku": "290622006387600000001",
+        "nama": "IKLANKAN.COM",
+        "website": "iklankan.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ILHAM ARNOMO",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003570.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4967",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4835",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4967"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4966",
+      "attributes": {
+        "nomor_pb_umku": "310322004317300000001",
+        "nama": "TANYA OBAT",
+        "website": "tanyaobat.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI LAYANAN NUSANTARA",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003585.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4966",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4834",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4966"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4965",
+      "attributes": {
+        "nomor_pb_umku": "023301001274700020007",
+        "nama": "LIFESPACE",
+        "website": "space.life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA IFG",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "001739.08/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4965",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4833",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4965"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4964",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020001",
+        "nama": "KB BUKOPIN CASH MANAGEMENT",
+        "website": "newbcm.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-06-30",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003560.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4964",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4832",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4964"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4963",
+      "attributes": {
+        "nomor_pb_umku": "161221005006800010001",
+        "nama": "PASTISAH",
+        "website": "pastisah.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAH DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003562.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4963",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4819",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4963"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4784",
+      "attributes": {
+        "nomor_pb_umku": "190422006324100020001",
+        "nama": "PT TETANGGA SALING BANTU (TETANGGAKU)",
+        "website": "tetanggaku.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TETANGGA SALING BANTU",
+        "tanggal_daftar": "2022-06-27",
+        "tanggal_terbit": "2022-06-30",
+        "nomor_tanda_daftar": "003606.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4784",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4727",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4784"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4962",
+      "attributes": {
+        "nomor_pb_umku": "170622003807400000001",
+        "nama": "DEAR HOPE",
+        "website": "dearhope.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PIARA JIWA INDONESIA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003581.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4962",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4831",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4962"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4961",
+      "attributes": {
+        "nomor_pb_umku": "290622008107500010001",
+        "nama": "SISMADI COMPUTER",
+        "website": "sismadi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SISMADI LANGIT SOLUSI",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003579.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4961",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4829",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4961"
+      }
+    }
+  ]
+}

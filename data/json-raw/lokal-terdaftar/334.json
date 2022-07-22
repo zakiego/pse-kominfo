@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 334,
+      "from": 3331,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3340,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=335",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=333"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5149",
+      "attributes": {
+        "nomor_pb_umku": "912030476021300000001",
+        "nama": "MOBILKU.COM",
+        "website": "mobilku.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MOBILKU DOTCOM SEJAHTERA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003176.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5149",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5012",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5149"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5148",
+      "attributes": {
+        "nomor_pb_umku": "022060087248900000002",
+        "nama": "MANPRO TEKNOLOGI INDONESIA",
+        "website": "manpro.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MANPRO TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "000839.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5148",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5011",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5148"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5147",
+      "attributes": {
+        "nomor_pb_umku": "141021001352400020001",
+        "nama": "SISTEM PENUNJANG PERDAGANGAN",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DIKA ADITYA PRATAMA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003812.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5147",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5010",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5147"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5146",
+      "attributes": {
+        "nomor_pb_umku": "912001424056200020001",
+        "nama": "KOPERASI ASTRA APPS",
+        "website": "koperasi-astra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi ASTRA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003327.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5146",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5009",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5146"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5145",
+      "attributes": {
+        "nomor_pb_umku": "141221001777100010001",
+        "nama": "APLIKASI DIGITAL MARKETING",
+        "website": "pertalife.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERTA LIFE INSURANCE",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003763.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5145",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5007",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5145"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5144",
+      "attributes": {
+        "nomor_pb_umku": "060722006987800000001",
+        "nama": "PERPUSTAKAAN DIGITAL BUDAYA INDONESIA",
+        "website": "budaya-indonesia.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BENTARA FRAKTAL INDONESIA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003811.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5144",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5008",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5144"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5143",
+      "attributes": {
+        "nomor_pb_umku": "122600072152500000001",
+        "nama": "PAJAK.COM",
+        "website": "pajak.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LONTAR TALI MEDIA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003806.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5143",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5005",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5143"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5142",
+      "attributes": {
+        "nomor_pb_umku": "912000749085600020002",
+        "nama": "MOSERVICE",
+        "website": "moservice.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIRA DINAMIKA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003745.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5142",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5006",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5142"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5141",
+      "attributes": {
+        "nomor_pb_umku": "912000749085600020001",
+        "nama": "MOSERVICE.ID",
+        "website": "moservice.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIRA DINAMIKA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003745.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5141",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5004",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5141"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5140",
+      "attributes": {
+        "nomor_pb_umku": "120522001196600000001",
+        "nama": "INPINJAMAN",
+        "website": "inpinjaman.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi KITA SIAP SEJAHTERA",
+        "tanggal_daftar": "2022-07-06",
+        "tanggal_terbit": "2022-07-06",
+        "nomor_tanda_daftar": "003793.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5140",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5003",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5140"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 318,
+      "from": 3171,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3180,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=319",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=317"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5314",
+      "attributes": {
+        "nomor_pb_umku": "912000448196500010009",
+        "nama": "VTRADEIN",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "001807.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5314",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5189",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5314"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5313",
+      "attributes": {
+        "nomor_pb_umku": "912000448196500010008",
+        "nama": "OTRADEIN",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "001807.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5313",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5188",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5313"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5312",
+      "attributes": {
+        "nomor_pb_umku": "912000448196500010007",
+        "nama": "GALAXY TRADE-IN",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "001807.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5312",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5187",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5312"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5311",
+      "attributes": {
+        "nomor_pb_umku": "912000448196500010006",
+        "nama": "SS.COM TRADE-IN",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LAKU6 ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "001807.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5311",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5182",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5311"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5310",
+      "attributes": {
+        "nomor_pb_umku": "912000387151500010001",
+        "nama": "DXTRADE",
+        "website": "dxtrade.bahana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BAHANA SEKURITAS",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003980.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5310",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5184",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5310"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5309",
+      "attributes": {
+        "nomor_pb_umku": "029101010033400000002",
+        "nama": "MAHASISWAONLINE.COM (MEDIA SHARING PENGETAHUAN DAN BAHAN STUDI ANTAR MAHASISWA)",
+        "website": "mahasiswaonline.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DEBRIAN RUHUT SARAGIH",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003939.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5309",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5183",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5309"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5308",
+      "attributes": {
+        "nomor_pb_umku": "912020572101700000001",
+        "nama": "ESIGN HUB",
+        "website": "esignhub.docsol.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADICIPTA INOVASI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003979.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5308",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5181",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5308"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5307",
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020007",
+        "nama": "KB BUKOPIN CORPORATE WEBSITE",
+        "website": "bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003560.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5307",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5180",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5307"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5306",
+      "attributes": {
+        "nomor_pb_umku": "027301015214300010001",
+        "nama": "VSMCLUB",
+        "website": "vsmclub.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VISI SUKSES MANDIRI",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003978.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5306",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5178",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5306"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5305",
+      "attributes": {
+        "nomor_pb_umku": "080722003946200000001",
+        "nama": "ON LAZY SUSAN",
+        "website": "onlazysusan.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SANTAPAN UNTUK SELURUH INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003977.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5305",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5176",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5305"
+      }
+    }
+  ]
+}

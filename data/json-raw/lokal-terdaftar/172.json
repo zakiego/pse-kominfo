@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 172,
+      "from": 1711,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1720,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=173",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=171"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6896",
+      "attributes": {
+        "nomor_pb_umku": "181021001392500010001",
+        "nama": "PT BPR RESTU DEWATA",
+        "website": "restudewata.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RESTU DEWATA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004783.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6896",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6744",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6896"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6895",
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090006",
+        "nama": "LOS (LOAN ORIGINATION SYSTEM)",
+        "website": "eform.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004092.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6895",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6747",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6895"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6894",
+      "attributes": {
+        "nomor_pb_umku": "022030080151600020001",
+        "nama": "RELIANCE-LIFE.COM",
+        "website": "reliance-life.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA RELIANCEINDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005041.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6894",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6746",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6894"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6893",
+      "attributes": {
+        "nomor_pb_umku": "022040689148500010001",
+        "nama": "DEJAYO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TRIDARMA PUTRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005009.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6893",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6743",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6893"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6892",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040011",
+        "nama": "BOJONEGOROPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.12/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6892",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6745",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6892"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6891",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "BANK SYARIAH INDONESIA CASH MANAGEMENT SYSTEM (BSI CMS)",
+        "website": "cms.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.16/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6891",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6738",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6891"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6890",
+      "attributes": {
+        "nomor_pb_umku": "022000939072200010002",
+        "nama": "CORE BANKING IT MULIA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SINAR KUTA MULIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004988.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6890",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6742",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6890"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6889",
+      "attributes": {
+        "nomor_pb_umku": "912020976293200010001",
+        "nama": "PT. BPR CATUR ARTHA JAYA",
+        "website": "bprcaturartha.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CATUR ARTHA JAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004794.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6889",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6739",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6889"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6888",
+      "attributes": {
+        "nomor_pb_umku": "812010998167600110009",
+        "nama": "KUGO",
+        "website": "kugo.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIYAKOM",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004113.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6888",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6737",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6888"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6887",
+      "attributes": {
+        "nomor_pb_umku": "912030988194800010002",
+        "nama": "WWW.BPRCAHAYAARTHABALI.COM",
+        "website": "bprcahayaarthabali.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CAHAYA ARTHABALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004982.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6887",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6736",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6887"
+      }
+    }
+  ]
+}

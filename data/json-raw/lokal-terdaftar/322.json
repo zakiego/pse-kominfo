@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 322,
+      "from": 3211,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3220,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=323",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=321"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5271",
+      "attributes": {
+        "nomor_pb_umku": "812010470244100000001",
+        "nama": "QOALAPLUS.COM",
+        "website": "qoalaplus.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARCHOR TEKNOLOGI DIGITAL",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "001537.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5271",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5139",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5271"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5270",
+      "attributes": {
+        "nomor_pb_umku": "126300546252400350003",
+        "nama": "TRAVEL",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV VANDY PRATAMA",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003947.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5270",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5137",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5270"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5269",
+      "attributes": {
+        "nomor_pb_umku": "120300071242600040001",
+        "nama": "CIPT ASET DIGITAAL",
+        "website": "ciptaasetdigital.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA ASET DIGITAL",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003419.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5269",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5126",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5269"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5268",
+      "attributes": {
+        "nomor_pb_umku": "250921000724900000001",
+        "nama": "BENGKEL MANIA",
+        "website": "bengkelmania.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DIGITAL AUTO SEJAHTERA",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003501.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5268",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5136",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5268"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5267",
+      "attributes": {
+        "nomor_pb_umku": "812000996087202180001",
+        "nama": "UNITED TRACTORS E-PROCUREMENT",
+        "website": "eproc.unitedtractors.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT UNITED TRACTORS",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "000543.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5267",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5135",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5267"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5266",
+      "attributes": {
+        "nomor_pb_umku": "100722000776900000001",
+        "nama": "SERVICE KULKAS, MESIN CUCI, AC, TV, POMPA AIR, DISPENSER",
+        "website": "permidteknik.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERMID TEKNIK GROUP",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003946.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5266",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5131",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5266"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5265",
+      "attributes": {
+        "nomor_pb_umku": "128500072066500000003",
+        "nama": "AKSESORIS KOMPUTER",
+        "website": "evindotama.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EVINDOTAMA JAYA INTERNUSA",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003945.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5265",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5134",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5265"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5264",
+      "attributes": {
+        "nomor_pb_umku": "128500072066500000002",
+        "nama": "WEBSITE",
+        "website": "evindotama.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EVINDOTAMA JAYA INTERNUSA",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003945.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5264",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5133",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5264"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5263",
+      "attributes": {
+        "nomor_pb_umku": "128500072066500000001",
+        "nama": "ANTIVIRUS",
+        "website": "evindotama.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EVINDOTAMA JAYA INTERNUSA",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003945.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5263",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5132",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5263"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5262",
+      "attributes": {
+        "nomor_pb_umku": "022000039295900090001",
+        "nama": "PROPERTY21",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV PROPERTY 21",
+        "tanggal_daftar": "2022-07-10",
+        "tanggal_terbit": "2022-07-10",
+        "nomor_tanda_daftar": "003944.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5262",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5130",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5262"
+      }
+    }
+  ]
+}

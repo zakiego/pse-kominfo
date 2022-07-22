@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 223,
+      "from": 2221,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2230,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=224",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=222"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6332",
+      "attributes": {
+        "nomor_pb_umku": "022040482274300010001",
+        "nama": "WEBSITE PERUSAHAAN PT. SCHRODER INVESTMENT MANAGEMENT INDONESIA",
+        "website": "wwww.schroders.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SCHRODER INVESTMENT MANAGEMENT INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004680.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6332",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6199",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6332"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6331",
+      "attributes": {
+        "nomor_pb_umku": "91201071704222412660002",
+        "nama": "SIAP AKPOL",
+        "website": "siap.akpol.ac.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA GLOBAL INOVASI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004628.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6331",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6197",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6331"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6330",
+      "attributes": {
+        "nomor_pb_umku": "912010988047100010001",
+        "nama": "WEBSITE BPR PARO TUA",
+        "website": "bprparotua.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PARO TUA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004606.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6330",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6194",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6330"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6329",
+      "attributes": {
+        "nomor_pb_umku": "912050276390500010001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT DANA NAGOYA",
+        "website": "dananagoya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA NAGOYA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004656.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6329",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6193",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6329"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6328",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010011",
+        "nama": "E-RECRUITMENT BANK JATIM",
+        "website": "e-recruitment.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6328",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6195",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6328"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6327",
+      "attributes": {
+        "nomor_pb_umku": "210821001449900060001",
+        "nama": "PENTASI",
+        "website": "pentasi.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PENTA SOFTWARE INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004625.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6327",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6192",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6327"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6326",
+      "attributes": {
+        "nomor_pb_umku": "022020413340500020001",
+        "nama": "BACK OFFICE &  FRONT OFFICE",
+        "website": "pacificsekuritas.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PACIFIC SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004652.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6326",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6188",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6326"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6325",
+      "attributes": {
+        "nomor_pb_umku": "812000172108700070033",
+        "nama": "SAMSUNG GIFT INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAMSUNG ELECTRONICS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004280.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6325",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5925",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6325"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6324",
+      "attributes": {
+        "nomor_pb_umku": "912001927083300020003",
+        "nama": "AMANTARA.CO.ID",
+        "website": "amantara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMANTARA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004121.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6324",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6186",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6324"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6323",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010010",
+        "nama": "JATIM KILAT",
+        "website": "eform.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6323",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6190",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6323"
+      }
+    }
+  ]
+}

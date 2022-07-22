@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 407,
+      "from": 4061,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4070,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=408",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=406"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4450",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Acclivis Commercial Cloud",
+        "website": "https://acclivis.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ACCLIVIS TECHNOLOGIES AND SOLUTIONS",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002679.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4450",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4434",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4450"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4449",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Koko De Parfum",
+        "website": "kokodeparfum.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PARFUM INDONESIA RAYA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002677.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4449",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4433",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4449"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4448",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Fundgrow",
+        "website": "fundgrow.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARTHA BANGSA SUKSES",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002676.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4448",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4432",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4448"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4447",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pembuatan website Company Profile,websistem dll",
+        "website": "bravosolutionindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRAVO SOLUTION INDONESIA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002675.04/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4447",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4431",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4447"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4446",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Websistem",
+        "website": "bravosolutionindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRAVO SOLUTION INDONESIA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002675.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4446",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4430",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4446"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4445",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SIMPEL MAS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRAVO SOLUTION INDONESIA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002675.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4445",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4429",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4445"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4444",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website dan websistem",
+        "website": "bravosolutionindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRAVO SOLUTION INDONESIA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002675.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4444",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4428",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4444"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4443",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Future Commerce",
+        "website": "www.futurecommerce.cn",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FUTURE COMMERCE INDONESIA",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002678.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4443",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4427",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4443"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4442",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RANUP SIGAPU",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RANUP SIGAPU",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "002674.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4442",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4426",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4442"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4353",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Artificial Intelligence (AI)",
+        "website": "tel-access.biz",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELEAKSES SOLUSINDO",
+        "tanggal_daftar": "2022-05-12",
+        "tanggal_terbit": "2022-05-12",
+        "nomor_tanda_daftar": "001621.05/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4353",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4339",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4353"
+      }
+    }
+  ]
+}

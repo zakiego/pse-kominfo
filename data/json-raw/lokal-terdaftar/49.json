@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 49,
+      "from": 481,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 490,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=50",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=48"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8155",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020013",
+        "nama": "CENTRALGROUPPROPERTY",
+        "website": "centralgroupproperty.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.15/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8155",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8075",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8155"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8152",
+      "attributes": {
+        "nomor_pb_umku": "912000248004700010005",
+        "nama": "LAYANAN VIRTUAL ACCOUNT BANK BOYOLALI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK BOYOLALI (PERSERODA)",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005077.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8152",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8072",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8152"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8151",
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000004",
+        "nama": "PULSAGRAM",
+        "website": "pulsagram.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005304.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8151",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8069",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8151"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8144",
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010009",
+        "nama": "STREAMING E-LEARNING BANK PAPUA",
+        "website": "elearning.bankpapua.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005497.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8144",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8063",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8144"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8142",
+      "attributes": {
+        "nomor_pb_umku": "060921007373600010001",
+        "nama": "WWW.TDWRESOURCES.ID",
+        "website": "tdwresources.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TDW RESOURCES",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005769.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8142",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8056",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8142"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8141",
+      "attributes": {
+        "nomor_pb_umku": "126600141156100030004",
+        "nama": "DESA PINTAR ONLINE",
+        "website": "desapintar.online",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV EXADATA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005298.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8141",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8061",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8141"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8140",
+      "attributes": {
+        "nomor_pb_umku": "812020280021300010010",
+        "nama": "BLOCKMAN GO",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GARENA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002712.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8140",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8041",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8140"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8138",
+      "attributes": {
+        "nomor_pb_umku": "912020925021100010001",
+        "nama": "ADKOMU",
+        "website": "adkomu.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADKOMU DIGITAL ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005767.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8138",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8059",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8138"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8136",
+      "attributes": {
+        "nomor_pb_umku": "912040687172800010001",
+        "nama": "BPR SUPRADANAMAS",
+        "website": "bprsupradanamas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SUPRADANAMAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005771.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8136",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8055",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8136"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8135",
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000003",
+        "nama": "GIGAPULSA",
+        "website": "new.gigapulsa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005304.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8135",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8058",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8135"
+      }
+    }
+  ]
+}

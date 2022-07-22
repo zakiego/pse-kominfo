@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 385,
+      "from": 3841,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3850,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=386",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=384"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4301",
+      "attributes": {
+        "nomor_pb_umku": "912020636202100070003",
+        "nama": "HADEKA MULTISOLUTION",
+        "website": "hdk-solution.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV HADEKA MULTISOLUTION",
+        "tanggal_daftar": "2022-06-09",
+        "tanggal_terbit": "2022-06-09",
+        "nomor_tanda_daftar": "000313.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4301",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4294",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4301"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4300",
+      "attributes": {
+        "nomor_pb_umku": "912011318183600010002",
+        "nama": "WATULINTANG MEDIA",
+        "website": "watulintang.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV WATULINTANG MEDIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000309.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4300",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4293",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4300"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4299",
+      "attributes": {
+        "nomor_pb_umku": "140522000072700040001",
+        "nama": "GOPOP",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL ANUGRAH SARANA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000310.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4299",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4292",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4299"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4298",
+      "attributes": {
+        "nomor_pb_umku": "912011318183600010001",
+        "nama": "SEKOLAHKITA NET",
+        "website": "sekolahkita.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV WATULINTANG MEDIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000309.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4298",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4291",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4298"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4297",
+      "attributes": {
+        "nomor_pb_umku": "250422004020500020002",
+        "nama": "RINGKAS.",
+        "website": "ringkas.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RINGKAS ASIA TECHNOLOGY",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000307.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4297",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4290",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4297"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4296",
+      "attributes": {
+        "nomor_pb_umku": "912010894003500000001",
+        "nama": "GRAVEL",
+        "website": "gravel.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAVEL TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002939.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4296",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4286",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4296"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4295",
+      "attributes": {
+        "nomor_pb_umku": "250422004020500020001",
+        "nama": "RINGKAS",
+        "website": "ringkas.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RINGKAS ASIA TECHNOLOGY",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000307.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4295",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4289",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4295"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4294",
+      "attributes": {
+        "nomor_pb_umku": "190522006674300000002",
+        "nama": "UI CONNECT ILUNI UI",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IKATAN ALUMNI UNIVERSITAS INDONESIA (ILUNI UI)",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002812.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4294",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4288",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4294"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4293",
+      "attributes": {
+        "nomor_pb_umku": "190522006674300000001",
+        "nama": "UI CONNECT",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IKATAN ALUMNI UNIVERSITAS INDONESIA (ILUNI UI)",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "002812.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4293",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4287",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4293"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4292",
+      "attributes": {
+        "nomor_pb_umku": "912030748085800010003",
+        "nama": "MYHORISON.COM",
+        "website": "myhorison.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT METROPOLITAN GOLDEN MANAGEMENT",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-08",
+        "nomor_tanda_daftar": "000266.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4292",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4283",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4292"
+      }
+    }
+  ]
+}

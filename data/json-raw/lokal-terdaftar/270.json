@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 270,
+      "from": 2691,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2700,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=271",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=269"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5835",
+      "attributes": {
+        "nomor_pb_umku": "120200047039500010002",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN - BPR MODEX SULUT",
+        "website": "digimod.bprmodex-sulut.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR MODERN EXPRESS SULUT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004252.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5835",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5694",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5835"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5834",
+      "attributes": {
+        "nomor_pb_umku": "022030270200200000001",
+        "nama": "VIP VOUCHER",
+        "website": "vipvoucher.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VOUCHER IMPERIAL PERSADA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004117.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5834",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5693",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5834"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5833",
+      "attributes": {
+        "nomor_pb_umku": "022000870077100010001",
+        "nama": "MITRA GADAI",
+        "website": "mitragadai.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERGADAIAN MITRA BERSAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004317.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5833",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5692",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5833"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5832",
+      "attributes": {
+        "nomor_pb_umku": "023100093295200140001",
+        "nama": "MASTERING SKILL",
+        "website": "masteringskill.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JAYA DINAMIKA DIGITAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "003850.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5832",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5691",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5832"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5831",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SMS MACROKIOSK - BPR PALU LOKADANA UTAMA",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004168.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5831",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5690",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5831"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5830",
+      "attributes": {
+        "nomor_pb_umku": "128700022028900010001",
+        "nama": "PT. BPR KARYA PARHUTA",
+        "website": "bprkaryaparhuta.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYA PARHUTA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004333.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5830",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5689",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5830"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5829",
+      "attributes": {
+        "nomor_pb_umku": "812021927148600010005",
+        "nama": "EFORM KMB",
+        "website": "eformcms.kreditplus.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KB FINANSIA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000132.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5829",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5688",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5829"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5828",
+      "attributes": {
+        "nomor_pb_umku": "310122004612600010001",
+        "nama": "PORTAL WEBSITE",
+        "website": "bprkawan.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KAWAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004334.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5828",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5687",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5828"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5827",
+      "attributes": {
+        "nomor_pb_umku": "022010772105400000001",
+        "nama": "KIMOPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIMOPAY TEKNOLOGI DIGITAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004319.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5827",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5686",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5827"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5826",
+      "attributes": {
+        "nomor_pb_umku": "100522002196500000001",
+        "nama": "BPR NBP 17",
+        "website": "bprnbp17.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 17",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004314.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5826",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5685",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5826"
+      }
+    }
+  ]
+}

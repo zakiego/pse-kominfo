@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 377,
+      "from": 3761,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3770,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=378",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=376"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4566",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800940021",
+        "nama": "STROBERI KASIR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "002468.17/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4566",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4529",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4566"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4565",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800940020",
+        "nama": "KREDIT EKSTRA CEPAT KUPEDES (KECEKU",
+        "website": "app.keceku.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "002468.16/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4565",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4528",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4565"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4564",
+      "attributes": {
+        "nomor_pb_umku": "031121000873300020001",
+        "nama": "LECTRO ENERGI SEMESTA",
+        "website": "Lectro.asia",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LECTRO ENERGI SEMESTA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000295.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4564",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4527",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4564"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4563",
+      "attributes": {
+        "nomor_pb_umku": "123300024013300000001",
+        "nama": "RUANGNYAMAN",
+        "website": "ruangnyaman.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUANG NYAMAN ABADI",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "002938.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4563",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4526",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4563"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4562",
+      "attributes": {
+        "nomor_pb_umku": "126200070048700000001",
+        "nama": "PT. NUANSA UNGGUL BAHARI",
+        "website": "nuansaunggul.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUANSA UNGGUL BAHARI",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000296.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4562",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4525",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4562"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4561",
+      "attributes": {
+        "nomor_pb_umku": "123800015230900000001",
+        "nama": "NABITU.ID",
+        "website": "nabitu.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NABITU TEKNOLOGI ISLAMI",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000298.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4561",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4524",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4561"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4560",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900000002",
+        "nama": "TITIPORDER.COM",
+        "website": "titiporder.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "002941.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4560",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4523",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4560"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4559",
+      "attributes": {
+        "nomor_pb_umku": "130622002482700000001",
+        "nama": "CREDGENICS",
+        "website": "credgenics.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANALOG LEGALHUB INDONESIA TECHNOLOGY SOLUTIONS",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000294.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4559",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4522",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4559"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4558",
+      "attributes": {
+        "nomor_pb_umku": "123600060269300140001",
+        "nama": "QUBIQL",
+        "website": "qubiql.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DESKTOPIP TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-08",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "001459.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4558",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4275",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4558"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4553",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900000001",
+        "nama": "IMPORTIR.CO.ID",
+        "website": "importir.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "002941.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4553",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4521",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4553"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 219,
+      "from": 2181,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2190,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=220",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=218"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6379",
+      "attributes": {
+        "nomor_pb_umku": "812011321067900000001",
+        "nama": "TIMECONCEPT.COM",
+        "website": "timeconcept.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV TIME CONCEPT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004515.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6379",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6205",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6379"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6378",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010009",
+        "nama": "API SDM BANK RAYA",
+        "website": "api.sdm-mobile.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6378",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6234",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6378"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6375",
+      "attributes": {
+        "nomor_pb_umku": "912030078120100010001",
+        "nama": "PT. BPR JUWANA ARTHA SENTOSA",
+        "website": "bprjas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT JUWANA ARTHA SENTOSA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004671.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6375",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6236",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6375"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6371",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010020",
+        "nama": "VENDOR MANAGEMENT SYSTEM",
+        "website": "vms.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6371",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6233",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6371"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6370",
+      "attributes": {
+        "nomor_pb_umku": "912030077198800040004",
+        "nama": "BSY TRANSAKSI DIGITAL (TD)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA YUDHAKENCANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "001835.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6370",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6230",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6370"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6369",
+      "attributes": {
+        "nomor_pb_umku": "023401102252600020003",
+        "nama": "STARME",
+        "website": "starmakerstudios.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KARYA BINTANG TEKNOLOGI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000362.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6369",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6162",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6369"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6368",
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-COLLECTION-BPR MODERN EXPRESS JATENG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004638.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6368",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6229",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6368"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6367",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010019",
+        "nama": "MARKETING ACTION PROGRAM (MAP)",
+        "website": "map.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6367",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6232",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6367"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6366",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020009",
+        "nama": "EDC BPRKS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004305.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6366",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5753",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6366"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6365",
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010018",
+        "nama": "E-MAIL BANK JATIM",
+        "website": "mail.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004213.18/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6365",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6228",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6365"
+      }
+    }
+  ]
+}

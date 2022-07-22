@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 7,
+      "from": 61,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 70,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=8",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=6"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8652",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900010009",
+        "nama": "LABBAIKAPAREPARE.COM",
+        "website": "labbaikaparepare.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "002941.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8652",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8570",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8652"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8651",
+      "attributes": {
+        "nomor_pb_umku": "022030882391600010001",
+        "nama": "PT BPR SINAR MAS PELITA",
+        "website": "bprsinarmaspelita.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SINAR MAS PELITA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006023.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8651",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8567",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8651"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8650",
+      "attributes": {
+        "nomor_pb_umku": "812020888091800010003",
+        "nama": "PORTAL NEWS",
+        "website": "ewfpro.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EQUITYWORLD FUTURES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006011.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8650",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8569",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8650"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8649",
+      "attributes": {
+        "nomor_pb_umku": "812000584098600020009",
+        "nama": "APLIKASI MY YAMAHA MOTOR",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YAMAHA INDONESIA MOTOR MANUFACTURING",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003491.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8649",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8568",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8649"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8648",
+      "attributes": {
+        "nomor_pb_umku": "912000921103500020006",
+        "nama": "TRINVI",
+        "website": "trinvi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONUSA TELEMEDIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003544.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8648",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8325",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8648"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8647",
+      "attributes": {
+        "nomor_pb_umku": "210722006006300000001",
+        "nama": "JAJANAN DIGITAL",
+        "website": "jadiapps.bukaolshop.site",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FAHMI SANTOSO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006035.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8647",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8565",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8647"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8646",
+      "attributes": {
+        "nomor_pb_umku": "128700072166100020001",
+        "nama": "MITRA JASA LEGALITAS",
+        "website": "mitrajasalegalitas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MITRA JASA LEGALITAS",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006043.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8646",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8564",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8646"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8645",
+      "attributes": {
+        "nomor_pb_umku": "812020888091800010002",
+        "nama": "OFFICIAL WEBSITE",
+        "website": "equityworld-futures.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EQUITYWORLD FUTURES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006011.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8645",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8563",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8645"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8644",
+      "attributes": {
+        "nomor_pb_umku": "912031016055100000001",
+        "nama": "HAI DAFAM",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JAWARA SOLUSI NUSANTARA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004886.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8644",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8562",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8644"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8643",
+      "attributes": {
+        "nomor_pb_umku": "912010691075200010003",
+        "nama": "BEECLOUD",
+        "website": "beecloud.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BITS MILIARTHA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005595.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8643",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8561",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8643"
+      }
+    }
+  ]
+}

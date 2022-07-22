@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 292,
+      "from": 2911,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2920,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=293",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=291"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5602",
+      "attributes": {
+        "nomor_pb_umku": "028701013128100000001",
+        "nama": "JOVA SOFTWARE",
+        "website": "Jovasoftware.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUNDI MAS BERJAYA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003781.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5602",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5141",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5602"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5601",
+      "attributes": {
+        "nomor_pb_umku": "912020362154300020016",
+        "nama": "JITU SSSS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRAWEDA CIPTAKARSA INFORMATIKA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "002374.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5601",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5469",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5601"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5600",
+      "attributes": {
+        "nomor_pb_umku": "912030914284400010002",
+        "nama": "WEBSITE",
+        "website": "sfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUZUKI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004149.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5600",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5467",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5600"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5599",
+      "attributes": {
+        "nomor_pb_umku": "912020532194600010002",
+        "nama": "WEBSITE NSC FINANCE",
+        "website": "nscfinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSA SURYA CIPTADANA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004085.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5599",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5468",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5599"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5598",
+      "attributes": {
+        "nomor_pb_umku": "812010182251800040012",
+        "nama": "SIMPLYBED WEBSITE",
+        "website": "simplybed.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUTA ABADIPRIMANTARA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003602.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5598",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5465",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5598"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5597",
+      "attributes": {
+        "nomor_pb_umku": "140722004875100000001",
+        "nama": "PULSA HOKI",
+        "website": "pulsahoki.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "WILDAN FATUROHMAN",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004193.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5597",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5464",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5597"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5596",
+      "attributes": {
+        "nomor_pb_umku": "140422001374500010002",
+        "nama": "APLIKASI SAKAGO",
+        "website": "app.sakago.id",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAKA GLOBAL PERKASA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004190.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5596",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5466",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5596"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5595",
+      "attributes": {
+        "nomor_pb_umku": "912020362154300020015",
+        "nama": "JITU RTGS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRAWEDA CIPTAKARSA INFORMATIKA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "002374.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5595",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5463",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5595"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5594",
+      "attributes": {
+        "nomor_pb_umku": "912020532194600010001",
+        "nama": "KLIKNSC",
+        "website": "kliknsc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSA SURYA CIPTADANA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004085.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5594",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5462",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5594"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5593",
+      "attributes": {
+        "nomor_pb_umku": "812000881185300090001",
+        "nama": "WWW.ONEONCO.CO.ID ATAU ONE ONCO",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MILLENIA DHARMA INSANI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004108.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5593",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5458",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5593"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 286,
+      "from": 2851,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2860,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=287",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=285"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5667",
+      "attributes": {
+        "nomor_pb_umku": "121900056068600000001",
+        "nama": "FKIOS",
+        "website": "fkios.io",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PALUGADA SUMBER SUKSES",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004228.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5667",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5527",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5667"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5666",
+      "attributes": {
+        "nomor_pb_umku": "250522001783300000001",
+        "nama": "TOKO PULSA SERVER",
+        "website": "t-pulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MULTI DIGITAL SERVICE",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004234.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5666",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5526",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5666"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5665",
+      "attributes": {
+        "nomor_pb_umku": "912030431076400000001",
+        "nama": "VTRUST",
+        "website": "vtrustworld.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANTERO LANGIT JAYA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004231.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5665",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5525",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5665"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5664",
+      "attributes": {
+        "nomor_pb_umku": "029301007162800000001",
+        "nama": "TALK FUSION",
+        "website": "talkfusion.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI BUMI INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004230.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5664",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5524",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5664"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5663",
+      "attributes": {
+        "nomor_pb_umku": "140722001436700010001",
+        "nama": "CONNECTINDO",
+        "website": "connectindo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RICKY LIAUWANTO",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004226.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5663",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5523",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5663"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5662",
+      "attributes": {
+        "nomor_pb_umku": "022000811269800000001",
+        "nama": "DUNIA MASTER PULSA",
+        "website": "duniamasterpulsa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUNIA MASTER PULSA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004227.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5662",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5522",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5662"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5661",
+      "attributes": {
+        "nomor_pb_umku": "128800140207100000001",
+        "nama": "DAKASAKTI MULTISAMA",
+        "website": "dakasakti.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MAHMUDA KARIMA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004225.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5661",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5521",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5661"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5660",
+      "attributes": {
+        "nomor_pb_umku": "180222005947100010001",
+        "nama": "RENEOZEN",
+        "website": "reneo.web.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRABU TRISULA UTAMA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004204.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5660",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5520",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5660"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5659",
+      "attributes": {
+        "nomor_pb_umku": "912030383082900040004",
+        "nama": "SIMASJIWA.CO.ID",
+        "website": "simasjiwa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI SIMAS JIWA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "000344.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5659",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5519",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5659"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5658",
+      "attributes": {
+        "nomor_pb_umku": "912011013207400010003",
+        "nama": "TAGIH.ID",
+        "website": "tagih.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PEMBAYARAN LINTAS USAHA SUKSES",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004049.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5658",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5518",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5658"
+      }
+    }
+  ]
+}

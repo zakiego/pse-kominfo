@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 415,
+      "from": 4141,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4150,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=416",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=414"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4389",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "JayJay Edukasi",
+        "website": "jayjay.co",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JAY JAY EDUKASI",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002629.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4389",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4373",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4389"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4388",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CitraPulsa",
+        "website": "citrapulsa.me",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JASINDO CITRA MAJU",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002628.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4388",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4372",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4388"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4249",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Majoo",
+        "website": "www.majoo.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAJOO TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002633.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4249",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4244",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4249"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4058",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VENTA COMPUTINDO TECH",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOCHAMAD IWAN SETIYAWAN",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "001844.05/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4058",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3884",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4058"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4057",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VENTA COMPUTINDO TECHNOLOGIES",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOCHAMAD IWAN SETIYAWAN",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "001844.04/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4057",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3883",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4057"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4050",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "XL Axiata API Developer Portal",
+        "website": "https://developer.xlaxiata.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL AXIATA",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "001718.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4050",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3896",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4050"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4049",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRIAPI",
+        "website": "developers.bri.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "tanggal_terbit": "2022-04-27",
+        "nomor_tanda_daftar": "002468.05/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4049",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3937",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4049"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6396",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Lifepal",
+        "website": "Lifepal.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LIFEPAL TECHNOLOGIES INDONESIA",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002627.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6396",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3931",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6396"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4046",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Krisbow Indonesia E-Commerce",
+        "website": "krisbow.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KRISBOW INDONESIA",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002626.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4046",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3925",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4046"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4045",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SPADA",
+        "website": "www.spada.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "CHRISTIAN RAHARJO",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002625.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4045",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3879",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4045"
+      }
+    }
+  ]
+}

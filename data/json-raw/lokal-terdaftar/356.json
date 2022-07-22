@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 356,
+      "from": 3551,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3560,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=357",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=355"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4916",
+      "attributes": {
+        "nomor_pb_umku": "220422005182500000001",
+        "nama": "SEMESTA MAHAKARYA TEKNOLOGI DEVELOPMENT",
+        "website": "semestateknologi.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEMESTA MAHAKARYA TEKNOLOGI",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003532.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4916",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4785",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4916"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4915",
+      "attributes": {
+        "nomor_pb_umku": "280622007105100010002",
+        "nama": "PERDAGANGAN ECERAN KOMPUTER DAN PERLENGKAPANNYA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BINTANG CAHAYA MAKMUR",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003533.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4915",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4784",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4915"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4914",
+      "attributes": {
+        "nomor_pb_umku": "280622007105100010001",
+        "nama": "ONLINE SHOOP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BINTANG CAHAYA MAKMUR",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003533.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4914",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4783",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4914"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4913",
+      "attributes": {
+        "nomor_pb_umku": "123900046330800000001",
+        "nama": "ICOUNT",
+        "website": "nap.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA APLIKASI PRODUK",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003433.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4913",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4782",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4913"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4912",
+      "attributes": {
+        "nomor_pb_umku": "240222005806800020001",
+        "nama": "BITONBAY",
+        "website": "Bitonbay.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDI CRYPTO INTERNATIONAL",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003476.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4912",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4778",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4912"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4911",
+      "attributes": {
+        "nomor_pb_umku": "022000874098100010005",
+        "nama": "SYARIAH BUKOPIN CASH MANAGEMENT (SBCM)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN SYARIAH",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003490.05/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4911",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4781",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4911"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4910",
+      "attributes": {
+        "nomor_pb_umku": "022000874098100010004",
+        "nama": "SMS BANKING KB BUKOPIN SYARIAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN SYARIAH",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003490.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4910",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4780",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4910"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4909",
+      "attributes": {
+        "nomor_pb_umku": "022000874098100010003",
+        "nama": "BISA MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN SYARIAH",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003490.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4909",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4779",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4909"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4908",
+      "attributes": {
+        "nomor_pb_umku": "120422005939500010001",
+        "nama": "BLINK",
+        "website": "blink.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PELITA TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003489.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4908",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4777",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4908"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4907",
+      "attributes": {
+        "nomor_pb_umku": "022000874098100010002",
+        "nama": "ATM KB BUKOPIN SYARIAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK KB BUKOPIN SYARIAH",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003490.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4907",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4776",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4907"
+      }
+    }
+  ]
+}

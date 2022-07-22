@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 396,
+      "from": 3951,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3960,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=397",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=395"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4160",
+      "attributes": {
+        "nomor_pb_umku": "123900033222400020001",
+        "nama": "FAST CHECKOUT",
+        "website": "tara.app",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JASA SETARA DIGITAL",
+        "tanggal_daftar": "2022-05-28",
+        "tanggal_terbit": "2022-05-28",
+        "nomor_tanda_daftar": "000412.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4160",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4166",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4160"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5490",
+      "attributes": {
+        "nomor_pb_umku": "912020448118100030011",
+        "nama": "JARVIN",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUMI BERKAH BOGA",
+        "tanggal_daftar": "2022-05-27",
+        "tanggal_terbit": "2022-05-27",
+        "nomor_tanda_daftar": "001884.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5490",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4159",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5490"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4159",
+      "attributes": {
+        "nomor_pb_umku": "912000064238300000003",
+        "nama": "NUSAHOST",
+        "website": "nusahost.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAGNA NETWORK",
+        "tanggal_daftar": "2022-05-27",
+        "tanggal_terbit": "2022-05-27",
+        "nomor_tanda_daftar": "000410.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4159",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4165",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4159"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4158",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800720011",
+        "nama": "COMMODITY CHAIN (TEBUCHAIN)",
+        "website": "tebu.id",
+        "sektor": "Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-05-27",
+        "tanggal_terbit": "2022-05-27",
+        "nomor_tanda_daftar": "002468.07/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4158",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4164",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4158"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4157",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800720010",
+        "nama": "DELIMA BRI",
+        "website": "BRIDelima.id",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-05-27",
+        "tanggal_terbit": "2022-05-27",
+        "nomor_tanda_daftar": "002468.06/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4157",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4163",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4157"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4156",
+      "attributes": {
+        "nomor_pb_umku": "912030138015100090001",
+        "nama": "SIPLAH MITRA MEDIA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV MITRA MEDIA",
+        "tanggal_daftar": "2022-05-27",
+        "tanggal_terbit": "2022-05-27",
+        "nomor_tanda_daftar": "000402.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4156",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4162",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4156"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4155",
+      "attributes": {
+        "nomor_pb_umku": "022401021283900010001",
+        "nama": "WEBSITE BEST PROTEKSI",
+        "website": "bestproteksi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BEST PROTEKSI INDONESIA",
+        "tanggal_daftar": "2022-05-27",
+        "tanggal_terbit": "2022-05-27",
+        "nomor_tanda_daftar": "000397.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4155",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4161",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4155"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4154",
+      "attributes": {
+        "nomor_pb_umku": "270522002107500010001",
+        "nama": "OXYMAS",
+        "website": "oxymas.info",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IMAM SUBANDI",
+        "tanggal_daftar": "2022-05-27",
+        "tanggal_terbit": "2022-05-27",
+        "nomor_tanda_daftar": "000400.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4154",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4160",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4154"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4152",
+      "attributes": {
+        "nomor_pb_umku": "912000861124200000001",
+        "nama": "HTTPS://GROSIR.ONE/",
+        "website": "grosir.one",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GROSIRONE PRIMA NUSANTARA",
+        "tanggal_daftar": "2022-05-27",
+        "tanggal_terbit": "2022-05-27",
+        "nomor_tanda_daftar": "000396.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4152",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4157",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4152"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4151",
+      "attributes": {
+        "nomor_pb_umku": "912031619290400050002",
+        "nama": "DOCULIVE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SATRIA MEDIA TEKNOLOGI",
+        "tanggal_daftar": "2022-05-26",
+        "tanggal_terbit": "2022-05-26",
+        "nomor_tanda_daftar": "000382.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4151",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4156",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4151"
+      }
+    }
+  ]
+}

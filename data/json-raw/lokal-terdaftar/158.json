@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 158,
+      "from": 1571,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1580,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=159",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=157"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7040",
+      "attributes": {
+        "nomor_pb_umku": "912000248004700010001",
+        "nama": "HTTPS://WWW.BANKBOYOLALI.COM",
+        "website": "bankboyolali.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK BOYOLALI (PERSERODA)",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005077.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7040",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6894",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7040"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7039",
+      "attributes": {
+        "nomor_pb_umku": "090622006405200000001",
+        "nama": "SITUS WEBSITE",
+        "website": "danamitrasentosa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA MITRA SENTOSA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005125.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7039",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6893",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7039"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7038",
+      "attributes": {
+        "nomor_pb_umku": "912020071111900030003",
+        "nama": "SIMPLIFIKASI ONLINE OPENING ACCOUNT JUC SEKURITAS",
+        "website": "register.juc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JASA UTAMA CAPITAL SEKURITAS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001266.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7038",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6892",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7038"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7037",
+      "attributes": {
+        "nomor_pb_umku": "912021410096300020001",
+        "nama": "WEBSITE PT. BPR BUMI BANDUNG KENCANA",
+        "website": "bprbbk.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUMI BANDUNG KENCANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004930.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7037",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6891",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7037"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7036",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640048",
+        "nama": "EBRANCH BCA (WEB) - 3",
+        "website": "ebranch.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.55/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7036",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6875",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7036"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7035",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640047",
+        "nama": "EBRANCH BCA (WEB) - 2",
+        "website": "ebranch.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.54/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7035",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6869",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7035"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7034",
+      "attributes": {
+        "nomor_pb_umku": "812010897172700000001",
+        "nama": "WEB ELECTRONIC DATA INTERCHANGE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUSINESS ECLOUD INDONESIA INFORMATION TECHNOLOGY",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005065.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7034",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6890",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7034"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7033",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640047",
+        "nama": "ACS 3DS DEBIT SECONDARY DR",
+        "website": "3dsecuredebit2.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.53/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7033",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6866",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7033"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7032",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400640044",
+        "nama": "EBRANCH BCA (WEB)",
+        "website": "ebranch.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001669.52/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7032",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6863",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7032"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7031",
+      "attributes": {
+        "nomor_pb_umku": "912021806186500010001",
+        "nama": "BPR MITRA PARAHYANGAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRA PARAHYANGAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005040.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7031",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6888",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7031"
+      }
+    }
+  ]
+}

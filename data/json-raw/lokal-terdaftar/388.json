@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 388,
+      "from": 3871,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3880,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=389",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=387"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4263",
+      "attributes": {
+        "nomor_pb_umku": "912010013110300000001",
+        "nama": "RINGAN",
+        "website": "ringan.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RINGAN TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "002928.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4263",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4262",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4263"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4262",
+      "attributes": {
+        "nomor_pb_umku": "812000598133100010001",
+        "nama": "WEBSITE PROFILE PERUSAHAAN",
+        "website": "eisai.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EISAI INDONESIA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "002909.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4262",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4258",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4262"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4261",
+      "attributes": {
+        "nomor_pb_umku": "270522003970500000001",
+        "nama": "NAVA SINERGI LABORATORI GROUP",
+        "website": "makloncosmetics.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV NAVA SINERGI LABORATORI GROUP",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "002885.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4261",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4256",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4261"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4260",
+      "attributes": {
+        "nomor_pb_umku": "240522001585200020001",
+        "nama": "94AI INTELLIGENT USER OPERATION PLATFORM",
+        "website": "94ai.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AISEMBILANEMPAT INFORMASI TECHNOLOGY",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "000265.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4260",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4255",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4260"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4259",
+      "attributes": {
+        "nomor_pb_umku": "912001321370600000010",
+        "nama": "GOOGLE (KLEANER INDONESIA)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTERNUSA TERUS JAYA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "002858.11/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4259",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4254",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4259"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4257",
+      "attributes": {
+        "nomor_pb_umku": "120522003981100000001",
+        "nama": "BMONEY APPLICATION & WM BACK OFFICE SYSTEM",
+        "website": "bmoney.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUKA INVESTASI DIGITAL",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "002813.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4257",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4252",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4257"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4252",
+      "attributes": {
+        "nomor_pb_umku": "912031427139300030003",
+        "nama": "MOTION CREDIT",
+        "website": "MotionCredit.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC GUNA USAHA INDONESIA",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "000647.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4252",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4245",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4252"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4248",
+      "attributes": {
+        "nomor_pb_umku": "301221001712400010001",
+        "nama": "ALPHALITICAL.COM",
+        "website": "alphalitical.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI LINTAS NEGERI ABADI",
+        "tanggal_daftar": "2022-06-07",
+        "tanggal_terbit": "2022-06-07",
+        "nomor_tanda_daftar": "002940.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4248",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4243",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4248"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4247",
+      "attributes": {
+        "nomor_pb_umku": "141121000669800000001",
+        "nama": "DMTECHNO.ID",
+        "website": "dmtechno.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV DIGITAL MANDIRI TECHNOLOGY",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002935.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4247",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4242",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4247"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4246",
+      "attributes": {
+        "nomor_pb_umku": "090921009845800050002",
+        "nama": "CAHAYA ALBAROKAH SUKSES (CAS)",
+        "website": "cahayaalbarokahsukses.web.indotrading.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CAHAYA ALBAROKAH SUKSES",
+        "tanggal_daftar": "2022-06-06",
+        "tanggal_terbit": "2022-06-06",
+        "nomor_tanda_daftar": "002708.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4246",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4241",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4246"
+      }
+    }
+  ]
+}

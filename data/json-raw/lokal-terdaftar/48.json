@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 48,
+      "from": 471,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 480,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=49",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=47"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8167",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010007",
+        "nama": "PESTA REWARD WEBSITE INA17",
+        "website": "pestareward.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8167",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8085",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8167"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8166",
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000006",
+        "nama": "ESS",
+        "website": "realta.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004583.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8166",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7977",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8166"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8165",
+      "attributes": {
+        "nomor_pb_umku": "912030156007200020NaN",
+        "nama": "WEBSITE BPR PHM.COM",
+        "website": "bprphm.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PERBAUNGAN HOMBAR MAKMUR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005730.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8165",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8083",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8165"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8164",
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000005",
+        "nama": "ESS10",
+        "website": "realta.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004583.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8164",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7983",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8164"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8163",
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000004",
+        "nama": "IHCI, HOUSE CALL COLLECTION, IHC, LAB PROCESS",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004583.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8163",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8019",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8163"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8162",
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000003",
+        "nama": "PRIORITY",
+        "website": "realta.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004583.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8162",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8043",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8162"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8161",
+      "attributes": {
+        "nomor_pb_umku": "091021001360700020001",
+        "nama": "WORLDCOIN",
+        "website": "worldcoin.org",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SANDINA ABADI NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005783.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8161",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8082",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8161"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8160",
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010007",
+        "nama": "APLIKASI KREDITEK PT BPR BANK DAERAH BANGLI (PERSERODA)",
+        "website": "kreditekfa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005716.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8160",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8081",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8160"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8158",
+      "attributes": {
+        "nomor_pb_umku": "912030449041501110055",
+        "nama": "SELECTION EXAM 1",
+        "website": "exam1.telkom.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001331.47/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8158",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8025",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8158"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8156",
+      "attributes": {
+        "nomor_pb_umku": "912020273075600010001",
+        "nama": "WEB PROFIL PERUSAHAAN",
+        "website": "bankbna.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NGUNUT ARTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005768.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8156",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8076",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8156"
+      }
+    }
+  ]
+}

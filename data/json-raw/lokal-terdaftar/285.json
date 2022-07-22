@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 285,
+      "from": 2841,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2850,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=286",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=284"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5677",
+      "attributes": {
+        "nomor_pb_umku": "128300144143800000001",
+        "nama": "ORDER KUOTA",
+        "website": "orderkuota.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ORDER KUOTA EVOLUSI DIGITAL",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004243.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5677",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5532",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5677"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5676",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010005",
+        "nama": "API BANKSULSELBAR",
+        "website": "api.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5676",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5537",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5676"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5675",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010004",
+        "nama": "CMS BANKSULSELBAR SYARIAH",
+        "website": "cmsya.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004179.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5675",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5536",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5675"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5674",
+      "attributes": {
+        "nomor_pb_umku": "210622004864300010001",
+        "nama": "WWW.KOLABIZ.ID",
+        "website": "kolabiz.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOLABIZ INDONESIA MANDIRI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004238.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5674",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5535",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5674"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5673",
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010001",
+        "nama": "WEB EXTERNAL",
+        "website": "nobubank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004124.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5673",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5531",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5673"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5672",
+      "attributes": {
+        "nomor_pb_umku": "027401016243700060001",
+        "nama": "WAGIANTO ANGKASA WIJAYA",
+        "website": "MULTIGETS.COM",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANGKASA WIJAYA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004156.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5672",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5435",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5672"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5671",
+      "attributes": {
+        "nomor_pb_umku": "912000066142800000001",
+        "nama": "TEKNOVIEW SHAKA INDONESIA",
+        "website": "teknoview.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOVIEW SHAKA INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004244.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5671",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5533",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5671"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5670",
+      "attributes": {
+        "nomor_pb_umku": "021121000080800010001",
+        "nama": "SUBANG PEDIA",
+        "website": "Subangpedia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD RAMDAN",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004233.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5670",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5530",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5670"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5669",
+      "attributes": {
+        "nomor_pb_umku": "912020471370400020001",
+        "nama": "BPR RAJEKWESI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RAJEKWESI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004199.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5669",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5529",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5669"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5668",
+      "attributes": {
+        "nomor_pb_umku": "220422003826800000001",
+        "nama": "KIOSIN",
+        "website": "kiosindonesia.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KIOS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004236.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5668",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5528",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5668"
+      }
+    }
+  ]
+}

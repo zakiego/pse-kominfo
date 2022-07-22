@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 150,
+      "from": 1491,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1500,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=151",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=149"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7124",
+      "attributes": {
+        "nomor_pb_umku": "128800045136600010001",
+        "nama": "BANK PERKREDITAN RAKYAT PRISMABERLIAN DANARTA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PRISMABERLIAN DANARTA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005206.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7124",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6999",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7124"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7123",
+      "attributes": {
+        "nomor_pb_umku": "812000382013500760002",
+        "nama": "WWW.PLN.CO.ID",
+        "website": "pln.co.id",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN LISTRIK NEGARA (PERSERO)",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004620.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7123",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6912",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7123"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7122",
+      "attributes": {
+        "nomor_pb_umku": "190722006510100010001",
+        "nama": "EVOTA",
+        "website": "evota.net",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "WAHYU GUNAWAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005182.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7122",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6998",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7122"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7121",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040018",
+        "nama": "PASTIPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002933.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7121",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6902",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7121"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7120",
+      "attributes": {
+        "nomor_pb_umku": "022020710193400000001",
+        "nama": "SEIGO",
+        "website": "seigo.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANTAR CEPAT ABADI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005207.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7120",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6997",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7120"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7119",
+      "attributes": {
+        "nomor_pb_umku": "026700191017200000001",
+        "nama": "BANUA EPAY",
+        "website": "banuaepay.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BANUA KREASI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004756.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7119",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6996",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7119"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7118",
+      "attributes": {
+        "nomor_pb_umku": "281221000016700000001",
+        "nama": "PT QEONG MAS INDONESIA",
+        "website": "Qeong.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT QEONG MAS INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005195.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7118",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6995",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7118"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7117",
+      "attributes": {
+        "nomor_pb_umku": "022501001078300010001",
+        "nama": "BANK PERKREDITAN RAKYAT MITRA KOPJAYA MANDIRI",
+        "website": "bprmitrakopjaya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRA KOPJAYA MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005161.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7117",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6993",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7117"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7116",
+      "attributes": {
+        "nomor_pb_umku": "190722004864400000001",
+        "nama": "EBUDSPAY",
+        "website": "ebudspay.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Solihin",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005043.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7116",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6991",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7116"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7115",
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010004",
+        "nama": "CENTRALIZED TRADING PLATFORM - PENERIMA LAPORAN TRANSAKSI EFEK (CTP-PLTE)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000832.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7115",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6966",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7115"
+      }
+    }
+  ]
+}

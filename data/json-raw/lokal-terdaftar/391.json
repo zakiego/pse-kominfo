@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 391,
+      "from": 3901,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3910,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=392",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=390"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4219",
+      "attributes": {
+        "nomor_pb_umku": "812010495130200010001",
+        "nama": "CLOUD",
+        "website": "cbncloud.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CYBERINDO MEGA PERSADA",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "002881.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4219",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4217",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4219"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4218",
+      "attributes": {
+        "nomor_pb_umku": "210422002793900010001",
+        "nama": "COINBAC",
+        "website": "Coinbac.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI KOIN INDONESIA",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "002879.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4218",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4216",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4218"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4217",
+      "attributes": {
+        "nomor_pb_umku": "081021003106600040001",
+        "nama": "FASSET ID",
+        "website": "fasset.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GERBANG ASET DIGITAL",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "002690.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4217",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4215",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4217"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4216",
+      "attributes": {
+        "nomor_pb_umku": "812010391096100000001",
+        "nama": "SERVICE DESK AS A SERVICE (SDAAS) DAN NETWORK OPERATION CENTER AS A SERVICE (NOCAAS)",
+        "website": "ddiopscenter.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NTT INDONESIA SOLUTIONS",
+        "tanggal_daftar": "2022-06-03",
+        "tanggal_terbit": "2022-06-03",
+        "nomor_tanda_daftar": "002877.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4216",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4214",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4216"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4215",
+      "attributes": {
+        "nomor_pb_umku": "030622000135600000001",
+        "nama": "BERLIAN NET",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FREDDY MARPAUNG",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "002874.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4215",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4213",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4215"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4213",
+      "attributes": {
+        "nomor_pb_umku": "101121001369900050001",
+        "nama": "WOW KONSULTAN",
+        "website": "WOWKONSULTAN.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WOW INDONESIA BERSATU",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "000504.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4213",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4212",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4213"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4212",
+      "attributes": {
+        "nomor_pb_umku": "812020084062100290006",
+        "nama": "IVENDOR PERTAMINA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT PERTAMINA",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "002547.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4212",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4210",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4212"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4211",
+      "attributes": {
+        "nomor_pb_umku": "240122006692200010001",
+        "nama": "SEJASA.COM",
+        "website": "sejasa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RECOMN TECHNOLOGY SERVICES",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "000499.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4211",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4211",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4211"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4210",
+      "attributes": {
+        "nomor_pb_umku": "022020573214500040002",
+        "nama": "TDC DIGITAL",
+        "website": "tdcdigital.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRANS DIGITAL CEMERLANG",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "000339.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4210",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4209",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4210"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4209",
+      "attributes": {
+        "nomor_pb_umku": "812021304102800000001",
+        "nama": "AUTO PORTAL",
+        "website": "oto.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CARBAY SERVICES INDONESIA",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "000482.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4209",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4208",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4209"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 10,
+      "from": 91,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 100,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=11",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=9"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8622",
+      "attributes": {
+        "nomor_pb_umku": "210722004201500000001",
+        "nama": "WEBSITE BANK KOTA BLITAR",
+        "website": "bankkotablitar.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERUSAHAAN UMUM DAERAH BPR KOTA BLITAR",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005975.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8622",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8540",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8622"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8621",
+      "attributes": {
+        "nomor_pb_umku": "210322006034700150002",
+        "nama": "BEACON ENGINEERING",
+        "website": "monitoring4system.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARTA TEKNOLOGI COMUNINDO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005859.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8621",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8539",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8621"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8620",
+      "attributes": {
+        "nomor_pb_umku": "812001816259400010005",
+        "nama": "LAYANAN PPOB",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR BANK SOLO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005990.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8620",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8538",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8620"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8619",
+      "attributes": {
+        "nomor_pb_umku": "123800050041800000001",
+        "nama": "HTTPS://HONDADEWATAMOTOR.CO.ID/",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DEWATA MOTOR",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006029.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8619",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8537",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8619"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8618",
+      "attributes": {
+        "nomor_pb_umku": "912010360118900020001",
+        "nama": "ISLAMIC BANKING APPLICATION",
+        "website": "bprs-bdw.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBIAYAAN RAKYAT SYARI`AH BANGUN DRAJAT WARGA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005662.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8618",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8535",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8618"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8617",
+      "attributes": {
+        "nomor_pb_umku": "812001816259400010004",
+        "nama": "WHATSAPP BANKING SYSTEM BANK SOLO",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR BANK SOLO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005990.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8617",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8536",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8617"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8616",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "IBS USSI",
+        "website": "bprsadana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SADANA UTAMA BALI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006017.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8616",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8534",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8616"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8615",
+      "attributes": {
+        "nomor_pb_umku": "812001816259400010003",
+        "nama": "VIRTUAL ACCOUNT BANK SOLO",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BPR BANK SOLO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005990.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8615",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8533",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8615"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8614",
+      "attributes": {
+        "nomor_pb_umku": "912011013207400010005",
+        "nama": "SIJITU",
+        "website": "sijitu.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PEMBAYARAN LINTAS USAHA SUKSES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004049.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8614",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8532",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8614"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8613",
+      "attributes": {
+        "nomor_pb_umku": "912010173011300010001",
+        "nama": "WEBSITE BPR PUSAKA",
+        "website": "pusaka.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PUSAKA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006019.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8613",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8530",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8613"
+      }
+    }
+  ]
+}

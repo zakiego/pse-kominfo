@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 197,
+      "from": 1961,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1970,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=198",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=196"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6627",
+      "attributes": {
+        "nomor_pb_umku": "060422000067400000002",
+        "nama": "LAYANAN DIGITAL",
+        "website": "layanandigital.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DIGITAL ONLINE TERUS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003402.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6627",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6482",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6627"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6626",
+      "attributes": {
+        "nomor_pb_umku": "912030143131500000001",
+        "nama": "LINDUNGIHUTAN",
+        "website": "lindungihutan.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LINDUNGI BUMI NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004847.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6626",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6478",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6626"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6625",
+      "attributes": {
+        "nomor_pb_umku": "190722000957300010002",
+        "nama": "WEBSITE BANK DAERAH GIANYAR",
+        "website": "bdgianyar.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DAERAH GIANYAR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004828.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6625",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6480",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6625"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6624",
+      "attributes": {
+        "nomor_pb_umku": "022010378190100010001",
+        "nama": "WEBSITE",
+        "website": "bprceperklaten.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CEPER",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004705.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6624",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6481",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6624"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6623",
+      "attributes": {
+        "nomor_pb_umku": "912040180041700010001",
+        "nama": "BSS (BANKING SMART SYSTEM)",
+        "website": "bprkrisnayunadana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KRISNA YUNA DANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004687.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6623",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6479",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6623"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6622",
+      "attributes": {
+        "nomor_pb_umku": "022010510277400010001",
+        "nama": "AMMANA",
+        "website": "ammana.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMMANA FINTEK SYARIAH",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004576.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6622",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6461",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6622"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6621",
+      "attributes": {
+        "nomor_pb_umku": "912010124008500000002",
+        "nama": "LOVE FTW",
+        "website": "loveftw.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KAYA RAYA TURUN TEMURUN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004842.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6621",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6477",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6621"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6620",
+      "attributes": {
+        "nomor_pb_umku": "028900094105600010001",
+        "nama": "EASYBIZ",
+        "website": "easybiz.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JUSTIKA SOLUSI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004859.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6620",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6476",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6620"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6619",
+      "attributes": {
+        "nomor_pb_umku": "160722001692400000001",
+        "nama": "KIOSPAY TEKNOLOGI INDONESIA",
+        "website": "kiospay.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PRASETYA HERU TAMA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004421.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6619",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5820",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6619"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6618",
+      "attributes": {
+        "nomor_pb_umku": "125500030142700000002",
+        "nama": "IBS VIRTUAL ACCOUNT",
+        "website": "hokibank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004617.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6618",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6475",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6618"
+      }
+    }
+  ]
+}

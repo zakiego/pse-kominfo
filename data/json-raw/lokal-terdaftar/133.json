@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 133,
+      "from": 1321,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1330,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=134",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=132"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7297",
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010008",
+        "nama": "E-MARINE",
+        "website": "emarine.bcainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003517.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7297",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7187",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7297"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7296",
+      "attributes": {
+        "nomor_pb_umku": "190722006073500000001",
+        "nama": "PT BPR PINASUNGKULAN INDAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PINASUNGKULAN INDAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005114.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7296",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7185",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7296"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7295",
+      "attributes": {
+        "nomor_pb_umku": "280422002391100050001",
+        "nama": "ESIGN",
+        "website": "esign.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI IDENTITAS GLOBAL NET",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004175.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7295",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6924",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7295"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7294",
+      "attributes": {
+        "nomor_pb_umku": "912040171168100010001",
+        "nama": "PT. BPR NUSAMBA TEGALLALANG",
+        "website": "bprnusamba-tegallalang.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSAMBA TEGALLALANG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005000.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7294",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7186",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7294"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7293",
+      "attributes": {
+        "nomor_pb_umku": "128200053024400010002",
+        "nama": "SANF.CO.ID",
+        "website": "sanf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SURYA ARTHA NUSANTARA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003385.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7293",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7183",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7293"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7292",
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010007",
+        "nama": "E-POLIS",
+        "website": "e-polis.bcainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003517.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7292",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7182",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7292"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7291",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801200056",
+        "nama": "E-RECRUITMENT BRI",
+        "website": "e-recruitment.bri.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002468.52/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7291",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7181",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7291"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7290",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010007",
+        "nama": "TOUCHBIZ",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001186.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7290",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7180",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7290"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7289",
+      "attributes": {
+        "nomor_pb_umku": "280622001169500000001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "BPRBAYUDHANA.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BAYUDHANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004623.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7289",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7087",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7289"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7288",
+      "attributes": {
+        "nomor_pb_umku": "812021617062400000001",
+        "nama": "WWW.NIAGAHOSTER.OC.ID",
+        "website": "niagahoster.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WEB MEDIA TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005258.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7288",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7084",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7288"
+      }
+    }
+  ]
+}

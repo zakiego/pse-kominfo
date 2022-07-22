@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 306,
+      "from": 3051,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3060,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=307",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=305"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5444",
+      "attributes": {
+        "nomor_pb_umku": "022010270370800000004",
+        "nama": "HALOBELANJA DOTCOM",
+        "website": "halobelanja.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HALO BELANJA DOTCOM",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004030.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5444",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5316",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5444"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5443",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801160043",
+        "nama": "SINPI (SISTEM INFORMASI PERTANIAN INDONESIA)",
+        "website": "sinpi.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002468.39/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5443",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5315",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5443"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5442",
+      "attributes": {
+        "nomor_pb_umku": "912030064238600020001",
+        "nama": "SIMO",
+        "website": "simo.inhealth.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA INHEALTH INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001411.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5442",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5314",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5442"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5441",
+      "attributes": {
+        "nomor_pb_umku": "022010270370800000003",
+        "nama": "HALOBELANJADOTCOM",
+        "website": "halobelanja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HALO BELANJA DOTCOM",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004030.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5441",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5313",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5441"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5440",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "REMITTANCEBCA",
+        "website": "remittancebca.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001669.20/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5440",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5273",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5440"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5439",
+      "attributes": {
+        "nomor_pb_umku": "812011403137800010002",
+        "nama": "WAHYOO",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALIRAN SUMBER BERKAT",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002823.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5439",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5309",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5439"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5438",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801160042",
+        "nama": "NELAYAN SEJAHTERA",
+        "website": "nelayansejahtera.bri.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002468.38/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5438",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5310",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5438"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5437",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000001",
+        "nama": "FINGERSPOT.IO",
+        "website": "fingerspot.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003983.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5437",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5302",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5437"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5436",
+      "attributes": {
+        "nomor_pb_umku": "022010270370800000002",
+        "nama": "HALO BELANJA",
+        "website": "halobelanja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HALO BELANJA DOTCOM",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004030.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5436",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5308",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5436"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5435",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801160041",
+        "nama": "BRICARD",
+        "website": "bricard.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "002468.37/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5435",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5307",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5435"
+      }
+    }
+  ]
+}

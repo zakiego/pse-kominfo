@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 348,
+      "from": 3471,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3480,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=349",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=347"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4999",
+      "attributes": {
+        "nomor_pb_umku": "231121000471600050003",
+        "nama": "JASAKULEGALITAS.COM",
+        "website": "jasakulegalitas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JASAKU CONSULTANT CORP",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003626.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4999",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4868",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4999"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4998",
+      "attributes": {
+        "nomor_pb_umku": "231121000471600050003",
+        "nama": "JASAKU CONSULTANT CORP",
+        "website": "jasakulegalitas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JASAKU CONSULTANT CORP",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003626.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4998",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4867",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4998"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4997",
+      "attributes": {
+        "nomor_pb_umku": "812010682351500020001",
+        "nama": "UNIPIN.COM",
+        "website": "unipin.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUA PULUH EMPAT JAM ONLINE",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "001872.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4997",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4866",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4997"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4996",
+      "attributes": {
+        "nomor_pb_umku": "231121000471600050002",
+        "nama": "PT. JASAKU CONSULTANT CORP",
+        "website": "jasakulegalitas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JASAKU CONSULTANT CORP",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003626.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4996",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4865",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4996"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4995",
+      "attributes": {
+        "nomor_pb_umku": "912011629266600010001",
+        "nama": "GPOS LITE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDELA POTENTIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003625.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4995",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4864",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4995"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4994",
+      "attributes": {
+        "nomor_pb_umku": "130622005558500000001",
+        "nama": "GOAPOTIK",
+        "website": "goapotik.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KARSA INTI TUJU ASKARA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003144.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4994",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4863",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4994"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4993",
+      "attributes": {
+        "nomor_pb_umku": "190122001735800000002",
+        "nama": "PT JAGOAN LEGAL CORP",
+        "website": "jagoanlegalitas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JAGOAN LEGAL CORP",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003621.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4993",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4862",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4993"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4992",
+      "attributes": {
+        "nomor_pb_umku": "190122001735800000001",
+        "nama": "PT. JAGOAN LEGAL CORP",
+        "website": "jagoanlegalitas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JAGOAN LEGAL CORP",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "003621.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4992",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4861",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4992"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4991",
+      "attributes": {
+        "nomor_pb_umku": "912000117206600140012",
+        "nama": "SNAP CAREERS",
+        "website": "snap.careers",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SNAP INNOVATIONS INDONESIA",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "002861.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4991",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4859",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4991"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4990",
+      "attributes": {
+        "nomor_pb_umku": "030522000003800080004",
+        "nama": "MARKET INDONESIA IPTV",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MARKET INDONESIA STARTUP",
+        "tanggal_daftar": "2022-07-01",
+        "tanggal_terbit": "2022-07-01",
+        "nomor_tanda_daftar": "002644.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4990",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4858",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4990"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 56,
+      "from": 551,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 560,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=57",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=55"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8071",
+      "attributes": {
+        "nomor_pb_umku": "912010475187600010001",
+        "nama": "PT BPR BAPURI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PURNAWIRAWAN INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005763.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8071",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7994",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8071"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8070",
+      "attributes": {
+        "nomor_pb_umku": "812010488092400020001",
+        "nama": "WEBSITE CHATIME INDONESIA (WWW.CHATIME.CO.ID)",
+        "website": "chatime.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FOODS BEVERAGES INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005756.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8070",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7992",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8070"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8069",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020005",
+        "nama": "CENTRALGROUP10X.COM",
+        "website": "centralgroup10x.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8069",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7991",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8069"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8068",
+      "attributes": {
+        "nomor_pb_umku": "912040589091900030012",
+        "nama": "KENDIXPRESS",
+        "website": "kendixpress.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REDKENDI ANDALAN MITRA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000311.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8068",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7988",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8068"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8067",
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020005",
+        "nama": "THESERENITYCENTRAL.COM",
+        "website": "theserenitycentral.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005702.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8067",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7987",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8067"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8066",
+      "attributes": {
+        "nomor_pb_umku": "912040994254100010005",
+        "nama": "BCA LIFE MOBILE SERVICES",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA BCA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002181.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8066",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7986",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8066"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8065",
+      "attributes": {
+        "nomor_pb_umku": "022010775288300010002",
+        "nama": "SOLUSI INDOMOBIL PERKASA (COMPANY WEBSITE)",
+        "website": "sipexpress.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI INDOMOBIL PERKASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005726.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8065",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7985",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8065"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8064",
+      "attributes": {
+        "nomor_pb_umku": "912030568258100350001",
+        "nama": "HTTPS://WWW.SINERGITEKNOGLOBAL.CO.ID/",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINERGI TEKNOGLOBAL PERKASA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004607.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8064",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7980",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8064"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8063",
+      "attributes": {
+        "nomor_pb_umku": "022020370023500000002",
+        "nama": "DRIVER JOGJAKITA",
+        "website": "jogjakita.co.id",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JOGJAKITA MULTI ANDALAN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002039.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8063",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7984",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8063"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8062",
+      "attributes": {
+        "nomor_pb_umku": "912001519122100010001",
+        "nama": "WEBSITE BANKINA.ID",
+        "website": "bankina.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK INA PERDANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000860.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8062",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7931",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8062"
+      }
+    }
+  ]
+}

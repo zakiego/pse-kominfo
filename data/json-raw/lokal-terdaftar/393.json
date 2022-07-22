@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 393,
+      "from": 3921,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3930,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=394",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=392"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4197",
+      "attributes": {
+        "nomor_pb_umku": "250821002492300020001",
+        "nama": "BEERU",
+        "website": "beeru.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERKAT REZEKI UTAMA",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000311.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4197",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4199",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4197"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4195",
+      "attributes": {
+        "nomor_pb_umku": "129900048018300380001",
+        "nama": "LABEL (LABORATORIUM PEMBELAJARAN)",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANNORA MULTI INTECH",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000373.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4195",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4198",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4195"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4194",
+      "attributes": {
+        "nomor_pb_umku": "125700042247200000001",
+        "nama": "WISBAYAR",
+        "website": "wisbayar.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI DIGITAL CEPAT",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000310.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4194",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4197",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4194"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4193",
+      "attributes": {
+        "nomor_pb_umku": "022020063190900030002",
+        "nama": "WINPAY",
+        "website": "winpay.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000464.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4193",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4195",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4193"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4192",
+      "attributes": {
+        "nomor_pb_umku": "022000030241700000001",
+        "nama": "IDOGO",
+        "website": "ido-go.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MOBILE DATA INDONESIA",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000463.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4192",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4194",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4192"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4191",
+      "attributes": {
+        "nomor_pb_umku": "040422002988900000001",
+        "nama": "PAKETINDO",
+        "website": "paketindo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TECHINDO SENTOSA RAYA",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000468.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4191",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4193",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4191"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4190",
+      "attributes": {
+        "nomor_pb_umku": "812010791224500050179",
+        "nama": "HOME CENTER INDONESIA - COMPANY PROFILE",
+        "website": "informa.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOME CENTER INDONESIA",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000470.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4190",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4192",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4190"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4189",
+      "attributes": {
+        "nomor_pb_umku": "912011208254300010001",
+        "nama": "LUMMOSHOP",
+        "website": "lummoshop.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BEEGROUP FINANCIAL INDONESIA",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "00047.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4189",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4190",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4189"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4188",
+      "attributes": {
+        "nomor_pb_umku": "101121001708600020001",
+        "nama": "SINERGI INDOMEDIA PERKASA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV SINERGI INDOMEDIA PERKASA",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000427.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4188",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4189",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4188"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4187",
+      "attributes": {
+        "nomor_pb_umku": "070222006642800050001",
+        "nama": "ONEPETS",
+        "website": "onepets.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ONEPETS GROUP INDONESIA",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-05-30",
+        "nomor_tanda_daftar": "000450.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4187",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4188",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4187"
+      }
+    }
+  ]
+}

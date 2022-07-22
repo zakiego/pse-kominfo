@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 8,
+      "from": 71,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 80,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=9",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=7"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8642",
+      "attributes": {
+        "nomor_pb_umku": "125900020230800010001",
+        "nama": "PASAR KUOTA",
+        "website": "pasarkuota.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PASAR KUOTA NUSANTARA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006045.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8642",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8560",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8642"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8641",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900010008",
+        "nama": "AFAHIJAB.COM",
+        "website": "afahijab.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "002941.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8641",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8559",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8641"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8640",
+      "attributes": {
+        "nomor_pb_umku": "812030289001200050002",
+        "nama": "OFFICIAL WEBSITE",
+        "website": "kp-futures.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KONTAKPERKASA FUTURES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006012.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8640",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8558",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8640"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8639",
+      "attributes": {
+        "nomor_pb_umku": "022000287044600010002",
+        "nama": "IBS BRANCHLESS PT BPR BKK BOYOLALI",
+        "website": "bprbkkboyolali.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN BOYOLALI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006031.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8639",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8557",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8639"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8638",
+      "attributes": {
+        "nomor_pb_umku": "022010347077100020001",
+        "nama": "METATRADER 5",
+        "website": "rtfi.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REALTIME FOREX INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006047.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8638",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8556",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8638"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8637",
+      "attributes": {
+        "nomor_pb_umku": "912011820226200000001",
+        "nama": "R1",
+        "website": "one.runsystem.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL SUKSES SOLUSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "000098.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8637",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8547",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8637"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8636",
+      "attributes": {
+        "nomor_pb_umku": "812020888091800010001",
+        "nama": "REGOLEWF",
+        "website": "regol.equityworld-futures.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EQUITYWORLD FUTURES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006011.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8636",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8555",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8636"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8635",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020013",
+        "nama": "ATKP PT BPD KALTIM KALTARA",
+        "website": "atkp.bankaltimtara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004622.13/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8635",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8554",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8635"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8634",
+      "attributes": {
+        "nomor_pb_umku": "912010049041800000001",
+        "nama": "TABLEAU BI",
+        "website": "visidata1.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VISIDATA ANUGERAH MITRA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005915.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8634",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8549",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8634"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8633",
+      "attributes": {
+        "nomor_pb_umku": "022000287044600010002",
+        "nama": "QRIS BPR BKK BOYOLALI",
+        "website": "bprbkkboyolali.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN BOYOLALI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006031.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8633",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8553",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8633"
+      }
+    }
+  ]
+}

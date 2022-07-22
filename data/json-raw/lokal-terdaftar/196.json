@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 196,
+      "from": 1951,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1960,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=197",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=195"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6637",
+      "attributes": {
+        "nomor_pb_umku": "190522002197600000001",
+        "nama": "BPR KARYA BERSAMA UGAHARI",
+        "website": "bprkbu.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYA BERSAMA UGAHARI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004171.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6637",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6487",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6637"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6636",
+      "attributes": {
+        "nomor_pb_umku": "130122002796100000001",
+        "nama": "ADMINPAJAK.COM",
+        "website": "adminpajak.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADMIN PAJAK TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004844.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6636",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6490",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6636"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6635",
+      "attributes": {
+        "nomor_pb_umku": "912000387067400010001",
+        "nama": "BANGKING SMART SYSTEM",
+        "website": "bankparasarisibang.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PARASARI SIBANG",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004814.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6635",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6494",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6635"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6634",
+      "attributes": {
+        "nomor_pb_umku": "028801004139400010001",
+        "nama": "BPR BERKAH PAKTO",
+        "website": "BPRBERKAHPAKTO.CO.ID",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BERKAH PAKTO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004857.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6634",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6493",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6634"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6633",
+      "attributes": {
+        "nomor_pb_umku": "912001108163900010003",
+        "nama": "NONA",
+        "website": "nona.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HYPEFAST KARYA NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004142.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6633",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6492",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6633"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6632",
+      "attributes": {
+        "nomor_pb_umku": "912030311167200010001",
+        "nama": "CORPORATE WEBSITE HINO FINANCE INDONESIA",
+        "website": "hinofinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HINO FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004860.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6632",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6491",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6632"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6631",
+      "attributes": {
+        "nomor_pb_umku": "912031417261500010001",
+        "nama": "S21 PLUS",
+        "website": "mahastra-andalan-sekuritas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHASTRA ANDALAN SEKURITAS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004700.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6631",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6489",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6631"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6630",
+      "attributes": {
+        "nomor_pb_umku": "912031328138200000001",
+        "nama": "BPR PEDUNGAN",
+        "website": "bprpedungan.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PEDUNGAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004834.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6630",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6484",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6630"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6629",
+      "attributes": {
+        "nomor_pb_umku": "912000790134400000001",
+        "nama": "WEBSITE",
+        "website": "bprsuryayudha.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA YUDHA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004704.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6629",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6483",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6629"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6628",
+      "attributes": {
+        "nomor_pb_umku": "812031303216700000002",
+        "nama": "PRIVATE CLOUD SERVICE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI KARYA UGAHARI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004767.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6628",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6485",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6628"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 294,
+      "from": 2931,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2940,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=295",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=293"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5578",
+      "attributes": {
+        "nomor_pb_umku": "140722004349400000001",
+        "nama": "SDP MOBILE",
+        "website": "smartdigitalpayment.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "CHOLID QIWAMUDIN",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004180.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5578",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5451",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5578"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5577",
+      "attributes": {
+        "nomor_pb_umku": "812010182251800040010",
+        "nama": "FLORENCE WEBSITE",
+        "website": "florence.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUTA ABADIPRIMANTARA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003602.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5577",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5450",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5577"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5576",
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010001",
+        "nama": "INTERNET BANKING & MOBILE BANKING BANK SULSELBAR",
+        "website": "ib.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004179.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5576",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5448",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5576"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5575",
+      "attributes": {
+        "nomor_pb_umku": "912000754210800020001",
+        "nama": "WEBSITE PERUSAHAAN PT BNI ASSET MANAGEMENT",
+        "website": "bni-am.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BNI ASSET MANAGEMENT",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004178.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5575",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5447",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5575"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5574",
+      "attributes": {
+        "nomor_pb_umku": "912030155175900010001",
+        "nama": "PT BPR VII KOTO",
+        "website": "ptbprviikoto.page.tl",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT VII KOTO",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004167.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5574",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5446",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5574"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5573",
+      "attributes": {
+        "nomor_pb_umku": "812010182251800040009",
+        "nama": "SERTA WEBSITE",
+        "website": "serta.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DUTA ABADIPRIMANTARA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003602.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5573",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5429",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5573"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5572",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040019",
+        "nama": "LMS BANK BJB",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003382.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5572",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5445",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5572"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5571",
+      "attributes": {
+        "nomor_pb_umku": "281221000781900050002",
+        "nama": "METASIGN SOFTWARE",
+        "website": "signalpremium.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKADEMI META INTERNASIONAL",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004141.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5571",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5443",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5571"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5570",
+      "attributes": {
+        "nomor_pb_umku": "240322006752100000001",
+        "nama": "XML MOBILE",
+        "website": "xmltronik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XTRA MENDAHULUKAN LAYANAN",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004173.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5570",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5442",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5570"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5569",
+      "attributes": {
+        "nomor_pb_umku": "912030898380300010001",
+        "nama": "ONLINEPAJAK",
+        "website": "online-pajak.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ACHILLES ADVANCED SYSTEMS",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004172.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5569",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5441",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5569"
+      }
+    }
+  ]
+}

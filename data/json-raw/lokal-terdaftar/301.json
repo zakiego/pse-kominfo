@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 301,
+      "from": 3001,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3010,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=302",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=300"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5508",
+      "attributes": {
+        "nomor_pb_umku": "912000820106600020004",
+        "nama": "AGRION TRADER",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISAN TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001665.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5508",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5371",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5508"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5507",
+      "attributes": {
+        "nomor_pb_umku": "912000749085600020007",
+        "nama": "MOMOBIL.ID",
+        "website": "momobil.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIRA DINAMIKA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003745.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5507",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5370",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5507"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5506",
+      "attributes": {
+        "nomor_pb_umku": "123700245186900000003",
+        "nama": "BATUSTORE",
+        "website": "batustore.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TERA KREASI SEMESTA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004115.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5506",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5369",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5506"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5505",
+      "attributes": {
+        "nomor_pb_umku": "912030040140800030004",
+        "nama": "FUND CORPORATE",
+        "website": "miraeasset.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MIRAE ASSET SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "000815.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5505",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5368",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5505"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5504",
+      "attributes": {
+        "nomor_pb_umku": "123700245186900000002",
+        "nama": "CUAN AE",
+        "website": "cuanae.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TERA KREASI SEMESTA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004115.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5504",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5367",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5504"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5503",
+      "attributes": {
+        "nomor_pb_umku": "090722000762300090001",
+        "nama": "SOLUMED",
+        "website": "solumedis.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUKUN SOLUSI MEDIKA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004123.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5503",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5366",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5503"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5502",
+      "attributes": {
+        "nomor_pb_umku": "912000820106600020003",
+        "nama": "AGRION AGENT",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISAN TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001665.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5502",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5365",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5502"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5501",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "KAWANBAYAR",
+        "website": "kawanbayar.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TERA KREASI SEMESTA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004115.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5501",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5363",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5501"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5499",
+      "attributes": {
+        "nomor_pb_umku": "812020596267900000001",
+        "nama": "GOWORK COWORKING OFFICE SPACE",
+        "website": "go-work.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KOLABORASI GLOBAL SUKSES",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004055.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5499",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5364",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5499"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5498",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620024",
+        "nama": "BCA PAYMENT GATEWAY",
+        "website": "ecommpg.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001669.25/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5498",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5362",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5498"
+      }
+    }
+  ]
+}

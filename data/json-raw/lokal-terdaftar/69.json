@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 69,
+      "from": 681,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 690,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=70",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=68"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7941",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010003",
+        "nama": "PESTA REWARD",
+        "website": "pestareward.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7941",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7859",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7941"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7940",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040008",
+        "nama": "NBP BANTU JUAL",
+        "website": "nbpbantujual.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005098.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7940",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7861",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7940"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7939",
+      "attributes": {
+        "nomor_pb_umku": "812021911022600000002",
+        "nama": "WEBSITE SIPLAH KLIKMRO",
+        "website": "siplah.klikmro.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EMARO ONLINE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002685.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7939",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7831",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7939"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7938",
+      "attributes": {
+        "nomor_pb_umku": "912010738212400000002",
+        "nama": "ENA HEALTH INFORMATION MANAGEMENT SYSTEM, ENA HIS, ENA PRIMER",
+        "website": "ena-indonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ENA ENA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005504.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7938",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7858",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7938"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7937",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160020",
+        "nama": "RUMAHIMPIAN.ID",
+        "website": "rumahimpian.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000863.34/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7937",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7855",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7937"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7936",
+      "attributes": {
+        "nomor_pb_umku": "912040994254100010003",
+        "nama": "WEBSITE PERUSAHAAN BCA LIFE",
+        "website": "bcalife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA BCA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002181.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7936",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7851",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7936"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7935",
+      "attributes": {
+        "nomor_pb_umku": "912020246068100010001",
+        "nama": "WEBSITE BPR BUANA ARTHA LESTARI",
+        "website": "bprbatari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BUANA ARTHA LESTARI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005708.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7935",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7854",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7935"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7934",
+      "attributes": {
+        "nomor_pb_umku": "912010234172900010001",
+        "nama": "WEBSITE PT BPR BATUARTOREJO",
+        "website": "bprartorejobatu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BATUARTOREJO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005574.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7934",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7852",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7934"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7933",
+      "attributes": {
+        "nomor_pb_umku": "912020880012100010001",
+        "nama": "APLIKASI RETAIL BPR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PUSAKA DANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005692.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7933",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7853",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7933"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7932",
+      "attributes": {
+        "nomor_pb_umku": "912020281179300010002",
+        "nama": "WEBSITE PT BPR BANK JEPARA ARTHA (PERSERODA)",
+        "website": "bprbja.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK JEPARA ARTHA (PERSERODA)",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004356.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7932",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7794",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7932"
+      }
+    }
+  ]
+}

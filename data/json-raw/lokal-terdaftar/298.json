@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 298,
+      "from": 2971,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2980,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=299",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=297"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5538",
+      "attributes": {
+        "nomor_pb_umku": "281221000781900050001",
+        "nama": "META SOFTWARE",
+        "website": "signalpremium.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKADEMI META INTERNASIONAL",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004141.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5538",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5403",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5538"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5537",
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010006",
+        "nama": "WHISTLEBLOWING SYSTEM",
+        "website": "wbs.bcainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003517.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5537",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5402",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5537"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5536",
+      "attributes": {
+        "nomor_pb_umku": "812000584098600020006",
+        "nama": "WEBSITE YAMAHA MOTOR INDONESIA",
+        "website": "yamaha-motor.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YAMAHA INDONESIA MOTOR MANUFACTURING",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003491.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5536",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5401",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5536"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5535",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040015",
+        "nama": "BJB GREEN",
+        "website": "portal.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003382.17/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5535",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5400",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5535"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5534",
+      "attributes": {
+        "nomor_pb_umku": "123300010047500000001",
+        "nama": "PEAKIMPACT.NET",
+        "website": "peakimpact.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PEAK IMPACT COACHING AND CONSULTING",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004095.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5534",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5399",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5534"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5533",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000007",
+        "nama": "KITACLOUD.COM",
+        "website": "kitacloud.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003983.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5533",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5398",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5533"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5532",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000006",
+        "nama": "FINGERSPOT.NET",
+        "website": "fingerspot.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003983.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5532",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5397",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5532"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5531",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000005",
+        "nama": "REVOTIME.ID",
+        "website": "revotime.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003983.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5531",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5396",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5531"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5530",
+      "attributes": {
+        "nomor_pb_umku": "271021003116800000004",
+        "nama": "FEDU.IO",
+        "website": "fedu.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ERA LINTAS TEKNOLOGI",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003983.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5530",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5394",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5530"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5529",
+      "attributes": {
+        "nomor_pb_umku": "025401013152800040001",
+        "nama": "BOSCOD",
+        "website": "boscod.com",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HADID PARAMA INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004132.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5529",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5383",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5529"
+      }
+    }
+  ]
+}

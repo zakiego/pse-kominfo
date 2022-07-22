@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 81,
+      "from": 801,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 810,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=82",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=80"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7821",
+      "attributes": {
+        "nomor_pb_umku": "912000376167300010001",
+        "nama": "WEBSITE PT BPR HARTASARANA",
+        "website": "hartasarana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HARTASARANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005568.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7821",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7739",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7821"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7820",
+      "attributes": {
+        "nomor_pb_umku": "022010447220800010001",
+        "nama": "DOCTUGO",
+        "website": "doctugo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI TEKNOLOGI SOLUSINDO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005366.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7820",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7735",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7820"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7819",
+      "attributes": {
+        "nomor_pb_umku": "200722004814700000001",
+        "nama": "AGEN ASURANSI ONLINE",
+        "website": "klikasuransionline.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ARNANTO KARTAMIHARDJA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005657.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7819",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7738",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7819"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7818",
+      "attributes": {
+        "nomor_pb_umku": "121200036310300020001",
+        "nama": "GTERA.ID",
+        "website": "gtera.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CAHAYA WARGA NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005620.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7818",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7588",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7818"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7817",
+      "attributes": {
+        "nomor_pb_umku": "912040174219100010001",
+        "nama": "ASSIST",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ANUGERAHDHARMA YUWANA JEMBER",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005632.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7817",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7736",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7817"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7816",
+      "attributes": {
+        "nomor_pb_umku": "912020419043300010003",
+        "nama": "PT. BPR HARAPAN BUNDA BATAM",
+        "website": "sibprhbb.my.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HARAPAN BUNDA BATAM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005323.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7816",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7734",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7816"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7815",
+      "attributes": {
+        "nomor_pb_umku": "127900161148100000001",
+        "nama": "FLAZZTAX - LAYANAN PAJAK",
+        "website": "flazztax.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HANSEL PRIMATECH ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005610.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7815",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7727",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7815"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7814",
+      "attributes": {
+        "nomor_pb_umku": "912020954230500010006",
+        "nama": "KPM",
+        "website": "kreditpastimudah.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAYBANK INDONESIA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003479.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7814",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7729",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7814"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7813",
+      "attributes": {
+        "nomor_pb_umku": "022000360172700000001",
+        "nama": "AMADEUS SELLING PLATFORM CONNECT",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMADEUS TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004048.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7813",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7732",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7813"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7812",
+      "attributes": {
+        "nomor_pb_umku": "091121000087600060005",
+        "nama": "WEBSITE PENJUALAN BUAH ( BUAHASIA.COM )",
+        "website": "buahasia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BINTANG TEKNOLOGI PRATAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005297.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7812",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7670",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7812"
+      }
+    }
+  ]
+}

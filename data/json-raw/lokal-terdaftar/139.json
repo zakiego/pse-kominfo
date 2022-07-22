@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 139,
+      "from": 1381,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1390,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=140",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=138"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7237",
+      "attributes": {
+        "nomor_pb_umku": "150722005787500000002",
+        "nama": "MITRA SETIA ANDA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTERNUSA TRIBUANA CITRA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004537.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7237",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7126",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7237"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7236",
+      "attributes": {
+        "nomor_pb_umku": "021601020079500010001",
+        "nama": "SAINSIN EDUCATION",
+        "website": "sainsin.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "I MADE PUTRA ARYA WINATA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005152.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7236",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7090",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7236"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7235",
+      "attributes": {
+        "nomor_pb_umku": "912030873249900010001",
+        "nama": "PT BPR FAJAR WARAPASTIKA",
+        "website": "bankfajar.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT FAJAR WARAPASTIKA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005124.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7235",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7124",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7235"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7234",
+      "attributes": {
+        "nomor_pb_umku": "812000382013500760006",
+        "nama": "VENDOR INVOICING PORTAL (VIP)",
+        "website": "vendorinvoice.pln.co.id",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN LISTRIK NEGARA (PERSERO)",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004620.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7234",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7122",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7234"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7233",
+      "attributes": {
+        "nomor_pb_umku": "812000198100700110010",
+        "nama": "XLSATU",
+        "website": "satu.xl.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL AXIATA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001718.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7233",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7121",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7233"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7232",
+      "attributes": {
+        "nomor_pb_umku": "260821002552100010001",
+        "nama": "BEAUDENT",
+        "website": "beaudent.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BEAUDENT MEDIKA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005268.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7232",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7120",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7232"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7231",
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010008",
+        "nama": "SKPD ONLINE BANK RIAU KEPRI",
+        "website": "skpdonline.bankriaukepri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005037.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7231",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7119",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7231"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7230",
+      "attributes": {
+        "nomor_pb_umku": "912020487042900010001",
+        "nama": "WEBSITE",
+        "website": "bankcipta.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CIPTA DANA MULIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005210.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7230",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7117",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7230"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7229",
+      "attributes": {
+        "nomor_pb_umku": "022020872134800000003",
+        "nama": "EANTREAN ONLINE",
+        "website": "eantrean.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INFOKES INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000314.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7229",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7118",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7229"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7228",
+      "attributes": {
+        "nomor_pb_umku": "812000382013500760005",
+        "nama": "E-PROCUREMENT",
+        "website": "eproc.pln.co.id",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN LISTRIK NEGARA (PERSERO)",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004620.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7228",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7115",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7228"
+      }
+    }
+  ]
+}

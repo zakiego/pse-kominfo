@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 416,
+      "from": 4151,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4160,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=417",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=415"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4044",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Infinity Tech",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV ANUGERAH BINTANG UTAMA",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002624.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4044",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3819",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4044"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4043",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "https://www.sirka.io/",
+        "website": "www.sirka.io",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEJUTA KAWAN SEHAT",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002536.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4043",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3733",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4043"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4042",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PanenBersama",
+        "website": "panenbersama.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CARMEL ANUGERAH CEMERLANG",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002586.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4042",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3978",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4042"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4041",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRISPOT",
+        "website": "Brispot.bri.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002468.04/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4041",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3936",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4041"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4040",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OLD AMSTERDAM ANTIQUES",
+        "website": "oldamsterdamantiques.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KAMPOENG DJATI",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002623.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4040",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3904",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4040"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4039",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Indobuybuy.com",
+        "website": "indobuybuy.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MATAHARI LABS",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002603.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4039",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3812",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4039"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4038",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Talentics",
+        "website": "www.talentics.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEMESTA INTEGRASI DIGITAL",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "001327.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4038",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3992",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4038"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4037",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bing Han ID",
+        "website": "https://binghan.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HONG RUI",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002078.03/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4037",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3951",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4037"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4036",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sevimapay",
+        "website": "sentrafinansial.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SENTRA FINANSIAL TEKNOLOGI",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002622.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4036",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3860",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4036"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4035",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "lifeforwin.com, lifeforwin.co.id, lifeforwin.id, lifeforwin.net",
+        "website": "lifeforwin.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAHA SUKSES MENDUNIA",
+        "tanggal_daftar": "2022-04-26",
+        "tanggal_terbit": "2022-04-26",
+        "nomor_tanda_daftar": "002621.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4035",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3790",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4035"
+      }
+    }
+  ]
+}

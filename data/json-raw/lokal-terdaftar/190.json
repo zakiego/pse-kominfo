@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 190,
+      "from": 1891,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1900,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=191",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=189"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6711",
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010003",
+        "nama": "AVA EB CLICK",
+        "website": "ebonline.astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000603.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6711",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6560",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6711"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6710",
+      "attributes": {
+        "nomor_pb_umku": "026501024272800020001",
+        "nama": "SMARTLEGAL.ID",
+        "website": "smartlegal.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KREASI SOLUSI BANGSA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001045.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6710",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6559",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6710"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6709",
+      "attributes": {
+        "nomor_pb_umku": "912020910141700010001",
+        "nama": "MITRA KELILING",
+        "website": "mitrakeliling.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TJS USAHA DIGITAL",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001508.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6709",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5828",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6709"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6708",
+      "attributes": {
+        "nomor_pb_umku": "912040243094600000001",
+        "nama": "STTC",
+        "website": "api.seinoindomobil.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEINO INDOMOBIL LOGISTICS SERVICES",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004202.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6708",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6298",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6708"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6707",
+      "attributes": {
+        "nomor_pb_umku": "912020686296300010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT PARIANGAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PARIANGAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004915.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6707",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6557",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6707"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6706",
+      "attributes": {
+        "nomor_pb_umku": "912040243094600000001",
+        "nama": "ASSORT",
+        "website": "login.seinoindomobil.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEINO INDOMOBIL LOGISTICS SERVICES",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004202.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6706",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6293",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6706"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6705",
+      "attributes": {
+        "nomor_pb_umku": "912040243094600000001",
+        "nama": "WEBSITE PERUSAHAAN",
+        "website": "seinoindomobil.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEINO INDOMOBIL LOGISTICS SERVICES",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004202.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6705",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6287",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6705"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6704",
+      "attributes": {
+        "nomor_pb_umku": "912040243094600000001",
+        "nama": "BEET",
+        "website": "bs-beet.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEINO INDOMOBIL LOGISTICS SERVICES",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004202.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6704",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6286",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6704"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6703",
+      "attributes": {
+        "nomor_pb_umku": "912040243094600000001",
+        "nama": "CRMS",
+        "website": "crms.seinoindomobil.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SEINO INDOMOBIL LOGISTICS SERVICES",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004202.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6703",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6281",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6703"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6702",
+      "attributes": {
+        "nomor_pb_umku": "812011222157900020002",
+        "nama": "FIFGROUP MOBILE CUSTOMER (FMC)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FEDERAL INTERNATIONAL FINANCE",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003148.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6702",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6556",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6702"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 127,
+      "from": 1261,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1270,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=128",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=126"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7357",
+      "attributes": {
+        "nomor_pb_umku": "812001222258100010001",
+        "nama": "WEBSITE PT BPR SINAR MITRA SEJAHTERA",
+        "website": "bprsms.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SINAR MITRA SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005215.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7357",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7257",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7357"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7356",
+      "attributes": {
+        "nomor_pb_umku": "912020082271200010001",
+        "nama": "INFORMASI, PUBLIKASI DAN KOMUNIKASI PT. SARANA SULUT VENTURA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA SULUT VENTURA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005427.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7356",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7255",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7356"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7355",
+      "attributes": {
+        "nomor_pb_umku": "029201001156400020001",
+        "nama": "WWW.BPRKANCANA.COM",
+        "website": "bprkancana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KANCANA DEWATA MAHADHANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005306.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7355",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7250",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7355"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7354",
+      "attributes": {
+        "nomor_pb_umku": "912020175043200010001",
+        "nama": "PT. BPR RAP GANDA",
+        "website": "bankrapganda.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RAP GANDA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005309.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7354",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7248",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7354"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7353",
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090009",
+        "nama": "LAKU PANDAI (AGENT)",
+        "website": "lakupandai-agent.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004092.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7353",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7253",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7353"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7352",
+      "attributes": {
+        "nomor_pb_umku": "912010665134600000001",
+        "nama": "CERDIKIAWAN",
+        "website": "cerdikiawan.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PAKAR LAYANAN TANPA BATAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005476.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7352",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7251",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7352"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7351",
+      "attributes": {
+        "nomor_pb_umku": "022000168299900010004",
+        "nama": "SMS BANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004154.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7351",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7252",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7351"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7350",
+      "attributes": {
+        "nomor_pb_umku": "912030485098100010001",
+        "nama": "WEBSITE  BPR DUTA ADIARTA",
+        "website": "bprdutaadiarta.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DUTA ADIARTA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004633.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7350",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7249",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7350"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7349",
+      "attributes": {
+        "nomor_pb_umku": "310322001343600050001",
+        "nama": "HUAWEI CLOUD",
+        "website": "Huaweicloud.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SPARKOO TECHNOLOGIES INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003109.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7349",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7241",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7349"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7348",
+      "attributes": {
+        "nomor_pb_umku": "270422002447200010001",
+        "nama": "LARUNO",
+        "website": "laruno.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BELAJAR ONLINE SELAMANYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005328.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7348",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7247",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7348"
+      }
+    }
+  ]
+}

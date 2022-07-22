@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 260,
+      "from": 2591,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2600,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=261",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=259"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5936",
+      "attributes": {
+        "nomor_pb_umku": "912011315291300000001",
+        "nama": "VIDYA AMALIAH",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV VIDYA AMALIAH",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004393.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5936",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5800",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5936"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5935",
+      "attributes": {
+        "nomor_pb_umku": "020722001459900000001",
+        "nama": "REINHART1010.ID",
+        "website": "reinhart1010.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "REINHART PREVIANO KOENTJORO",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004409.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5935",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5799",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5935"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5934",
+      "attributes": {
+        "nomor_pb_umku": "124300070159900000001",
+        "nama": "KOMUNITAS ASOSIASI KEWIRAUSAHAAN RAKYAT GORONTALO (KAKRG.ID)",
+        "website": "kakrg.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VIDYA TEKNOLOGI DIGITAL",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004264.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5934",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5798",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5934"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5933",
+      "attributes": {
+        "nomor_pb_umku": "024301018143400030001",
+        "nama": "LEAFHEA",
+        "website": "leafhea.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LEAFHEA INTERNATIONAL NETWORK",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004400.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5933",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5796",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5933"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5932",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900000006",
+        "nama": "KATALOGUNIK.COM",
+        "website": "katalogunik.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "002941.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5932",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5797",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5932"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5931",
+      "attributes": {
+        "nomor_pb_umku": "022020570250900010001",
+        "nama": "PT BPR NUSANTARA BONA PASOGIT 15",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 15",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004219.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5931",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5795",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5931"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5930",
+      "attributes": {
+        "nomor_pb_umku": "912021400032800000001",
+        "nama": "OKEPAY – TRANSAKSI & PEMBAYARAN DIGITAL",
+        "website": "okepay.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT OKE DIGITAL MEDIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004401.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5930",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5793",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5930"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5929",
+      "attributes": {
+        "nomor_pb_umku": "912001617105100000003",
+        "nama": "SMART MERCHANT QRIS",
+        "website": "goqris.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRANET SOFTWARE ONLINE",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "002883.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5929",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5792",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5929"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5928",
+      "attributes": {
+        "nomor_pb_umku": "912001617105100000002",
+        "nama": "SMART MERCGANT QRIS",
+        "website": "goqris.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRANET SOFTWARE ONLINE",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "002883.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5928",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5789",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5928"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5927",
+      "attributes": {
+        "nomor_pb_umku": "080322003661800010001",
+        "nama": "PT BPR KARTIKAARTHA KENCANAJAYA",
+        "website": "bprkartikaartha.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARTIKAARTHA KENCANAJAYA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004394.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5927",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5790",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5927"
+      }
+    }
+  ]
+}

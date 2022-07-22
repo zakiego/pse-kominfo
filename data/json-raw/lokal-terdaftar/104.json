@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 104,
+      "from": 1031,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1040,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=105",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=103"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7588",
+      "attributes": {
+        "nomor_pb_umku": "241121002976300010001",
+        "nama": "SITUS BPR ARTHARINDO",
+        "website": "bprartharindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHARINDO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005390.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7588",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7469",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7588"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7587",
+      "attributes": {
+        "nomor_pb_umku": "812021611196600050001",
+        "nama": "KREDIT BPF",
+        "website": "bpfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BATAVIA PROSPERINDO FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003807.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7587",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7462",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7587"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7586",
+      "attributes": {
+        "nomor_pb_umku": "912020929138700100004",
+        "nama": "TEPAT MOBILE",
+        "website": "btpnsyariah.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN SYARIAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001421.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7586",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7481",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7586"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7585",
+      "attributes": {
+        "nomor_pb_umku": "912000378222400010001",
+        "nama": "BPR KERTA ARTHAMANDIRI",
+        "website": "bprkertaarthamandiri.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KERTA ARTHAMANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005473.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7585",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7475",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7585"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7584",
+      "attributes": {
+        "nomor_pb_umku": "126000047076100010001",
+        "nama": "WEBSITE",
+        "website": "bprmulyoraharjo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MULYO RAHARJO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005129.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7584",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7478",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7584"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7583",
+      "attributes": {
+        "nomor_pb_umku": "912010489270400010002",
+        "nama": "IOT CMS (GENSET MONITORING SYSTEM)",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONESIA SATU TUJUH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005424.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7583",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7413",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7583"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7582",
+      "attributes": {
+        "nomor_pb_umku": "022030024055700040003",
+        "nama": "SAVING MOBILE APLICATION (SMA)",
+        "website": "nbpholding.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NUSANTARA BONAPASOGIT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005098.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7582",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7477",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7582"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7581",
+      "attributes": {
+        "nomor_pb_umku": "912010720278900000001",
+        "nama": "PT WIDYA INFORMASI NUSANTARA",
+        "website": "widyawicara.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WIDYA INFORMASI NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005284.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7581",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7474",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7581"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7580",
+      "attributes": {
+        "nomor_pb_umku": "200722004491800000001",
+        "nama": "SANDRIANA RELOAD",
+        "website": "sandrianareload.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "AHMAD JAENUDIN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005544.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7580",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7473",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7580"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7579",
+      "attributes": {
+        "nomor_pb_umku": "191021001575900000001",
+        "nama": "CLOTHLYN",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JOHANNES KOSIM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005526.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7579",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7472",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7579"
+      }
+    }
+  ]
+}

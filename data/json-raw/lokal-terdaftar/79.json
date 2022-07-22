@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 79,
+      "from": 781,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 790,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=80",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=78"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7841",
+      "attributes": {
+        "nomor_pb_umku": "022010515185700010002",
+        "nama": "ULAT BULU BERSAMA",
+        "website": "ulatbulu.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ULAT BULU BERSAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005462.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7841",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7765",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7841"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7840",
+      "attributes": {
+        "nomor_pb_umku": "912010584237300000001",
+        "nama": "HONDA ARTA",
+        "website": "honda-arta.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ARTA TRITUNGGAL JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005403.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7840",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7757",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7840"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7839",
+      "attributes": {
+        "nomor_pb_umku": "124200032054700020003",
+        "nama": "SISTEM PERDAGANGAN ONLINE",
+        "website": "otr.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI MERAH PUTIH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005623.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7839",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7751",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7839"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7838",
+      "attributes": {
+        "nomor_pb_umku": "812021528128100040003",
+        "nama": "MYSANTIKA",
+        "website": "mysantika.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAHAWITA SANTIKA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005395.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7838",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7764",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7838"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7837",
+      "attributes": {
+        "nomor_pb_umku": "912011700118800010001",
+        "nama": "PT. BPR APTA SEJAHTERA",
+        "website": "bpraptasejahtera.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT APTA SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005664.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7837",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7755",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7837"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7836",
+      "attributes": {
+        "nomor_pb_umku": "031121003552700010001",
+        "nama": "TELKOMSIGMA SATU SARAN TRANSAKSI KEUANGAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PD BANK PERKREDITAN RAKYAT BAHTERAMAS",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005564.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7836",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7761",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7836"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7835",
+      "attributes": {
+        "nomor_pb_umku": "091221004288500000003",
+        "nama": "PLATFORM PRE-O",
+        "website": "pre-o.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BIZTECH JAYA MAKMUR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001997.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7835",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7762",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7835"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7834",
+      "attributes": {
+        "nomor_pb_umku": "912030720189300010005",
+        "nama": "ASISTEN VIRTUAL: YUNA",
+        "website": "acc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASTRA SEDAYA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003299.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7834",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7754",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7834"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7833",
+      "attributes": {
+        "nomor_pb_umku": "022010447220800010001",
+        "nama": "TRUSTMEDIS HISV2",
+        "website": "trustmedis.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI TEKNOLOGI SOLUSINDO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005366.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7833",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7758",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7833"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7832",
+      "attributes": {
+        "nomor_pb_umku": "912010221067800010001",
+        "nama": "PT BPR MEGA ARTHA MUSTIKA",
+        "website": "bprmega.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MEGA ARTHA MUSTIKA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005666.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7832",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7753",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7832"
+      }
+    }
+  ]
+}

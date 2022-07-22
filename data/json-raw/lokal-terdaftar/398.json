@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 398,
+      "from": 3971,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3980,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=399",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=397"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4124",
+      "attributes": {
+        "nomor_pb_umku": "090422001119600000001",
+        "nama": "BINALOKA",
+        "website": "binaloka.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BINA LOKA INDONESIA",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "000347.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4124",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4125",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4124"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4123",
+      "attributes": {
+        "nomor_pb_umku": "240522004491100000001",
+        "nama": "TEKNOGRIS.COM",
+        "website": "teknogris.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "INDRA WATI",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "000346.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4123",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4124",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4123"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4122",
+      "attributes": {
+        "nomor_pb_umku": "051021002041900010003",
+        "nama": "WWW.TUMI.CO.ID",
+        "website": "tumi.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RITEL PANEN ADIPERKASA",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "001864.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4122",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4119",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4122"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4121",
+      "attributes": {
+        "nomor_pb_umku": "912010087036500000002",
+        "nama": "KETOKO.STORE",
+        "website": "ketoko.store",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INSPIRASI MEDIA KREATIF",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "000338.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4121",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4122",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4121"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4120",
+      "attributes": {
+        "nomor_pb_umku": "912010087036500000001",
+        "nama": "KETOKO.CO.ID",
+        "website": "pos.ketoko.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INSPIRASI MEDIA KREATIF",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "000338.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4120",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4121",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4120"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4119",
+      "attributes": {
+        "nomor_pb_umku": "280322001551600010001",
+        "nama": "DATA ANALIS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KUKUK SETYO PRAYOGI,S.KOM",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "000329.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4119",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4120",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4119"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4118",
+      "attributes": {
+        "nomor_pb_umku": "121700063012700070001",
+        "nama": "SHINE ATTRACTION AMAZON",
+        "website": "Amazon.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FLUFFY VANILLA NUTS",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "002801.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4118",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4118",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4118"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4108",
+      "attributes": {
+        "nomor_pb_umku": "812000094143900000006",
+        "nama": "PROSA - MEEMO",
+        "website": "meetinganalytics.prosa.ai",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PROSA SOLUSI CERDAS",
+        "tanggal_daftar": "2022-05-24",
+        "tanggal_terbit": "2022-05-24",
+        "nomor_tanda_daftar": "002371.06/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4108",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4108",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4108"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4107",
+      "attributes": {
+        "nomor_pb_umku": "912050370214200000001",
+        "nama": "KONTAN",
+        "website": "kontan.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAHANUSA MEDIATAMA",
+        "tanggal_daftar": "2022-05-23",
+        "tanggal_terbit": "2022-05-23",
+        "nomor_tanda_daftar": "000309.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4107",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4106",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4107"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4106",
+      "attributes": {
+        "nomor_pb_umku": "912040526261600000001",
+        "nama": "BUKAKIOS",
+        "website": "bukakios.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKASI KREASI INDONESIA",
+        "tanggal_daftar": "2022-05-23",
+        "tanggal_terbit": "2022-05-23",
+        "nomor_tanda_daftar": "000304.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4106",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4105",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4106"
+      }
+    }
+  ]
+}

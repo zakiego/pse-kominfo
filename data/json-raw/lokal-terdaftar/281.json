@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 281,
+      "from": 2801,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2810,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=282",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=280"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5717",
+      "attributes": {
+        "nomor_pb_umku": "912040572293500010001",
+        "nama": "BANK NARPADA NUSA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NARPADA NUSA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004266.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5717",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5582",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5717"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5716",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030005",
+        "nama": "WEBSITE BANK KALSEL",
+        "website": "bankkalsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004232.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5716",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5580",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5716"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5715",
+      "attributes": {
+        "nomor_pb_umku": "912011108157400020005",
+        "nama": "SKYLAR",
+        "website": "skylar.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SALVUS INTI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000294.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5715",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5579",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5715"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5714",
+      "attributes": {
+        "nomor_pb_umku": "912000357290600000001",
+        "nama": "DOEKU PEDULI INDONESIA",
+        "website": "doeku.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DOEKU PEDULI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000661.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5714",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5577",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5714"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5713",
+      "attributes": {
+        "nomor_pb_umku": "912010172062800010001",
+        "nama": "BPR ARTATAMA SEJAHTERA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTATAMA SEJAHTERA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004274.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5713",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5578",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5713"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5712",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030004",
+        "nama": "SP2D ONLINE BANK KALSEL",
+        "website": "sp2d.bankkalsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004232.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5712",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5576",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5712"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5711",
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010002",
+        "nama": "NOBU BANK88",
+        "website": "nobu8.nobubank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004124.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5711",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5575",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5711"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5710",
+      "attributes": {
+        "nomor_pb_umku": "912011108157400020004",
+        "nama": "MOMENTIC BUSINESS",
+        "website": "momentic.salvus.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SALVUS INTI",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "000294.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5710",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5572",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5710"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5709",
+      "attributes": {
+        "nomor_pb_umku": "030622006169300000001",
+        "nama": "KONTER 24 JAM",
+        "website": "konter24jam.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KONTER DUA EMPAT",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004260.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5709",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5573",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5709"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5708",
+      "attributes": {
+        "nomor_pb_umku": "300921002898300020001",
+        "nama": "PT. BPR DELTA ARTHA KENCANA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DELTA ARTHA KENCANA",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-15",
+        "nomor_tanda_daftar": "004257.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5708",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5571",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5708"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 321,
+      "from": 3201,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3210,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=322",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=320"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5284",
+      "attributes": {
+        "nomor_pb_umku": "812011006071400030002",
+        "nama": "BRANKAS OPEN BANKING PLATFORM",
+        "website": "Brankas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRANKAS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000699.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5284",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5153",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5284"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5283",
+      "attributes": {
+        "nomor_pb_umku": "812011006071400030001",
+        "nama": "BRANKAS OPEN API PLATFORM",
+        "website": "Brankas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BRANKAS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000699.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5283",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5152",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5283"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5282",
+      "attributes": {
+        "nomor_pb_umku": "912041704100600200002",
+        "nama": "ICBC MOBILE BANKING",
+        "website": "m.icbc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK ICBC INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000035.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5282",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5151",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5282"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5279",
+      "attributes": {
+        "nomor_pb_umku": "912041704100600200001",
+        "nama": "ICBC PERSONAL INTERNET BANKING",
+        "website": "i.icbc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK ICBC INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000035.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5279",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5148",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5279"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5277",
+      "attributes": {
+        "nomor_pb_umku": "812021816232400010006",
+        "nama": "PERSONAL LOAN ONLINE FORM",
+        "website": "apply.cimbniaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000222.22/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5277",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5146",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5277"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5276",
+      "attributes": {
+        "nomor_pb_umku": "912010135191100270002",
+        "nama": "MYMOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MAYAPADA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003949.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5276",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5145",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5276"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5275",
+      "attributes": {
+        "nomor_pb_umku": "812021816232400010005",
+        "nama": "CREDIT CARD ONLINE FORM",
+        "website": "apply.cimbniaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000222.21/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5275",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5144",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5275"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5274",
+      "attributes": {
+        "nomor_pb_umku": "912010135191100270001",
+        "nama": "MYONLINE",
+        "website": "mayapadaonline.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MAYAPADA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003949.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5274",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5143",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5274"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5273",
+      "attributes": {
+        "nomor_pb_umku": "180322003052300010001",
+        "nama": "RIVERNITY.COM",
+        "website": "rivernity.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RIVERNITY ASET DIGITAL",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "003950.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5273",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5142",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5273"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5272",
+      "attributes": {
+        "nomor_pb_umku": "022010521024300090005",
+        "nama": "KIRIMINAJA DOT COM",
+        "website": "kiriminaja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SELALU SIAP SOLUSI",
+        "tanggal_daftar": "2022-07-11",
+        "tanggal_terbit": "2022-07-11",
+        "nomor_tanda_daftar": "000710.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5272",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5140",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5272"
+      }
+    }
+  ]
+}

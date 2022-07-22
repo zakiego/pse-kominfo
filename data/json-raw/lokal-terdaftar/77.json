@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 77,
+      "from": 761,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 770,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=78",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=76"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7861",
+      "attributes": {
+        "nomor_pb_umku": "022010183211500000002",
+        "nama": "EDSPERT.ID",
+        "website": "edspert.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WIDYA KREASI BANGSA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004308.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7861",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7781",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7861"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7860",
+      "attributes": {
+        "nomor_pb_umku": "912020885240200010002",
+        "nama": "APLIKASI AYO GOLF",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AYO GOLF INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005615.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7860",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7635",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7860"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7859",
+      "attributes": {
+        "nomor_pb_umku": "912030084112800010003",
+        "nama": "WEBSITE PT BPR KHRISNA DARMA ADIPALA",
+        "website": "bprkhrisna.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KHRISNA DARMA ADIPALA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005565.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7859",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7780",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7859"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7858",
+      "attributes": {
+        "nomor_pb_umku": "912010078197600010003",
+        "nama": "WEBSITE BPR MODERN EXPRESS NTT",
+        "website": "bprmodex-ntt.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004901.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7858",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7775",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7858"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7857",
+      "attributes": {
+        "nomor_pb_umku": "812021325111400000001",
+        "nama": "WEBSITE",
+        "website": "honda-bsd.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TRIMEGAH AUTO PLAZA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005491.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7857",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7747",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7857"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7856",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801200057",
+        "nama": "ELEKTRONIK FORM",
+        "website": "eform.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "002468.53/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7856",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7776",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7856"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7855",
+      "attributes": {
+        "nomor_pb_umku": "912020885240200010001",
+        "nama": "AYO GOLF",
+        "website": "ayo.golf",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AYO GOLF INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005615.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7855",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7683",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7855"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7854",
+      "attributes": {
+        "nomor_pb_umku": "190722006333400000001",
+        "nama": "NASIONAL NUSANTARA",
+        "website": "nasionalnusantara.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NASIONAL NUSANTARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005602.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7854",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7769",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7854"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7853",
+      "attributes": {
+        "nomor_pb_umku": "812020388194700000002",
+        "nama": "GPS.ID",
+        "website": "GPS.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUPER SPRING",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005601.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7853",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7773",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7853"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7852",
+      "attributes": {
+        "nomor_pb_umku": "912010683182200010001",
+        "nama": "IBS CORE BANKING SYSTEM",
+        "website": "bpr-aku.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA KARYA USAHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005616.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7852",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7772",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7852"
+      }
+    }
+  ]
+}

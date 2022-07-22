@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 291,
+      "from": 2901,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2910,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=292",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=290"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5612",
+      "attributes": {
+        "nomor_pb_umku": "210921000070600000001",
+        "nama": "ASSIST.ID",
+        "website": "essensial.assist.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TEKNOLOGI MEDIA MEDIKA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003877.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5612",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5480",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5612"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5611",
+      "attributes": {
+        "nomor_pb_umku": "060722002101500000001",
+        "nama": "SARANA JABAR VENTURA",
+        "website": "saranajabarventura.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA JABAR VENTURA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "003849.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5611",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5479",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5611"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5610",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620027",
+        "nama": "WEBFORM SITUS BCA",
+        "website": "webform.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001669.29/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5610",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5478",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5610"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5609",
+      "attributes": {
+        "nomor_pb_umku": "912010565184300010002",
+        "nama": "BANDINGINAJA",
+        "website": "bandinginaja.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANDING KEUANGAN DIGITAL",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "004186.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5609",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5477",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5609"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5608",
+      "attributes": {
+        "nomor_pb_umku": "022010061265900000003",
+        "nama": "TITIPKIRIM.COM",
+        "website": "titipkirim.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRIMA SYIRKAH INTERNATIONAL",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "002941.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5608",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5476",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5608"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5607",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SITUS CORPORATE BCA",
+        "website": "bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001669.28/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5607",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5475",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5607"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5606",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620026",
+        "nama": "RUMAHSAYA.BCA.CO.ID",
+        "website": "rumahsaya.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001669.27/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5606",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5474",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5606"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5605",
+      "attributes": {
+        "nomor_pb_umku": "912020362154300020018",
+        "nama": "SOLAR PLATFORM (SEQUENTIAL OBJECT LIBRARY AND APPLICATION REPOSITORY)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRAWEDA CIPTAKARSA INFORMATIKA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "002374.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5605",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5473",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5605"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5604",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620025",
+        "nama": "RUMAHSAYA BCA",
+        "website": "rumahsaya.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "001669.26/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5604",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5472",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5604"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5603",
+      "attributes": {
+        "nomor_pb_umku": "912020362154300020017",
+        "nama": "JITU SKN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRAWEDA CIPTAKARSA INFORMATIKA",
+        "tanggal_daftar": "2022-07-14",
+        "tanggal_terbit": "2022-07-14",
+        "nomor_tanda_daftar": "002374.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5603",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5471",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5603"
+      }
+    }
+  ]
+}

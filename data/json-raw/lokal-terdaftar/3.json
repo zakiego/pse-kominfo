@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 3,
+      "from": 21,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 30,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=4",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=2"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8693",
+      "attributes": {
+        "nomor_pb_umku": "070222003459200010002",
+        "nama": "SENTRANIC.COM",
+        "website": "sentranic.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NETMEDIA DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003761.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8693",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8612",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8693"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8692",
+      "attributes": {
+        "nomor_pb_umku": "200722007580100000001",
+        "nama": "MAKE NEW STORY",
+        "website": "makenewstory.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KOLBY DZIKRULLAH AMBIYA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006066.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8692",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8611",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8692"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8691",
+      "attributes": {
+        "nomor_pb_umku": "022000477063800010002",
+        "nama": "AP MOBILE TOPUP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV ALFATRANS MULTI PAYMENT",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006070.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8691",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8610",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8691"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8690",
+      "attributes": {
+        "nomor_pb_umku": "022000477063800010001",
+        "nama": "ALFATRANS PULSA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV ALFATRANS MULTI PAYMENT",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006070.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8690",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8609",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8690"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8689",
+      "attributes": {
+        "nomor_pb_umku": "210821001578300000001",
+        "nama": "DONORKU",
+        "website": "donordarahlampung.com",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JIFRY SAPUTRA SKOM",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006069.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8689",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8608",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8689"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8688",
+      "attributes": {
+        "nomor_pb_umku": "210722006394400000001",
+        "nama": "GOSEH",
+        "website": "-",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "GOSEH KARYA SIMALEM",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006054.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8688",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8591",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8688"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8687",
+      "attributes": {
+        "nomor_pb_umku": "171221001135800000001",
+        "nama": "PROSEHAT",
+        "website": "prosehat.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRO SEHAT INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006064.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8687",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8606",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8687"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8686",
+      "attributes": {
+        "nomor_pb_umku": "912021720287200000001",
+        "nama": "YO-KULAK",
+        "website": "yo-kulak.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT YOKULAK KREASI INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006030.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8686",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8605",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8686"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8685",
+      "attributes": {
+        "nomor_pb_umku": "060422004883500010001",
+        "nama": "ISCORE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUNCAK AKSES FINANSIAL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004301.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8685",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8603",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8685"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8683",
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000010",
+        "nama": "SERVICE.PERIKSAIN.ID",
+        "website": "service.periksain.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004561.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8683",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8602",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8683"
+      }
+    }
+  ]
+}

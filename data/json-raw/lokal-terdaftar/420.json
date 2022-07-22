@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 420,
+      "from": 4191,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 4200,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=421",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=419"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4004",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AGEN BISNIS DAN USAHA",
+        "website": "AGENBISNIS.COM",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": null,
+        "nama_perusahaan": "AGEN BISNIS DAN USAHA NASIONAL",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002600.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4004",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3864",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4004"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4003",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CV. Blogger Computer - Perdagangan Eceran Piranti Lunak (Software)",
+        "website": "bloggercomputer.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BLOGGER COMPUTER",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002598.02/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4003",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3795",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4003"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4002",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MAJUIN",
+        "website": "majuin.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAINTEK JUARA INTISOLUSI",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002599.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4002",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3839",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4002"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4001",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CV. Blogger Computer",
+        "website": "bloggercomputer.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BLOGGER COMPUTER",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002598.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4001",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3794",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4001"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4000",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KULA",
+        "website": "kula.market",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MULTI AGRO HATAMA",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002597.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4000",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3786",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4000"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3999",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aksesmu",
+        "website": "aksesmu.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUMBER TRIJAYA LESTARI",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002596.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3999",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3962",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3999"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3998",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MY MSI",
+        "website": "mymsi.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAHKOTA SUKSES INDONESIA",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002595.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3998",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3947",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3998"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3997",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FH Indonesia",
+        "website": "www.fullertonhealth.co.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL ASSISTANCE AND HEALTHCARE",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002594.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3997",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3938",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3997"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3996",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Asturi Project",
+        "website": "https://asturiproject.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "GEDE APGANDHI PRANATA",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002593.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3996",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3861",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3996"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "3995",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ONPAYS",
+        "website": "www.onpays.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VALUESTREAM INTERNATIONAL",
+        "tanggal_daftar": "2022-04-22",
+        "tanggal_terbit": "2022-04-22",
+        "nomor_tanda_daftar": "002592.01/DJAI.PSE/04/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/3995",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "3820",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/3995"
+      }
+    }
+  ]
+}

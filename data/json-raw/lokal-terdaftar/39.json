@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 39,
+      "from": 381,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 390,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=40",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=38"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8306",
+      "attributes": {
+        "nomor_pb_umku": "912000970159400010001",
+        "nama": "PT.BPR WLINGI PAHALAPAKTO",
+        "website": "bprwlingipahalapakto.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT WLINGI PAHALAPAKTO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005673.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8306",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8211",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8306"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8305",
+      "attributes": {
+        "nomor_pb_umku": "912001519122100010002",
+        "nama": "BINA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK INA PERDANA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000860.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8305",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8226",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8305"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8304",
+      "attributes": {
+        "nomor_pb_umku": "022000127219300030001",
+        "nama": "CLOSIANA.CO.ID",
+        "website": "closiana.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JAWA MEDIASINDO LESTARI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005843.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8304",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8220",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8304"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8303",
+      "attributes": {
+        "nomor_pb_umku": "022201005088500060003",
+        "nama": "INDOSALE.COM",
+        "website": "indosale.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANDALAN DOMPET PUTERA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000521.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8303",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8224",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8303"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8302",
+      "attributes": {
+        "nomor_pb_umku": "280222001312700040001",
+        "nama": "SAKELAS TECHNO INDONESIA",
+        "website": "sakelas.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAKELAS TECHNO INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005838.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8302",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8222",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8302"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8301",
+      "attributes": {
+        "nomor_pb_umku": "912010866182500000004",
+        "nama": "JARI MOBILE COLLECTION (APPS FOR JTII)",
+        "website": "jari.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JARI SOLUSI INTERNATIONAL",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004691.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8301",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8223",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8301"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8300",
+      "attributes": {
+        "nomor_pb_umku": "126200074016600000001",
+        "nama": "RAJAMART E-STORE",
+        "website": "rajamartestore.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RAJA MANTIKA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005609.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8300",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8221",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8300"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8299",
+      "attributes": {
+        "nomor_pb_umku": "912020783269100010002",
+        "nama": "PERUMDA BPR BANK BLORA ARTHA",
+        "website": "bankbloraartha.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERUMDA BPR BANK BLORA ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005801.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8299",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8218",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8299"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8298",
+      "attributes": {
+        "nomor_pb_umku": "912030517264100010002",
+        "nama": "EMSHOP",
+        "website": "emshop.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC GS HOMESHOPPING",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005698.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8298",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8219",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8298"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8297",
+      "attributes": {
+        "nomor_pb_umku": "022020089163100000003",
+        "nama": "CITYMAGZ.NET",
+        "website": "citymagz.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANEKA MEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005425.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8297",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8217",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8297"
+      }
+    }
+  ]
+}

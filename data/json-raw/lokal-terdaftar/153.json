@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 153,
+      "from": 1521,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1530,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=154",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=152"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7092",
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030008",
+        "nama": "E-PERSONAL",
+        "website": "hcis.bankkalsel.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004232.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7092",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6925",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7092"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7091",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160005",
+        "nama": "SISTEM INFORMASI PEGAWAI VERSI MOBILE",
+        "website": "msip.bsm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.19/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7091",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6961",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7091"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7090",
+      "attributes": {
+        "nomor_pb_umku": "812000198100700110007",
+        "nama": "FLEXIOT",
+        "website": "flexiot.xl.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT XL AXIATA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001718.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7090",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6960",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7090"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7089",
+      "attributes": {
+        "nomor_pb_umku": "912010165231800010001",
+        "nama": "NBP SYS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MITRA DAYA MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005178.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7089",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6955",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7089"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7088",
+      "attributes": {
+        "nomor_pb_umku": "150622001846300010002",
+        "nama": "TYXMA.COM",
+        "website": "tyxma.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KALIMASADA SAKTI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003253.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7088",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6959",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7088"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7087",
+      "attributes": {
+        "nomor_pb_umku": "912010216234800020003",
+        "nama": "SALES FORCE DANAMOBIL",
+        "website": "mncdanamobil.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC FINANCE",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000779.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7087",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6953",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7087"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7086",
+      "attributes": {
+        "nomor_pb_umku": "912020854242900010003",
+        "nama": "EMAIL HOSTING BPR UTOMO",
+        "website": "utomobank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT UTOMO MANUNGGAL SEJAHTERA LAMPUNG",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004706.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7086",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6954",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7086"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7085",
+      "attributes": {
+        "nomor_pb_umku": "812021517269500000015",
+        "nama": "BOLDE APPS",
+        "website": "boldestore.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BOLDE INOVASI GLOBAL",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005149.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7085",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6950",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7085"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7084",
+      "attributes": {
+        "nomor_pb_umku": "912030913293300080001",
+        "nama": "FASTLAB",
+        "website": "fastlab.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI DHARMA GLOBAL INDO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005175.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7084",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6956",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7084"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7083",
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010002",
+        "nama": "WEBSITE BANK RIAU KEPRI",
+        "website": "bankriaukepri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005037.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7083",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6957",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7083"
+      }
+    }
+  ]
+}

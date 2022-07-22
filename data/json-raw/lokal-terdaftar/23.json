@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 23,
+      "from": 221,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 230,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=24",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=22"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8492",
+      "attributes": {
+        "nomor_pb_umku": "912020744055900020003",
+        "nama": "WEBSITE JAQ AUTOMATION",
+        "website": "jaq-automation.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI INTEGRASINDO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005922.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8492",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8409",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8492"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8491",
+      "attributes": {
+        "nomor_pb_umku": "022010474242500000001",
+        "nama": "WEB PT. PESAT AGHNI SOLUSI",
+        "website": "pasolusi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PESAT AGHNI SOLUSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004792.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8491",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8408",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8491"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8490",
+      "attributes": {
+        "nomor_pb_umku": "812000073159400020008",
+        "nama": "WWW.PROVEN.KALBE.CO.ID",
+        "website": "proven.kalbe.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KALBE FARMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003191.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8490",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8407",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8490"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8489",
+      "attributes": {
+        "nomor_pb_umku": "912001505004400030001",
+        "nama": "BANK PERKREDITAN RAKYAT ARTA SWASEMBADA",
+        "website": "assedamojokerto.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTA SWASEMBADA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005898.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8489",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8404",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8489"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8488",
+      "attributes": {
+        "nomor_pb_umku": "912040680287800010001",
+        "nama": "BPR LAMBANG GANDA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LAMBANG GANDA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005903.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8488",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8405",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8488"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8487",
+      "attributes": {
+        "nomor_pb_umku": "022010474242500000001",
+        "nama": "WEBSITE PT. PESAT AGHNI SOLUSI",
+        "website": "pasolusi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PESAT AGHNI SOLUSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004792.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8487",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8402",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8487"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8486",
+      "attributes": {
+        "nomor_pb_umku": "250522004545200020001",
+        "nama": "MICAN",
+        "website": "mican.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOTEC CIPTA SOLUSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005519.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8486",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8403",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8486"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8485",
+      "attributes": {
+        "nomor_pb_umku": "912020640079100020001",
+        "nama": "WEBSITE",
+        "website": "ayersasia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AYERS ASIA ASSET MANAGEMENT",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005930.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8485",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8398",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8485"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8484",
+      "attributes": {
+        "nomor_pb_umku": "912020744055900020002",
+        "nama": "APLIKASI VIRTUAL ROBOTIC PORT MANAGER",
+        "website": "pertaminaport.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SOLUSI INTEGRASINDO",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005922.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8484",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8397",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8484"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8483",
+      "attributes": {
+        "nomor_pb_umku": "812000790025200010004",
+        "nama": "WEBSITE PT. VALBURY ASIA FUTURES",
+        "website": "valbury.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VALBURY ASIA FUTURES",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "002437.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8483",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8401",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8483"
+      }
+    }
+  ]
+}

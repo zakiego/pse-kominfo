@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 315,
+      "from": 3141,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3150,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=316",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=314"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5344",
+      "attributes": {
+        "nomor_pb_umku": "022030071114500010001",
+        "nama": "ONLINEPAJAK",
+        "website": "online-pajak.id",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ACHILLES FINANCIAL SYSTEMS",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004012.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5344",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5217",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5344"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5343",
+      "attributes": {
+        "nomor_pb_umku": "912031427139300030004",
+        "nama": "WEBSITE MNC LEASING",
+        "website": "mncleasing.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC GUNA USAHA INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "000647.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5343",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5216",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5343"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5342",
+      "attributes": {
+        "nomor_pb_umku": "912030449041501100052",
+        "nama": "LOGEE DRIVER",
+        "website": "logeetrans.com",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001331.44/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5342",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5215",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5342"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5341",
+      "attributes": {
+        "nomor_pb_umku": "912030449041501100051",
+        "nama": "LOGEE TRUCKER",
+        "website": "logeetrans.com",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "001331.43/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5341",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5214",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5341"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5340",
+      "attributes": {
+        "nomor_pb_umku": "912041019206300020001",
+        "nama": "SRIWIJAYA HOST",
+        "website": "sriwijayahost.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SRIWIJAYA UTAMA KARYA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004006.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5340",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5213",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5340"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5339",
+      "attributes": {
+        "nomor_pb_umku": "912020177088600020001",
+        "nama": "WEBSITE SEQUIS",
+        "website": "sequis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "000050.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5339",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5212",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5339"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5338",
+      "attributes": {
+        "nomor_pb_umku": "812000073159400020006",
+        "nama": "WWW.KALBEMED.COM ATAU KALBEMED",
+        "website": "kalbemed.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KALBE FARMA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003191.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5338",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4792",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5338"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5337",
+      "attributes": {
+        "nomor_pb_umku": "230921002643900040001",
+        "nama": "OMAH PULSA",
+        "website": "omahpulsa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV OMPULS GROUP",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "004001.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5337",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5211",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5337"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5336",
+      "attributes": {
+        "nomor_pb_umku": "020500090129500000001",
+        "nama": "TREETAN",
+        "website": "treetan.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TREETAN NUSANTARA NETWORK",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "003972.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5336",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5209",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5336"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5335",
+      "attributes": {
+        "nomor_pb_umku": "812011302055500020005",
+        "nama": "MEDICILLIN",
+        "website": "medicillin.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ZURICH ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-12",
+        "tanggal_terbit": "2022-07-12",
+        "nomor_tanda_daftar": "002558.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5335",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5208",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5335"
+      }
+    }
+  ]
+}

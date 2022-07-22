@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 95,
+      "from": 941,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 950,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=96",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=94"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7681",
+      "attributes": {
+        "nomor_pb_umku": "912021205208900090001",
+        "nama": "WEBSITE THE JAKARTA POST",
+        "website": "thejakartapost.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BINA MEDIA TENGGARA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004894.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7681",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7591",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7681"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7680",
+      "attributes": {
+        "nomor_pb_umku": "912040554196700020001",
+        "nama": "PLUIT AUTO PLAZA",
+        "website": "honda-pluit.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PLUIT AUTOPLAZA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005461.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7680",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7296",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7680"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7679",
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010003",
+        "nama": "WEB BPR MODERN EXPRESS JATENG",
+        "website": "bprmodex-jateng.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004638.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7679",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7582",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7679"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7678",
+      "attributes": {
+        "nomor_pb_umku": "200722004498600000001",
+        "nama": "PH INSTAN",
+        "website": "carirute.prahu-hub.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKASI TEPAT GUNA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005548.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7678",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7585",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7678"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7677",
+      "attributes": {
+        "nomor_pb_umku": "912020929138700100006",
+        "nama": "APLIKASI AGENT BTPN SYARIAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN SYARIAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001421.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7677",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7584",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7677"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7676",
+      "attributes": {
+        "nomor_pb_umku": "912020931128600010001",
+        "nama": "VPS (VENTURA PAYMENT SYSTEM)",
+        "website": "venturapratamasejati.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT VENTURA PRATAMA SEJATI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005183.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7676",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7565",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7676"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7675",
+      "attributes": {
+        "nomor_pb_umku": "912040777390100000001",
+        "nama": "JAGOAN HOSTING INDONESIA",
+        "website": "jagoanhosting.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BEON INTERMEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005317.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7675",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7581",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7675"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7674",
+      "attributes": {
+        "nomor_pb_umku": "912021126055200020002",
+        "nama": "WOI (WALLET OF INDIVARA)",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDIVARA SEJAHTERA SUKSES MAKMUR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003940.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7674",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7576",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7674"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7673",
+      "attributes": {
+        "nomor_pb_umku": "912050778158700010001",
+        "nama": "PT. BPR SWADHANAMAS PAKTO",
+        "website": "bprswadhanamaspakto.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SWADHANAMAS PAKTO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005452.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7673",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7579",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7673"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7672",
+      "attributes": {
+        "nomor_pb_umku": "022020780046800000002",
+        "nama": "WASSTW JAYA",
+        "website": "wasstwjaya.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "GDE PUTU ADIBAYUSANTIKA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005469.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7672",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7580",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7672"
+      }
+    }
+  ]
+}

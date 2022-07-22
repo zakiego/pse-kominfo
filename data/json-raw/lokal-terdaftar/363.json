@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 363,
+      "from": 3621,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3630,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=364",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=362"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4753",
+      "attributes": {
+        "nomor_pb_umku": "300422000153400000001",
+        "nama": "JAKARTALIMOUSINE.COM",
+        "website": "jakartalimousine.com",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "JAKARTA LIMOUSINE DAN RENTCAR",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003441.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4753",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4700",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4753"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4752",
+      "attributes": {
+        "nomor_pb_umku": "110522002659100000002",
+        "nama": "PT LUBNA CELL EXPRESS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RULLY MULYADI",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "002726.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4752",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4699",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4752"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4750",
+      "attributes": {
+        "nomor_pb_umku": "240622000092400010001",
+        "nama": "DIENYCTRAVEL",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ADI UTAMA SYAHPUTRA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003436.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4750",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4698",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4750"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4749",
+      "attributes": {
+        "nomor_pb_umku": "912010894003500010003",
+        "nama": "GRAVEL DULUR",
+        "website": "gravel.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAVEL TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003043.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4749",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4697",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4749"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4748",
+      "attributes": {
+        "nomor_pb_umku": "912020555046900010003",
+        "nama": "BMI LOCAL EBANKING",
+        "website": "BMI-ebanking.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MIZUHO INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003384.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4748",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4696",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4748"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4746",
+      "attributes": {
+        "nomor_pb_umku": "912020555046900010002",
+        "nama": "BMI EXTERNAL WEB",
+        "website": "MizuhoBank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MIZUHO INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003384.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4746",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4695",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4746"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4745",
+      "attributes": {
+        "nomor_pb_umku": "912020555046900010001",
+        "nama": "MGEB (MIZUHO GLOBAL ELECTRONIC BANKING)",
+        "website": "ffrontier.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MIZUHO INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003384.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4745",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4694",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4745"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4744",
+      "attributes": {
+        "nomor_pb_umku": "812000383134100010001",
+        "nama": "BERDU.ID",
+        "website": "berdu.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERDUNIA DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003430.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4744",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4693",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4744"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4743",
+      "attributes": {
+        "nomor_pb_umku": "125500246216200080001",
+        "nama": "PT REKA CIPTA DIGITAL",
+        "website": "myarchery.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT REKA CIPTA DIGITAL",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "003117.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4743",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4686",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4743"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4742",
+      "attributes": {
+        "nomor_pb_umku": "022020560262400000001",
+        "nama": "TUJJU MANAGEMENT SYSTEM (TMS)",
+        "website": "tujjumedia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TUJJU BIO INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "tanggal_terbit": "2022-06-24",
+        "nomor_tanda_daftar": "002733.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4742",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4692",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4742"
+      }
+    }
+  ]
+}

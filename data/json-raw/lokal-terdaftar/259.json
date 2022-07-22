@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 259,
+      "from": 2581,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2590,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=260",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=258"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5946",
+      "attributes": {
+        "nomor_pb_umku": "124900034274400010004",
+        "nama": "CREATIVE MULTIMEDIA INDONESIA",
+        "website": "creativemultimedia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CREATIVE MULTIMEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004408.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5946",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5810",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5946"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5945",
+      "attributes": {
+        "nomor_pb_umku": "022010883015700010002",
+        "nama": "WEBSITE BANKSURYAARTHAUTAMA.CO.ID",
+        "website": "banksuryaarthautama.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SURYA ARTHA UTAMA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004350.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5945",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5809",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5945"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5944",
+      "attributes": {
+        "nomor_pb_umku": "912030665107100000002",
+        "nama": "PETAPOLITIKA",
+        "website": "petapolitika.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DEWANTARA SANCAKA GUNDALA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004414.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5944",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5808",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5944"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5943",
+      "attributes": {
+        "nomor_pb_umku": "912030665107100000001",
+        "nama": "DEWANTARA",
+        "website": "dewantara.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DEWANTARA SANCAKA GUNDALA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004414.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5943",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5807",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5943"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5942",
+      "attributes": {
+        "nomor_pb_umku": "124900034274400010003",
+        "nama": "C MOBILE",
+        "website": "apps.creativemedia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CREATIVE MULTIMEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004408.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5942",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5806",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5942"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5941",
+      "attributes": {
+        "nomor_pb_umku": "124900034274400010002",
+        "nama": "COATES CONNECT",
+        "website": "ptcoatesconnect.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CREATIVE MULTIMEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004408.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5941",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5805",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5941"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5940",
+      "attributes": {
+        "nomor_pb_umku": "912031525141200000001",
+        "nama": "PT. MENARA PETSKITA INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MENARA PETSKITA INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004101.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5940",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5804",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5940"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5939",
+      "attributes": {
+        "nomor_pb_umku": "124900034274400010001",
+        "nama": "COATES INDONESIA TAKE5",
+        "website": "coatesapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV CREATIVE MULTIMEDIA INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004408.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5939",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5803",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5939"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5938",
+      "attributes": {
+        "nomor_pb_umku": "022000956155300000001",
+        "nama": "PAKET KURSUS. COM",
+        "website": "paketkursus.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "I WAYAN PUTRAYANA,ST",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004405.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5938",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5801",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5938"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5937",
+      "attributes": {
+        "nomor_pb_umku": "912000564211800000002",
+        "nama": "WISENOMIST",
+        "website": "wisenomist.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL OTOMAT DIGITAL",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "003885.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5937",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5802",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5937"
+      }
+    }
+  ]
+}

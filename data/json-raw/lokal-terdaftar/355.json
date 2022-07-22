@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 355,
+      "from": 3541,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3550,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=356",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=354"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4930",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040005",
+        "nama": "DIGICASH MERCHANT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003382.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4930",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4797",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4930"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4929",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040004",
+        "nama": "DIGICASH BY BANK BJB",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003382.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4929",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4796",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4929"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4928",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040003",
+        "nama": "TAMMI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003382.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4928",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4795",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4928"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4927",
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040002",
+        "nama": "DIGI BY BANK BJB",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003382.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4927",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4794",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4927"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4926",
+      "attributes": {
+        "nomor_pb_umku": "812001607371400010001",
+        "nama": "INTERCHANGE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV INTERCHANGE",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003542.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4926",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4798",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4926"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4925",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800990036",
+        "nama": "BRIGUNA DIGITAL",
+        "website": "app.briguna.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "002468.32/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4925",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4793",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4925"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4924",
+      "attributes": {
+        "nomor_pb_umku": "912020672187600000001",
+        "nama": "EDMUKU.OD",
+        "website": "edmuku.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAINSKERTA SOLUSI NUSANTARA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003539.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4924",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4791",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4924"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4920",
+      "attributes": {
+        "nomor_pb_umku": "022020984037500000002",
+        "nama": "OKEDOK",
+        "website": "okedok.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDIS INDONESIA DIGITAL",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003502.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4920",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4790",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4920"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4919",
+      "attributes": {
+        "nomor_pb_umku": "220622007879600000001",
+        "nama": "PORTAL JASA PERIZINAN IBIZ",
+        "website": "ibiz.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NUSANTARA IBIZ SOLUSINDO",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003531.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4919",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4788",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4919"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4918",
+      "attributes": {
+        "nomor_pb_umku": "120300071242600010001",
+        "nama": "CIPTA ASET DIGITAL",
+        "website": "ciptaasetdigital.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CIPTA ASET DIGITAL",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-28",
+        "nomor_tanda_daftar": "003419.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4918",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4787",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4918"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 2,
+      "from": 11,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 20,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=3",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8703",
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000011",
+        "nama": "ACI MART",
+        "website": "acimart.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005304.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8703",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8622",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8703"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8702",
+      "attributes": {
+        "nomor_pb_umku": "912010383114100000001",
+        "nama": "ONKLAS",
+        "website": "ONKLAS.ID",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ONKLAS PRIMA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006080.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8702",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8620",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8702"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8701",
+      "attributes": {
+        "nomor_pb_umku": "210722007842300000001",
+        "nama": "BKIIOS",
+        "website": "bkiios.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NOVITA TANTRI ROB'BIATIN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006075.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8701",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8621",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8701"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8700",
+      "attributes": {
+        "nomor_pb_umku": "126800035019300000002",
+        "nama": "PLUS BY BTN PRIORITAS",
+        "website": "definingyourpriority.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DINOMARKET",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006048.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8700",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8618",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8700"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8699",
+      "attributes": {
+        "nomor_pb_umku": "210722008117800010001",
+        "nama": "BEAUTY BY LANS",
+        "website": "beautybylans.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BEAUTY LANS INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006077.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8699",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8619",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8699"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8698",
+      "attributes": {
+        "nomor_pb_umku": "022010366276300010001",
+        "nama": "ROPEL ID",
+        "website": "ropel.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV SETIA USAHA BERSAMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006076.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8698",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8617",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8698"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8697",
+      "attributes": {
+        "nomor_pb_umku": "031121004258400050002",
+        "nama": "MOBILE APP SELMA",
+        "website": "selma.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HOME CENTER INDONESIA RETAIL",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006073.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8697",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8615",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8697"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8696",
+      "attributes": {
+        "nomor_pb_umku": "912010498171400010001",
+        "nama": "KELOLA",
+        "website": "kelolaapp.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KELOLA MITRA INVESTAMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006059.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8696",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8614",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8696"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8695",
+      "attributes": {
+        "nomor_pb_umku": "070222003459200010003",
+        "nama": "PERSEROAN",
+        "website": "perseroan.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "NETMEDIA DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003761.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8695",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8613",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8695"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8694",
+      "attributes": {
+        "nomor_pb_umku": "912010498171400010001",
+        "nama": "KEOLA",
+        "website": "kelolaapp.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KELOLA MITRA INVESTAMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "006059.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8694",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8607",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8694"
+      }
+    }
+  ]
+}

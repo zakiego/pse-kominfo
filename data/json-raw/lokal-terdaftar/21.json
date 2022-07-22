@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 21,
+      "from": 201,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 210,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=22",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=20"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8512",
+      "attributes": {
+        "nomor_pb_umku": "912040733169600040002",
+        "nama": "SINBAD",
+        "website": "seller.sinbad.web.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SINBAD KARYA PERDAGANGAN",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005902.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8512",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8425",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8512"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8511",
+      "attributes": {
+        "nomor_pb_umku": "912010013170900010001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT TAHUAN GANDA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TAHUAN GANDA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005951.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8511",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8427",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8511"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8510",
+      "attributes": {
+        "nomor_pb_umku": "912010498032900010001",
+        "nama": "PT ROYALMA PINTECH MANDIRI",
+        "website": "bprhmt.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT HARTHA MURIATAMA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005921.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8510",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8424",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8510"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8509",
+      "attributes": {
+        "nomor_pb_umku": "271221000963100000002",
+        "nama": "BISAPPPK",
+        "website": "bisapppk.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BERSAMA BISA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005846.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8509",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8417",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8509"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8508",
+      "attributes": {
+        "nomor_pb_umku": "271221000963100000001",
+        "nama": "BISACPNS",
+        "website": "bisacpns.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BERSAMA BISA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005846.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8508",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8414",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8508"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8507",
+      "attributes": {
+        "nomor_pb_umku": "912011017169600000001",
+        "nama": "FLASHCLOUD / INOVASI TEKNOLOGI MAKMUR",
+        "website": "flashcloud.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI TEKNOLOGI MAKMUR",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005936.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8507",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8422",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8507"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8506",
+      "attributes": {
+        "nomor_pb_umku": "028601022223500010001",
+        "nama": "PENTA SYSTEM",
+        "website": "bprdata.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DANA AMAN TIARA ABADI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005547.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8506",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8423",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8506"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8505",
+      "attributes": {
+        "nomor_pb_umku": "120122002931700010001",
+        "nama": "PT BPR MULIA YUGANTA INDONESIA",
+        "website": "mybpr.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MULIA YUGANTA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005910.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8505",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8421",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8505"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8504",
+      "attributes": {
+        "nomor_pb_umku": "912020072279200000002",
+        "nama": "LIFTI",
+        "website": "liftiofficial.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PESONA AURA KHARISMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "003538.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8504",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7073",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8504"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8503",
+      "attributes": {
+        "nomor_pb_umku": "022010474242500000002",
+        "nama": "WEB LAMA PT. PESAT AGHNI SOLUSI",
+        "website": "solusiteknis.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PESAT AGHNI SOLUSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "004792.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8503",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8420",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8503"
+      }
+    }
+  ]
+}

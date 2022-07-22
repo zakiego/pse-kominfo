@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 228,
+      "from": 2271,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2280,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=229",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=227"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6281",
+      "attributes": {
+        "nomor_pb_umku": "140722000962100000001",
+        "nama": "BPR TULUS PUJI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TULUS PUJI REJEKI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004586.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6281",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6141",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6281"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6280",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010005",
+        "nama": "INTERNET BANKING BANK RAYA",
+        "website": "ib.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6280",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6140",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6280"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6279",
+      "attributes": {
+        "nomor_pb_umku": "912000377149400010002",
+        "nama": "WEBSITE BPR CITRA DARIAN",
+        "website": "bprcitradarian.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CITRA DARIAN",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004654.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6279",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6139",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6279"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6278",
+      "attributes": {
+        "nomor_pb_umku": "912011700004900020001",
+        "nama": "BANK TUNAS",
+        "website": "banktunas.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TUNAS JAYA GRAHA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004651.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6278",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6138",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6278"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6277",
+      "attributes": {
+        "nomor_pb_umku": "912040392072900010001",
+        "nama": "WORDPRESS",
+        "website": "bprintidana-lampung.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT INTI DANA SENTOSA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004647.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6277",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6137",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6277"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6276",
+      "attributes": {
+        "nomor_pb_umku": "180722002101800000001",
+        "nama": "PT BPR LA MANGAU SEJAHTERA",
+        "website": "ptbprlamangausejahtera.page.tl",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LA MANGAU SEJAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004600.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6276",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6136",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6276"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6275",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "DEJAYO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PANDE ARTHA DEWATA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004605.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6275",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6135",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6275"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6274",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEB LELANG BANK RAYA",
+        "website": "lelang.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6274",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6134",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6274"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6273",
+      "attributes": {
+        "nomor_pb_umku": "120200032058700010001",
+        "nama": "WEBSITE RESMI ASURANSI MEGA PRATAMA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI MEGA PRATAMA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004650.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6273",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6130",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6273"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6272",
+      "attributes": {
+        "nomor_pb_umku": "128000011292300070001",
+        "nama": "PENTA HARVEST INDONESIA",
+        "website": "penta.com.my",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PENTA HARVEST INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004320.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6272",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6131",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6272"
+      }
+    }
+  ]
+}

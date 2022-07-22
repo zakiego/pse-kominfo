@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 216,
+      "from": 2151,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2160,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=217",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=215"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6429",
+      "attributes": {
+        "nomor_pb_umku": "022010934103900010001",
+        "nama": "BANK PERKREDITAN RAKYAT INDOMITRA ARTHA PERTIWI",
+        "website": "bprindomitraarthapertiwi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT INDOMITRA ARTHA PERTIWI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004666.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6429",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6300",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6429"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6428",
+      "attributes": {
+        "nomor_pb_umku": "912020259293500020001",
+        "nama": "WEBSITE PROLEGAL.ID",
+        "website": "prolegal.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PRO LEGAL INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004079.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6428",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6301",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6428"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6427",
+      "attributes": {
+        "nomor_pb_umku": "912020182125100050001",
+        "nama": "WEBSITE PROFIL PERUSAHAAN",
+        "website": "bprbkk-pwt.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR BKK PURWOKERTO PERSERODA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004727.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6427",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6291",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6427"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6426",
+      "attributes": {
+        "nomor_pb_umku": "022020188085400040004",
+        "nama": "MAKO CAKE & BAKERY DELIVERY",
+        "website": "mako.id",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MAKO ANUGERAH KREASINDO",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004657.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6426",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6297",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6426"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6425",
+      "attributes": {
+        "nomor_pb_umku": "080722004088900000001",
+        "nama": "KISAH KAMI INVITATION",
+        "website": "kisahkami.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KISAH KARYA KAMI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004730.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6425",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6295",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6425"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6424",
+      "attributes": {
+        "nomor_pb_umku": "022000339300600010001",
+        "nama": "WEBSITE",
+        "website": "bprbantoruperintis.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANTORU PERINTIS",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004731.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6424",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6296",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6424"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6423",
+      "attributes": {
+        "nomor_pb_umku": "261021000700300010001",
+        "nama": "WEBSITE BPR WILIS",
+        "website": "bprwilis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CINDE WILIS",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004490.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6423",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6231",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6423"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6422",
+      "attributes": {
+        "nomor_pb_umku": "812041301167200000002",
+        "nama": "BREADTALK DELIVERY",
+        "website": "btdelivery.com",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TALKINDO SELAKSA ANUGRAH",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004644.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6422",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6292",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6422"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6421",
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010011",
+        "nama": "DASHBOARD PINANG PERFORMA",
+        "website": "dashboard.pinang-performa.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004288.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6421",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6294",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6421"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6420",
+      "attributes": {
+        "nomor_pb_umku": "912030071391400010001",
+        "nama": "BPR ECASH",
+        "website": "bprdanamasterbahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR DANAMASTER BAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004726.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6420",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6288",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6420"
+      }
+    }
+  ]
+}

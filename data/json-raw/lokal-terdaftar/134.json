@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 134,
+      "from": 1331,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1340,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=135",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=133"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7287",
+      "attributes": {
+        "nomor_pb_umku": "912020926077600010001",
+        "nama": "GRAVITY GAME LINK",
+        "website": "gnjoy.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GRAVITY GAME LINK",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003840.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7287",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6911",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7287"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7286",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010006",
+        "nama": "WOW APPS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001186.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7286",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7179",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7286"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7285",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010005",
+        "nama": "COCREATE.ID",
+        "website": "cocreate.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001186.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7285",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7171",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7285"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7284",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010004",
+        "nama": "JENIUS (WEB APP)",
+        "website": "2secure.jenius.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001186.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7284",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7175",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7284"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7283",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010004",
+        "nama": "WEB APP - JENIUS",
+        "website": "2secure.jenius.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001186.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7283",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7176",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7283"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7282",
+      "attributes": {
+        "nomor_pb_umku": "912011701300900000001",
+        "nama": "ASIAN ACCESSORY",
+        "website": "asian-accessory.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Asian Accessory",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005241.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7282",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7050",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7282"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7281",
+      "attributes": {
+        "nomor_pb_umku": "912010052183900010001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "BPRSIWI.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SIWI SEDANA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005045.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7281",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7098",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7281"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7280",
+      "attributes": {
+        "nomor_pb_umku": "210522001855800000001",
+        "nama": "MILLIONAIRE DIGITAL INDONESIA",
+        "website": "millionaire.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MILLIONAIRE DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005301.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7280",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7174",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7280"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7279",
+      "attributes": {
+        "nomor_pb_umku": "812031119025100020001",
+        "nama": "KAPTEN NARATEL",
+        "website": "kaptenku.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT NARAYA TELEMATIKA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005211.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7279",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7173",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7279"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7278",
+      "attributes": {
+        "nomor_pb_umku": "190722008379900000001",
+        "nama": "PULSAKU",
+        "website": "pulsaku.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IQBAL ANDARU N. P",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005300.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7278",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7172",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7278"
+      }
+    }
+  ]
+}

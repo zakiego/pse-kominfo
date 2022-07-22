@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 392,
+      "from": 3911,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3920,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=393",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=391"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4208",
+      "attributes": {
+        "nomor_pb_umku": "125000055234400010001",
+        "nama": "BIGBOXASIA",
+        "website": "bigboxasia.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Pangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DPO INDONESIA FMCG",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "000991.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4208",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4207",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4208"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4207",
+      "attributes": {
+        "nomor_pb_umku": "290522001292200000001",
+        "nama": "KAWANUA DIGITAL MULTIVERSE",
+        "website": "kawanuadigital.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MELKY TUMPIA",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "000490.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4207",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4206",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4207"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4206",
+      "attributes": {
+        "nomor_pb_umku": "041121001530200010001",
+        "nama": "AYOCONNECT INSIGHT",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INSIGHT INOVASI INDONESIA",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "000465.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4206",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4205",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4206"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4205",
+      "attributes": {
+        "nomor_pb_umku": "120422003898900000001",
+        "nama": "WARKUM.COM",
+        "website": "warkum.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WARUNG GRUP DISTRIBUSI",
+        "tanggal_daftar": "2022-06-02",
+        "tanggal_terbit": "2022-06-02",
+        "nomor_tanda_daftar": "000316.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4205",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4204",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4205"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4204",
+      "attributes": {
+        "nomor_pb_umku": "022000631213400000001",
+        "nama": "SERMORPHEUS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LIKUID JAYA INISIASI",
+        "tanggal_daftar": "2022-06-01",
+        "tanggal_terbit": "2022-06-01",
+        "nomor_tanda_daftar": "000486.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4204",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4203",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4204"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4202",
+      "attributes": {
+        "nomor_pb_umku": "050122002955800010001",
+        "nama": "PUMA  SHOES  AND  APPAREL",
+        "website": "id.puma.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PUMA SPORTS INDONESIA",
+        "tanggal_daftar": "2022-05-30",
+        "tanggal_terbit": "2022-06-01",
+        "nomor_tanda_daftar": "000379.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4202",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4185",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4202"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4201",
+      "attributes": {
+        "nomor_pb_umku": "122200165121700000002",
+        "nama": "RAFFARASYA BIROJASA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SITI KHADIJAH",
+        "tanggal_daftar": "2022-06-01",
+        "tanggal_terbit": "2022-06-01",
+        "nomor_tanda_daftar": "000480.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4201",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4202",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4201"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4200",
+      "attributes": {
+        "nomor_pb_umku": "912010215390100030002",
+        "nama": "CARSOME: BUY USED CARS ONLINE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CAR SOME INDONESIA",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-06-01",
+        "nomor_tanda_daftar": "002314.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4200",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4200",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4200"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4199",
+      "attributes": {
+        "nomor_pb_umku": "122200165121700000001",
+        "nama": "SITI KHADIJAH",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SITI KHADIJAH",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000480.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4199",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4201",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4199"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4198",
+      "attributes": {
+        "nomor_pb_umku": "010422002678900000001",
+        "nama": "BEBAS",
+        "website": "bebasinvestasi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BEBAS INVESTAMA GLOBAL",
+        "tanggal_daftar": "2022-05-31",
+        "tanggal_terbit": "2022-05-31",
+        "nomor_tanda_daftar": "000467.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4198",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4196",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4198"
+      }
+    }
+  ]
+}

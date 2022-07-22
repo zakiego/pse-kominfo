@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 325,
+      "from": 3241,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3250,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=326",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=324"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5241",
+      "attributes": {
+        "nomor_pb_umku": "022010266284100000001",
+        "nama": "ASYX PLATFORM",
+        "website": "asyx.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASYX INDONESIA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003300.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5241",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5108",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5241"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5240",
+      "attributes": {
+        "nomor_pb_umku": "022070387285500060001",
+        "nama": "FINTEGRITY",
+        "website": "obf.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ORICO BALIMOR FINANCE",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003893.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5240",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5106",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5240"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5239",
+      "attributes": {
+        "nomor_pb_umku": "912010771008400000002",
+        "nama": "HIGO",
+        "website": "higo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HIGO FITUR INDONESIA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003892.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5239",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5107",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5239"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5238",
+      "attributes": {
+        "nomor_pb_umku": "029401300223300000001",
+        "nama": "DOCHECK",
+        "website": "docheck.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DOCHECK BAGI INDONESIA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003887.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5238",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5105",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5238"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5237",
+      "attributes": {
+        "nomor_pb_umku": "022010055144800010001",
+        "nama": "LOTTE CAPITAL INDONESIA",
+        "website": "lottecapital.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LOTTE CAPITAL INDONESIA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003878.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5237",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5103",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5237"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5236",
+      "attributes": {
+        "nomor_pb_umku": "912030564205500000001",
+        "nama": "EDOO.ID",
+        "website": "edoo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WOOLU AKSARA MAYA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003559.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5236",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5104",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5236"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5235",
+      "attributes": {
+        "nomor_pb_umku": "912030163246500010001",
+        "nama": "WEBSITE PT CATURNUSA SEJAHTERA FINANCE",
+        "website": "paylater.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CATURNUSA SEJAHTERA FINANCE",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003515.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5235",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5102",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5235"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5234",
+      "attributes": {
+        "nomor_pb_umku": "127500073095900000001",
+        "nama": "DASH SPORTS",
+        "website": "dashsports.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DAKSA ADHIMUKTI SAKTI HARSAYA",
+        "tanggal_daftar": "2022-07-07",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "001237.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5234",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5059",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5234"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5233",
+      "attributes": {
+        "nomor_pb_umku": "128400055361300000001",
+        "nama": "AFIN",
+        "website": "afin.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AFIN KARYA AMIGA",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003883.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5233",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5101",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5233"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5231",
+      "attributes": {
+        "nomor_pb_umku": "812021607330100000001",
+        "nama": "P-CURE NEO",
+        "website": "-",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PITOHUI GLOBAL INDOTEK",
+        "tanggal_daftar": "2022-07-08",
+        "tanggal_terbit": "2022-07-08",
+        "nomor_tanda_daftar": "003888.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5231",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5100",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5231"
+      }
+    }
+  ]
+}

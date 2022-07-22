@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 96,
+      "from": 951,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 960,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=97",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=95"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7671",
+      "attributes": {
+        "nomor_pb_umku": "022000257184800010001",
+        "nama": "BANKING SMART SYSTEM (BSS)",
+        "website": "bankbpu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PASAR UMUM",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005422.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7671",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7578",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7671"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7670",
+      "attributes": {
+        "nomor_pb_umku": "026301024248900000003",
+        "nama": "SMART EDC BANK EKA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT EKA BUMI ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005335.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7670",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7577",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7670"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7669",
+      "attributes": {
+        "nomor_pb_umku": "121221001021600000001",
+        "nama": "JASA IMPIAN - INKA TOTO KRISMONO",
+        "website": "jasaimpian.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "INKA TOTO KRISMONO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005591.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7669",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7563",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7669"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7668",
+      "attributes": {
+        "nomor_pb_umku": "912000373200400010001",
+        "nama": "PT. BPR BHASKARA PAKTO",
+        "website": "bprbhaskarapakto.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BHASKARA PAKTO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005483.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7668",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7574",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7668"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7667",
+      "attributes": {
+        "nomor_pb_umku": "912050184201100010001",
+        "nama": "PT BPR SWADAYA ANUGERAH UTAMA",
+        "website": "bankswadaya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SWADAYA ANUGERAH UTAMA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005571.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7667",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7575",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7667"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7666",
+      "attributes": {
+        "nomor_pb_umku": "022000033149800080001",
+        "nama": "MYHEALTH DIARY",
+        "website": "medika.ai",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INVESTO MEDIKA ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005538.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7666",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7562",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7666"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7665",
+      "attributes": {
+        "nomor_pb_umku": "021800092138200000001",
+        "nama": "RUANG MENDENGAR",
+        "website": "RUANGMENDENGAR.COM",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RUANG MENDENGAR INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004494.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7665",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7437",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7665"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7664",
+      "attributes": {
+        "nomor_pb_umku": "123300014256400020007",
+        "nama": "SUPER HEROES MOBILE APPLICATION (ANDROID & IOS)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT HANWHA LIFE INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "000359.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7664",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7559",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7664"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7660",
+      "attributes": {
+        "nomor_pb_umku": "022000371093400000003",
+        "nama": "APLIKASI BELANJA MADRASAH",
+        "website": "absah.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV GRATIS ONGKIR",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "001874.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7660",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7561",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7660"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7659",
+      "attributes": {
+        "nomor_pb_umku": "912010291079200010001",
+        "nama": "BPR KARPANA TASIA",
+        "website": "bprkarpanatasia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARPANA TASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004957.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7659",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7560",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7659"
+      }
+    }
+  ]
+}

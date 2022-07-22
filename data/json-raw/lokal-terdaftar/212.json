@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 212,
+      "from": 2111,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2120,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=213",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=211"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6473",
+      "attributes": {
+        "nomor_pb_umku": "200422001944500010001",
+        "nama": "HTTPS://ID.ALLIANZGI.COM/",
+        "website": "id.allianzgi.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ALLIANZ GLOBAL INVESTORS ASSET MANAGEMENT INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004116.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6473",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6336",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6473"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6472",
+      "attributes": {
+        "nomor_pb_umku": "812011908120100000001",
+        "nama": "NAGA CYBER DEFENSE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PL",
+        "nama_perusahaan": "PL DIAS NAGA ALPHA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004424.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6472",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6335",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6472"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6471",
+      "attributes": {
+        "nomor_pb_umku": "100921006747500010001",
+        "nama": "SISTEM INFORMASI AKADEMIK STAI ALKARIMIYAH",
+        "website": "siak.stai.alkarimiyah.ac.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUYAS MEDIA TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004475.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6471",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6334",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6471"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6470",
+      "attributes": {
+        "nomor_pb_umku": "022000417077700010001",
+        "nama": "BROKERAGE OFFICE SYSTEM (BOFIS)",
+        "website": "kafsekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KAF SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004739.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6470",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6332",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6470"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6469",
+      "attributes": {
+        "nomor_pb_umku": "022080592062400020001",
+        "nama": "WEBSITE PT BPD KALTIM KALTARA",
+        "website": "bankaltimtara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004622.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6469",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6331",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6469"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6468",
+      "attributes": {
+        "nomor_pb_umku": "091221000391500010001",
+        "nama": "WWW.BPRMULIAWACANA.COM",
+        "website": "bprmuliawacana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MULIA WACANA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004642.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6468",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6330",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6468"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6467",
+      "attributes": {
+        "nomor_pb_umku": "912010216234800020002",
+        "nama": "ITRACK",
+        "website": "mncfinance.net",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MNC FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "000779.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6467",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6329",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6467"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6466",
+      "attributes": {
+        "nomor_pb_umku": "912060174117900020003",
+        "nama": "MACF",
+        "website": "mcf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEGA CENTRAL FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004187.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6466",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6278",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6466"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6465",
+      "attributes": {
+        "nomor_pb_umku": "040122001284800000001",
+        "nama": "LAPORHUKUM",
+        "website": "laporhukum.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BERTIGA BANYAK BERKAT",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003136.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6465",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6328",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6465"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6464",
+      "attributes": {
+        "nomor_pb_umku": "912020187146200010002",
+        "nama": "WEBSITE BSG",
+        "website": "banksulutgo.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
+        "tanggal_daftar": "2022-07-17",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004481.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6464",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5891",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6464"
+      }
+    }
+  ]
+}

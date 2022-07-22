@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 185,
+      "from": 1841,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1850,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=186",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=184"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6761",
+      "attributes": {
+        "nomor_pb_umku": "026701002100300040003",
+        "nama": "JOUMPA",
+        "website": "joumpa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT STUDIO KAMI MANDIRI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004407.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6761",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6608",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6761"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6760",
+      "attributes": {
+        "nomor_pb_umku": "080222001680600010001",
+        "nama": "BANKING SMART SYSTEM",
+        "website": "bprcristy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SAPTACRISTY UTAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004965.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6760",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6607",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6760"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6759",
+      "attributes": {
+        "nomor_pb_umku": "090722001604800100001",
+        "nama": "BILPAY",
+        "website": "bilgy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TUAS MAS MANDIRI DIGITAL PAYMENT",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "003964.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6759",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6605",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6759"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6758",
+      "attributes": {
+        "nomor_pb_umku": "912000271145900010003",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN CUSTOMER-BPR MODERN EXPRESS PAPUA BARAT",
+        "website": "kredit.bprmodernpapua.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MODERN EXPRESS PAPUA BARAT",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004649.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6758",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6606",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6758"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6757",
+      "attributes": {
+        "nomor_pb_umku": "029901021224900000002",
+        "nama": "PORTAL AHLIWEB.CO.ID",
+        "website": "ahliweb.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "UNGGUL CAHYA SAPUTRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004941.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6757",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6604",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6757"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6756",
+      "attributes": {
+        "nomor_pb_umku": "110122003746400070002",
+        "nama": "PIXEL NINJA BY KUNCIE",
+        "website": "pixelninja.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KUNCIE PINTAR NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "002142.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6756",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6555",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6756"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6755",
+      "attributes": {
+        "nomor_pb_umku": "190722003570400000001",
+        "nama": "AHLIPULSA.COM",
+        "website": "ahlipulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "LUTFHY SUSI ANGGRAENY",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004967.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6755",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6603",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6755"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6754",
+      "attributes": {
+        "nomor_pb_umku": "190722002703100000002",
+        "nama": "ADVOSQUARE",
+        "website": "advosquare.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADVO MATRIKS INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004928.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6754",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6602",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6754"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6753",
+      "attributes": {
+        "nomor_pb_umku": "140422001028800000001",
+        "nama": "IDEKEN",
+        "website": "idekeen.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT WADAH IDE NAGARA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004956.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6753",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6601",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6753"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6752",
+      "attributes": {
+        "nomor_pb_umku": "022000741057500000001",
+        "nama": "TRAVIKR",
+        "website": "travikr.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ANTI IKLAN KOSONG",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004694.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6752",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6591",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6752"
+      }
+    }
+  ]
+}

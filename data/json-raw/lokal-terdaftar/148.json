@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 148,
+      "from": 1471,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1480,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=149",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=147"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7147",
+      "attributes": {
+        "nomor_pb_umku": "120800163147100020031",
+        "nama": "WEBEX",
+        "website": "webex.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CISCO TECHNOLOGIES INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005184.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7147",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7015",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7147"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7146",
+      "attributes": {
+        "nomor_pb_umku": "029101014065600000001",
+        "nama": "ENVIPEDIA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ENVIPEDIA HARMONI INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004918.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7146",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7026",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7146"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7145",
+      "attributes": {
+        "nomor_pb_umku": "912020073142800000002",
+        "nama": "CORPORATE INTERNET BANKING HSBCNET",
+        "website": "hsbcnet.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK HSBC INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000898.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7145",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7025",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7145"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7144",
+      "attributes": {
+        "nomor_pb_umku": "912020417284100040013",
+        "nama": "STOCK POINT INDOGROSIR (SPI)",
+        "website": "spi.klikindogrosir.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI CAKRAWALA CITRA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004779.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7144",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7024",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7144"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7143",
+      "attributes": {
+        "nomor_pb_umku": "241121000474300000002",
+        "nama": "APLIKASI PENCATATAN INFORMASI KEUANGAN BLUD RSUD SULTAN FATAH KABUPATEN DEMAK",
+        "website": "blud.rsudsulfat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOHAMMAD TAUFIQURROHMAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004987.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7143",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7022",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7143"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7142",
+      "attributes": {
+        "nomor_pb_umku": "122500444292300020009",
+        "nama": "E-RETRIBUSI BANK BPD BALI",
+        "website": "eretribusi.bpdbali.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH BALI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004518.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7142",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7019",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7142"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7138",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010001",
+        "nama": "AKSESBISNIS@BTPN",
+        "website": "aksesbisnis.btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001186.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7138",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7017",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7138"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7137",
+      "attributes": {
+        "nomor_pb_umku": "190722007612500000001",
+        "nama": "RAJAWALI PULSA",
+        "website": "Rajawalireload.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "STEFANUS HARTONO KURNIAWAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005217.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7137",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7018",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7137"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7136",
+      "attributes": {
+        "nomor_pb_umku": "190722007512400000001",
+        "nama": "TRAVELDATA: AGEN PULSA & KUOTA",
+        "website": "traveldata.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "Wawan Candra Dinata",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005219.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7136",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7016",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7136"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7135",
+      "attributes": {
+        "nomor_pb_umku": "812011410320700830012",
+        "nama": "SHELLFIRE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000337.36/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7135",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7011",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7135"
+      }
+    }
+  ]
+}

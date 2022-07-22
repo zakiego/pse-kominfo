@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 144,
+      "from": 1431,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1440,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=145",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=143"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7187",
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020010",
+        "nama": "CUSTOMER ON BOARD BPRKS",
+        "website": "cob.bprks.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004305.10/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7187",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7069",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7187"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7186",
+      "attributes": {
+        "nomor_pb_umku": "912010214275200010002",
+        "nama": "WEBSITE PT BANK JAGO TBK",
+        "website": "jago.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK JAGO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000885.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7186",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7067",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7186"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7185",
+      "attributes": {
+        "nomor_pb_umku": "912010046214700000001",
+        "nama": "BIMA - BILLING MANAGEMENT ANDALAN",
+        "website": "sjb-tech.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SUKSES JABAR BANTEN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005242.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7185",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7072",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7185"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7184",
+      "attributes": {
+        "nomor_pb_umku": "022000957228500010002",
+        "nama": "PT. BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 25",
+        "website": "ptbprnbp25.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 25",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004876.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7184",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7071",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7184"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7183",
+      "attributes": {
+        "nomor_pb_umku": "190722007612500000002",
+        "nama": "DARRA RELOAD",
+        "website": "Darrareload.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "STEFANUS HARTONO KURNIAWAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005217.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7183",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7070",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7183"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7182",
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010004",
+        "nama": "BRK MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005037.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7182",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7068",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7182"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7181",
+      "attributes": {
+        "nomor_pb_umku": "912010883289300010001",
+        "nama": "PT.BPR.BLAMBANGAN MAKMUR-MARSTECH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BLAMBANGAN MAKMUR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005101.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7181",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7065",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7181"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7180",
+      "attributes": {
+        "nomor_pb_umku": "190722007741100000001",
+        "nama": "BOOCINAPPS",
+        "website": "boocin.xyz",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "FEBRIANSYAH MAKARIM",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005223.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7180",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7061",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7180"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7179",
+      "attributes": {
+        "nomor_pb_umku": "812011619289900510002",
+        "nama": "WEBSITE SIMASMOBIL.COM",
+        "website": "simasmobil.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI SINAR MAS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000513.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7179",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6904",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7179"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7178",
+      "attributes": {
+        "nomor_pb_umku": "022010164024600010001",
+        "nama": "INDOPAKET",
+        "website": "indopaket.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INTI PAKET PRIMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005252.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7178",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7063",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7178"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 184,
+      "from": 1831,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1840,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=185",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=183"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6771",
+      "attributes": {
+        "nomor_pb_umku": "126300022266700000001",
+        "nama": "ZMNOW.ID",
+        "website": "zmnow.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KALS CORPORA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004972.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6771",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6610",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6771"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6770",
+      "attributes": {
+        "nomor_pb_umku": "912000661112600000001",
+        "nama": "KURURIO INDONESIA",
+        "website": "kururio.co.id",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV NANAS WARNA KUNING",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004898.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6770",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6553",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6770"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6769",
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "CUSTOMER SATISFACTION SURVEY BSI (CSS BSI)",
+        "website": "serviceultimaterace.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000863.14/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6769",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6620",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6769"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6768",
+      "attributes": {
+        "nomor_pb_umku": "190722002703100000003",
+        "nama": "ADVOSHIELD",
+        "website": "advoshield.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADVO MATRIKS INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004928.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6768",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6619",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6768"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6767",
+      "attributes": {
+        "nomor_pb_umku": "912020878202200000002",
+        "nama": "OFFICIAL WEBSITE MAIN DEALER HONDA BANDUNG CENTER",
+        "website": "hondabandungcenter.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ISTANA BANDUNG RAYA MOTOR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004852.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6767",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6617",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6767"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6766",
+      "attributes": {
+        "nomor_pb_umku": "190722003775400000001",
+        "nama": "FORUM BERITA",
+        "website": "forumberita.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KIOS PERMAI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004976.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6766",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6616",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6766"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6765",
+      "attributes": {
+        "nomor_pb_umku": "190722003664100000001",
+        "nama": "MADOTS",
+        "website": "madots.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUHAMMAD ADAM SANTOSO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004970.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6765",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6615",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6765"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6764",
+      "attributes": {
+        "nomor_pb_umku": "022020372002400010001",
+        "nama": "ARCHIPELAGO DIGITAL STUDIO",
+        "website": "bprsinargunasejahtera.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SINARGUNA SEJAHTERA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004916.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6764",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6614",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6764"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6763",
+      "attributes": {
+        "nomor_pb_umku": "022020660204800000002",
+        "nama": "ITULOH",
+        "website": "ituloh.co",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EATEROO BOGA INOVASI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001865.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6763",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6612",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6763"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6762",
+      "attributes": {
+        "nomor_pb_umku": "912000512371800010001",
+        "nama": "IBS USSI",
+        "website": "bprkita.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT KITA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004909.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6762",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "6609",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6762"
+      }
+    }
+  ]
+}

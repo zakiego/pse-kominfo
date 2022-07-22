@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 258,
+      "from": 2571,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2580,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=259",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=257"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5961",
+      "attributes": {
+        "nomor_pb_umku": "160722000413300000001",
+        "nama": "GTHRELOAD.XYZ",
+        "website": "gthreload.xyz",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "HERMANTO",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004396.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5961",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5788",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5961"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5960",
+      "attributes": {
+        "nomor_pb_umku": "020200093244300130014",
+        "nama": "SASIRANGAN",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "Koperasi",
+        "nama_perusahaan": "Koperasi KARYAWAN PEDAMI",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "003679.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5960",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5821",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5960"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5958",
+      "attributes": {
+        "nomor_pb_umku": "912030931061300950003",
+        "nama": "APLIKASI MYPERTAMINA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERTAMINA PATRA NIAGA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004419.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5958",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5819",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5958"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5957",
+      "attributes": {
+        "nomor_pb_umku": "812001513039100010002",
+        "nama": "MOBILE BANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PANIN DUBAI SYARIAH",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004413.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5957",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5816",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5957"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5956",
+      "attributes": {
+        "nomor_pb_umku": "200422004258600020001",
+        "nama": "SAI COWORK",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAI INSPIRASI KOLABORASI",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004420.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5956",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5818",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5956"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5954",
+      "attributes": {
+        "nomor_pb_umku": "912030931061300950002",
+        "nama": "WEB REGISTRASI SUBSIDI TEPAT MYPERTAMINA",
+        "website": "subsiditepat.mypertamina.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERTAMINA PATRA NIAGA",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004419.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5954",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5817",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5954"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5951",
+      "attributes": {
+        "nomor_pb_umku": "812001513039100010001",
+        "nama": "WEBSITE BANK",
+        "website": "panindubaisyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PANIN DUBAI SYARIAH",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004413.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5951",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5815",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5951"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5950",
+      "attributes": {
+        "nomor_pb_umku": "912001626158200010001",
+        "nama": "BPR DURIAN MANDIRI",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT DURIAN MANDIRI",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004416.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5950",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5814",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5950"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5948",
+      "attributes": {
+        "nomor_pb_umku": "110222002279500000001",
+        "nama": "PARTNERKITA",
+        "website": "partnerkita.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KONSULTAN LEGALITAS MILENIAL",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004418.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5948",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5812",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5948"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5947",
+      "attributes": {
+        "nomor_pb_umku": "130722006139200010001",
+        "nama": "BPR ARTHA KRAMAT",
+        "website": "bprarthakramat.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA KRAMAT",
+        "tanggal_daftar": "2022-07-16",
+        "tanggal_terbit": "2022-07-16",
+        "nomor_tanda_daftar": "004397.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5947",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5811",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5947"
+      }
+    }
+  ]
+}

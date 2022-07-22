@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 399,
+      "from": 3981,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3990,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=400",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=398"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4105",
+      "attributes": {
+        "nomor_pb_umku": "022010178146900010001",
+        "nama": "PERQARA",
+        "website": "perqara.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT LIMA VENTURA INDONESIA",
+        "tanggal_daftar": "2022-05-23",
+        "tanggal_terbit": "2022-05-23",
+        "nomor_tanda_daftar": "000305.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4105",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4104",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4105"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4104",
+      "attributes": {
+        "nomor_pb_umku": "912000729116600000001",
+        "nama": "FEEDLOOP",
+        "website": "feedloop.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FEEDLOOP GLOBAL TEKNOLOGI",
+        "tanggal_daftar": "2022-05-23",
+        "tanggal_terbit": "2022-05-23",
+        "nomor_tanda_daftar": "000301.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4104",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4103",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4104"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4054",
+      "attributes": {
+        "nomor_pb_umku": "160921005519900090002",
+        "nama": "SAVVIX.IO",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SAVVIX DIGITAL BLOCKCHAIN",
+        "tanggal_daftar": "2022-05-22",
+        "tanggal_terbit": "2022-05-22",
+        "nomor_tanda_daftar": "001348.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4054",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4053",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4054"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4585",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AIM BERSAMA COMP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIM BERSAMA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002729.04/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4585",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4548",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4585"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4584",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AIM BERSAMA ATK",
+        "website": "-",
+        "sektor": "Sektor Pangan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIM BERSAMA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002729.03/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4584",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4547",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4584"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4583",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AIM COMPUTER",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIM BERSAMA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002729.02/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4583",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4546",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4583"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4582",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AIM KOMPUTER",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AIM BERSAMA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002729.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4582",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4545",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4582"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4512",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MORE FURNITURE",
+        "website": "morefurniture.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT EFORIA FURNITUR INDONESIA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002731.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4512",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4496",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4512"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4511",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "tiadadua composite",
+        "website": "tiadadua.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV DEDY MARYADI",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002730.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4511",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4495",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4511"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4510",
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Triplyfe",
+        "website": "triplyfe.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELUSUR WISATA NUSANTARA",
+        "tanggal_daftar": "2022-05-20",
+        "tanggal_terbit": "2022-05-20",
+        "nomor_tanda_daftar": "002728.01/DJAI.PSE/05/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4510",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4494",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4510"
+      }
+    }
+  ]
+}

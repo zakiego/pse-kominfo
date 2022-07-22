@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 302,
+      "from": 3011,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3020,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=303",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=301"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "5497",
+      "attributes": {
+        "nomor_pb_umku": "812001912186900000002",
+        "nama": "UTERRA.ID",
+        "website": "uterra.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT D & W INTERNASIONAL",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003861.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5497",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5352",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5497"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5496",
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620023",
+        "nama": "FIRE API",
+        "website": "api.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001669.24/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5496",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5359",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5496"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5495",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BCA E-COMMERCE PAYMENT GATEWAY",
+        "website": "ecommpg.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001669.23/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5495",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5358",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5495"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5494",
+      "attributes": {
+        "nomor_pb_umku": "220921002850800010001",
+        "nama": "PLP MARI BERPROSES",
+        "website": "mariberproses.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BENUANTA KREASI MANDIRI",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004051.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5494",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5357",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5494"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5493",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "HTTPS://WWW.ADIRA.CO.ID",
+        "website": "adira.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ADIRA DINAMIKA MULTI FINANCE",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003745.07/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5493",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5356",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5493"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5492",
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "APLIKASI WEB FIRE",
+        "website": "bcaremit.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "001669.22/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5492",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5355",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5492"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5491",
+      "attributes": {
+        "nomor_pb_umku": "022010351048300010002",
+        "nama": "CASH MANAGEMENT SERVICES BANK MEGA SYARIAH",
+        "website": "cms.megasyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MEGA SYARIAH",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004034.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5491",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5354",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5491"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5488",
+      "attributes": {
+        "nomor_pb_umku": "912000598147700010001",
+        "nama": "KMK DIGITAL CSUL FINANCE",
+        "website": "kmkdigital.csulfinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CHANDRA SAKTI UTAMA LEASING",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "003836.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5488",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5350",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5488"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5487",
+      "attributes": {
+        "nomor_pb_umku": "022010351048300010001",
+        "nama": "WEBSITE BANK MEGA SYARIAH",
+        "website": "megasyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MEGA SYARIAH",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004034.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5487",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5351",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5487"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "5486",
+      "attributes": {
+        "nomor_pb_umku": "126300063136800080001",
+        "nama": "WEBSITE BOIINDONESIA",
+        "website": "boiindonesia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK OF INDIA INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "tanggal_terbit": "2022-07-13",
+        "nomor_tanda_daftar": "004059.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/5486",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5349",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/5486"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 371,
+      "from": 3701,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3710,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=372",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=370"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4651",
+      "attributes": {
+        "nomor_pb_umku": "250322004689200000001",
+        "nama": "FINCA",
+        "website": "finca.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT FINCA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003248.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4651",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4611",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4651"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4650",
+      "attributes": {
+        "nomor_pb_umku": "171221002216900010001",
+        "nama": "KUCARI.COM",
+        "website": "kucari.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT DARMA SAKTI ADISAPUTRA",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003323.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4650",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4610",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4650"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4649",
+      "attributes": {
+        "nomor_pb_umku": "301121004057800010001",
+        "nama": "DRIVE NET INDONESIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KHASBI HUSAIN",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003312.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4649",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4609",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4649"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4648",
+      "attributes": {
+        "nomor_pb_umku": "912021909039600040001",
+        "nama": "PASSIO ECO",
+        "website": "passio.eco",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ECOMOBI DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003231.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4648",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4608",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4648"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4647",
+      "attributes": {
+        "nomor_pb_umku": "912030720189300010004",
+        "nama": "ACCBID",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASTRA SEDAYA FINANCE",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003299.03/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4647",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4607",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4647"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4646",
+      "attributes": {
+        "nomor_pb_umku": "912030720189300010003",
+        "nama": "ACC.ONE",
+        "website": "acc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASTRA SEDAYA FINANCE",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003299.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4646",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4606",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4646"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4644",
+      "attributes": {
+        "nomor_pb_umku": "210622003594200000001",
+        "nama": "BLITARKITA.COM",
+        "website": "blitarkita.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BLITAR KITA SEKARANG",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003316.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4644",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4605",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4644"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4643",
+      "attributes": {
+        "nomor_pb_umku": "260422003018500000001",
+        "nama": "PT UPBANX GLOBAL INDONESIA (UPBANX)",
+        "website": "upbanx.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT UPBANX GLOBAL INDONESIA",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003314.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4643",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4604",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4643"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4642",
+      "attributes": {
+        "nomor_pb_umku": "010622000978300000001",
+        "nama": "LEGALPEDIA",
+        "website": "Legalpedia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "ALPHA LEGAL ULTIMA",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003309.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4642",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4603",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4642"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4641",
+      "attributes": {
+        "nomor_pb_umku": "812020280115700000001",
+        "nama": "CASHBAC",
+        "website": "cashbac.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL PAY INDONESIA",
+        "tanggal_daftar": "2022-06-21",
+        "tanggal_terbit": "2022-06-21",
+        "nomor_tanda_daftar": "003311.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4641",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4601",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4641"
+      }
+    }
+  ]
+}

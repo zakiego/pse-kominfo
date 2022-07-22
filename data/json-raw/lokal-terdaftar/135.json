@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 135,
+      "from": 1341,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1350,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=136",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=134"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7277",
+      "attributes": {
+        "nomor_pb_umku": "912030077275400010001",
+        "nama": "BPR ARTHA HUDA ABADI",
+        "website": "arthahuda.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA HUDA ABADI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005142.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7277",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7170",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7277"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7276",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010003",
+        "nama": "BISNISKIT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001186.06/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7276",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7169",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7276"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7275",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010017",
+        "nama": "SMAR&TS",
+        "website": "finglobe.smbc.co.jp",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001186.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7275",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7056",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7275"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7274",
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010002",
+        "nama": "DAYA.ID",
+        "website": "daya.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK BTPN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001186.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7274",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7111",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7274"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7273",
+      "attributes": {
+        "nomor_pb_umku": "024500094144100010001",
+        "nama": "MITRA JASA PRATAMA",
+        "website": "mitrajasa.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MITRA JASA PRATAMA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004881.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7273",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7168",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7273"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7272",
+      "attributes": {
+        "nomor_pb_umku": "190722007499200000001",
+        "nama": "KONTER PINTAR",
+        "website": "konterpintar.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOHAMMAD SOFYANUS TSAURY",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005234.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7272",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7167",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7272"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7271",
+      "attributes": {
+        "nomor_pb_umku": "200722000157300000001",
+        "nama": "GOPUNCAK",
+        "website": "gopuncak.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MOHAMMAD RAMDANI",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005296.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7271",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7166",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7271"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7270",
+      "attributes": {
+        "nomor_pb_umku": "912000159101600010001",
+        "nama": "PT. BPR LIPATGANDA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT LIPATGANDA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005180.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7270",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7165",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7270"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7269",
+      "attributes": {
+        "nomor_pb_umku": "200722000130100000002",
+        "nama": "VIVAPAY - LANDING PAGE",
+        "website": "vivapay.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "DIGITAL MUDA BERKARYA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005293.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7269",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7164",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7269"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7268",
+      "attributes": {
+        "nomor_pb_umku": "026301101212300000001",
+        "nama": "KIOSKU",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "KRISMANTO",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005292.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7268",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7163",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7268"
+      }
+    }
+  ]
+}

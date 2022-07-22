@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 30,
+      "from": 291,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 300,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=31",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=29"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8396",
+      "attributes": {
+        "nomor_pb_umku": "022000678003500010001",
+        "nama": "OFFICIAL WEBSITE BPR CENTRAL ARTHA",
+        "website": "bprcentralartha.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT CENTRAL ARTHA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005889.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8396",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8314",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8396"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8395",
+      "attributes": {
+        "nomor_pb_umku": "125900013290900030002",
+        "nama": "RAJAMISI",
+        "website": "rajamisi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INCORE SYSTEMS SOLUTIONS",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005880.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8395",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8312",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8395"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8394",
+      "attributes": {
+        "nomor_pb_umku": "812011413226801200058",
+        "nama": "PORTAL DPLK BRI",
+        "website": "Dplk.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "002468.54/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8394",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8311",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8394"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8393",
+      "attributes": {
+        "nomor_pb_umku": "912020284062400010001",
+        "nama": "WEBSITE BPR GERBANG SERASAN",
+        "website": "gerbangserasan.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT GERBANG SERASAN KABUPATEN MUARA ENIM",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005434.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8393",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8310",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8393"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8392",
+      "attributes": {
+        "nomor_pb_umku": "812031210219700010001",
+        "nama": "BPRMAM.COM",
+        "website": "bprmetroasiamandiri.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT METRO ASIA MANDIRI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005744.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8392",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8307",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8392"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8391",
+      "attributes": {
+        "nomor_pb_umku": "912000984223100010001",
+        "nama": "WEBSITE BPT SENTRAL MITRA SEJAHTERA",
+        "website": "bprsentralmitrasejahtera.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SENTRAL MITRA SEJAHTERA",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005886.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8391",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8309",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8391"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8390",
+      "attributes": {
+        "nomor_pb_umku": "912021828192600000004",
+        "nama": "DRC (DISASTER RECOVERY CENTER)",
+        "website": "ussi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT USSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "001020.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8390",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8308",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8390"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8389",
+      "attributes": {
+        "nomor_pb_umku": "125900013290900030001",
+        "nama": "RUANGAJAR",
+        "website": "ruangajar.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INCORE SYSTEMS SOLUTIONS",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005880.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8389",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8306",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8389"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8388",
+      "attributes": {
+        "nomor_pb_umku": "912030297235400000001",
+        "nama": "PENAWARAN PRODUK DAN JASA BANK",
+        "website": "bprbandaraya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANDA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005550.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8388",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7436",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8388"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8387",
+      "attributes": {
+        "nomor_pb_umku": "912030086192200260002",
+        "nama": "WEBSITE BOSOWA ASURANSI",
+        "website": "bosowaasuransi.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BOSOWA ASURANSI",
+        "tanggal_daftar": "2022-07-21",
+        "tanggal_terbit": "2022-07-21",
+        "nomor_tanda_daftar": "005641.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8387",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "8303",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8387"
+      }
+    }
+  ]
+}

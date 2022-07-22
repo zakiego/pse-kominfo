@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 378,
+      "from": 3771,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3780,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=379",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=377"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4546",
+      "attributes": {
+        "nomor_pb_umku": "912000554229900020001",
+        "nama": "SANDANGJAKARTA.COM",
+        "website": "sandangjakarta.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BUANA MAS SANJAYA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000293.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4546",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4520",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4546"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4540",
+      "attributes": {
+        "nomor_pb_umku": "912021622193600030002",
+        "nama": "NUSAWORK HR",
+        "website": "nusawork.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT MEDIA ANTAR NUSA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "000965.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4540",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4519",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4540"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4538",
+      "attributes": {
+        "nomor_pb_umku": "130422001907600000001",
+        "nama": "BAITULJANNAH",
+        "website": "baituljannah.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BAITULJANNAH INTERNATIONAL GROUP",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "003163.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4538",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4518",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4538"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4537",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800930019",
+        "nama": "BRI CORPORATE BILLING MANAGEMENT",
+        "website": "cbm.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "002468.15/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4537",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4517",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4537"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4535",
+      "attributes": {
+        "nomor_pb_umku": "121121000256500000001",
+        "nama": "TRADMED",
+        "website": "tradmed.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KHALILA TRADMED INDONESIA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "003157.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4535",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4508",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4535"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4534",
+      "attributes": {
+        "nomor_pb_umku": "812001600284900040001",
+        "nama": "ONLINE PAYMENT POINT (OPP)",
+        "website": "ptuangkita.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT UANGKITA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "003060.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4534",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4515",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4534"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4525",
+      "attributes": {
+        "nomor_pb_umku": "912010019298300010001",
+        "nama": "MSIGONLINE",
+        "website": "msigonline.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI MSIG INDONESIA",
+        "tanggal_daftar": "2022-06-16",
+        "tanggal_terbit": "2022-06-16",
+        "nomor_tanda_daftar": "003087.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4525",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4509",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4525"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4524",
+      "attributes": {
+        "nomor_pb_umku": "123500037239300000001",
+        "nama": "RANGKAI.ID",
+        "website": "rangkai.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RANGKAI KREATIVITAS INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "000286.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4524",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4507",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4524"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4523",
+      "attributes": {
+        "nomor_pb_umku": "010622000260300050001",
+        "nama": "MEDIA PUBLIKASI BERBASIS ELEKTRONIK",
+        "website": "idisionline.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT IDISI MULTI MANDIRI",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "000287.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4523",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4506",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4523"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4522",
+      "attributes": {
+        "nomor_pb_umku": "812011413226800930018",
+        "nama": "SISTEM CHATBOT SABRINA BRI",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "tanggal_terbit": "2022-06-15",
+        "nomor_tanda_daftar": "002468.14/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4522",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4505",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4522"
+      }
+    }
+  ]
+}

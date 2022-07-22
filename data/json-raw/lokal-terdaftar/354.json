@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 354,
+      "from": 3531,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 3540,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=355",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=353"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "4940",
+      "attributes": {
+        "nomor_pb_umku": "022010515230500010005",
+        "nama": "RTI FINANCE",
+        "website": "rti.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RTI INFOKOM",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003415.05/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4940",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4808",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4940"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4939",
+      "attributes": {
+        "nomor_pb_umku": "022010515230500010004",
+        "nama": "RTI MARKET INFO",
+        "website": "rti.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT RTI INFOKOM",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003415.04/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4939",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4807",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4939"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4938",
+      "attributes": {
+        "nomor_pb_umku": "912040363216500010001",
+        "nama": "CBS NUSANTARA",
+        "website": "cbclik.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT CRIF LEMBAGA INFORMASI KEUANGAN",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003547.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4938",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4806",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4938"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4937",
+      "attributes": {
+        "nomor_pb_umku": "280622006872400010001",
+        "nama": "PORTAL BUANA NEWS GROUP",
+        "website": "portalbuana.asia",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "INDRA FITRIADI",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003551.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4937",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4805",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4937"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4936",
+      "attributes": {
+        "nomor_pb_umku": "127100054022800020001",
+        "nama": "APLIKASI GLIM CHAT",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLIM MEDIA INDONESIA",
+        "tanggal_daftar": "2022-06-28",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003520.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4936",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4762",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4936"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4935",
+      "attributes": {
+        "nomor_pb_umku": "290622001998900000001",
+        "nama": "UKASYAH OLSHOP",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MAISAL FITRI",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003549.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4935",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4803",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4935"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4934",
+      "attributes": {
+        "nomor_pb_umku": "310821002826100010001",
+        "nama": "JDSPORTS.ID",
+        "website": "jdsports.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JDSPORTS FASHION INDONESIA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003548.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4934",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4802",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4934"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4933",
+      "attributes": {
+        "nomor_pb_umku": "111021002346500010001",
+        "nama": "WWW.SARANAJATENGVENTURA.CO.ID",
+        "website": "saranajatengventura.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA JATENG VENTURA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003509.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4933",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4801",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4933"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4932",
+      "attributes": {
+        "nomor_pb_umku": "912010533026900030001",
+        "nama": "TRAVEL EXPENSES MANAGEMENT SYSTEM (TEMS)",
+        "website": "syb-online.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT SARANA YUKTI BANDHANA",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "002792.02/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4932",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4800",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4932"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "4931",
+      "attributes": {
+        "nomor_pb_umku": "022020439062700030002",
+        "nama": "PERUMDA TIRTA PAKUAN KOTA BOGOR",
+        "website": "tirtapakuan.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "PERUMDA TIRTA PAKUAN KOTA BOGOR",
+        "tanggal_daftar": "2022-06-29",
+        "tanggal_terbit": "2022-06-29",
+        "nomor_tanda_daftar": "003543.01/DJAI.PSE/06/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/4931",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "4799",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/4931"
+      }
+    }
+  ]
+}

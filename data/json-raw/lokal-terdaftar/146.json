@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 146,
+      "from": 1451,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 1460,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=147",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=145"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7167",
+      "attributes": {
+        "nomor_pb_umku": "190722008006300000001",
+        "nama": "GENUS.ID",
+        "website": "genus.bukaolshop.site",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "IBNU FARKHAN",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005238.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7167",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7046",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7167"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7166",
+      "attributes": {
+        "nomor_pb_umku": "022010513106500020001",
+        "nama": "KARGO TECHNOLOGIES",
+        "website": "kargo.tech",
+        "sektor": "Sektor Transportasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT KARGO ONLINE SYSTEM",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005083.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7166",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7047",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7166"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7165",
+      "attributes": {
+        "nomor_pb_umku": "912020071111900030004",
+        "nama": "JOIN WEBTRADE",
+        "website": "trade.juc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT JASA UTAMA CAPITAL SEKURITAS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "001266.08/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7165",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7045",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7165"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7164",
+      "attributes": {
+        "nomor_pb_umku": "812011410320700830014",
+        "nama": "LANGIT MUSIK",
+        "website": "langitmusik.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000337.38/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7164",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7043",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7164"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7163",
+      "attributes": {
+        "nomor_pb_umku": "912020073142800000003",
+        "nama": "HSBCEVOLVE",
+        "website": "fxclientui.gfx.id.gbm.hsbc.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK HSBC INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000898.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7163",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7040",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7163"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7162",
+      "attributes": {
+        "nomor_pb_umku": "300522006445800000001",
+        "nama": "SIMPLE PAYMENT INDONESIA",
+        "website": "simplepay.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "SIMPLE PAYMENT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005229.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7162",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7041",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7162"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7161",
+      "attributes": {
+        "nomor_pb_umku": "190722007764600000001",
+        "nama": "NIAGAPAY",
+        "website": "niagapay.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "MUH. SALMAN AL FARISIH M. YUNUS",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005224.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7161",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7039",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7161"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7160",
+      "attributes": {
+        "nomor_pb_umku": "190722007120800000001",
+        "nama": "MM-STORE TOPUP TERMURAH PPOB",
+        "website": "mmstoreapps.bukaolshop.site",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "RAHMAT",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "005199.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7160",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7038",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7160"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7159",
+      "attributes": {
+        "nomor_pb_umku": "812011410320700830013",
+        "nama": "CONDOR HEROES",
+        "website": "condorheroes.duniagames.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "000337.37/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7159",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7037",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7159"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7158",
+      "attributes": {
+        "nomor_pb_umku": "812000382013500760003",
+        "nama": "WEB.PLN.CO.ID",
+        "website": "web.pln.co.id",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN LISTRIK NEGARA (PERSERO)",
+        "tanggal_daftar": "2022-07-19",
+        "tanggal_terbit": "2022-07-19",
+        "nomor_tanda_daftar": "004620.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7158",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7036",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7158"
+      }
+    }
+  ]
+}

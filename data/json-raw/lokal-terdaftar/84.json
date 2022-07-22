@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 84,
+      "from": 831,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 840,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=85",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=83"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "7791",
+      "attributes": {
+        "nomor_pb_umku": "812021319184101560003",
+        "nama": "WEBSITE PRODUK BFI (BFI FINANCE)",
+        "website": "produk.bfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BFI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003857.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7791",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7715",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7791"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7790",
+      "attributes": {
+        "nomor_pb_umku": "022010447220800010001",
+        "nama": "TRUSTMEDIS WEB",
+        "website": "trustmedis.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INOVASI TEKNOLOGI SOLUSINDO",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005366.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7790",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7710",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7790"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7789",
+      "attributes": {
+        "nomor_pb_umku": "026000093195300010001",
+        "nama": "WEBSITE PT BANK PERKREDITAN RAKYAT OLYMPINDO SEJAHTERA",
+        "website": "bprolympindosejahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT OLYMPINDO SEJAHTERA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005446.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7789",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7713",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7789"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7788",
+      "attributes": {
+        "nomor_pb_umku": "912010578197200010001",
+        "nama": "BPR JATENG",
+        "website": "bprjateng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT JATENG",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005492.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7788",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7714",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7788"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7787",
+      "attributes": {
+        "nomor_pb_umku": "200722004462600000001",
+        "nama": "BPRTALA.CO.ID",
+        "website": "bprtala.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TANAH LAUT",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005590.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7787",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7711",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7787"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7786",
+      "attributes": {
+        "nomor_pb_umku": "022000168299900010007",
+        "nama": "DIGITAL BROCHURE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "004154.09/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7786",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7709",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7786"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7785",
+      "attributes": {
+        "nomor_pb_umku": "912020153273300010001",
+        "nama": "PT BPR ARTHA MUKTI SANTOSA",
+        "website": "bprams.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT ARTHA MUKTI SANTOSA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005340.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7785",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7707",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7785"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7784",
+      "attributes": {
+        "nomor_pb_umku": "912000495136100010001",
+        "nama": "PT. BPR BKK BLORA (PERSERODA)",
+        "website": "bprbkk-blora.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN BLORA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005575.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7784",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7708",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7784"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7783",
+      "attributes": {
+        "nomor_pb_umku": "120900073007600000001",
+        "nama": "LOKETTA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_tampil_badan_hukum": "CV",
+        "nama_perusahaan": "CV BENS MULTI USAHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005654.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7783",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7704",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7783"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7782",
+      "attributes": {
+        "nomor_pb_umku": "200722004498600000004",
+        "nama": "RORO",
+        "website": "roro.prahu-hub.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT APLIKASI TEPAT GUNA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005548.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7782",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7706",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7782"
+      }
+    }
+  ]
+}

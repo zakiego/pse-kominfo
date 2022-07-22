@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 63,
+      "from": 621,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 630,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=64",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=62"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "8001",
+      "attributes": {
+        "nomor_pb_umku": "912020480116200010002",
+        "nama": "JUDGME",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT TIGA MACAN MULTIMEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005449.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8001",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7869",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8001"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "8000",
+      "attributes": {
+        "nomor_pb_umku": "912000921103500020005",
+        "nama": "TRANSVISION",
+        "website": "transvision.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT INDONUSA TELEMEDIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "003544.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/8000",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7919",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/8000"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7999",
+      "attributes": {
+        "nomor_pb_umku": "022020377194500010001",
+        "nama": "WEBSITE PT BPR BKK MUNTILAN (PERSERODA)",
+        "website": "bprbkkmuntilan.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BPR BKK MUNTILAN PERSERODA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005736.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7999",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7918",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7999"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7998",
+      "attributes": {
+        "nomor_pb_umku": "912020447065100230010",
+        "nama": "TRAVELSAFE-ACA.COM",
+        "website": "travelsafe-aca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT ASURANSI CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005454.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7998",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7920",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7998"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7997",
+      "attributes": {
+        "nomor_pb_umku": "912030387240900010001",
+        "nama": "BPR PASAR BOJA",
+        "website": "bprpasarboja.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT PASAR BOJA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005679.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7997",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7916",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7997"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7996",
+      "attributes": {
+        "nomor_pb_umku": "128100146017800000001",
+        "nama": "AYOTECH",
+        "website": "g7teknologi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT GLOBAL TUJUH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005200.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7996",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7915",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7996"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7995",
+      "attributes": {
+        "nomor_pb_umku": "912040482009900010002",
+        "nama": "SIDAMAR SAKTI",
+        "website": "sidamar.bprragasakti.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT RAGASAKTI",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005718.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7995",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7912",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7995"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7994",
+      "attributes": {
+        "nomor_pb_umku": "812001203066600010002",
+        "nama": "MILOV APPS",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT AMAN DEVLOOP INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005377.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7994",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7184",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7994"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7993",
+      "attributes": {
+        "nomor_pb_umku": "128600069088900010002",
+        "nama": "SITUS CORPORATE  BANK BPR DJOKO TINGKIR",
+        "website": "bprdjokotingkir.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT BANK DJOKO TINGKIR PERSERODA KABUPATEN SRAGEN",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005691.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7993",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7911",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7993"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "7992",
+      "attributes": {
+        "nomor_pb_umku": "912010672272900010001",
+        "nama": "PT BPR TRIKARYA WARANUGRAHA",
+        "website": "bprtrikarya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT TRIKARYA WARANUGRAHA",
+        "tanggal_daftar": "2022-07-20",
+        "tanggal_terbit": "2022-07-20",
+        "nomor_tanda_daftar": "005677.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/7992",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "7908",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/7992"
+      }
+    }
+  ]
+}

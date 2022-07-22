@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 250,
+      "from": 2491,
+      "lastPage": 816,
+      "perPage": 10,
+      "to": 2500,
+      "total": 8153
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "first": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=1",
+    "last": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=816",
+    "next": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=251",
+    "prev": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?page%5Blimit%5D=10&page%5Bpage%5D=249"
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": "6048",
+      "attributes": {
+        "nomor_pb_umku": "022000956155300000001",
+        "nama": "AMERTA NUSANTARA TEKNOLOGI NET",
+        "website": "amertant.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_tampil_badan_hukum": "",
+        "nama_perusahaan": "I WAYAN PUTRAYANA,ST",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004405.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6048",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5917",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6048"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6047",
+      "attributes": {
+        "nomor_pb_umku": "912000657195600010002",
+        "nama": "WISTLE BLOWING SYSTEM (WBS)",
+        "website": "wbs.smf-indonesia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. SARANA MULTIGRIYA FINANSIAL",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004188.05/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6047",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5916",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6047"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6046",
+      "attributes": {
+        "nomor_pb_umku": "912000657195600010002",
+        "nama": "VENDOR MANAGEMENT SISTEM",
+        "website": "vendor.smf-indonesia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. SARANA MULTIGRIYA FINANSIAL",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004188.04/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6046",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5914",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6046"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6045",
+      "attributes": {
+        "nomor_pb_umku": "912000657195600010002",
+        "nama": "EPROCUREMENT",
+        "website": "eproc.smf-indonesia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. SARANA MULTIGRIYA FINANSIAL",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004188.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6045",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5913",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6045"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6044",
+      "attributes": {
+        "nomor_pb_umku": "912000657195600010002",
+        "nama": "ELEARNING",
+        "website": "elearning.smf-indonesia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. SARANA MULTIGRIYA FINANSIAL",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004188.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6044",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5912",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6044"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6043",
+      "attributes": {
+        "nomor_pb_umku": "912010135191100350003",
+        "nama": "MYREWARDS",
+        "website": "Bankmayapada.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK MAYAPADA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-15",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "003949.03/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6043",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5745",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6043"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6042",
+      "attributes": {
+        "nomor_pb_umku": "912000657195600010002",
+        "nama": "E-DUEDILIGENCE",
+        "website": "ddkpr.smf-indonesia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT PERUSAHAAN PERSEROAN (PERSERO) PT. SARANA MULTIGRIYA FINANSIAL",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004188.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6042",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5911",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6042"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6041",
+      "attributes": {
+        "nomor_pb_umku": "024101015273300010012",
+        "nama": "COB BANK JAMBI",
+        "website": "cob.bankjambi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004292.11/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6041",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5910",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6041"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6040",
+      "attributes": {
+        "nomor_pb_umku": "191121003265800010002",
+        "nama": "PT. BANK PERKREDITAN RAKYAT MUKOMUKO MAKMUR",
+        "website": "bprmukomukomakmurgmail.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT MUKOMUKO MAKMUR",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004144.02/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6040",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5909",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6040"
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": "6039",
+      "attributes": {
+        "nomor_pb_umku": "812001520157900000001",
+        "nama": "SABAR ARTHA PRIMA",
+        "website": "sabararthaprima.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_tampil_badan_hukum": "PT",
+        "nama_perusahaan": "PT BANK PERKREDITAN RAKYAT SABAR ARTHA PRIMA",
+        "tanggal_daftar": "2022-07-18",
+        "tanggal_terbit": "2022-07-18",
+        "nomor_tanda_daftar": "004306.01/DJAI.PSE/07/2022",
+        "qr_code": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/qr-code/6039",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": "5908",
+        "keterangan": "-",
+        "lokalitas": "LOKAL"
+      },
+      "links": {
+        "self": "http://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit/6039"
+      }
+    }
+  ]
+}
