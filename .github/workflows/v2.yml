@@ -1,0 +1,69 @@
+name: Update Data V2 Test
+
+on:
+  push:
+    branches:
+      - v2
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2
+
+      - name: Setup Bun Runtime
+        uses: antongolub/action-setup-bun@v1
+        with:
+          cache: true
+          cache-bin: true
+
+      - name: Execute Script
+        run: |
+          bun install
+          bun src/index.ts
+
+      - name: Run Test
+        run: bun wiptest
+
+      - name: Add File
+        run: |
+          git config --local user.email "${{ secrets.USER_EMAIL }}"
+          git config --local user.name "zakiego"
+          git add .
+
+      - name: Check is need to push
+        id: check_status
+        run: |
+          STATUS=$(git status --porcelain | wc -l)
+          echo "number of files that need to be committed:" $STATUS
+          echo "::set-output name=STATUS::$STATUS"
+
+      - name: Commit File
+        if: steps.check_status.outputs.STATUS > 0
+        run: |
+          echo "status"
+          now=$(date)
+          git commit -m "feat: update data $now"
+
+      - name: Push Changes
+        if: steps.check_status.outputs.STATUS > 0
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      - name: Install Python Lib
+        run: pip install -r src/requirements.txt
+
+      - name: Push to Google Sheets
+        if: steps.check_status.outputs.STATUS > 0
+        run: python src/push.py ${{ secrets.GOOGLE_CREDENTIALS }}
