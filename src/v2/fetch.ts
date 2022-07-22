@@ -52,9 +52,14 @@ export async function fetchAPI(url: string, nameFile: string) {
         throw new Error("Something went wrong");
       });
 
-      saveJSON(`data/json-raw/${nameFile}/${i}.json`, resp);
+      const clean = resp.data.map((item) => {
+        const { type, id, attributes, links } = item;
+        return { type, id, ...attributes, ...links };
+      });
 
-      bucket.push(...resp.data);
+      saveJSON(`data/json-raw/${nameFile}/${i}.json`, clean);
+
+      bucket.push(...clean);
     });
   }
 
