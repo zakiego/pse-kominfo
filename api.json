@@ -1,6 +1,6 @@
 {
   "lokal": {
-    "terdaftar": "https://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?filter[status_id]=TERDAFTAR&filter[lokalitas]=LOKAL&page[page]=1&page[limit]=10&filter[search_term]=",
+    "terdaftar": "https://pse.kominfo.go.id/static/json-static/LOKAL_TERDAFTAR/0.json",
     "dicabut": "https://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?filter[status_id]=DICABUT&filter[lokalitas]=LOKAL&page[page]=1&page[limit]=10&filter[search_term]=",
     "dihentikanSementara": "https://pse.kominfo.go.id/api/v1/jsonapi/tdpse-terbit?filter[status_id]=SUSPENDED_BY_TAKEL,SUSPENDED_BY_PAI&filter[lokalitas]=LOKAL&page[page]=1&page[limit]=10&filter[search_term]="
   },
