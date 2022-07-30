@@ -1,6 +1,12 @@
 # Daftar PSE Kominfo
 
-[![Update Data](https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml/badge.svg)](https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml)
+<div style="display: flex; align-items: center">
+
+<img style="margin-right: 10px" src="https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml/badge.svg" href="https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml" alt="Update Data"/>
+
+ <img src="https://github.com/zakiego/pse-kominfo/actions/workflows/test.yml/badge.svg" href="https://github.com/zakiego/pse-kominfo/actions/workflows/test.yml" alt="Test"/>
+
+</div>
 
 > **Note**
 >
