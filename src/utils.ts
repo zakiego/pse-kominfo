@@ -75,27 +75,6 @@ const listFolder = [
   "asing-dihentikan-sementara",
 ];
 
-export function combineFile() {
-  consoleTitle("Combine File");
-
-  for (let i = 0; i < listFolder.length; i++) {
-    try {
-      const folder = listFolder[i];
-      const listFile = fs.readdirSync(`data/json/${folder}`);
-      const listJson = listFile.map((file) => {
-        return JSON.parse(
-          fs.readFileSync(`data/json/${folder}/${file}`, "utf8"),
-        );
-      });
-      const listJsonFlatten = flatten(listJson);
-      saveJSON(`data/json/${folder}.json`, listJsonFlatten);
-      saveCSV(`data/csv/${folder}.csv`, listJsonFlatten);
-    } catch (error) {
-      console.log(error);
-    }
-  }
-}
-
 export function createMaster() {
   consoleTitle("Create Master");
   const dirname = "data/json/";
