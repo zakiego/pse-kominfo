@@ -3,7 +3,9 @@ import { Endpoint, Resp } from "./types";
 import converter from "json-2-csv";
 import path from "path";
 import { flattenDeep, flatten } from "lodash";
-import fetch from "cross-fetch";
+
+var originalFetch = require("cross-fetch");
+var fetch = require("fetch-retry")(originalFetch);
 
 export function endpointList() {
   const file = fs.readFileSync("api.json", "utf8");
@@ -11,7 +13,10 @@ export function endpointList() {
 }
 
 export async function getLastPage(url: string) {
-  const data: Resp = await fetch(url).then((response) => {
+  const data: Resp = await fetch(url, {
+    retries: 5,
+    retryDelay: 1000,
+  }).then((response: any) => {
     if (response.ok) {
       return response.json();
     }
@@ -25,7 +30,7 @@ export async function getLastPage(url: string) {
 export async function fetchApi(url: string, index: number) {
   const updateUrl = url.replace("0.json", `${index}.json`);
 
-  const raw: Resp = await fetch(updateUrl.toString()).then((response) => {
+  const raw: Resp = await fetch(updateUrl.toString()).then((response: any) => {
     if (response.ok) {
       return response.json();
     }
@@ -55,15 +60,6 @@ export async function saveCSV(path: string, data: any) {
   });
 }
 
-const listFolder = [
-  "lokal-terdaftar",
-  "lokal-dicabut",
-  "lokal-dihentikan-sementara",
-  "asing-terdaftar",
-  "asing-dicabut",
-  "asing-dihentikan-sementara",
-];
-
 export function createMaster() {
   consoleTitle("Create Master");
   const dirname = "data/json/";
@@ -91,7 +87,7 @@ export function consoleTitle(title: string) {
 }
 
 export async function getLastUpdatedDate(url: string) {
-  const data = await fetch(url).then((response) => {
+  const data = await fetch(url).then((response: any) => {
     if (response.ok) {
       return response.json();
     }
