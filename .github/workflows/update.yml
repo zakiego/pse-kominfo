@@ -62,12 +62,14 @@ jobs:
           branch: ${{ github.ref }}
 
       - name: Setup Python
+        if: steps.check_status.outputs.STATUS > 0
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
           cache: "pip"
 
       - name: Install Python Lib
+        if: steps.check_status.outputs.STATUS > 0
         run: pip install -r src/requirements.txt
 
       - name: Push to Google Sheets
