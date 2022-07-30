@@ -91,7 +91,7 @@ export function consoleTitle(title: string) {
 }
 
 export async function getLastUpdatedDate(url: string) {
-  const data: Resp = await fetch(url).then((response) => {
+  const data = await fetch(url).then((response) => {
     if (response.ok) {
       return response.json();
     }
@@ -99,5 +99,23 @@ export async function getLastUpdatedDate(url: string) {
     throw new Error("Something went wrong");
   });
 
-  saveJSON("data/last-updated.json", data);
+  const tanggal = data.data.generated_at;
+
+  const tanggal_convert = new Date(tanggal).toLocaleString("id-ID", {
+    timeZone: "Asia/Jakarta",
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    hour12: false,
+    timeZoneName: "long",
+  });
+
+  fs.writeFileSync(
+    "data/last-updated.md",
+    `Data terakhir diperbarui pada: **${tanggal_convert}**`,
+  );
 }
