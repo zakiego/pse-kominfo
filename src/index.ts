@@ -6,7 +6,7 @@ import {
   fetchApi,
   endpointList,
   consoleTitle,
-  getLastUpdatedDate,
+  compareLastUpdatedData,
 } from "./utils";
 
 async function launch(nameFile: string, url: string) {
@@ -41,7 +41,9 @@ async function launch(nameFile: string, url: string) {
 async function main() {
   const api = endpointList();
 
-  await getLastUpdatedDate(api.lastUpdatedDate);
+  if (await compareLastUpdatedData()) {
+    return;
+  }
 
   await launch("lokal-terdaftar", api.lokal.terdaftar);
   await launch("lokal-dicabut", api.lokal.dicabut);

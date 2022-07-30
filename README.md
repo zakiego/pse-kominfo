@@ -12,8 +12,8 @@
 >
 > Halo, karena ada pembatasan query API, untuk sementara update data tidak bisa dilakukan, lengkapnya ada di https://github.com/zakiego/pse-kominfo/issues/4
 
-<!-- AUTO-GENERATED-CONTENT:START (FILE:src=./data/last-updated.md) -->
-<!-- The below content is automatically added from ./data/last-updated.md -->
+<!-- AUTO-GENERATED-CONTENT:START (FILE:src=./last-updated.md) -->
+<!-- The below content is automatically added from ./last-updated.md -->
 Data terakhir diperbarui pada: **Sabtu, 30 Juli 2022 07.59.50 Waktu Indonesia Barat**
 <!-- AUTO-GENERATED-CONTENT:END -->
 

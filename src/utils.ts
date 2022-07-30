@@ -14,7 +14,7 @@ export function endpointList() {
 
 export async function getLastPage(url: string) {
   const data: Resp = await fetch(url, {
-    retries: 5,
+    retries: 2,
     retryDelay: 1000,
   }).then((response: any) => {
     if (response.ok) {
@@ -86,19 +86,31 @@ export function consoleTitle(title: string) {
   console.log(`\n===================== ${title} =====================`);
 }
 
-export async function getLastUpdatedDate(url: string) {
-  const data = await fetch(url).then((response: any) => {
-    if (response.ok) {
-      return response.json();
-    }
-    console.log("Error Status:", response.status);
-    console.log("Content-type:", response.headers.contenttype);
-    throw new Error("Something went wrong");
-  });
+export async function getLastUpdatedDate() {
+  const url = endpointList().lastUpdatedDate;
+  const data = await fetch(url).then((response: any) => response.json());
 
-  const tanggal = data.data.generated_at;
+  return data.data;
+}
 
-  const tanggal_convert = new Date(tanggal).toLocaleString("id-ID", {
+export async function compareLastUpdatedData() {
+  const newDate = await getLastUpdatedDate();
+  const oldDate = JSON.parse(fs.readFileSync("data/last-updated.json", "utf8"));
+
+  const isEqual = newDate.generated_at == oldDate.generated_at;
+
+  if (!isEqual) {
+    console.log("Data baru tersedia, lakukan pembaruan");
+    saveLastUpdatedData(newDate);
+  } else {
+    console.log("Data masih sama, tidak perlu diupdate");
+  }
+
+  return isEqual;
+}
+
+export async function saveLastUpdatedData(data: any) {
+  const tanggal_convert = new Date(data.generated_at).toLocaleString("id-ID", {
     timeZone: "Asia/Jakarta",
     weekday: "long",
     day: "numeric",
@@ -111,8 +123,10 @@ export async function getLastUpdatedDate(url: string) {
     timeZoneName: "long",
   });
 
+  saveJSON("data/last-updated.json", data);
+
   fs.writeFileSync(
-    "data/last-updated.md",
+    "last-updated.md",
     `Data terakhir diperbarui pada: **${tanggal_convert}**`,
   );
 }
