@@ -1,10 +1,21 @@
 # Daftar PSE Kominfo
 
-[![Update Data](https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml/badge.svg)](https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml)
+<div style="display: flex; align-items: center">
+
+<img style="margin-right: 10px" src="https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml/badge.svg" href="https://github.com/zakiego/pse-kominfo/actions/workflows/update.yml" alt="Update Data"/>
+
+ <img src="https://github.com/zakiego/pse-kominfo/actions/workflows/test.yml/badge.svg" href="https://github.com/zakiego/pse-kominfo/actions/workflows/test.yml" alt="Test"/>
+
+</div>
 
 > **Note**
 >
 > Halo, karena ada pembatasan query API, untuk sementara update data tidak bisa dilakukan, lengkapnya ada di https://github.com/zakiego/pse-kominfo/issues/4
+
+<!-- AUTO-GENERATED-CONTENT:START (FILE:src=./last-updated.md) -->
+<!-- The below content is automatically added from ./last-updated.md -->
+Data terakhir diperbarui pada: **Sabtu, 30 Juli 2022 07.59.50 Waktu Indonesia Barat**
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 Daftar Penyelenggara Sistem Elektronik yang dikumpulkan dari API [pse.kominfo.go.id](https://pse.kominfo.go.id). Diperbarui setiap 1 jam sekali menggunakan [Github Action](/.github/workflows/update.yml)
 

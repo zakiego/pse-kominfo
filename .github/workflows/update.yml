@@ -2,30 +2,38 @@ name: Update Data
 
 on:
   schedule:
-    - cron: "0 */1 * * *" # run every hour
+    - cron: "0 */1 * * *" # every hour
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repo content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Setup Bun Runtime
-        uses: antongolub/action-setup-bun@v1
+      - name: Setup PNPM
+        uses: pnpm/action-setup@v2.2.2
         with:
-          cache: true
-          cache-bin: true
+          version: 7
+
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Execute Script
-        run: |
-          bun install
-          bun src/index.ts
+        run: pnpm start
 
       - name: Run Test
-        run: bun wiptest
+        run: pnpm test
+
+      - name: Update Docs
+        run: pnpm md-magic
 
       - name: Add File
         run: |
@@ -55,12 +63,14 @@ jobs:
           branch: ${{ github.ref }}
 
       - name: Setup Python
+        if: steps.check_status.outputs.STATUS > 0
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
           cache: "pip"
 
       - name: Install Python Lib
+        if: steps.check_status.outputs.STATUS > 0
         run: pip install -r src/requirements.txt
 
       - name: Push to Google Sheets

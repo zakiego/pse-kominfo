@@ -1,22 +1,49 @@
 import {
   createMaster,
-  endpointList,
-  getData,
+  getLastPage,
   saveCSV,
   saveJSON,
+  fetchApi,
+  endpointList,
+  consoleTitle,
+  compareLastUpdatedData,
 } from "./utils";
 
 async function launch(nameFile: string, url: string) {
-  console.log("Trying to get data from", url);
-  const data = await getData(url);
+  consoleTitle(nameFile);
 
-  saveJSON(`data/json-raw/${nameFile}.json`, data.raw);
-  saveJSON(`data/json/${nameFile}.json`, data.clean);
-  saveCSV(`data/csv/${nameFile}.csv`, data.clean);
+  let lastPage: number;
+
+  try {
+    lastPage = (await getLastPage(url)) - 1;
+  } catch (err) {
+    // ketika tidak ada last page, berarti return bukan json, skip
+    console.log(err);
+    return;
+  }
+
+  const bucket = [];
+
+  for (let i = 0; i <= lastPage; i++) {
+    const data = await fetchApi(url, i);
+    console.log(
+      `Fetch data ${nameFile} - halaman ${data.raw.meta.page.currentPage}`,
+    );
+    bucket.push(...data.clean);
+
+    saveJSON(`data/json-raw/${nameFile}/${i}.json`, data.raw);
+  }
+
+  saveJSON(`data/json/${nameFile}.json`, bucket);
+  saveCSV(`data/csv/${nameFile}.csv`, bucket);
 }
 
 async function main() {
   const api = endpointList();
+
+  if (await compareLastUpdatedData()) {
+    return;
+  }
 
   await launch("lokal-terdaftar", api.lokal.terdaftar);
   await launch("lokal-dicabut", api.lokal.dicabut);

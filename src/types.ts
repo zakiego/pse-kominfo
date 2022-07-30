@@ -1,4 +1,5 @@
 export type Endpoint = {
+  lastUpdatedDate: string;
   lokal: EndpointStatus;
   asing: EndpointStatus;
 };
@@ -39,18 +40,11 @@ type Data = {
     nama: string;
     website: string;
     sektor: string;
-    nama_tampil_badan_hukum: string;
     nama_perusahaan: string;
     tanggal_daftar: string;
-    tanggal_terbit: string;
     nomor_tanda_daftar: string;
     qr_code: string;
     status_id: string;
     sistem_elektronik_id: string;
-    keterangan: string;
-    lokalitas: string;
-  };
-  links: {
-    string;
   };
 };

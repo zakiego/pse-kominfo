@@ -5,19 +5,24 @@ on: push
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repo content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Setup Bun Runtime
-        uses: antongolub/action-setup-bun@v1
+      - name: Setup PNPM
+        uses: pnpm/action-setup@v2.2.2
         with:
-          cache: true
-          cache-bin: true
+          version: 7
+
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Run Test
-        run: |
-          bun install
-          bun wiptest
+        run: pnpm test

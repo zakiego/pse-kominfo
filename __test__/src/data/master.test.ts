@@ -1,10 +1,12 @@
 import path from "path";
 import * as fs from "fs";
-import { expect, it, describe } from "bun:test";
 import converter from "json-2-csv";
 
 describe("Master JSON", () => {
-  const masterJSON = JSON.parse(fs.readFileSync("data/master.json", "utf8"));
+  let masterJSON: any;
+  beforeAll(async () => {
+    masterJSON = JSON.parse(fs.readFileSync("data/master.json", "utf8"));
+  });
 
   it("should be an array", () => {
     expect(Array.isArray(masterJSON)).toBe(true);
@@ -29,35 +31,33 @@ describe("Master JSON", () => {
       0,
     );
 
-    expect(masterJSON.length).toBe(countAllJSON);
+    expect(masterJSON).toHaveLength(countAllJSON);
   });
 
   it("should be have true property", () => {
     const mock = masterJSON[0];
 
-    expect(mock.hasOwnProperty("type")).toBe(true);
-    expect(mock.hasOwnProperty("id")).toBe(true);
-    expect(mock.hasOwnProperty("nomor_pb_umku")).toBe(true);
-    expect(mock.hasOwnProperty("nama")).toBe(true);
-    expect(mock.hasOwnProperty("website")).toBe(true);
-    expect(mock.hasOwnProperty("sektor")).toBe(true);
-    expect(mock.hasOwnProperty("nama_tampil_badan_hukum")).toBe(true);
-    expect(mock.hasOwnProperty("nama_perusahaan")).toBe(true);
-    expect(mock.hasOwnProperty("tanggal_daftar")).toBe(true);
-    expect(mock.hasOwnProperty("tanggal_terbit")).toBe(true);
-    expect(mock.hasOwnProperty("nomor_tanda_daftar")).toBe(true);
-    expect(mock.hasOwnProperty("qr_code")).toBe(true);
-    expect(mock.hasOwnProperty("status_id")).toBe(true);
-    expect(mock.hasOwnProperty("sistem_elektronik_id")).toBe(true);
-    expect(mock.hasOwnProperty("keterangan")).toBe(true);
-    expect(mock.hasOwnProperty("lokalitas")).toBe(true);
-    expect(mock.hasOwnProperty("self")).toBe(true);
+    expect(mock).toHaveProperty("type");
+    expect(mock).toHaveProperty("id");
+    expect(mock).toHaveProperty("nomor_pb_umku");
+    expect(mock).toHaveProperty("nama");
+    expect(mock).toHaveProperty("website");
+    expect(mock).toHaveProperty("sektor");
+    expect(mock).toHaveProperty("nama_perusahaan");
+    expect(mock).toHaveProperty("tanggal_daftar");
+    expect(mock).toHaveProperty("nomor_tanda_daftar");
+    expect(mock).toHaveProperty("qr_code");
+    expect(mock).toHaveProperty("status_id");
+    expect(mock).toHaveProperty("sistem_elektronik_id");
   });
 });
 
-describe("Master CSV", async () => {
-  const fileCSV = fs.readFileSync("data/master.csv", "utf8");
-  const masterCSV = await converter.csv2jsonAsync(fileCSV);
+describe("Master CSV", () => {
+  let masterCSV: any;
+  beforeAll(async () => {
+    const fileCSV = fs.readFileSync("data/master.csv", "utf8");
+    masterCSV = await converter.csv2jsonAsync(fileCSV);
+  });
 
   it("should be an array", () => {
     expect(Array.isArray(masterCSV)).toBe(true);
@@ -82,28 +82,23 @@ describe("Master CSV", async () => {
       0,
     );
 
-    expect(masterCSV.length).toBe(countAllJSON);
+    expect(masterCSV).toHaveLength(countAllJSON);
   });
 
   it("should be have true property", () => {
     const mock = masterCSV[0];
 
-    expect(mock.hasOwnProperty("type")).toBe(true);
-    expect(mock.hasOwnProperty("id")).toBe(true);
-    expect(mock.hasOwnProperty("nomor_pb_umku")).toBe(true);
-    expect(mock.hasOwnProperty("nama")).toBe(true);
-    expect(mock.hasOwnProperty("website")).toBe(true);
-    expect(mock.hasOwnProperty("sektor")).toBe(true);
-    expect(mock.hasOwnProperty("nama_tampil_badan_hukum")).toBe(true);
-    expect(mock.hasOwnProperty("nama_perusahaan")).toBe(true);
-    expect(mock.hasOwnProperty("tanggal_daftar")).toBe(true);
-    expect(mock.hasOwnProperty("tanggal_terbit")).toBe(true);
-    expect(mock.hasOwnProperty("nomor_tanda_daftar")).toBe(true);
-    expect(mock.hasOwnProperty("qr_code")).toBe(true);
-    expect(mock.hasOwnProperty("status_id")).toBe(true);
-    expect(mock.hasOwnProperty("sistem_elektronik_id")).toBe(true);
-    expect(mock.hasOwnProperty("keterangan")).toBe(true);
-    expect(mock.hasOwnProperty("lokalitas")).toBe(true);
-    expect(mock.hasOwnProperty("self")).toBe(true);
+    expect(mock).toHaveProperty("type");
+    expect(mock).toHaveProperty("id");
+    expect(mock).toHaveProperty("nomor_pb_umku");
+    expect(mock).toHaveProperty("nama");
+    expect(mock).toHaveProperty("website");
+    expect(mock).toHaveProperty("sektor");
+    expect(mock).toHaveProperty("nama_perusahaan");
+    expect(mock).toHaveProperty("tanggal_daftar");
+    expect(mock).toHaveProperty("nomor_tanda_daftar");
+    expect(mock).toHaveProperty("qr_code");
+    expect(mock).toHaveProperty("status_id");
+    expect(mock).toHaveProperty("sistem_elektronik_id");
   });
 });
