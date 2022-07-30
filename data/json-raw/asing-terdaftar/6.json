@@ -6,10 +6,42 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 70,
-      "total": 288
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9177,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OPERA NEWS",
+        "website": "opera.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OPERA NORWAY AS",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006445.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf9f1b5bc60987bd287942aaea9800c4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9085
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9176,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OPERA FOR ANDROID",
+        "website": "opera.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OPERA NORWAY AS",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006445.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db45544dbd03e979bcfbae768082a433.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9084
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9175,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/666b7af16005b02784ed39457fd21189.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9056
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8928,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ROBLOX CORPORATION",
-        "website": "roblox.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ROBLOX CORPORATION",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "006219.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b2a98dca1d24b3fecc97844ef8c9086.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8834
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8770,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MIHCM",
-        "website": "mihcm.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MIHCM ASIA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "006145.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6bb2851a4a293b0844f1811f3a1a47f0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8687
       }
     }
   ]

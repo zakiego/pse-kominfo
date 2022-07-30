@@ -6,10 +6,42 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 10,
-      "total": 288
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9443,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PANGAREPAN INC.",
+        "website": "semmypangarepan.co.id",
+        "sektor": "Sektor Pertahanan dan Keamanan",
+        "nama_perusahaan": "THE PANGAREPAN",
+        "tanggal_daftar": "2022-07-30",
+        "nomor_tanda_daftar": "006618.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c126078953226b3b7a67fcd986d81bf8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9355
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9436,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NOVELAKU",
+        "website": "novelaku.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "READ LASTING LIMITED",
+        "tanggal_daftar": "2022-07-30",
+        "nomor_tanda_daftar": "006615.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/95b339851fad20afbeca8617948987c8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9348
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9413,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/31e75a652cc10e79fbe7d7abf054d70c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9184
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9271,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GOSSIP HARBOR",
-        "website": "play.google.com/store/apps/details?id=com.mergegames.cookie；https://apps.apple.com/gb/app/gossip-harbor-merge-game/id1623318294",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MICROFUN LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006499.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1358dab3b7944243e5d6a31a83d12a4e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9183
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9270,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MERGE COUNTY APP",
-        "website": "play.google.com/store/apps/details?id=com.mf.town；https://apps.apple.com/us/app/merge-county/id1586279379",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MICROFUN LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006499.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a9491cec7fe7301ba03dcd4cef17e85.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9182
       }
     }
   ]

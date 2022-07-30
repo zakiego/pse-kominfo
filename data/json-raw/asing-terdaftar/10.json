@@ -6,10 +6,42 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 110,
-      "total": 288
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8457,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIVO.COM APPLICATION",
+        "website": "asia-expweb.vivo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0a139ed86aa785d7c9643cb5a48c1fe.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8373
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8456,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SHOP.VIVO.COM",
+        "website": "shop.vivo.com/id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f8a482ab77bb48a8309263609a5b218.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8372
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8279,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d3b6e57ad5c7b45bf9ed45025955d8e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8189
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8270,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINE",
-        "website": "line.me/id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINE CORPORATION",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005833.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/64c7f7f5447cf71afbc5178408195602.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8188
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8268,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AUK INDUSTRIES",
-        "website": "auk.industries",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AUK INDUSTRIES PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005832.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7bb80ab335d55b5085a78e5a27f39d26.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8186
       }
     }
   ]

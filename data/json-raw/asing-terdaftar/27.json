@@ -6,10 +6,42 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 280,
-      "total": 288
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4090,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "REACH52 ACCESS",
+        "website": "reach52.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "REACH52 PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000295.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a29e5f1fa2a666130a6b40a453d10b3f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4089
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4089,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MCB",
+        "website": "mycashback.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MANKIND MEDIA PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000294.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5cf44649c0176c454d3a7a2d5c977918.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4088
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4088,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4be1e2c770ebae54e798195a1c9ca8c0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4080
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4067,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "SPACE & AVIATION TECHNLOGY SYSTEM",
-        "website": "belumada.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000279.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79c9bff26dc477ac3f7fea8cd82467cd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4066
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4066,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK MOBILE APPLICATION",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000278.03/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fded7cccfae01e02c0d92b083e76fb3d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4065
       }
     }
   ]

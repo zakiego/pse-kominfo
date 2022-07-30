@@ -6,10 +6,42 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 180,
-      "total": 288
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7139,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PUBG MOBILE",
+        "website": "apps.apple.com/us/app/pubg-mobile/id1330123889",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PROXIMA BETA PTE. LIMITED",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005222.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7f11ebf8d2d06a8239b9b54a1e1479a5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7020
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7008,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WESING",
+        "website": "wesingapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WE SONG (HONG KONG) LIMITED",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005126.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6f12d87d78d6976a8ae35678c24cbeff.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6865
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7102,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09d1b117be62a9cb6ea31b8b8182ec80.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6537
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6683,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SHOPPINGMALL.99.COM",
-        "website": "shoppingmall.99.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NETDRAGON",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004914.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/075e538cdb7b0acbde35f42317c16d0d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6536
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6681,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DISCORD",
-        "website": "discord.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DISCORD INC.",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004913.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cfb534eeca7cf00bd3f971e7fcb69ffd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6532
       }
     }
   ]

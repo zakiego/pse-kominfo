@@ -6,10 +6,42 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 160,
-      "total": 288
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8193,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DREAME",
+        "website": "play.google.com/store/apps/details?id=com.dreame.reader&hl=en_US&gl=US; https://apps.apple.com/au/app/dreame-read-best-romance/id1421091911",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "STARY PTE. LTD.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005802.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5bf31bc6f720f935d700e2a497fb0c60.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8112
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8192,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INNOVEL",
+        "website": "play.google.com/store/apps/details?id=com.dreame.reader.indonesia&hl=en_US&gl=US; https://apps.apple.com/us/app/innovel/id1529082813",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "STARY PTE. LTD.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005802.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37490e6c5a67c1ce3fce58282d60a2fc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8111
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8159,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97e7de2bedb97316c96cf6d487538520.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8067
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8146,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AUTOCHESS MOBA",
-        "website": "autochessmoba.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TIANJIN HAORANYOU LIMITED",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005784.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e82a3a9af769a73fcd9d35e2a0e0a49.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8066
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8145,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PICMA - PENAMBAH FOTO AI",
-        "website": "imperial-vision.com/en",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LIMEI GAO",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005782.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aab80eb99dd8eb01396a7b26e99728b2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8065
       }
     }
   ]

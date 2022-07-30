@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 696,
       "from": 6951,
-      "lastPage": 873,
+      "lastPage": 875,
       "perPage": 10,
       "to": 6960,
-      "total": 8721
+      "total": 8749
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 8062,
+      "id": 1281,
       "attributes": {
-        "nomor_pb_umku": "912001519122100010001",
-        "nama": "WEBSITE BANKINA.ID",
-        "website": "bankina.id",
+        "nomor_pb_umku": null,
+        "nama": "QRIS BSI",
+        "website": "www.bsimobile.co.id",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK INA PERDANA",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.06/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/716f38b8a07fdab77d7f46b9817b806f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 905
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1280,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "API Cardless Withdrawal",
+        "website": "https://apisandbox.bsm.co.id:7776/gateway/CashOut/1.0",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ed35af0873dad4862d69c6d842c34ec.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 904
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1279,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "API Bisnis BSI",
+        "website": "https://developer.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2d2e92e471615bb1c4409a7a285f46c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 903
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1269,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BSI Mobile",
+        "website": "www.bsimobile.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d142c21f62c47f6294f766bfb85b835f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 902
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1268,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BSI Net Banking",
+        "website": "www.bsinet.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bfb9a092a12c3e6d89858aa5a318e386.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 901
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1267,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Bank Syariah Indonesia",
+        "website": "www.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e0e793f60772cef84b6fdd141637f69.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 900
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1265,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kredivo",
+        "website": "www.kredivo.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "FINACCEL FINANCE INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000862.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eeaf0bc268227af53f8b00d161b9b503.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 825
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7799,
+      "attributes": {
+        "nomor_pb_umku": "912020553197500100011",
+        "nama": "CASH@WORK HOST TO HOST",
+        "website": "direct.danamon.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
         "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000860.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3065552df43ff57c2caddd6262d53fa2.png",
+        "nomor_tanda_daftar": "000861.19/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52b14ef0682541baabbc6a92c2c1aabd.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7931
+        "sistem_elektronik_id": 7719
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 1263,
+      "id": 7740,
       "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Internet Banking Bisnis Bank Ina Perdana",
-        "website": "https://ibb.bankina.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK INA PERDANA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000860.03/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/06af9c258c08bd5b99c5fd235fdd454f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 932
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1260,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Internet Banking dan Mobile Banking Bank Ina Perdana",
-        "website": "https://ibi.bankina.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK INA PERDANA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000860.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2082592e8fbd4307c41b19583360df1d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 931
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1258,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website PT Bank Ina Perdana Tbk",
-        "website": "www.bankina.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK INA PERDANA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000860.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef7bea6344fe8ba04c691bd7e0f5622d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 930
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1262,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Surat Berharga Negara (SBN Ritel)",
-        "website": "https://www.victoriabank.co.id/SBNRITEL/welcome",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK VICTORIA INTERNATIONAL",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000859.05/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7d4672fbdc133ccc4ce1238e1bd87e7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 947
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1261,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website Bank Victoria",
-        "website": "https://www.victoriabank.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK VICTORIA INTERNATIONAL",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000859.04/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/598c86b21ddb2c7fbd1cb9b146134fa6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 946
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1259,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Victoria Mobile",
+        "nomor_pb_umku": "912020553197500100010",
+        "nama": "QR DANAMON",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK VICTORIA INTERNATIONAL",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000859.03/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c130ca8dd083ab3f663e6531ef9e429c.png",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000861.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fe33adf4649501abcacf455d9881f1ae.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 945
+        "sistem_elektronik_id": 7644
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 1257,
+      "id": 7209,
       "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "internet Banking Bisnis",
-        "website": "https://vib.victoriabank.co.id",
+        "nomor_pb_umku": "912020553197500100009",
+        "nama": "DCARD MOBILE",
+        "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK VICTORIA INTERNATIONAL",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000859.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81710f0f5e3557e5d85cebd51f2882da.png",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000861.17/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5c0a9ac22e84c545da47201c2418334.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 944
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1256,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Internet Banking Perorangan",
-        "website": "https://ib.victoriabank.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK VICTORIA INTERNATIONAL",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000859.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/672afa9b3584a9862da9fb8dedc66149.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 943
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1254,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BCA Syariah Mobile; Klik BCA Syariah; Klik BCA Syariah Bisnis; Website BCA Syariah",
-        "website": "https://www.bcasyariah.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BCA SYARIAH",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000858.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b17758cf59f7ecc551ae9a996c999bd6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 890
+        "sistem_elektronik_id": 7075
       }
     }
   ]
