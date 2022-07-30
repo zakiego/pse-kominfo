@@ -86,3 +86,26 @@ export function createMaster() {
   saveCSV("data/master.csv", flattenDeep(master));
   saveJSON("data/master.json", flatten(master));
 }
+
+const listFolder = [
+  "lokal-terdaftar",
+  "lokal-dicabut",
+  "lokal-dihentikan-sementara",
+  "asing-terdaftar",
+  "asing-dicabut",
+  "asing-dihentikan-sementara",
+];
+
+export function combineFile() {
+  for (let i = 0; i < listFolder.length; i++) {
+    const folder = listFolder[i];
+    const listFile = fs.readdirSync(`data/json/${folder}`);
+    const listJson = listFile.map((file) => {
+      return JSON.parse(fs.readFileSync(`data/json/${folder}/${file}`, "utf8"));
+    });
+    const listJsonFlatten = flatten(listJson);
+    console.log(listJsonFlatten.length);
+    saveJSON(`data/json/${folder}.json`, listJsonFlatten);
+    saveCSV(`data/csv/${folder}.csv`, listJsonFlatten);
+  }
+}

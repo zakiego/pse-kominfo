@@ -6,26 +6,35 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+    runs-on: ubuntu-20.04
+    timeout-minutes: 20
+    strategy:
+      matrix:
+        node-version: [15]
 
     steps:
       - name: Checkout repo content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Setup Bun Runtime
-        uses: antongolub/action-setup-bun@v1
+      - name: Setup PNPM
+        uses: pnpm/action-setup@v2.2.2
         with:
-          cache: true
-          cache-bin: true
+          version: 7
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Execute Script
-        run: |
-          bun install
-          bun src/index.ts
+        run: pnpm start
 
       - name: Run Test
-        run: bun wiptest
+        run: pnpm test
 
       - name: Add File
         run: |
