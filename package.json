@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node -T src/index.ts",
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "license": "MIT",
   "dependencies": {
