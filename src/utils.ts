@@ -91,7 +91,8 @@ export async function getLastUpdatedDate(url: string) {
     if (response.ok) {
       return response.json();
     }
-    console.log("Error:", response.status);
+    console.log("Error Status:", response.status);
+    console.log("Content-type:", response.headers.contenttype);
     throw new Error("Something went wrong");
   });
 
