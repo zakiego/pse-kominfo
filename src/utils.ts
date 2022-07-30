@@ -3,7 +3,7 @@ import { Endpoint, Resp } from "./types";
 import converter from "json-2-csv";
 import path from "path";
 import { flattenDeep, flatten } from "lodash";
-import { fetch } from "node-fetch-native";
+import fetch from "cross-fetch";
 
 export function endpointList() {
   const file = fs.readFileSync("api.json", "utf8");
