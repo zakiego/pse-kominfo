@@ -6,6 +6,7 @@ specifiers:
   '@types/markdown-magic': ^1.0.1
   '@types/node': ^18.0.5
   cross-fetch: ^3.1.5
+  fetch-retry: ^5.0.3
   jest: ^28.1.3
   js-queue: ^2.0.2
   json-2-csv: ^3.17.1
@@ -20,6 +21,7 @@ dependencies:
   '@types/lodash': 4.14.182
   '@types/node': 18.6.2
   cross-fetch: 3.1.5
+  fetch-retry: 5.0.3
   jest: 28.1.3_seampb7kvrlatjhbvs2ov4kp2i
   js-queue: 2.0.2
   json-2-csv: 3.17.1
@@ -1437,6 +1439,10 @@ packages:
     resolution: {integrity: sha512-DkPJKQeY6kKwmuMretBhr7G6Vodr7bFwDYTXIkfG1gjvNpaxBTQV3PbXg6bR1c1UP4jPOX0jHUbbHANL9vRjVg==}
     dependencies:
       bser: 2.1.1
+    dev: false
+
+  /fetch-retry/5.0.3:
+    resolution: {integrity: sha512-uJQyMrX5IJZkhoEUBQ3EjxkeiZkppBd5jS/fMTJmfZxLSiaQjv2zD0kTvuvkSH89uFvgSlB6ueGpjD3HWN7Bxw==}
     dev: false
 
   /fill-range/7.0.1:
