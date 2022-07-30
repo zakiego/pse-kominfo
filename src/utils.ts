@@ -34,23 +34,12 @@ export async function fetchApi(url: string, index: number) {
   });
 
   const clean = raw.data.map((item) => {
-    const { type, id, attributes, links } = item;
-    return { type, id, ...attributes, ...links };
+    const { type, id, attributes } = item;
+    return { type, id, ...attributes };
   });
 
   return { raw, clean };
 }
-
-// export async function getData(url: string) {
-//   const raw = await fetchApi(url);
-
-//   const clean = raw.data.map((item) => {
-//     const { type, id, attributes, links } = item;
-//     return { type, id, ...attributes, ...links };
-//   });
-
-//   return { raw, clean };
-// }
 
 export async function saveJSON(path: string, data: any) {
   fs.writeFileSync(path, JSON.stringify(data, null, 2));
@@ -99,4 +88,16 @@ export function createMaster() {
 
 export function consoleTitle(title: string) {
   console.log(`\n===================== ${title} =====================`);
+}
+
+export async function getLastUpdatedDate(url: string) {
+  const data: Resp = await fetch(url).then((response) => {
+    if (response.ok) {
+      return response.json();
+    }
+    console.log("Error:", response.status);
+    throw new Error("Something went wrong");
+  });
+
+  saveJSON("data/last-updated.json", data);
 }
