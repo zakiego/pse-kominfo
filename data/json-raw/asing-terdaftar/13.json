@@ -6,26 +6,10 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 140,
-      "total": 290
+      "total": 289
     }
   },
   "data": [
-    {
-      "type": "tdpseTerbit",
-      "id": 8242,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AZUR LANE",
-        "website": "play.google.com/store/apps/details?id=com.YoStarEN.AzurLane;apps.apple.com/us/app/azur-lane/id1411126549?l=zh&ls=1",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YOSTAR (HONGKONG) LIMITED",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005817.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e442a3308e52b4414a18ca93a33f0cc3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8160
-      }
-    },
     {
       "type": "tdpseTerbit",
       "id": 8240,
@@ -168,6 +152,22 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0a790b5bd63d27d40f0b501458655123.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8148
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8229,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CALL OF ANTIA: MATCH 3 RPG",
+        "website": "callofantia.com/; play.google.com/store/apps/details?id=com.funplus.coa",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FUNPLUS INTERNATIONAL AG",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005809.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4dbad45656c450219547a635c2dc6061.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8147
       }
     }
   ]

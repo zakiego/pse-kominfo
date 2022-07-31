@@ -6,26 +6,10 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 110,
-      "total": 290
+      "total": 289
     }
   },
   "data": [
-    {
-      "type": "tdpseTerbit",
-      "id": 8457,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO.COM APPLICATION",
-        "website": "asia-expweb.vivo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0a139ed86aa785d7c9643cb5a48c1fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8373
-      }
-    },
     {
       "type": "tdpseTerbit",
       "id": 8456,
@@ -168,6 +152,22 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d3b6e57ad5c7b45bf9ed45025955d8e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8189
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8270,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINE",
+        "website": "line.me/id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINE CORPORATION",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005833.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/64c7f7f5447cf71afbc5178408195602.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8188
       }
     }
   ]

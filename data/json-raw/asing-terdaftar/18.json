@@ -6,26 +6,10 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 190,
-      "total": 290
+      "total": 289
     }
   },
   "data": [
-    {
-      "type": "tdpseTerbit",
-      "id": 6683,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SHOPPINGMALL.99.COM",
-        "website": "shoppingmall.99.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NETDRAGON",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004914.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/075e538cdb7b0acbde35f42317c16d0d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6536
-      }
-    },
     {
       "type": "tdpseTerbit",
       "id": 6681,
@@ -168,6 +152,22 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2081f51103adc0a664e107482ec36491.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6434
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6400,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TEST YI XIA",
+        "website": "guanmutong.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RUOCHENG",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004723.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/80d45adef2b157836fc4c5b55af44ef5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6261
       }
     }
   ]

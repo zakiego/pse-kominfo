@@ -6,10 +6,26 @@
       "lastPage": 2,
       "perPage": 10,
       "to": 10,
-      "total": 18
+      "total": 19
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9443,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PANGAREPAN INC.",
+        "website": "semmypangarepan.co.id",
+        "sektor": "Sektor Pertahanan dan Keamanan",
+        "nama_perusahaan": "THE PANGAREPAN",
+        "tanggal_daftar": "2022-07-30",
+        "nomor_tanda_daftar": "006618.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c126078953226b3b7a67fcd986d81bf8.png",
+        "status_id": "SUSPENDED_BY_TAKEL",
+        "sistem_elektronik_id": 9355
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9409,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08566c01230b136e5736af1cb4af3e3f.png",
         "status_id": "SUSPENDED_BY_TAKEL",
         "sistem_elektronik_id": 4075
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4075,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "THE HYPNOSS THERAP PLATFORM",
-        "website": "110.110.150.136",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "HYPNOTHERAPY PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000283.06/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4393f95b0710ecafa0ec400fb41bcd5e.png",
-        "status_id": "SUSPENDED_BY_TAKEL",
-        "sistem_elektronik_id": 4074
       }
     }
   ]
