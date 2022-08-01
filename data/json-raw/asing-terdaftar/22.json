@@ -6,10 +6,26 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 230,
-      "total": 289
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4917,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "IZZI",
+        "website": "wefitec.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WeFi International A.G.",
+        "tanggal_daftar": "2022-06-28",
+        "nomor_tanda_daftar": "003535.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/82669d4cb8f1a04412a774cda5f838af.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4786
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4890,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f13e315a89979e3839424c917dbe379d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4635
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4675,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "DECORIS",
-        "website": "decoris.io",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "INVOKE SOLUTIONS SDN BHD",
-        "tanggal_daftar": "2022-06-23",
-        "nomor_tanda_daftar": "003365.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/baec393b3e852b17aaddf271bd5de48a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4634
       }
     }
   ]

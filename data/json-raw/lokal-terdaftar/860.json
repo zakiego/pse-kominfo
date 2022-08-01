@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 861,
       "from": 8601,
-      "lastPage": 875,
+      "lastPage": 885,
       "perPage": 10,
       "to": 8610,
-      "total": 8749
+      "total": 8844
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 100,
+      "id": 164,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "DANA PLUS",
+        "nama": "Garasi.id",
+        "website": "https://garasi.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DIGITAL OTOMOTIF INDONESIA",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000145.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92fafb6dfa316af9e01d81e21e99ebd3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2442
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 162,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PINJAMPINJAM",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM DANA SINAR DUNIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000090.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a975e114a88087238db0154607b62b1.png",
+        "nama_perusahaan": "MAJU TUMBUH BERSAMA",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000144.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02050c3560422ac93c4e3bd3841d6c10.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2536
+        "sistem_elektronik_id": 2637
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 99,
+      "id": 161,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "DANA RIBU",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM DANA BINTANG LIMA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000089.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d92aecf2471578e353d23895f0beaa6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2535
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 98,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bdrive",
-        "website": "http://bdrive.id",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi",
-        "nama_perusahaan": "MADEEL TEKHNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000088.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/487d4f66ab3cf93a8d56a2e9f94f4ba9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2454
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 97,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MONEY COME",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM LANSIR TARO NUSA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000087.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19448a25774f426c619758153dc90d31.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2530
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 96,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SETOR TUNAI",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM MARDA RIMA ESA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000086.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a20982d9a11e039e2f3bb6484d87309.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2529
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 95,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi KamiSatu",
-        "website": "https://kamisatu.id/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "KAMI SATU KARYA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000085.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f47eafe8f9bd93363d0cbee891a9876.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2526
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 94,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MONEY YOU",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM BUANA SATU TIGA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000084.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/551d3b458e9e49efa907e2e7b2c3c261.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2528
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 93,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GOOD DANA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM BIMA EKA NUSA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000083.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03ff8f01203b0adf90ca30e76ee7dcd3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2527
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 92,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GudangAda Logistik",
-        "website": "gudanglogistik.id",
+        "nama": "Moojol",
+        "website": "www.moojol.com",
         "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "GUDANG LOGISTIK GLOBALINDO",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000082.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/36c779cf42dd7c60ad2db8f3f216896b.png",
+        "nama_perusahaan": "MOOJOL PATRIOT INDONESIA",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000143.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8056bb437f0024bd5d3cccf4593c504b.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2428
+        "sistem_elektronik_id": 2615
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 670,
+      "id": 4652,
+      "attributes": {
+        "nomor_pb_umku": "123200013086300000001",
+        "nama": "RAJADINGIN",
+        "website": "rajadingin.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Kesehatan",
+        "nama_perusahaan": "SEMAR DIGITALISASI NEGERI",
+        "tanggal_daftar": "2022-06-22",
+        "nomor_tanda_daftar": "000142.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ebea28a45dd0e3b582ce4cf8a5dc3d16.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4612
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 160,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Klikdokter",
-        "website": "https://www.klikdokter.com",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIKA KOMUNIKA TEKNOLOGI",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000081.03/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c63df118022bda062cdb9854e06577e0.png",
+        "nama": "SemarCold",
+        "website": "https://semarcold.com",
+        "sektor": "Sektor Kesehatan, Sektor Pangan, Sektor Perdagangan, Sektor Transportasi",
+        "nama_perusahaan": "SEMAR DIGITALISASI NEGERI",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000142.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/99e95445f24d7664fd9709c57334fd9b.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2427
+        "sistem_elektronik_id": 2621
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2424,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DCI Indonesia Data Center",
+        "website": "https://www.dci-indonesia.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DCI INDONESIA",
+        "tanggal_daftar": "2021-11-22",
+        "nomor_tanda_daftar": "000141.02/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d48919acba43a01b4fe70e0c09073455.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2634
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 159,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pusat Data DCI Indonesia",
+        "website": "www.dci-indonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DCI INDONESIA",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000141.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/34a144c77e302e96252c90910fa554e3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2633
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6257,
+      "attributes": {
+        "nomor_pb_umku": "021901011125700000001",
+        "nama": "KOPERASI KOLABORASI",
+        "website": "koperasikolaborasi.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KONSUMEN KOLABORASI SEJAHTERA ABADI",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000140.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1253cca852fe4e8fdcc66b8762e7836.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6121
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 158,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "pinjemsaja",
+        "website": "https://pinjemsaja.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KONSUMEN KOLABORASI SEJAHTERA ABADI",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000140.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a530df1973bfe6c9c84e652dc99d2055.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2632
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 157,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digiscore -E-KYC",
+        "website": "www.digiscore.id/ekyc",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INKLUSI KEUANGAN DIGITAL",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000139.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f386fdad3d438e6854b2a9026129e708.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2629
       }
     }
   ]

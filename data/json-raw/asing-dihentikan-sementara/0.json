@@ -6,10 +6,26 @@
       "lastPage": 2,
       "perPage": 10,
       "to": 10,
-      "total": 19
+      "total": 20
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9517,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NGEWE PACAR CROT DI DALEM",
+        "website": "crotdidalemnikmatbet.com",
+        "sektor": "Sektor Pertahanan dan Keamanan",
+        "nama_perusahaan": "CROT DI DALEM",
+        "tanggal_daftar": "2022-08-01",
+        "nomor_tanda_daftar": "006674.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6ca7a08fdf11063d3e63675ec5827f8.png",
+        "status_id": "SUSPENDED_BY_TAKEL",
+        "sistem_elektronik_id": 9425
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9443,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b090935b47097a95955bfae73f645b8.png",
         "status_id": "SUSPENDED_BY_TAKEL",
         "sistem_elektronik_id": 4076
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4076,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "INI APA YA",
-        "website": "110.110.110.135",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "HYPNOTHERAPY PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000283.07/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08566c01230b136e5736af1cb4af3e3f.png",
-        "status_id": "SUSPENDED_BY_TAKEL",
-        "sistem_elektronik_id": 4075
       }
     }
   ]

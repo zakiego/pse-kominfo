@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 518,
       "from": 5171,
-      "lastPage": 875,
+      "lastPage": 885,
       "perPage": 10,
       "to": 5180,
-      "total": 8749
+      "total": 8844
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 2843,
+      "id": 2934,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Saebo Technology",
-        "website": "https://saebo.technology/",
+        "nama": "Kimia Farma Mobile",
+        "website": "www.kimiafarmaapotek.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "KIMIA FARMA APOTEK",
+        "tanggal_daftar": "2021-12-31",
+        "nomor_tanda_daftar": "001880.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0c521887d2e8d90830e23021b61c90a4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1993
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5420,
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020004",
+        "nama": "WAKAF IKHLAS",
+        "website": "wakaf.bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "001879.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c4756ee7d42f9eb182567f90e63d7c5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5292
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5418,
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020004",
+        "nama": "VA WEB BANK BJB SYARIAH",
+        "website": "vaweb.bjbs.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "001879.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d38013b533b0ca4611a6fa3d27505680.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5289
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5416,
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020003",
+        "nama": "IB CASH MASALAHAN - ADMIN (CASH MANAGEMENT SYSTEM)",
+        "website": "ibcash-admin.bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "001879.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02e0b63979f206b55ba751f7be29b08d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5116
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5415,
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020003",
+        "nama": "IB CASH MASLAHAH (CASH MANAGEMENT SYSTEM)",
+        "website": "ibcash.bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "001879.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1fd3fea93dddb447935db3c0ca41ffed.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5114
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4984,
+      "attributes": {
+        "nomor_pb_umku": "022010417140600020002",
+        "nama": "WEBSITE BANK BJB SYARIAH",
+        "website": "bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2022-06-30",
+        "nomor_tanda_daftar": "001879.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2aa1840e77bcb5eabe248c3ad63ae846.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4853
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2933,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mobile Maslahah (bjbs mobile banking)",
+        "website": "www.bjbsyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
+        "tanggal_daftar": "2021-12-31",
+        "nomor_tanda_daftar": "001879.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13109db43a60b3c937e4989a2cca86df.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2849
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2932,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TIKI Corporate Website",
+        "website": "tiki.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_perusahaan": "CITRA VAN TITIPAN KILAT",
+        "tanggal_daftar": "2021-12-30",
+        "nomor_tanda_daftar": "001878.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2941a3a11d8d18a93482f210abcc805.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2002
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2931,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Prilude Studio",
+        "website": "priludestudio.com",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SAEBO TECH NOLOGY",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001826.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a8a739803a7e2431823ac7ca7c18e985.png",
+        "nama_perusahaan": "PRILUDE DIGITAL INDONESIA",
+        "tanggal_daftar": "2021-12-30",
+        "nomor_tanda_daftar": "001877.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e8bc9fa6cc523b4d3418ecffac8a8c6d.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1953
+        "sistem_elektronik_id": 2001
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2842,
+      "id": 2930,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "PT SOLUSI ANDALAN KREASI TEKNOLOGI INDONESIA",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SOLUSI ANDALAN KREASI TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001825.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1401d884f68d6114d5c4e6c23c8bfdfd.png",
+        "nama": "Getwell Apps Indonesia",
+        "website": "getwell.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "TELEMEDIKA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2021-12-30",
+        "nomor_tanda_daftar": "001876.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5fa7a4ea62036e54601cbfde6bbe269a.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1877
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2840,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEBSTORE / WEBSITE",
-        "website": "ns1.niagahoster.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HEMA MEDHAJAYA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001824.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/525ae9afbe7a6501064aef32fcb5025e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1902
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9223,
-      "attributes": {
-        "nomor_pb_umku": "022000287134600000002",
-        "nama": "PT DATA ANDALAN UTAMA",
-        "website": "datautama.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DATA ANDALAN UTAMA",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "001823.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14ca6c17bc88166e6eab177086a1d655.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9131
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2835,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DATA UTAMA",
-        "website": "https://datautama.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DATA ANDALAN UTAMA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001823.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/639db44b5a37fa0fbf9ff6706bcc3856.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1951
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2833,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Anoajek",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "INTAN SUKSES ABADI",
-        "tanggal_daftar": "2021-12-21",
-        "nomor_tanda_daftar": "001822.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d87c6d744e6301a2014b0eda979b69f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1948
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2832,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MINDSTORES",
-        "website": "mymindstores.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TIGA AKAR MIMPI",
-        "tanggal_daftar": "2021-12-21",
-        "nomor_tanda_daftar": "001821.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7623f48c361d7cf3459d04498fb58f99.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1776
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2831,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Perupa.co",
-        "website": "perupa.co",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUPA SIBER INFORMATIKA",
-        "tanggal_daftar": "2021-12-21",
-        "nomor_tanda_daftar": "001820.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1a5ac8bc55e807f917bea5aa643910a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1950
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2943,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Koperasi DJP",
-        "website": "www.omegasoft.co.id",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "DHANA JAYA PRATAMA",
-        "tanggal_daftar": "2022-01-03",
-        "nomor_tanda_daftar": "001819.02/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7df5b19abfa1e03e566c4673924cbda.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1918
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2830,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRI API",
-        "website": "www.omegasoft.co.id",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "DHANA JAYA PRATAMA",
-        "tanggal_daftar": "2021-12-21",
-        "nomor_tanda_daftar": "001819.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a933b0b00d4a0025e648db8221228dfa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1917
+        "sistem_elektronik_id": 3166
       }
     }
   ]

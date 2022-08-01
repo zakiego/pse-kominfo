@@ -6,10 +6,26 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 100,
-      "total": 289
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8467,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIVO BROWSER",
+        "website": "asia-browser.vivoglobal.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.12/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00cf3cdbbb1a3aba2ddd8df8219a00a8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8383
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8466,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/39531d017a0d46e695c06aad536f9d5c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8374
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8457,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO.COM APPLICATION",
-        "website": "asia-expweb.vivo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0a139ed86aa785d7c9643cb5a48c1fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8373
       }
     }
   ]

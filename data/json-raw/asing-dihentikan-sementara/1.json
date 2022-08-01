@@ -6,10 +6,26 @@
       "lastPage": 2,
       "perPage": 10,
       "to": 20,
-      "total": 19
+      "total": 20
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4076,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "INI APA YA",
+        "website": "110.110.110.135",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "HYPNOTHERAPY PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000283.07/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08566c01230b136e5736af1cb4af3e3f.png",
+        "status_id": "SUSPENDED_BY_TAKEL",
+        "sistem_elektronik_id": 4075
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4075,

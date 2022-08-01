@@ -6,10 +6,26 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 150,
-      "total": 289
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8229,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CALL OF ANTIA: MATCH 3 RPG",
+        "website": "callofantia.com/; play.google.com/store/apps/details?id=com.funplus.coa",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FUNPLUS INTERNATIONAL AG",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005809.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4dbad45656c450219547a635c2dc6061.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8147
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8228,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a985c168caa0a2c23278945f2082d658.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8138
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8193,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DREAME",
-        "website": "play.google.com/store/apps/details?id=com.dreame.reader&hl=en_US&gl=US; https://apps.apple.com/au/app/dreame-read-best-romance/id1421091911",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "STARY PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005802.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5bf31bc6f720f935d700e2a497fb0c60.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8112
       }
     }
   ]

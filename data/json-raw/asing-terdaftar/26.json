@@ -6,10 +6,26 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 270,
-      "total": 289
+      "total": 290
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4100,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WWW.SHOPLAY365.COM",
+        "website": "13.228.204.118",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CYBERSHELL TECHNOLOGY LIMITED",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000298.02/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6006d5ba89b7c6104c7a1ff4e97e5345.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4099
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4099,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5424de5f19f1dc68019a69a4175ff21b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4090
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4090,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "REACH52 ACCESS",
-        "website": "reach52.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "REACH52 PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000295.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a29e5f1fa2a666130a6b40a453d10b3f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4089
       }
     }
   ]
