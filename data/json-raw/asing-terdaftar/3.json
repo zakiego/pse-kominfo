@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 4,
       "from": 31,
-      "lastPage": 29,
+      "lastPage": 30,
       "perPage": 10,
       "to": 40,
-      "total": 290
+      "total": 292
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9251,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "UKI",
+        "website": "uki.booyah.cc/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "QUYUE TECHNOLOGY PTE. LTD.",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006487.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c65bdc3c7a9aa42f99ed4f178f038abd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9163
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9250,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MEETYOU",
+        "website": "play.google.com/store/apps/details?id=com.meetyou.intl",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INSPIRATION GROUP HONGKONG LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006486.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7442dc2a42adb4ea25e143dd80cdac47.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9162
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9249,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/90377e40a934931a238d833795dd4c60.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9154
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9241,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MAPLESTORY M: FANTASY MMORPG",
-        "website": "play.google.com/store/apps/details?id=com.nexon.maplem.global&hl=en&gl=ES; apps.apple.com/us/app/maplestory-m-fantasy-mmorpg/id1290086677",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24562d93c55483a0b9630dd8cf32f76b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9153
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9240,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BLUE ARCHIVE",
-        "website": "play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en&gl=ES; apps.apple.com/us/app/blue-archive/id1571873795",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f5343c0a5d004ea859d506ff89a6b5ad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9152
       }
     }
   ]

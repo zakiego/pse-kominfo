@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 20,
       "from": 191,
-      "lastPage": 29,
+      "lastPage": 30,
       "perPage": 10,
       "to": 200,
-      "total": 290
+      "total": 292
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6640,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OFFGAMERS GLOBAL PTE LTD",
+        "website": "offgamers.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "OFFGAMERS",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004877.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6c8bb614788b12b2134e8f4a13e97067.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6497
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6576,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NETFLIX",
+        "website": "Netflix.com/id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NETFLIX PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004825.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2081f51103adc0a664e107482ec36491.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6434
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6400,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c42ec7b0c05a28aae8d93819ed471bb7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6253
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6389,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TODO MATH",
-        "website": "play.google.com/store/apps/details?id=com.enuma.todomath",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ENUMA INC",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004716.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8deb0808b678b0f361ac66e53344c4c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6252
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6388,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TODO KOREAN",
-        "website": "play.google.com/store/apps/details?id=com.enuma.todohangeul",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ENUMA INC",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004716.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b6ef4094ddf5f84064dab3ec756af05.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6251
       }
     }
   ]

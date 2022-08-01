@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 718,
       "from": 7171,
-      "lastPage": 885,
+      "lastPage": 890,
       "perPage": 10,
       "to": 7180,
-      "total": 8844
+      "total": 8897
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 1126,
+      "id": 1179,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Movic",
-        "website": "Movic.Id",
+        "nama": "QNB Indonesia Mobile Banking",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK QNB INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000838.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6761e3f4882382f4b4522a73c652f36e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 817
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1178,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Corporate Internet Banking",
+        "website": "https://cib.qnb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK QNB INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000838.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f9d030d618ad73c378227f7dc0503d04.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 816
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1177,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "QNB Online Banking",
+        "website": "https://ib.qnb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK QNB INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000838.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2675c2aa63e73f65155145f41902e3bc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 815
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1176,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi POST.",
+        "website": "www.post.app",
         "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA DIGITAL INTERNASIONAL",
+        "nama_perusahaan": "FAZZMART TEKNOLOGI NUSANTARA",
         "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000819.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bc98a2279ba7aaf28e354199ed74621f.png",
+        "nomor_tanda_daftar": "000837.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/703178fb2e515f91efc3d6beb3a3b5ac.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 729
+        "sistem_elektronik_id": 270
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2872,
+      "id": 1175,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "www.legalspace.id",
-        "website": "www.legalspace.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SENTRA TEKNOLEGAL INDONESIA",
-        "tanggal_daftar": "2021-12-24",
-        "nomor_tanda_daftar": "000818.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/226e28889fb756fbbc7f191369da3e43.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 226
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1125,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT. Sentra Teknolegal Indonesia",
-        "website": "http://www.legalspace.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SENTRA TEKNOLEGAL INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000818.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c152aebaccbf8dc0350c604c40fe9ae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 225
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1124,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Carevo",
-        "website": "www.carevo.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DIACON MEDICA TEKNOLOGI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000817.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16e05ee5d5f6ea0bddf399ba80aad733.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 820
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1116,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Tokopos",
-        "website": "https://toqopos.com/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "POIN OPTIMA SISTEM",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000816.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ee5400e5022be8b30ac9182b17ae68d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3330
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5505,
-      "attributes": {
-        "nomor_pb_umku": "912030040140800030004",
-        "nama": "FUND CORPORATE",
-        "website": "miraeasset.co.id",
+        "nama": "Dhanapala",
+        "website": "www.dhanapala.id",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "000815.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/691110c9e7069156a1b57f409fdaa94f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5368
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4349,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Mirae Asset Fund",
-        "website": "fund.miraeasset.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
-        "tanggal_daftar": "2022-04-28",
-        "nomor_tanda_daftar": "000815.08/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9ed33930064e7452d31d6ffeaf0a23a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4335
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2340,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "NAVI",
-        "website": "navi.miraeasset.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
-        "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "000815.07/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ceee4b17d2f6913380d09f02dff7da7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3329
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2011,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OPENACCOUNT WEB APP",
-        "website": "open.miraeasset.co.id",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "000815.06/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/732789649e0a9218baa7c9d92bc3f943.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3328
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1121,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEB MIRAE ASSET",
-        "website": "hots.miraeasset.co.id",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
+        "nama_perusahaan": "SEMANGAT GOTONG ROYONG",
         "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000815.05/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/65a52fb3eaa63988a2ce913d7e359727.png",
+        "nomor_tanda_daftar": "000836.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8abc472047eed78a309480d0b085a62b.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3327
+        "sistem_elektronik_id": 354
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1171,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "blu",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DIGITAL BCA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000835.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7b872d0e3d6fb0995e32e727f88dcc2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 515
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1169,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "koperasi beta serumpun setia",
+        "website": "https://www.betaserumpun.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BETA SERUMPUN SETIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000834.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fd46ec6e004d25b50551906c0535c10a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 499
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1158,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BBO",
+        "website": "bbo.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BIZGITAL INDONESIA JAYA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000833.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/002a511fa3ed4e9a2df03ea7d3bd456a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 560
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7468,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010011",
+        "nama": "MICROSITE ESG IDX",
+        "website": "esg.idx.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000832.23/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f817e1808afa1e9fe44dbd42852d09c9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7376
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7448,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010013",
+        "nama": "WEBSITE PASAR MODAL SYARIAH",
+        "website": "idxislamic.idx.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "000832.22/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9164c980ed3ab5b20e458474b4550cb2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7351
       }
     }
   ]

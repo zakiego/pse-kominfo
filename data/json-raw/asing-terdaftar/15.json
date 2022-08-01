@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 16,
       "from": 151,
-      "lastPage": 29,
+      "lastPage": 30,
       "perPage": 10,
       "to": 160,
-      "total": 290
+      "total": 292
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8220,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "POP BIG2",
+        "website": "play.google.com/store/apps/details?id=com.seagames.big2",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SHENZHEN ULOVE CREATIVE TECHNOLOGY CO., LTD",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005808.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6c6f5eceee3fabe2358c2441da262f09.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8139
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8219,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ENSEMBLE STARS MUSIC",
+        "website": "ensemblestars.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HAPPY ELEMENTS LIMITED",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005807.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a985c168caa0a2c23278945f2082d658.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8138
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8193,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6f583a7b17550deaab02e6130311fe03.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8070
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8148,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GROW.CLEVERBRIDGE.COM",
-        "website": "store.cleverbridge.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CLEVERBRIDGE AG",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005786.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6329e0955e5c2efde6d186c4af92c1fc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8068
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8147,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GMILLION",
-        "website": "gmillion.io",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GMILLION",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005785.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97e7de2bedb97316c96cf6d487538520.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8067
       }
     }
   ]

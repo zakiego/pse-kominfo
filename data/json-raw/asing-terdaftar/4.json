@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 5,
       "from": 41,
-      "lastPage": 29,
+      "lastPage": 30,
       "perPage": 10,
       "to": 50,
-      "total": 290
+      "total": 292
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9241,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MAPLESTORY M: FANTASY MMORPG",
+        "website": "play.google.com/store/apps/details?id=com.nexon.maplem.global&hl=en&gl=ES; apps.apple.com/us/app/maplestory-m-fantasy-mmorpg/id1290086677",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEXON KOREA CORPORATION",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006484.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24562d93c55483a0b9630dd8cf32f76b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9153
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9240,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BLUE ARCHIVE",
+        "website": "play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en&gl=ES; apps.apple.com/us/app/blue-archive/id1571873795",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEXON KOREA CORPORATION",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006484.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f5343c0a5d004ea859d506ff89a6b5ad.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9152
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9239,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b5566dcaf9b9cb06711a4df1316a922.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9116
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9207,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HEYTAP CLOUD",
-        "website": "cloud.heytap.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRAVO UNICORN PTE. LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006457.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16e944f809f07d28e35c36ff0e64f6d9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9115
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9206,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OPPO APP MARKET",
-        "website": "developers.oppomobile.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRAVO UNICORN PTE. LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006457.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66e744ffe3b1568fae20c699b790960c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9114
       }
     }
   ]
