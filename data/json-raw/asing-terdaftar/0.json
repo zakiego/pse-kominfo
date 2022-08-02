@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 10,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9612,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BSTATION",
+        "website": "bilibili.tv",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BALABOOM PTE. LTD.",
+        "tanggal_daftar": "2022-08-01",
+        "nomor_tanda_daftar": "006724.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c2ca3772687ec3d8a836b91c6a06ce6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9503
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9602,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ef5a19698e497ae957d18957824af36.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9252
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9333,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ZEPETO",
-        "website": "zepeto.me/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NAVER Z CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006530.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fd642bf60c64558ed72a034c1f57635c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9244
       }
     }
   ]

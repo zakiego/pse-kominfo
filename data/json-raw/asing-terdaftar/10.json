@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 110,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8460,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIVO GAME CENTER",
+        "website": "pay.vivoglobal.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62bb078425a3103ef3b1e6a20036d75e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8376
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8459,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12001a7c7e123efb69f10008f9eb597b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8192
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8273,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINE STORE",
-        "website": "store.line.me/home/id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "LINE CORPORATION",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005833.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38fd023e0cb5e468163647d6e056c0b8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8191
       }
     }
   ]

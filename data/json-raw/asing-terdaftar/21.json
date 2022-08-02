@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 220,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6383,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TAPTAP2-EDIT",
+        "website": "taptap.io",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TAPTAP PTE. LTD.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004712.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5e9f3c3d2248a79b6ba04e602524fcb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6246
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6382,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8e2ed21b876f2b53a3ea4b8576b66f67.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5860
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5995,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MOBILE LEGENDS: BANG BANG",
-        "website": "play.google.com/store/apps/details?id=com.mobile.legends; apps.apple.com/us/app/mobile-legends-bang-bang/id1160056295; play.mobilelegends.com/landing/?lan=en; www.mobilelegends.net/fp/featured?aid=6571&sdk_language=en",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YOUNGJOY TECHNOLOGY LIMITED",
-        "tanggal_daftar": "2022-07-17",
-        "nomor_tanda_daftar": "004450.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37925a4b59c5ce136d9efe73046298e6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5859
       }
     }
   ]

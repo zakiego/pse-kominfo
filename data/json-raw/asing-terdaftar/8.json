@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 90,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8775,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MANGADEX - API",
+        "website": "api.mangadex.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRISTAN NINE",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "005940.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8e63e11f44cdc5ec0cd0e5d4571584a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8692
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8774,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/853dd7816064b6ed5713f335db041115.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8387
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8470,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO GAME CENTER",
-        "website": "in-gamecenter.vivoglobal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.15/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b4e32bd9ffa9b4445ce544ce585675c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8386
       }
     }
   ]

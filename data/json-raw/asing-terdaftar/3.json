@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 40,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9252,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NARUTO:SLUGFESTX",
+        "website": "narutoslugfest.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HONGKONG YOYOO TECHNOLOGY CO.,LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006488.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4bab0fcd44e8eda46b1297c7a6683c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9164
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9251,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/622f62ae4880401e456f5c9a75faa047.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9155
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9242,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KARTRIDER RUSH+",
-        "website": "play.google.com/store/apps/details?id=com.nexon.kart&hl=en&gl=ES; apps.apple.com/us/app/kartrider-rush/id1466736988",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/90377e40a934931a238d833795dd4c60.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9154
       }
     }
   ]

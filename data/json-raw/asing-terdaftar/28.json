@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 290,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4083,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SIDEN",
+        "website": "siden.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SIDEN INC",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000288.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/085263b980214fd3aca62ad0fd1daaa0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4082
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4082,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88d624d0e8127ace3b1fee6123bffc94.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4060
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4060,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "OMEGA: LAYANAN TAKSI",
-        "website": "taxiomega.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "GLOBAL SERVICE OMEGA L.L.C-FZ",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000276.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/989e8840b834c204e44d8bdeea10394d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4059
       }
     }
   ]

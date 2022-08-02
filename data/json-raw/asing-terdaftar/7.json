@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 80,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9148,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CLOUD SONG: SAGA OF SKYWALKERS",
+        "website": "cloudsong.vnggames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VNG SINGAPORE PTE., LTD.",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006431.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43ca3d290c07f13021b1e7f460844eab.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9057
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9147,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8728d5f5f29164f03337fd96c8decf2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8396
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8775,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MANGADEX - API",
-        "website": "api.mangadex.org",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRISTAN NINE",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "005940.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8e63e11f44cdc5ec0cd0e5d4571584a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8692
       }
     }
   ]

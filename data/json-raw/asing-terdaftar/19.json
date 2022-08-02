@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 200,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6644,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MERIDIA°COLLECT",
+        "website": "refinery.meridia.land",
+        "sektor": "Sektor Pangan",
+        "nama_perusahaan": "MERIDIA LAND",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004878.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3901fc8a712f4cb3241e33d411d51682.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6501
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6640,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37a89ae7fc5fa22db639d90e67c234d5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6254
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6390,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DOORU LIBRARY",
-        "website": "play.google.com/store/apps/details?id=com.enuma.easylibrary",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ENUMA INC",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004716.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c42ec7b0c05a28aae8d93819ed471bb7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6253
       }
     }
   ]

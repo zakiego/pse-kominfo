@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 240,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4678,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SMIC FINANCIAL TRADE LINK",
+        "website": "transpeninsular.wordpress.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-06-23",
+        "nomor_tanda_daftar": "003368.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6eb6703274c3153914b1e9658c638a68.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4637
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4677,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b502247fc84b6277530240bb640c18cd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4144
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4141,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "CAPCUT",
-        "website": "capcut.net; play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=en_US&gl=US; apps.apple.com/us/app/capcut-video-editor/id1500855883",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BYTEDANCE PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "000370.05/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0ea1b36a9167709fb65d3b4d0e0c97e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4143
       }
     }
   ]

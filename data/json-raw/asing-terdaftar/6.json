@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 70,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9179,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OPERA FOR ANDROID",
+        "website": "opera.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OPERA NORWAY AS",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006445.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6138199a18ded3dc1660ad7ee752f249.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9087
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9178,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ebc34753dfc1f2aad5f69395a97010a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9058
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9148,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CLOUD SONG: SAGA OF SKYWALKERS",
-        "website": "cloudsong.vnggames.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VNG SINGAPORE PTE., LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006431.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43ca3d290c07f13021b1e7f460844eab.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9057
       }
     }
   ]

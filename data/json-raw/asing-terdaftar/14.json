@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 150,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8232,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RICHTHINKER",
+        "website": "com.bcacrfzx.richthinker",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "YANHAIGE2022",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005811.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13604fda5c4ad109f652b8e91c53aec1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8151
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8231,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e02b9dfbf10bfe55c83908216b348470.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8141
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8221,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "POP DOMINO",
-        "website": "play.google.com/store/apps/details?id=com.seagames.dominoqq&hl=en&gl=US",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHENZHEN ULOVE CREATIVE TECHNOLOGY CO., LTD",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005808.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f0c468b29feaabbbe8ca2e3234433efd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8140
       }
     }
   ]

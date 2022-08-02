@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 180,
-      "total": 292
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7663,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TWITTER",
+        "website": "twitter.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TWITTER, INC.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005625.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3dba4fb4dd37e389a9bcb6a8443656a6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7572
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7141,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c107f82e934a7476d9a2de00e0f7e3c9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6649
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6797,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FACEBOOK.COM",
-        "website": "facebook.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004994.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9becd3d5219cd0a60c598923135644f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6648
       }
     }
   ]
