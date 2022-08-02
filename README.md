@@ -10,30 +10,43 @@
 
 > **Note**
 >
-> Halo, karena ada pembatasan query API, untuk sementara update data tidak bisa dilakukan, lengkapnya ada di https://github.com/zakiego/pse-kominfo/issues/4
+> Update: masalah https://github.com/zakiego/pse-kominfo/issues/4 sudah di-fix
 
 <!-- AUTO-GENERATED-CONTENT:START (FILE:src=./last-updated.md) -->
 <!-- The below content is automatically added from ./last-updated.md -->
+
 Data terakhir diperbarui pada: **Senin, 1 Agustus 2022 18.01.35 Waktu Indonesia Barat**
+
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 Daftar Penyelenggara Sistem Elektronik yang dikumpulkan dari API [pse.kominfo.go.id](https://pse.kominfo.go.id). Diperbarui setiap 1 jam sekali menggunakan [Github Action](/.github/workflows/update.yml)
 
 ## Bagaimana Cara Menjalankannya?
 
-Dijalankan di atas [Bun](https://bun.sh)
-
-> **Warning**
->
-> Bun test is still WIP
+Pertama, clone terlebih dahulu projectnya.
 
 ```bash
-bun install
-bun src/index.ts
-bun wiptest
+git clone https://github.com/zakiego/pse-kominfo
+cd pse-kominfo
 ```
 
+Setelah itu, jalankan scriptnya.
+
+Kamu bisa menggunakan npm, yarn, atau pnpm. Tapi saya sedang menebar benih pnpm dan sebaiknya kamu mengikuti. 😜
+
+```bash
+pnpm install
+pnpm start
+pnpm test
+```
+
+Catatan: Untuk menginstall pnpm bisa melihat di sini [pnpm.io/installation](https://pnpm.io/installation).
+
+## List API
+
 List API yang digunakan ada di [api.json](/api.json)
+
+## Data
 
 Data ada pada folder [data](/data/)
 
@@ -45,3 +58,10 @@ Format yang tersedia:
 Versi [Google Sheets](https://docs.google.com/spreadsheets/d/1BvCZOFRFe2CBpxG_UF3Q6_ylW_qNU3nk6tE349xJNLo)
 
 ![image](https://user-images.githubusercontent.com/78015359/179427918-d80305f7-ad94-474b-9aa5-509fed740283.png)
+
+## Test
+
+Terdapat 2 tes yang ada di project ini
+
+1. [\_\_test\_\_\/src/data/master.test.ts](https://github.com/zakiego/pse-kominfo/blob/main/) -- untuk memastikan bahwa format data tidak ada yang berubah
+2. [\_\_test\_\_\/api.test.ts](https://github.com/zakiego/pse-kominfo/blob/main/__test__/api.test.ts) -- untuk memastikan bahwa API tidak berubah
