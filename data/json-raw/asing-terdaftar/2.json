@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 3,
       "from": 21,
-      "lastPage": 30,
+      "lastPage": 29,
       "perPage": 10,
       "to": 30,
-      "total": 293
+      "total": 286
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9265,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ART OF CONQUEST",
+        "website": "aoc.lilith.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006498.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f266464e62eda7d267bfeb9939bc6a9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9177
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9264,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AFK ARENA",
+        "website": "afkarena.lilith.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006498.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7174ccd44b310eef5bc38013f49bb7c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9176
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9263,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8ce26c5c2098be22f411b8259074f63d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9167
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9254,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TOPFUN",
-        "website": "mytopfun.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Topfun Domino Qiu Qiu",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006489.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6aedec7a9740ff9b1bd071416f698bd5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9166
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9253,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DOMINO QIU QIU",
-        "website": "mytopfun.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Topfun Domino Qiu Qiu",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006489.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19b8198efff737adf7cb294204f171a4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9165
       }
     }
   ]

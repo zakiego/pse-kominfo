@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 8,
       "from": 71,
-      "lastPage": 30,
+      "lastPage": 29,
       "perPage": 10,
       "to": 80,
-      "total": 293
+      "total": 286
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9149,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DYNASTY WARRIORS: OVERLORDS",
+        "website": "dynastywarriors.vnggames.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VNG SINGAPORE PTE., LTD.",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006431.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ebc34753dfc1f2aad5f69395a97010a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9058
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9148,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cefb5eb74575280e346f1f8786f8531c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8685
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8480,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HAMURNI APP",
-        "website": "hamurni.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WWF-WORLD WIDE FUND FOR NATURE (SINGAPORE) LIMITED",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005941.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8728d5f5f29164f03337fd96c8decf2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8396
       }
     }
   ]

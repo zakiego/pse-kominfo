@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 4,
       "from": 31,
-      "lastPage": 30,
+      "lastPage": 29,
       "perPage": 10,
       "to": 40,
-      "total": 293
+      "total": 286
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9718,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TOP",
+        "website": "dodo.wetopfun.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Topfun Domino Qiu Qiu",
+        "tanggal_daftar": "2022-08-02",
+        "nomor_tanda_daftar": "006489.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/171a0f68b9b62fd0241008199e7b9882.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9595
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9252,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/22a177db2086d0c6576b2a5d41d38203.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9156
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9243,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KONOSUBA: FANTASTIC DAYS",
-        "website": "play.google.com/store/apps/details?id=com.nexon.konosuba&hl=en&gl=ES; apps.apple.com/au/app/konosuba-fantastic-days/id1521793564",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/622f62ae4880401e456f5c9a75faa047.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9155
       }
     }
   ]

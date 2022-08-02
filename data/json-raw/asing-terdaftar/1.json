@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 2,
       "from": 11,
-      "lastPage": 30,
+      "lastPage": 29,
       "perPage": 10,
       "to": 20,
-      "total": 293
+      "total": 286
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9356,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SOFTWARE AG CLOUD",
+        "website": "softwareag.cloud",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SOFTWARE AKTIENGESELLSCHAFT",
+        "tanggal_daftar": "2022-07-29",
+        "nomor_tanda_daftar": "006551.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aca2152c21161febecbed4ecd3140218.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9267
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9341,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MAMBU",
+        "website": "mambu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MAMBU ASIA PACIFIC PTE LTD",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006537.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ef5a19698e497ae957d18957824af36.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9252
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9333,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/047f974a8f61f08ad999546a5dc75239.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9178
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9265,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ART OF CONQUEST",
-        "website": "aoc.lilith.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006498.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f266464e62eda7d267bfeb9939bc6a9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9177
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9264,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AFK ARENA",
-        "website": "afkarena.lilith.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006498.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7174ccd44b310eef5bc38013f49bb7c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9176
       }
     }
   ]

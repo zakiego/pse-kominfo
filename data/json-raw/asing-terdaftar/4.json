@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 5,
       "from": 41,
-      "lastPage": 30,
+      "lastPage": 29,
       "perPage": 10,
       "to": 50,
-      "total": 293
+      "total": 286
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9243,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KONOSUBA: FANTASTIC DAYS",
+        "website": "play.google.com/store/apps/details?id=com.nexon.konosuba&hl=en&gl=ES; apps.apple.com/au/app/konosuba-fantastic-days/id1521793564",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEXON KOREA CORPORATION",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006484.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/622f62ae4880401e456f5c9a75faa047.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9155
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9242,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d8f0fd3f52e30dcd9dd0694db4c8e02d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9118
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9209,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OPPO BROWSER",
-        "website": "developers.oppomobile.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRAVO UNICORN PTE. LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006457.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d73173ff018813c93005c97731c9e986.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9117
       }
     }
   ]

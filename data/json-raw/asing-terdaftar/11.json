@@ -3,45 +3,13 @@
     "page": {
       "currentPage": 12,
       "from": 111,
-      "lastPage": 30,
+      "lastPage": 29,
       "perPage": 10,
       "to": 120,
-      "total": 293
+      "total": 286
     }
   },
   "data": [
-    {
-      "type": "tdpseTerbit",
-      "id": 8273,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINE STORE",
-        "website": "store.line.me/home/id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "LINE CORPORATION",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005833.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38fd023e0cb5e468163647d6e056c0b8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8191
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8272,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEBTOON",
-        "website": "webtoons.com/id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINE CORPORATION",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005833.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84d4c780c66ccb42ab118541ed3a87c7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8190
-      }
-    },
     {
       "type": "tdpseTerbit",
       "id": 8271,
@@ -168,6 +136,38 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b839791ed4451474d292d8c4ed7eafdd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8177
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8259,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ULTIMATE FOOTBALL CLUB",
+        "website": "hoolaigames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HOOLAIGAME",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005829.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/78e12b8eab38d5edfdae53026c196fec.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8176
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8258,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CHAMPIONS MANAGER MOBASAKA",
+        "website": "hoolaigames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HOOLAIGAME",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005829.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4acbfccadab8e0b4daa4204bb6fc67b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8175
       }
     }
   ]
