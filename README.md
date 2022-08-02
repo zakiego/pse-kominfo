@@ -42,7 +42,26 @@ Catatan: Untuk menginstall pnpm bisa melihat di sini [pnpm.io/installation](http
 
 ## List API
 
-List API yang digunakan ada di [api.json](/api.json)
+List API yang digunakan -- lihat [api.json](/api.json).
+
+<!-- AUTO-GENERATED-CONTENT:START (CODE:src=./api.json) -->
+<!-- The below code snippet is automatically added from ./api.json -->
+```json
+{
+  "lastUpdatedDate": "https://pse.kominfo.go.id/static/json-static/generationInfo.json",
+  "lokal": {
+    "terdaftar": "https://pse.kominfo.go.id/static/json-static/LOKAL_TERDAFTAR/0.json",
+    "dicabut": "https://pse.kominfo.go.id/static/json-static/LOKAL_DICABUT/0.json",
+    "dihentikanSementara": "https://pse.kominfo.go.id/static/json-static/LOKAL_DIHENTIKAN_SEMENTARA/0.json"
+  },
+  "asing": {
+    "terdaftar": "https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/0.json",
+    "dicabut": "https://pse.kominfo.go.id/static/json-static/ASING_DICABUT/0.json",
+    "dihentikanSementara": "https://pse.kominfo.go.id/static/json-static/ASING_DIHENTIKAN_SEMENTARA/0.json"
+  }
+}
+```
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Data
 
