@@ -16,10 +16,15 @@ async function launch(nameFile: string, url: string) {
 
   try {
     lastPage = (await getLastPage(url)) - 1;
-  } catch (err) {
-    // ketika tidak ada last page, berarti return bukan json, skip
-    console.log(err);
-    return;
+  } catch (err: any) {
+    // ketika error invalid-json, berarti data emang gada, gpp
+    // tapi kalau selain error-json, berarti kemungkinan error di client, dan ini harus distop
+    if (err.type == "invalid-json") {
+      console.log("Error JSON, gpp, artinya datanya emang gada :)");
+      console.log(err);
+      return;
+    }
+    throw new Error(err);
   }
 
   const bucket = [];
