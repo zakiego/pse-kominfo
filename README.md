@@ -80,5 +80,5 @@ Versi [Google Sheets](https://docs.google.com/spreadsheets/d/1BvCZOFRFe2CBpxG_UF
 
 Terdapat 2 tes yang ada di project ini
 
-1. [\_\_test\_\_\/src/data/master.test.ts](https://github.com/zakiego/pse-kominfo/blob/main/) -- untuk memastikan bahwa format data tidak ada yang berubah
+1. [\_\_test\_\_\/src/data/master.test.ts](https://github.com/zakiego/pse-kominfo/blob/main/__test__/src/data/master.test.ts) -- untuk memastikan bahwa format data tidak ada yang berubah
 2. [\_\_test\_\_\/api.test.ts](https://github.com/zakiego/pse-kominfo/blob/main/__test__/api.test.ts) -- untuk memastikan bahwa API tidak berubah
