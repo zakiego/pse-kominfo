@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 669,
       "from": 6681,
-      "lastPage": 906,
+      "lastPage": 908,
       "perPage": 10,
       "to": 6690,
-      "total": 9060
+      "total": 9074
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 7481,
+      "id": 1778,
       "attributes": {
-        "nomor_pb_umku": "912010141191700010019",
-        "nama": "WOW CUSTOMER PORTAL",
+        "nomor_pb_umku": null,
+        "nama": "Kerem",
+        "website": "www.kerem.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIPUTRA TEKNO SOLUSINDO",
+        "tanggal_daftar": "2021-07-27",
+        "nomor_tanda_daftar": "001190.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba615795be1766ec7a42191c4ea7c153.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3358
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1777,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KayongKu",
+        "website": "https://kayongku.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KAYU ARRA PRATAMA",
+        "tanggal_daftar": "2021-07-27",
+        "nomor_tanda_daftar": "001189.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/514c92137cb363152f7f9b16092501b0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1356
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1776,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Rekeningku",
+        "website": "www.Rekeningku.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "REKENINGKU DOTCOM INDONESIA",
+        "tanggal_daftar": "2021-07-27",
+        "nomor_tanda_daftar": "001188.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71e9bbc8d97239e94b857a28b41c735c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1293
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1775,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SMART Platform",
+        "website": "https://v3.smartplatform3.asia/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ANEKA SEARCH INDONESIA",
+        "tanggal_daftar": "2021-07-27",
+        "nomor_tanda_daftar": "001187.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ad9a5b9d4f53c1b354e60b7d042476c8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1353
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8319,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010012",
+        "nama": "JENIUS WEBSITE",
+        "website": "jenius.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001186.22/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da7a34384bc91f96b22b4810fa487517.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8239
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8322,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010013",
+        "nama": "JENIUS VIDEO CALL",
+        "website": "jenius-kyc.cloud.btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001186.21/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db8d85a6224a0daba7b45b1014abc349.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8237
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8323,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010014",
+        "nama": "JENIUS UNLINK VERIFICATION",
+        "website": "unlink.jenius.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001186.20/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e2abbd48a96365912074eb1a064952ed.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8233
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8325,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010015",
+        "nama": "JENIUS VIDEO CALL UNLINK",
+        "website": "jenius-cec.cloud.btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001186.19/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ccd02de4b2cfc7d8cedb7257a7e30f37.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8227
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8326,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010016",
+        "nama": "SAP SUCCESSFACTORS BTPN",
+        "website": "performancemanager10.successfactors.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001186.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d458e5558559b9d90a3d197dea7a380.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8214
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8212,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010011",
+        "nama": "AGENT PORTAL",
         "website": "btpn.com",
         "sektor": "Sektor Keuangan",
         "nama_perusahaan": "BANK BTPN",
         "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "001186.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2a1dde60092b185d3604d8b7fe29a85.png",
+        "nomor_tanda_daftar": "001186.17/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ebcdad193ff6f9945cd7277f1df1c27.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7325
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7290,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010007",
-        "nama": "TOUCHBIZ",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "001186.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2eec23dbda792217c7db2cef8edc84ab.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7180
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7286,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010006",
-        "nama": "WOW APPS",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1bd9c84a198bfbccca1f7939ca8f7290.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7179
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7283,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010004",
-        "nama": "WEB APP - JENIUS",
-        "website": "2secure.jenius.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24c4aa7c714c44dbda0ff34b64c85be0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7176
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7284,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010004",
-        "nama": "JENIUS (WEB APP)",
-        "website": "2secure.jenius.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81b069c27a042cdefee0fa3ddba0a136.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7175
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7285,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010005",
-        "nama": "COCREATE.ID",
-        "website": "cocreate.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a539bdd2178f155ccd7f1904bc9ee9a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7171
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7276,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010003",
-        "nama": "BISNISKIT",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9656384317e1ed9396008ebbe25095fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7169
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7274,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010002",
-        "nama": "DAYA.ID",
-        "website": "daya.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca0afbf02764e6676e0abfbbee5b742c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7111
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7275,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010017",
-        "nama": "SMAR&TS",
-        "website": "finglobe.smbc.co.jp",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/802aaade41f2e0f7624e4c6ba0f69c75.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7056
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7138,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010001",
-        "nama": "AKSESBISNIS@BTPN",
-        "website": "aksesbisnis.btpn.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15a97a43bf31bc3bb2c9d8b405833a5e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7017
+        "sistem_elektronik_id": 8097
       }
     }
   ]

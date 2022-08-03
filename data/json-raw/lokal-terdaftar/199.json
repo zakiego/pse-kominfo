@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 200,
       "from": 1991,
-      "lastPage": 906,
+      "lastPage": 908,
       "perPage": 10,
       "to": 2000,
-      "total": 9060
+      "total": 9074
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 6833,
+      "id": 6904,
       "attributes": {
-        "nomor_pb_umku": "912010078197600010001",
-        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS NTT",
+        "nomor_pb_umku": "190722002490400000001",
+        "nama": "KLUBSEHAT.COM",
+        "website": "klubsehat.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+        "nama_perusahaan": "GUARDI INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004908.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4bfadaab663b0f4263118dd941592aa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6754
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6687,
+      "attributes": {
+        "nomor_pb_umku": "912020872264400010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT PAGARUYUNG",
+        "website": "bprpagaruyung.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PAGARUYUNG",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004906.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8afbdf0c18bd6a5ebf03a1dc2f61360a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6533
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6751,
+      "attributes": {
+        "nomor_pb_umku": "122000046288100010001",
+        "nama": "WEBSITE BPR ARTHABUDAYA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARTHABUDAYA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004905.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e09c97a4d7668c1698d771556a3dc22.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6599
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7630,
+      "attributes": {
+        "nomor_pb_umku": "100522000122800020001",
+        "nama": "MIBAS POLARIS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ANAK NEGERI PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004904.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7323799852571712ef0040cfdd3b9791.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7528
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7713,
+      "attributes": {
+        "nomor_pb_umku": "912020677330100010001",
+        "nama": "WEBSITE BPR DANARAKYAT SENTOSA",
+        "website": "bprdrs.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANARAKYAT SENTOSA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004903.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/376b79f1fe917165c2cf48f5e7832209.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7623
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6728,
+      "attributes": {
+        "nomor_pb_umku": "912020677341300010001",
+        "nama": "BPR BALERONG BUNTA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BALERONG BUNTA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004902.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47400157b53b0a91b5491cdb19930a10.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6575
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7929,
+      "attributes": {
+        "nomor_pb_umku": "912010078197600010005",
+        "nama": "SMS MACROKIOSK NOTIFIKASI DAN OTP - BPR MODERN EXPRESS NTT",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004901.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/705ce96e9d781db12429d911cb6c3eee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7849
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7894,
+      "attributes": {
+        "nomor_pb_umku": "912010078197600010004",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN -BPR MODERN EXPRESS NTT",
+        "website": "digimod.bprmodernexpressntt.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004901.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ee9a6dcf6c90091ea645b82dc6cbbab.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7804
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7858,
+      "attributes": {
+        "nomor_pb_umku": "912010078197600010003",
+        "nama": "WEBSITE BPR MODERN EXPRESS NTT",
         "website": "bprmodex-ntt.com",
         "sektor": "Sektor Keuangan",
         "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004901.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a623590c18204a2cb2a7c8c21c2e8547.png",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004901.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/129711726158ab5b4e4bfeed45554e2f.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6684
+        "sistem_elektronik_id": 7775
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 6745,
+      "id": 6979,
       "attributes": {
-        "nomor_pb_umku": "912000783257500010001",
-        "nama": "PT BPR LABUHAN DANA SENTOSA",
-        "website": "banklds.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LABUHAN DANA SENTOSA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004900.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac23d18a7ac30033fd8931fce4c4487c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6592
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6929,
-      "attributes": {
-        "nomor_pb_umku": "912020095086300010001",
-        "nama": "WEBISTE BNU SYARIAH",
-        "website": "bnusyariah.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH MERU NUSANTARA MANDIRI",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004899.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d861be75af44068025e5df0181936af.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6783
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6770,
-      "attributes": {
-        "nomor_pb_umku": "912000661112600000001",
-        "nama": "KURURIO INDONESIA",
-        "website": "kururio.co.id",
-        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NANAS WARNA KUNING",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004898.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/931c584bc3b99f1c54edcf539693d58f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6553
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6717,
-      "attributes": {
-        "nomor_pb_umku": "120100049142800010001",
-        "nama": "PT BPR PUSPITA SARI",
+        "nomor_pb_umku": "912010078197600010002",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-COLLECTION BPR MODERN EXPRESS NTT",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PUSPITA SARI",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004897.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a29023e22b437e5ac22bb2b895bf9b4c.png",
+        "nomor_tanda_daftar": "004901.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8bf525c760f6edf821448d2acd580aeb.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6562
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6696,
-      "attributes": {
-        "nomor_pb_umku": "912010287062600020003",
-        "nama": "CREATIVE BANKING NUSANTARA",
-        "website": "creativenusantara.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PERMATA DHANAWIRA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004896.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4cbbe1b865990f75acf7237b27122f6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6550
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6731,
-      "attributes": {
-        "nomor_pb_umku": "912011103279400010001",
-        "nama": "USSI PINBUK PRIMA SOFTWARE",
-        "website": "bprsuar.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SUAR ARTHA DHARMA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004895.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fc648247c57717d19bf4e40171d9e58e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6579
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7681,
-      "attributes": {
-        "nomor_pb_umku": "912021205208900090001",
-        "nama": "WEBSITE THE JAKARTA POST",
-        "website": "thejakartapost.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BINA MEDIA TENGGARA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004894.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b587cb0071406f08635e08bdff650cd2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7591
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6695,
-      "attributes": {
-        "nomor_pb_umku": "812001604236100010002",
-        "nama": "WEBSITE PERUMDA BPR GARUT",
-        "website": "bankbprgarut.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUMDA BPR GARUT",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004893.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cb3928fae8ac85a1a866075b0b18ec1b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6549
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6676,
-      "attributes": {
-        "nomor_pb_umku": "022010534137500000002",
-        "nama": "DARMAWANGSA WEBSITE",
-        "website": "ivaro.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DARMAWANGSA SURYA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004891.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3afb8e6c2faa3678ee78bf32e4609b72.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6528
+        "sistem_elektronik_id": 6836
       }
     }
   ]

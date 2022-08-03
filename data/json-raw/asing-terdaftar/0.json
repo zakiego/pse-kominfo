@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 10,
-      "total": 294
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9810,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BINAMANDIRI",
+        "website": "binamandiri.sg",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BINAMANDIRI",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006882.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/865334d122a2d41c1bce354ff8eccae1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9684
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9799,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0cdfbf7c234f329b0204ef240ce2b413.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9573
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9612,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BSTATION",
-        "website": "bilibili.tv",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BALABOOM PTE. LTD.",
-        "tanggal_daftar": "2022-08-01",
-        "nomor_tanda_daftar": "006724.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c2ca3772687ec3d8a836b91c6a06ce6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9503
       }
     }
   ]

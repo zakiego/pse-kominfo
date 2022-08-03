@@ -6,10 +6,26 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 30,
-      "total": 294
+      "total": 293
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9333,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ZEPETO",
+        "website": "zepeto.me/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NAVER Z CORPORATION",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006530.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fd642bf60c64558ed72a034c1f57635c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9244
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9272,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7174ccd44b310eef5bc38013f49bb7c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9176
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9263,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LIONSGATE PLAY",
-        "website": "lionsgateplay.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LIONSGATE PLAY LLP",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006497.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b5531cd9573b3a2f973b6c4456844a8f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9175
       }
     }
   ]
