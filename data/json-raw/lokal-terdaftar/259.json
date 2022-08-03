@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 260,
       "from": 2591,
-      "lastPage": 903,
+      "lastPage": 906,
       "perPage": 10,
       "to": 2600,
-      "total": 9025
+      "total": 9060
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 6155,
+      "id": 8976,
       "attributes": {
-        "nomor_pb_umku": "912060381299200050010",
-        "nama": "QRIS MERCHANT BPD DIY",
+        "nomor_pb_umku": "912030931061300960005",
+        "nama": "DASHBOARD DIGITALISASI SPBU",
+        "website": "dashboard.spbu.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERTAMINA PATRA NIAGA",
+        "tanggal_daftar": "2022-07-25",
+        "nomor_tanda_daftar": "004419.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7eb4e798013e9cbfe826d0e1e7a7cd09.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8887
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7054,
+      "attributes": {
+        "nomor_pb_umku": "912030931061300950004",
+        "nama": "WEBSITE MYPERTAMINA",
+        "website": "mypertamina.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERTAMINA PATRA NIAGA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004419.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/61e0e085d523c6b7c5435ed8cd7c5ad0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6917
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5958,
+      "attributes": {
+        "nomor_pb_umku": "912030931061300950003",
+        "nama": "APLIKASI MYPERTAMINA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERTAMINA PATRA NIAGA",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004419.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba9a3bbf73560303c96ed649b947a0a7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5819
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5954,
+      "attributes": {
+        "nomor_pb_umku": "912030931061300950002",
+        "nama": "WEB REGISTRASI SUBSIDI TEPAT MYPERTAMINA",
+        "website": "subsiditepat.mypertamina.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERTAMINA PATRA NIAGA",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004419.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eeeb8999c4df165970106cfe2259fad2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5817
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5948,
+      "attributes": {
+        "nomor_pb_umku": "110222002279500000001",
+        "nama": "PARTNERKITA",
+        "website": "partnerkita.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KONSULTAN LEGALITAS MILENIAL",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004418.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/32d3e2b7a010cd1d56d225f210f3e735.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5812
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5950,
+      "attributes": {
+        "nomor_pb_umku": "912001626158200010001",
+        "nama": "BPR DURIAN MANDIRI",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DURIAN MANDIRI",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004416.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8cb39b176e43ddea287b2b55ae962c1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5814
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5944,
+      "attributes": {
+        "nomor_pb_umku": "912030665107100000002",
+        "nama": "PETAPOLITIKA",
+        "website": "petapolitika.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DEWANTARA SANCAKA GUNDALA",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004414.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/096d852e9ba50e4499000b519bdfbe4e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5808
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5943,
+      "attributes": {
+        "nomor_pb_umku": "912030665107100000001",
+        "nama": "DEWANTARA",
+        "website": "dewantara.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DEWANTARA SANCAKA GUNDALA",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004414.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/977b4b4053ace8b2c43c298ed89eaf89.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5807
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5971,
+      "attributes": {
+        "nomor_pb_umku": "812001513039100010003",
+        "nama": "CASH MANAGEMENT SYSTEM",
+        "website": "apps.paninbanksyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PANIN DUBAI SYARIAH",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004413.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/986faaa36e2c36d00f1ff3b820d2177a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5825
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5957,
+      "attributes": {
+        "nomor_pb_umku": "812001513039100010002",
+        "nama": "MOBILE BANKING",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d856159117d24d25d61609bac4fe7e6.png",
+        "nama_perusahaan": "BANK PANIN DUBAI SYARIAH",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004413.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29ce2935c11028921902a2eb4277a516.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6023
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6151,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050009",
-        "nama": "API QRIS BPD DIY",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2ec5d1d1a8c7d708d0e23f2811dcd697.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6019
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6147,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050008",
-        "nama": "APLIKASI HRMIS BPD DIY",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d2dc556ba5fd54b265988851012a553.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6015
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6141,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050007",
-        "nama": "EOFFICE BPD DIY",
-        "website": "eoffice.bpddiy.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/39068436e07b766f0811b7a8be1cdd78.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6010
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6138,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050006",
-        "nama": "APLIKASI E-WARONG BPD DIY",
-        "website": "g2c.bpddiy.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a32e9d040a50a9c8b85de1edb567e58.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6007
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6129,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050005",
-        "nama": "RETRIBUSI NON BILLING BPD DIY",
-        "website": "saget.bpddiy.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d41d505e710016f4c8dff5c135c4d44.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6002
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6122,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050004",
-        "nama": "LAKU PANDAI BPD DIY",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa60ec27b0aee5e4d8536012ed478317.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5993
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6118,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050003",
-        "nama": "CASH MANAGEMENT SYSTEM BANK BPD DIY",
-        "website": "cm.bpddiy.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3d36da8130a4ed4570d37cce84e8289.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5987
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6100,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050002",
-        "nama": "MOBILE BANKING BANK BPD DIY",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb3b7fdef53547f499aab41cf3b02d80.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5975
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6093,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050001",
-        "nama": "OFFICIAL WEBSITE BPD DIY",
-        "website": "bpddiy.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01f724a601021c9403b33af2193a6d9c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5957
+        "sistem_elektronik_id": 5816
       }
     }
   ]
