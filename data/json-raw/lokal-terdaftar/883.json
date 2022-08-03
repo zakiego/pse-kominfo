@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 884,
       "from": 8831,
-      "lastPage": 899,
+      "lastPage": 903,
       "perPage": 10,
       "to": 8840,
-      "total": 8983
+      "total": 9025
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 103,
+      "id": 1365,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "MYKAS",
-        "website": "https://www.mykas.co.id",
+        "nama": "CoffeeTrace",
+        "website": "app.coffeetrace.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOLTIVA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000116.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e90fd05039157e1b21eabcb429d52375.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2334
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1345,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RubberTrace",
+        "website": "-",
+        "sektor": "Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOLTIVA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000116.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c94f9cf9e065c0dc0f011b798e1d9cc1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2333
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 644,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KOLTIMART",
+        "website": "koltimart.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOLTIVA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000116.03/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/34485c44caaf237c8aa281a5a93fe463.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2332
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 129,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PalmOilTrace",
+        "website": "https://app.palmoiltrace.com/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOLTIVA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000116.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a27e6e2bde259fd2f597a14d9edfd86d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2331
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 128,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CocoaTrace",
+        "website": "https://app.cocoatrace.com/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOLTIVA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000116.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4672f317f9906fe1b24ee77631ec06d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2330
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 127,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Paskomnas Trading System",
+        "website": "www.paskomnas.com",
+        "sektor": "Sektor Pangan, Sektor Perdagangan",
+        "nama_perusahaan": "PASKOMNAS NIAGA UTAMA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000115.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f654a93d9a2a011af924a0373fc8830b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2520
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 126,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Carisayur Trading System",
+        "website": "www.carisayur.com",
+        "sektor": "Sektor Pangan, Sektor Perdagangan",
+        "nama_perusahaan": "PASKOMNAS NIAGA UTAMA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000115.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7dab25e5eb7e6d22c6213b0d3884435.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2519
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 125,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aman Digital",
+        "website": "https://amandigital.id",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SOLUSI INFORMASI DIGITAL UTAMA",
+        "nama_perusahaan": "AMAN DIGITAL KAPITAL INDONESIA",
         "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000093.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b326a5607312f7377b425e65412efde.png",
+        "nomor_tanda_daftar": "000114.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81febfcd2f53b74a3b3c601685734934.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2514
+        "sistem_elektronik_id": 2423
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 102,
+      "id": 4318,
       "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "RNA Registrar Sistem",
-        "website": "rna.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "REGISTRASI NEVA ANGKASA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000092.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0449753835aca83e6d03368365a60667.png",
+        "nomor_pb_umku": "912050089380600020002",
+        "nama": "FULUSME.ID",
+        "website": "fulusme.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FINTEK ANDALAN SOLUSI TEKNOLOGI",
+        "tanggal_daftar": "2022-06-10",
+        "nomor_tanda_daftar": "000113.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a78fba54e68f32ea69471f872f1c9947.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2537
+        "sistem_elektronik_id": 4311
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 163,
+      "id": 124,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "DOMPETKU",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM BINA MAJU BESAR",
-        "tanggal_daftar": "2021-02-24",
-        "nomor_tanda_daftar": "000091.02/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7520ce417770c46b9d0581760f057e9f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2539
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 101,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DOMPETKU",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM BINA MAJU BESAR",
+        "nama": "FuLusme",
+        "website": "www.fulusme.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FINTEK ANDALAN SOLUSI TEKNOLOGI",
         "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000091.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ae77b7985706548344e497a6c19f2e93.png",
+        "nomor_tanda_daftar": "000113.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d45b2d668683d0a0534c27f96002781.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2538
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 100,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DANA PLUS",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM DANA SINAR DUNIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000090.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a975e114a88087238db0154607b62b1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2536
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 99,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DANA RIBU",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM DANA BINTANG LIMA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000089.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d92aecf2471578e353d23895f0beaa6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2535
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 98,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bdrive",
-        "website": "http://bdrive.id",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi",
-        "nama_perusahaan": "MADEEL TEKHNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000088.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/487d4f66ab3cf93a8d56a2e9f94f4ba9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2454
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 97,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MONEY COME",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM LANSIR TARO NUSA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000087.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19448a25774f426c619758153dc90d31.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2530
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 96,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SETOR TUNAI",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM MARDA RIMA ESA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000086.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a20982d9a11e039e2f3bb6484d87309.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2529
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 95,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi KamiSatu",
-        "website": "https://kamisatu.id/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "KAMI SATU KARYA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000085.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f47eafe8f9bd93363d0cbee891a9876.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2526
+        "sistem_elektronik_id": 2565
       }
     }
   ]

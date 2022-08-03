@@ -6,10 +6,42 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 40,
-      "total": 286
+      "total": 289
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9256,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PARAS.ID",
+        "website": "paras.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PARAS DIGITAL PTE LTD",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006491.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fdc31f4c2a760741db2ad72bf806c03d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9168
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9255,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LITMATCH",
+        "website": "litmatchapp.com/#/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CONSTRUCT TECHNOLOGY PTE LTD",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006490.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8ce26c5c2098be22f411b8259074f63d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9167
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9718,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40b05703b5313da17b209dbde1ca012e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9158
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9245,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DARKNESS RISES: ADVENTURE RPG",
-        "website": "play.google.com/store/apps/details?id=com.nexon.da3.global&hl=en&gl=ES; apps.apple.com/us/app/darkness-rises-adventure-rpg/id1321309284",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fdee1b45337bf75b6422a69fe70afc05.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9157
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9244,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "V4",
-        "website": "play.google.com/store/apps/details?id=com.nexon.v4gb&hl=en&gl=ES; apps.apple.com/us/app/v4/id1501655572",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/22a177db2086d0c6576b2a5d41d38203.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9156
       }
     }
   ]

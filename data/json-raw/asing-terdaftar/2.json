@@ -6,10 +6,42 @@
       "lastPage": 29,
       "perPage": 10,
       "to": 30,
-      "total": 286
+      "total": 289
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9267,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WARPATH",
+        "website": "warpath.lilith.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006498.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2cf4af12f9d4853c2422fa4e37ebd746.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9179
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9266,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RISE OF KINGDOMS",
+        "website": "roc.lilithgames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006498.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/047f974a8f61f08ad999546a5dc75239.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9178
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9265,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9083b19c922268a783da88fc3d8a1a49.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9169
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9256,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PARAS.ID",
-        "website": "paras.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PARAS DIGITAL PTE LTD",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006491.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fdc31f4c2a760741db2ad72bf806c03d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9168
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9255,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LITMATCH",
-        "website": "litmatchapp.com/#/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CONSTRUCT TECHNOLOGY PTE LTD",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006490.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8ce26c5c2098be22f411b8259074f63d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9167
       }
     }
   ]
