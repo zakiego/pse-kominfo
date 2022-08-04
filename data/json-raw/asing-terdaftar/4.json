@@ -6,10 +6,42 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 50,
-      "total": 293
+      "total": 296
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9252,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NARUTO:SLUGFESTX",
+        "website": "narutoslugfest.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HONGKONG YOYOO TECHNOLOGY CO.,LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006488.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4bab0fcd44e8eda46b1297c7a6683c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9164
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9251,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "UKI",
+        "website": "uki.booyah.cc/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "QUYUE TECHNOLOGY PTE. LTD.",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006487.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c65bdc3c7a9aa42f99ed4f178f038abd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9163
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9250,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/622f62ae4880401e456f5c9a75faa047.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9155
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9242,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KARTRIDER RUSH+",
-        "website": "play.google.com/store/apps/details?id=com.nexon.kart&hl=en&gl=ES; apps.apple.com/us/app/kartrider-rush/id1466736988",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/90377e40a934931a238d833795dd4c60.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9154
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9241,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MAPLESTORY M: FANTASY MMORPG",
-        "website": "play.google.com/store/apps/details?id=com.nexon.maplem.global&hl=en&gl=ES; apps.apple.com/us/app/maplestory-m-fantasy-mmorpg/id1290086677",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24562d93c55483a0b9630dd8cf32f76b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9153
       }
     }
   ]

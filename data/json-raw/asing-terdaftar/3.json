@@ -6,10 +6,42 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 40,
-      "total": 293
+      "total": 296
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9265,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ART OF CONQUEST",
+        "website": "aoc.lilith.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006498.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f266464e62eda7d267bfeb9939bc6a9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9177
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9264,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AFK ARENA",
+        "website": "afkarena.lilith.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006498.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7174ccd44b310eef5bc38013f49bb7c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9176
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9263,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8ce26c5c2098be22f411b8259074f63d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9167
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9252,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "NARUTO:SLUGFESTX",
-        "website": "narutoslugfest.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HONGKONG YOYOO TECHNOLOGY CO.,LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006488.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4bab0fcd44e8eda46b1297c7a6683c0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9164
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9251,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "UKI",
-        "website": "uki.booyah.cc/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "QUYUE TECHNOLOGY PTE. LTD.",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006487.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c65bdc3c7a9aa42f99ed4f178f038abd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9163
       }
     }
   ]

@@ -6,10 +6,42 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 10,
-      "total": 293
+      "total": 296
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9830,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "E-APP FOR SHORT TIME DIVE ACCIDENT INSURANCE",
+        "website": "apps.dan.org/short-term-prepay/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DAN WORLD, LTD",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006900.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86c1f08bb34347321a9bcd88754f34c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9705
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9829,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WEBSITE",
+        "website": "world.dan.org",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "DAN WORLD, LTD",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006900.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6d41de45935fd1cd61a79186f62a4d3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9704
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9810,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/050cb73b86e2b85498a20a1ec268ac7c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9604
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9699,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ODOO ENTERPRISE",
-        "website": "odoo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ODOO S.A.",
-        "tanggal_daftar": "2022-08-02",
-        "nomor_tanda_daftar": "006800.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/884567e33fccf21e26c737e644a4fcd0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9577
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9695,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "THERMOMIX® RECIPE PLATFORM, COOKIDOO®",
-        "website": "cookidoo.international/foundation/en",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VORWERK INTERNATIONAL & CO. KMG",
-        "tanggal_daftar": "2022-08-02",
-        "nomor_tanda_daftar": "006795.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0cdfbf7c234f329b0204ef240ce2b413.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9573
       }
     }
   ]

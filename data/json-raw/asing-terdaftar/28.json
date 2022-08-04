@@ -6,10 +6,58 @@
       "lastPage": 30,
       "perPage": 10,
       "to": 290,
-      "total": 293
+      "total": 296
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4086,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "CHANGE.ORG",
+        "website": "change.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CHANGE.ORG, PBC",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000291.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f4aac48e390a9a2942ba7ad1f72033d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4085
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4085,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "TREBEL",
+        "website": "trebel.io",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "M&M MEDIA, INC",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000290.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51397e3cfda2be92ed14fd5dbfa10884.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4084
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4084,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SPOTIFY",
+        "website": "spotify.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SPOTIFY AB",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000289.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c457489bed39cfb367ab76e77e0e8b80.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4083
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4083,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40fc9f0f6c3d9b717b7755af0d7af802.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4063
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4063,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK LABORATORY PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000277.03/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4cb0c58108bd3460c82138c77b541b7f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4062
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4062,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK MOBILE APPLICATION",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000277.02/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/50c4208b893cfe419038c6b416ecb65e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4061
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4061,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK DOCTOR PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000277.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88d624d0e8127ace3b1fee6123bffc94.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4060
       }
     }
   ]
