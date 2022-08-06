@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 200,
       "from": 1991,
-      "lastPage": 912,
+      "lastPage": 923,
       "perPage": 10,
       "to": 2000,
-      "total": 9118
+      "total": 9227
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 6878,
+      "id": 7143,
       "attributes": {
-        "nomor_pb_umku": "022000564038700010001",
+        "nomor_pb_umku": "241121000474300000002",
+        "nama": "APLIKASI PENCATATAN INFORMASI KEUANGAN BLUD RSUD SULTAN FATAH KABUPATEN DEMAK",
+        "website": "blud.rsudsulfat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MOHAMMAD TAUFIQURROHMAN",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004987.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da4cbc9a5a72713a797bb9b158703379.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7022
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6827,
+      "attributes": {
+        "nomor_pb_umku": "241121000474300000001",
+        "nama": "APLIKASI PENCATATAN INFORMASI KEUANGAN BLUD PUSKESMAS KABUPATEN DEMAK",
+        "website": "demak.bludpuskesmas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MOHAMMAD TAUFIQURROHMAN",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004987.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8ed5e78bcab574274a48a15a3d4c74da.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6674
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7547,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BANKING SMART SISTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BUKIT TANJUNG",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004986.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b21aa7d79a40354a10c0a7e7f5442d2c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7442
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6790,
+      "attributes": {
+        "nomor_pb_umku": "022010640176600000001",
+        "nama": "APLIKASI ONLINE TRAVEL AGENT",
+        "website": "REBAHAN.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "REJEKI BERKAH NUSANTARA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004985.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9df83e530e8578357dd9d94f4d865ed0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6638
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7542,
+      "attributes": {
+        "nomor_pb_umku": "022020332138300010001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT MERTHA SEDANA",
+        "website": "bprmerthasedana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MERTHA SEDANA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004983.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a95c85252dd3b8ddf78186ae15b98035.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6903
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6887,
+      "attributes": {
+        "nomor_pb_umku": "912030988194800010002",
+        "nama": "WWW.BPRCAHAYAARTHABALI.COM",
+        "website": "bprcahayaarthabali.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CAHAYA ARTHABALI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004982.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6eb13420a04faf54c72c8bd85d76f8ff.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6736
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6777,
+      "attributes": {
+        "nomor_pb_umku": "912030988194800010001",
         "nama": "DEJAYO",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SINAR PUTERAMAS",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CAHAYA ARTHABALI",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004933.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/beb02f87944b0d2da8828a5bebd95f1b.png",
+        "nomor_tanda_daftar": "004982.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/69da144499348c9abe168fc10cf0f548.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6724
+        "sistem_elektronik_id": 6626
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 6909,
+      "id": 7072,
       "attributes": {
-        "nomor_pb_umku": "912020479300500000001",
-        "nama": "KARCISBOLA.ID",
-        "website": "karcisbola.id",
+        "nomor_pb_umku": "190722003787700000001",
+        "nama": "BAGUSPULSA",
+        "website": "baguspulsa.com",
         "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "VISI NUSAPATI UTAMA",
+        "nama_perusahaan": "FIRMANSYAH",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004932.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/feca544c508ba92268f8b09f01e890e2.png",
+        "nomor_tanda_daftar": "004981.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5290bb03c58bd250b5cc723879d65f3.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6613
+        "sistem_elektronik_id": 6944
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 6725,
+      "id": 6782,
       "attributes": {
-        "nomor_pb_umku": "123600071208700000001",
-        "nama": "OKEJEK",
-        "website": "OKEJEK.ID",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "OKEJEK KREASI INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004931.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86ac075d88eb18ce902328078966be29.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6572
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7037,
-      "attributes": {
-        "nomor_pb_umku": "912021410096300020001",
-        "nama": "WEBSITE PT. BPR BUMI BANDUNG KENCANA",
-        "website": "bprbbk.com",
+        "nomor_pb_umku": "912010179015400010001",
+        "nama": "PT BPR BINA MAJU USAHA",
+        "website": "bprbmu.co.id",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BUMI BANDUNG KENCANA",
+        "nama_perusahaan": "PT Bank Perkreditan Rakyat Bina Maju Usaha",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004930.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4bbfa0e85b6c57e166da3958ede9ae8.png",
+        "nomor_tanda_daftar": "004980.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6120f6fb2f42c3343000d09c42ef4094.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6891
+        "sistem_elektronik_id": 6629
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 6776,
+      "id": 6901,
       "attributes": {
-        "nomor_pb_umku": "912040280200500020001",
-        "nama": "ISLAMIC BANKING APLICATION (IBA)",
-        "website": "bprs-sdm.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH SAKA DANA MULIA",
+        "nomor_pb_umku": "022000232295400000014",
+        "nama": "MEMBRAN",
+        "website": "membran.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004929.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5407d24378a59d74f7c7bf1034300748.png",
+        "nomor_tanda_daftar": "004979.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b21848e97b64c35d87d97c609dd37507.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6624
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6781,
-      "attributes": {
-        "nomor_pb_umku": "190722002703100000004",
-        "nama": "CEKCEPAT APP",
-        "website": "-",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "ADVO MATRIKS INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004928.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4896e6a72d101ede307429b19911282e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6630
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6768,
-      "attributes": {
-        "nomor_pb_umku": "190722002703100000003",
-        "nama": "ADVOSHIELD",
-        "website": "advoshield.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADVO MATRIKS INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004928.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f0f5d0a5f4ceeb9541af392ba1cbbc1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6619
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6754,
-      "attributes": {
-        "nomor_pb_umku": "190722002703100000002",
-        "nama": "ADVOSQUARE",
-        "website": "advosquare.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADVO MATRIKS INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004928.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/626ab7d3166b6126a33626d36ac196ff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6602
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6734,
-      "attributes": {
-        "nomor_pb_umku": "190722002703100000001",
-        "nama": "CEKCEPAT",
-        "website": "cekcepat.com",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADVO MATRIKS INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004928.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5bebbe991990c1db3321ad1c79caed28.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6581
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7345,
-      "attributes": {
-        "nomor_pb_umku": "129100011219400000003",
-        "nama": "IG BPR ANA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARTHA NUSANTARA ABADI",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004927.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97f13f944eb428b1d0c7a0bf6ba3773b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7246
+        "sistem_elektronik_id": 6756
       }
     }
   ]

@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 805,
       "from": 8041,
-      "lastPage": 912,
+      "lastPage": 923,
       "perPage": 10,
       "to": 8050,
-      "total": 9118
+      "total": 9227
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 1565,
+      "id": 747,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "SISTEM BACKEND RUPIAH CEPAT",
-        "website": "rupiahcepatweb.com",
+        "nama": "Richwell",
+        "website": "www.richwell.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HEKSA MAKMUR JAYA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000604.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/55240a479d87753647af04e24bad967e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 454
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7505,
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010004",
+        "nama": "E-PENSION DPLK (DPLK ASTRA)",
+        "website": "ava-dplk.astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000603.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40004d2289780c1c1e40aee8ef57ce4c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7405
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6711,
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010003",
+        "nama": "AVA EB CLICK",
+        "website": "ebonline.astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000603.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a210921f6a032d6f906ecd98fb7e61d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6560
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6115,
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010002",
+        "nama": "ASTRA LIFE (CORPORATE WEBSITE)",
+        "website": "astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000603.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2af9ba1050177648f52face41cb51360.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5985
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 746,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BUDDIES",
+        "website": "https://mndsvr2.net/buddies/auth",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000603.02/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6418abbcf5a3e0dcb1019d169cc4d53d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2709
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 745,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ILOVELIFE.CO.ID",
+        "website": "https://ilovelife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000603.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6f5945b11213308c18b9871c5ed5b673.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2708
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 744,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ANZ Online dan ANZ Transactive",
+        "website": "https://tscid.online.anz.com/portal/SSOWebAgentLogon.jsp?organization=ANZ;  https://logon.online.anz.com;  https://anz.com;  https://anz.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK ANZ INDONESIA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000602.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/56832dfeadfe4a6ecb46cff3a4ad8cde.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 493
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 743,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mapclub.com",
+        "website": "https://www.mapclub.com/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GCOMMERCE DIGITAL ASIA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000601.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f8a54b82bc054a6fe0131114f91a352.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 42
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 742,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "eSyirkah",
+        "website": "esyirkah.id",
         "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KREDIT UTAMA FINTECH INDONESIA",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "000536.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af1d41563cd6b98ae665564da0bcaa77.png",
+        "nama_perusahaan": "SYIRKAH DANA INVESTAMA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000600.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00191c1fda9b9bcc784ef8eb41f3e481.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3277
+        "sistem_elektronik_id": 3288
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 658,
+      "id": 741,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "RUPIAH CEPAT",
-        "website": "www.rupiahcepat.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KREDIT UTAMA FINTECH INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000536.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24c34572a786065807471b29872b8753.png",
+        "nama": "Jakartanotebook.com",
+        "website": "https://www.jakartanotebook.com/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JAKARTA DIGITAL NUSANTARA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000599.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dd9809556b0bf88926db090682b028d5.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3276
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 657,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "INDO MART",
-        "website": "Http://www.indomart.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMPAN PINJAM MODAL HIDUP BARU",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000535.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba87e92908a4781ec1eaffb26bca1aef.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3275
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 656,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CEKPREMi",
-        "website": "https//www.cekpremi.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CEKPREMI MITRA PRATAMA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000534.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e8e2ef3c292f55cf7569dda9e8674150.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 364
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 655,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Minerva",
-        "website": "https://www.minerva-global.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INTEGRITY INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000533.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/911f078c5808daa1304f7ae5a2a06a03.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 436
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 653,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANDINGIN",
-        "website": "https://www.bandingin.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SPARK INTEGRATED SOLUTIONS",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000532.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b5fd2c71509dde7803c8bce903bb9c2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 453
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 654,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "https://www.indopremier.com/",
-        "website": "https://www.indopremier.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INDO PREMIER SEKURITAS",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000531.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e46d0cb128e4f8f00ccbb92b23533c89.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3274
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 652,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "IPOT - Investing, News, Education, Financial Plan",
-        "website": "https://www.indopremier.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INDO PREMIER SEKURITAS",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000531.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5db91d07a1dfebbe69ff8841f757af37.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3273
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 651,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SFAST",
-        "website": "SFSEKURITAS.CO.ID",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SURYA FAJAR SEKURITAS",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000530.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a87ee3b301a77f0bb143393e5ec35ff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 450
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 650,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KALCare.com",
-        "website": "https://www.kalcare.com/",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KARYA HASTA DINAMIKA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000529.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e41f9789e4e4bd25c9bfc6c884306290.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2404
+        "sistem_elektronik_id": 3475
       }
     }
   ]

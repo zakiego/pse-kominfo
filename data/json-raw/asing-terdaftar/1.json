@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 2,
       "from": 11,
-      "lastPage": 30,
+      "lastPage": 31,
       "perPage": 10,
       "to": 20,
-      "total": 296
+      "total": 304
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9778,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PAYPAL",
+        "website": "paypal.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PAYPAL PTE LTD",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006860.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7eba130bca4a4995b94b778608bdb306.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9652
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9728,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PRIME VIDEO",
+        "website": "primevideo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Amazon.com Services LLC",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006820.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0f43949c0fe985319a50c998215447f8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9605
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9727,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMAZON.COM",
+        "website": "amazon.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Amazon.com Services LLC",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006820.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/050cb73b86e2b85498a20a1ec268ac7c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9604
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9699,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/83c82feb8efcd3a612d80915673284d8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9323
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9410,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MICROSOFT BING",
-        "website": "bing.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MICROSOFT CORPORATION",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "006581.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9c7a300b60082ea25244ea7c1eb92c1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9320
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9386,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BATTLE.NET",
-        "website": "battle.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BLIZZARD ENTERTAINMENT, INC",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "006571.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4be2a141342d9087328153bd2955194.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9296
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9366,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KEPO",
-        "website": "kepo.life",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Comunitee HK Limited",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "006556.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/534f1143bcc757999e8735e723526c8e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9279
       }
     }
   ]
