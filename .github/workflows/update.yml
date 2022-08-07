@@ -40,8 +40,8 @@ jobs:
 
       - name: Add File
         run: |
-          git config --local user.email "${{ secrets.USER_EMAIL }}"
-          git config --local user.name "zakiego"
+          git config --local user.email "81743021+mzakiyuddin@users.noreply.github.com"
+          git config --local user.name "mzakiyuddin"
           git add .
 
       - name: Check is need to push
