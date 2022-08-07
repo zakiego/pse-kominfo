@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 255,
       "from": 2541,
-      "lastPage": 923,
+      "lastPage": 925,
       "perPage": 10,
       "to": 2550,
-      "total": 9227
+      "total": 9244
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 6171,
+      "id": 6166,
       "attributes": {
-        "nomor_pb_umku": "912000952259500000005",
-        "nama": "PERIKSAIN.ID",
-        "website": "periksain.id",
+        "nomor_pb_umku": "912000477207900010001",
+        "nama": "BPRSEMERU",
+        "website": "bprsemeru.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SEMERU",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004570.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5783b2440219638839bc78141baee22b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6037
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6228,
+      "attributes": {
+        "nomor_pb_umku": "912031306155400000001",
+        "nama": "WEBSITE BP LAWYERS",
+        "website": "bplawyers.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BP LAWYERS",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004569.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a6c1ef096195373a2d0377f43b87d2fd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6094
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6188,
+      "attributes": {
+        "nomor_pb_umku": "912020355282900010001",
+        "nama": "PT BPR DANA PUTRA",
+        "website": "bprdanaputra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANA PUTRA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004567.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6d4c793e8804367b7601f617f9da63b4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6054
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6159,
+      "attributes": {
+        "nomor_pb_umku": "028801011132400010001",
+        "nama": "BPR ANUGERAH HARTA KALIWUNGU",
+        "website": "bprahk.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ANUGERAH HARTA KALIWUNGU",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004566.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b93f0f7baab763122084733025a94e65.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6027
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6209,
+      "attributes": {
+        "nomor_pb_umku": "912020676043100020001",
+        "nama": "BACKOFFICE S21",
+        "website": "intifikasa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "INTI FIKASA SEKURITAS",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004565.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51c98503c99d2d9bfd49588940114b9e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6069
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6198,
+      "attributes": {
+        "nomor_pb_umku": "180722002437400000002",
+        "nama": "SAVING MOBILE APPLICATION BPR NBP 31",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 31",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004564.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f09517718f982fd17f6e0bd3d302e901.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6064
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6154,
+      "attributes": {
+        "nomor_pb_umku": "180722002437400000001",
+        "nama": "BPR NBP 31",
+        "website": "bprnbp31.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 31",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004564.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef88af1c451aadb137f56b0b5bcf665a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6020
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6144,
+      "attributes": {
+        "nomor_pb_umku": "180722002916600000001",
+        "nama": "PT BPR PIALA MAKMUR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PIALA MAKMUR",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004563.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84ce2db34715b19442d0e208be61c6e0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6012
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6149,
+      "attributes": {
+        "nomor_pb_umku": "912020448031200010001",
+        "nama": "INTEGRATED MICRO BANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CITANDUY ARTHA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004562.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/344d968720e38d86e6089ae79c7ed958.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6017
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8725,
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000012",
+        "nama": "ADAMQUE",
+        "website": "-",
         "sektor": "Sektor Kesehatan",
         "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004561.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19ce62a404697acccd49ca52972f68ed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6041
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6156,
-      "attributes": {
-        "nomor_pb_umku": "912000952259500000004",
-        "nama": "ADAMLABS.ID",
-        "website": "adamlabs.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004561.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd398e74a80d95c1d2528f01167c6fc2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6021
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6168,
-      "attributes": {
-        "nomor_pb_umku": "912040492246400010001",
-        "nama": "BANKING INTEGRATED SYSTEM (BIS)",
-        "website": "buanaartamulia.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BUANA ARTA MULIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004560.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6237a22865f94dbd083aa8b9cade8516.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6039
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9031,
-      "attributes": {
-        "nomor_pb_umku": "220522001670400010002",
-        "nama": "KONTER PULSA NETINDO",
-        "website": "konterpulsa.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KONTER PULSA NETINDO",
-        "tanggal_daftar": "2022-07-26",
-        "nomor_tanda_daftar": "004558.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58c77379fa7f8094b73f4edd4efbbed3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8945
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6130,
-      "attributes": {
-        "nomor_pb_umku": "220522001670400010001",
-        "nama": "KONTER PULSA",
-        "website": "konterpulsa.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KONTER PULSA NETINDO",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004558.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38e07fd108b2666bdc7c6de83d7d615a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6003
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6145,
-      "attributes": {
-        "nomor_pb_umku": "912000570275600000001",
-        "nama": "WEBSITE",
-        "website": "bprdinamika.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DINAMIKA BANGUN ARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004557.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8dfd654817d869bdbe89021edee001ee.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6013
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6161,
-      "attributes": {
-        "nomor_pb_umku": "200422004042400000001",
-        "nama": "PORTAL KENDALI ARTHA",
-        "website": "kendaliartha.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KENDALI ARTHA PERSERODA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004556.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ca724d2292b37f595db69bfa678578a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6030
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6963,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BPRTRIDANAKENCANA.CO.ID",
-        "website": "bprtridanakencana.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT TRIDANA KENCANA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004555.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7acc99de2ac5227563702dc0b9d93093.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6815
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8877,
-      "attributes": {
-        "nomor_pb_umku": "040322004335300010002",
-        "nama": "BPR CHANDRA MUKTIARTHA",
-        "website": "bprcma.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CHANDRA MUKTIARTHA",
         "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "004554.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a21f6ac1ab0d64d775854ebf2a9364c6.png",
+        "nomor_tanda_daftar": "004561.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7ac5208321920139c9704cfd7afa5b5e.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8779
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6153,
-      "attributes": {
-        "nomor_pb_umku": "912030892137600010002",
-        "nama": "MULTINDOKU",
-        "website": "sismaf.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MULTINDO AUTO FINANCE",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004553.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09deda81edc910acbf79f95cf64e4a0a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6022
+        "sistem_elektronik_id": 8643
       }
     }
   ]
