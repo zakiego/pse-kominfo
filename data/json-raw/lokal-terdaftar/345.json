@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 346,
       "from": 3451,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 3460,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6759,
+      "attributes": {
+        "nomor_pb_umku": "090722001604800100001",
+        "nama": "BILPAY",
+        "website": "bilgy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "TUAS MAS MANDIRI DIGITAL PAYMENT",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "003964.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f5aa802f8171416366be9a76251128c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6605
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5568,
+      "attributes": {
+        "nomor_pb_umku": "912020791044900000001",
+        "nama": "SIAPA DIA CRAWLER",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SIAPA DIA INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "003963.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b980da7d7fd47c10dcf6005d8d133df6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5440
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9875,
+      "attributes": {
+        "nomor_pb_umku": "022010581264800010004",
+        "nama": "BBW SWITCH",
+        "website": "bbw.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BARON BIONDI WILLIAM",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "003962.04/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d1e9e4b09a9de19a35a9c4437fef9b7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9761
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9781,
+      "attributes": {
+        "nomor_pb_umku": "022010581264800010003",
+        "nama": "BBW CARDLESS",
+        "website": "bbw.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BARON BIONDI WILLIAM",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "003962.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3808a5a653c860076afdf7024e7e87f9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9655
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9063,
+      "attributes": {
+        "nomor_pb_umku": "022010581264800010002",
+        "nama": "BBW LAKU PANDAI",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BARON BIONDI WILLIAM",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "003962.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/22be2555bd6a5f986ba31081e33ca4ba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8971
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7383,
+      "attributes": {
+        "nomor_pb_umku": "022010581264800010001",
+        "nama": "BBW MOBILE BANKING",
+        "website": "bbw.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BARON BIONDI WILLIAM",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003962.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1f82f460fa86da65fc6c107be5c6a155.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7281
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6069,
+      "attributes": {
+        "nomor_pb_umku": "912050187227500010002",
+        "nama": "QFINCC. ID",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "QFIN CREDIT CEMERLANG",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "003960.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/61a4c726e8d19c3d06ef04a6d68b1930.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5939
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5330,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d5f3e864a04549492b200ed17b5a671.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6968
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7071,
-      "attributes": {
-        "nomor_pb_umku": "912030170073100060003",
-        "nama": "CSM CORPORATAMA (INDORENT CARE)",
-        "website": "-",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "CSM CORPORATAMA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "003958.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8799b2e07e09004b1dcfe2762186295a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6940
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7059,
-      "attributes": {
-        "nomor_pb_umku": "912030170073100060002",
-        "nama": "CSM CORPORATAMA (VEHICLE MANAGEMENT SYSTEM)",
-        "website": "cp.indorent.co.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "CSM CORPORATAMA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "003958.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/818a1f2fa000d5c2e28a4dc6073ecad1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6833
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5328,
-      "attributes": {
-        "nomor_pb_umku": "912030170073100060001",
-        "nama": "CSM CORPORATAMA (WEBSITE GROUP)",
-        "website": "csmgroup.co.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "CSM CORPORATAMA",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "003958.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cdb163af2ebc91b913708a394184a7aa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5185
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5285,
-      "attributes": {
-        "nomor_pb_umku": "912030170073100060001",
-        "nama": "CSM CORPORATAMA",
-        "website": "indorent.co.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "CSM CORPORATAMA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "003958.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f30f14d4a1b10985bc2670eecf0d0d0c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5154
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8045,
-      "attributes": {
-        "nomor_pb_umku": "912060285219600000001",
-        "nama": "SMARTEXCHANGE",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "COMPASIA TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "003956.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d5528ca553b9d2cb04ba1e8950c8d9c3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7969
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5304,
-      "attributes": {
-        "nomor_pb_umku": "029301023016400000002",
-        "nama": "VIONE",
-        "website": "onvi.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ONVI SISTEM INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "003955.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3fb949403bade611ff64d074fbd87804.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5175
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5286,
-      "attributes": {
-        "nomor_pb_umku": "029301023016400000001",
-        "nama": "VIPOZY BY ONVI",
-        "website": "vipozy.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ONVI SISTEM INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "003955.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/326fd9da3eb1c538040cecd8f7bbc142.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5155
       }
     }
   ]

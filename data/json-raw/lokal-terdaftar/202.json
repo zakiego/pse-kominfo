@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 203,
       "from": 2021,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 2030,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7072,
+      "attributes": {
+        "nomor_pb_umku": "190722003787700000001",
+        "nama": "BAGUSPULSA",
+        "website": "baguspulsa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "FIRMANSYAH",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004981.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5290bb03c58bd250b5cc723879d65f3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6944
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6782,
+      "attributes": {
+        "nomor_pb_umku": "912010179015400010001",
+        "nama": "PT BPR BINA MAJU USAHA",
+        "website": "bprbmu.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PT Bank Perkreditan Rakyat Bina Maju Usaha",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004980.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6120f6fb2f42c3343000d09c42ef4094.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6629
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6901,
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000014",
+        "nama": "MEMBRAN",
+        "website": "membran.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004979.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b21848e97b64c35d87d97c609dd37507.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6756
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6856,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MEMBERINA",
+        "website": "memberina.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004979.13/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c640295c97ec8b55598285b2611d1d56.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6704
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6847,
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000012",
+        "nama": "HADI FAJAR",
+        "website": "hadifajar.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004979.12/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2560904dda740aa3b405f5f202ac6737.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6697
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6841,
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000011",
+        "nama": "MYSMP",
+        "website": "mysmp.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004979.11/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b3f17bfd21eb01cb1aaf7975699ab35.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6691
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6834,
+      "attributes": {
+        "nomor_pb_umku": "022000232295400000010",
+        "nama": "BERLIAN MOTOR",
+        "website": "berlianmotor.membercard.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004979.10/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d8b32430c691797200e3f2f653ccd3d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6685
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6828,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47120e67a0d30697bd234be63e6b509b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6668
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6811,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000006",
-        "nama": "BROMO SWALAYAN",
-        "website": "bromoswalayan.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf10d0987014e9341ead2b143e0bf008.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6663
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6807,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000005",
-        "nama": "TODODO",
-        "website": "tododo.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6462968c5290a522508f9a3a298efbde.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6660
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6803,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000004",
-        "nama": "MAMASUKA KITCHENSTORE",
-        "website": "mamasukakitchenstore.membercard.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08713a42df863a6dbb1691056f082cc3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6654
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6796,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000003",
-        "nama": "MEGA SWALAYAN",
-        "website": "megaswalayan.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b5f0ae52875620760fdc4c8360ffae3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6646
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6793,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000002",
-        "nama": "RENY SWALAYANKU",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f9aed954bc980751d069a6a986ad618f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6641
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6787,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000001",
-        "nama": "AYUNE REK",
-        "website": "ayunerek.membercard.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d3aa0aab35847bc291ebcda49d52fbaa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6635
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6783,
-      "attributes": {
-        "nomor_pb_umku": "190722003607500000001",
-        "nama": "BALAI PEDIA DIGITAL",
-        "website": "balaipedia.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "M TAUFIQ ALHAZMI",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004978.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d3e5537df662de0a3e03e77570d7ac8e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6631
       }
     }
   ]

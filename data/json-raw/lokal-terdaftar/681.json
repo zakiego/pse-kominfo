@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 682,
       "from": 6811,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 6820,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1814,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GIGA TV",
+        "website": "www.gigafiber.net.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JARINGAN VNT INDONESIA",
+        "tanggal_daftar": "2021-07-29",
+        "nomor_tanda_daftar": "001211.02/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b1818ad119eb0b63fa38958e6f70234.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3472
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1812,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Nomaden TV",
+        "website": "www.nomaden.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JARINGAN VNT INDONESIA",
+        "tanggal_daftar": "2021-07-29",
+        "nomor_tanda_daftar": "001211.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9bc73886dfeb04349e3e2c8b4ad6ece.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3471
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1811,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Udahlunas",
+        "website": "www.udahlunas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PELANGI TERANG INDAH",
+        "tanggal_daftar": "2021-07-29",
+        "nomor_tanda_daftar": "001210.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f2af2e066773c85a491626aad97967a8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1385
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1813,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.mbiz.co.id",
+        "website": "mbiz.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BRILLIANT ECOMMERCE BERJAYA",
+        "tanggal_daftar": "2021-07-29",
+        "nomor_tanda_daftar": "001209.02/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7310e428de0efc47fa0a8f1b636d03c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1311
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1810,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.mbizmarket.co.id",
+        "website": "mbizmarket.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BRILLIANT ECOMMERCE BERJAYA",
+        "tanggal_daftar": "2021-07-29",
+        "nomor_tanda_daftar": "001209.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ab5714fdedfb41c65819aa1e226c7ff6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1310
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3322,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EC2 Service / Ayo Kita App Service",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "IRON ASSET INDONESIA",
+        "tanggal_daftar": "2022-02-21",
+        "nomor_tanda_daftar": "001208.03/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3bc2a89952463c5074c3d61ca410c64d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2817
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3282,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EC2 Service/ ayokita web service",
+        "website": "www.ayokita.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "IRON ASSET INDONESIA",
+        "tanggal_daftar": "2022-02-17",
+        "nomor_tanda_daftar": "001208.02/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7e1cf5dc385712cf7d3a75dee880004.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2816
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1808,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1979205c6d9dcc0fb9189916b819cc7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1009
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1806,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Internet Banking Individual (e-Personal BBA)",
-        "website": "https://epersonal.bankbba.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BUMI ARTA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001206.04/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2e644833ecc4462b651bab9a2f282e5e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1008
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1805,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Mobile Banking (BBA Mobile)",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BUMI ARTA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001206.03/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52ce50e8bf57adcb3c978eb91f9e7df3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1007
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1802,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Virtual Account BBA",
-        "website": "https://va.bankbba.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BUMI ARTA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001206.02/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a63c0e149196519b12a774c52dc5c53a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1006
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1801,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Internet Banking Corporate (e-BBA)",
-        "website": "https://ebanking.bankbba.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BUMI ARTA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001206.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e93711a32e31462f907abfd96a7aec26.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1005
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1799,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Berrybenka..com",
-        "website": "www.berrybenka.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BERRYBENKA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001205.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1dde51b26a93397a98ecbe969510ed4e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1371
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1798,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Data Center",
-        "website": "www.elitery.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DATA SINERGITAMA JAYA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001204.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77e7b9c91f88ce708e3ac242c24f98c6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1306
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1797,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "EMOS",
-        "website": "https://emos.id",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
-        "nama_perusahaan": "EMOS GLOBAL DIGITAL",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001203.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7213b8b28e3c8907a7efb9523f533fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 205
       }
     }
   ]

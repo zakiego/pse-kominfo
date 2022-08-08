@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 445,
       "from": 4441,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 4450,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4396,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT JAYA BAYA SEJAHTERA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JAYADI",
+        "tanggal_daftar": "2022-04-28",
+        "nomor_tanda_daftar": "002636.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/34b1621fd44e47b316177dc4943e919b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4380
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4395,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Nuumi Pulsa",
+        "website": "mpulsa.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NUUMI HZM",
+        "tanggal_daftar": "2022-04-28",
+        "nomor_tanda_daftar": "002635.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ae96b2e87d31d27c7114dc61dee4ba9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4379
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4394,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kepulauan Riau Indonesia Media",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HENDRO PRIYONO",
+        "tanggal_daftar": "2022-04-27",
+        "nomor_tanda_daftar": "002634.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9168c4cb6d3a7f8af5932d42ea8835db.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4378
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4249,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Majoo",
+        "website": "www.majoo.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MAJOO TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "nomor_tanda_daftar": "002633.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d3e936a4f4a9cfaad4ad2e22d1309b27.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4244
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4392,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "lidipedia",
+        "website": "lidipedia.com",
+        "sektor": "Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LIDI PEDIA INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "nomor_tanda_daftar": "002631.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/49f244d64f45366ed7586f032690819f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4376
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4391,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi Kargo Hermes Soft",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AERO SYSTEMS INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "nomor_tanda_daftar": "002630.02/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7f676940f0e333fc1ab9eff7f52f1ba5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4375
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4390,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kargo Hermes Soft",
+        "website": "asyst.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "AERO SYSTEMS INDONESIA",
+        "tanggal_daftar": "2022-04-27",
+        "nomor_tanda_daftar": "002630.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c689fdc19f8b51a874ae3321420fb3e5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4374
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4389,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a725c831499233aca1172c306b45dca4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3931
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9955,
-      "attributes": {
-        "nomor_pb_umku": "812010386155100010076",
-        "nama": "WEBSITE SOWELL INDONESIA (WWW.SOWELL.CO.ID)",
-        "website": "sowell.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KRISBOW INDONESIA",
-        "tanggal_daftar": "2022-08-05",
-        "nomor_tanda_daftar": "002626.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb0eca0fe99a883a01a1f89db6400af7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9844
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4046,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Krisbow Indonesia E-Commerce",
-        "website": "krisbow.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KRISBOW INDONESIA",
-        "tanggal_daftar": "2022-04-26",
-        "nomor_tanda_daftar": "002626.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6eb4b2ff8ae7d1c3ea724ef57149c0e7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3925
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4045,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SPADA",
-        "website": "www.spada.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CHRISTIAN RAHARJO",
-        "tanggal_daftar": "2022-04-26",
-        "nomor_tanda_daftar": "002625.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf0cd3e8499441519e244183ad3e1415.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3879
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4044,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Infinity Tech",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANUGERAH BINTANG UTAMA",
-        "tanggal_daftar": "2022-04-26",
-        "nomor_tanda_daftar": "002624.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a3c6e4dc7b9173842ae333d90fc4d07.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3819
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4040,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OLD AMSTERDAM ANTIQUES",
-        "website": "oldamsterdamantiques.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KAMPOENG DJATI",
-        "tanggal_daftar": "2022-04-26",
-        "nomor_tanda_daftar": "002623.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/59f622ddc222c9417ef2c7852026cf08.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3904
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4036,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sevimapay",
-        "website": "sentrafinansial.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SENTRA FINANSIAL TEKNOLOGI",
-        "tanggal_daftar": "2022-04-26",
-        "nomor_tanda_daftar": "002622.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/26f843a1c50814ca482d9bbdcd2f3c87.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3860
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4035,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "lifeforwin.com, lifeforwin.co.id, lifeforwin.id, lifeforwin.net",
-        "website": "lifeforwin.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GRAHA SUKSES MENDUNIA",
-        "tanggal_daftar": "2022-04-26",
-        "nomor_tanda_daftar": "002621.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40866b8ca115215cc294935d8d755a51.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3790
       }
     }
   ]

@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 832,
       "from": 8311,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 8320,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2490,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pesanantar",
+        "website": "pesanantar.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GEMANUSA SENTRA TEKNOLOGI",
+        "tanggal_daftar": "2021-11-29",
+        "nomor_tanda_daftar": "000464.03/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6d22e53e0b769613999a2045dd497e5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3251
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2321,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Wanipiro",
+        "website": "wanipiro.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GEMANUSA SENTRA TEKNOLOGI",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "000464.02/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7e9d463ea1482fd2111f81c696dc1eae.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3250
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4193,
+      "attributes": {
+        "nomor_pb_umku": "022020063190900030002",
+        "nama": "WINPAY",
+        "website": "winpay.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-05-31",
+        "nomor_tanda_daftar": "000464.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f67bcae78e03f0ce137ca71b11fe92d3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4195
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 569,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SixtydB",
+        "website": "www.sixtydb.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GEMANUSA SENTRA TEKNOLOGI",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000464.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/237daa9cdc5be1035f50722332d6613e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3249
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4192,
+      "attributes": {
+        "nomor_pb_umku": "022000030241700000001",
+        "nama": "IDOGO",
+        "website": "ido-go.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MOBILE DATA INDONESIA",
+        "tanggal_daftar": "2022-05-31",
+        "nomor_tanda_daftar": "000463.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/635153bf16901bf317943306d58596e4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4194
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 568,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Yodu",
+        "website": "www.yodu.id",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "AKASANET BUMI NUSANTARA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000463.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/46ab6dbc86dfc725d5bf207474e547f7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 213
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 567,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Toko1001",
+        "website": "www.toko1001.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DELTAMAS MANDIRI SEJAHTERA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000462.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b0439341fea8719772c7aa49efe17eab.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 371
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 566,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9d1dcd42b2370b9e5226e98eb78bc6ba.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 321
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 564,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "UP",
-        "website": "http://updigitaltransmilenial.co.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "DIGITAL TRANS MILENIAL",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000459.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/116128dec7de30be90412cf5efc9f473.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 361
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4602,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PROPERTILORD",
-        "website": "propertilord.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TEKNOLOGI INVESTASI PROPERTI",
-        "tanggal_daftar": "2022-04-25",
-        "nomor_tanda_daftar": "000458.02/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0af0a9c59883dcf9f244ff221ee62f82.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4565
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 563,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PROPERTILORD",
-        "website": "https://propertilord.co.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TEKNOLOGI INVESTASI PROPERTI",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000458.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d19200414e6882887417056508875807.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3474
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1473,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BosOnderdil.com",
-        "website": "www.bosonderdil.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "RAJA SOLUSI KREATIF",
-        "tanggal_daftar": "2021-06-14",
-        "nomor_tanda_daftar": "000457.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c7954da40c3ef2dbfcd7c98be6fa332.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 394
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 561,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WAREFLEET",
-        "website": "https://www.warefleet.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "RAJA SOLUSI KREATIF",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000457.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/025867dca265867273de883ded9c13fd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 393
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 560,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SwipeRx",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MCLINICA HEALTH SOLUTIONS",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000456.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ebbf0e3f6808976f980c8aeae8a299f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 359
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4186,
-      "attributes": {
-        "nomor_pb_umku": "220522000055700000001",
-        "nama": "PT ALGAN SOLUSI KARSA",
-        "website": "stratifin.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ELANG PRASETYA ALFAREZ",
-        "tanggal_daftar": "2022-05-30",
-        "nomor_tanda_daftar": "000455.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/380d24f998d533a11bdc4279a2f7b456.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4187
       }
     }
   ]

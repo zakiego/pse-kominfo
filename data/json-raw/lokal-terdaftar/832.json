@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 833,
       "from": 8321,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 8330,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 564,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "UP",
+        "website": "http://updigitaltransmilenial.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "DIGITAL TRANS MILENIAL",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000459.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/116128dec7de30be90412cf5efc9f473.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 361
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4602,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PROPERTILORD",
+        "website": "propertilord.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TEKNOLOGI INVESTASI PROPERTI",
+        "tanggal_daftar": "2022-04-25",
+        "nomor_tanda_daftar": "000458.02/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0af0a9c59883dcf9f244ff221ee62f82.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4565
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 563,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PROPERTILORD",
+        "website": "https://propertilord.co.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TEKNOLOGI INVESTASI PROPERTI",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000458.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d19200414e6882887417056508875807.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3474
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1473,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BosOnderdil.com",
+        "website": "www.bosonderdil.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "RAJA SOLUSI KREATIF",
+        "tanggal_daftar": "2021-06-14",
+        "nomor_tanda_daftar": "000457.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c7954da40c3ef2dbfcd7c98be6fa332.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 394
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 561,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WAREFLEET",
+        "website": "https://www.warefleet.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "RAJA SOLUSI KREATIF",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000457.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/025867dca265867273de883ded9c13fd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 393
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 560,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SwipeRx",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MCLINICA HEALTH SOLUTIONS",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000456.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ebbf0e3f6808976f980c8aeae8a299f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 359
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4186,
+      "attributes": {
+        "nomor_pb_umku": "220522000055700000001",
+        "nama": "PT ALGAN SOLUSI KARSA",
+        "website": "stratifin.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ELANG PRASETYA ALFAREZ",
+        "tanggal_daftar": "2022-05-30",
+        "nomor_tanda_daftar": "000455.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/380d24f998d533a11bdc4279a2f7b456.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4187
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 559,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e27b0cd361c90977de52b17adc7a03d3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3247
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 603,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PAPRIKA",
-        "website": "https://paprika.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PAPRIKA MULTI MEDIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000454.03/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/80e03fcd404071ec80b704229722938f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3246
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 583,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PAPRIKA",
-        "website": "https://paprika.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PAPRIKA MULTI MEDIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000454.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89360e07e2bffad7f17a71e37ce053db.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3245
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 558,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PAPRIKA",
-        "website": "https://paprika.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PAPRIKA MULTI MEDIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000454.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c4006cc3070c8682edd398dc073f208.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3244
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5024,
-      "attributes": {
-        "nomor_pb_umku": "912050589239700010002",
-        "nama": "MOTIONBANKING.ID",
-        "website": "motionbanking.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MNC INTERNASIONAL",
-        "tanggal_daftar": "2022-07-01",
-        "nomor_tanda_daftar": "000453.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c008d167b8567d464cc9a77fa683fd5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4877
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5015,
-      "attributes": {
-        "nomor_pb_umku": "912050589239700010001",
-        "nama": "WEBSITE PT BANK MNC INTERNASIONAL TBK",
-        "website": "mncbank.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MNC INTERNASIONAL",
-        "tanggal_daftar": "2022-07-01",
-        "nomor_tanda_daftar": "000453.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8dbebcab5759fcd3222b1e037d896eb3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4876
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4185,
-      "attributes": {
-        "nomor_pb_umku": "022020676165500000001",
-        "nama": "BAJOJO.ID",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BAJOJO MINANG DIGITAL",
-        "tanggal_daftar": "2022-05-30",
-        "nomor_tanda_daftar": "000453.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/facbe6dd35cd68060b38912577ca66ca.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4186
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 557,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Motion dan eBiz",
-        "website": "ebiz : https://cms.mncbank.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MNC INTERNASIONAL",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000453.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1454bb756267d6454e7b85d700c8bf1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3356
       }
     }
   ]

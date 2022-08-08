@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 420,
       "from": 4191,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 4200,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7024,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MEGA PAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "002933.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5cbfd992551a34c19c484026d626dffc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6882
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7017,
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040016",
+        "nama": "SHARIAPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "002933.17/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f84d524c6fbb5388331e1fd2110db4c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6876
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7005,
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040015",
+        "nama": "UTTAMAPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "002933.16/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d3311f04575419dbe2496c6a0acac28.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6861
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6993,
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040014",
+        "nama": "SIPIKA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "002933.15/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b56b7b9ae689b168a780c71f4bd5d4ce.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6853
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6978,
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040013",
+        "nama": "SANTRIPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "002933.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8aedf45cea4f3ecad3eefcfad8806c21.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6831
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6958,
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040012",
+        "nama": "TULUNGAGUNG PAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "002933.13/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/708eed60b827b4ad249145081eff01af.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6811
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6892,
+      "attributes": {
+        "nomor_pb_umku": "022020063190900040011",
+        "nama": "BOJONEGOROPAY",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "002933.12/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1f0e745dbdb13bc95ade8f2b905499c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6745
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6821,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9afb965d7406738dc321f17aea6835c7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6661
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6802,
-      "attributes": {
-        "nomor_pb_umku": "022020063190900040007",
-        "nama": "KERIS",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "002933.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bc86cf78f6f31d07d884c31667c2ac4a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6652
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6789,
-      "attributes": {
-        "nomor_pb_umku": "022020063190900040006",
-        "nama": "PAYKALTIMTARA",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "002933.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4cd0b909a4402a7dc7ec64f630c6d31.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6636
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6779,
-      "attributes": {
-        "nomor_pb_umku": "022020063190900040005",
-        "nama": "CIJPAY",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "002933.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/831a5ef4c73cf3f0d8ad178cbaa06455.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6627
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5978,
-      "attributes": {
-        "nomor_pb_umku": "022020063190900040004",
-        "nama": "BINA PAYMENT",
-        "website": "binapayment.com",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
-        "tanggal_daftar": "2022-07-17",
-        "nomor_tanda_daftar": "002933.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca7d6268b37ba3aa606faa117578c10f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5839
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5393,
-      "attributes": {
-        "nomor_pb_umku": "022020063190900030005",
-        "nama": "RAJA BILLER",
-        "website": "rajabiller.com",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "002933.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b581139f89dca09c6443ef836390c576.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5262
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5382,
-      "attributes": {
-        "nomor_pb_umku": "022020063190900030004",
-        "nama": "PLASAMALL",
-        "website": "plasamall.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "002933.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/87d13ad2dd743e0f1844eb708169ee03.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5254
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5066,
-      "attributes": {
-        "nomor_pb_umku": "022020063190900030003",
-        "nama": "SPEEDCASH",
-        "website": "speedcash.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "BIMASAKTI MULTI SINERGI",
-        "tanggal_daftar": "2022-07-04",
-        "nomor_tanda_daftar": "002933.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4bc06ab0ad2a9cae471693c54ecfec9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4933
       }
     }
   ]

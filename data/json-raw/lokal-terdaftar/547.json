@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 548,
       "from": 5471,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 5480,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3024,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pedagang Fisik Aset Kripto",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DUIT ASSETECH INDONESIA",
+        "tanggal_daftar": "2022-01-11",
+        "nomor_tanda_daftar": "001932.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12aa025fd7dbbc7fd38e046acd863c5f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2046
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3021,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pinter",
+        "website": "https://www.pinter.co.id",
+        "sektor": "Sektor Keuangan, Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FANATIK TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-01-11",
+        "nomor_tanda_daftar": "001931.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e42937c88a77cf0a45da23531cb0021.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1646
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3019,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Korporat",
+        "website": "korporat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MEDIA BISNIS ANAK MUDA INDONESIA",
+        "tanggal_daftar": "2022-01-10",
+        "nomor_tanda_daftar": "001930.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42a69f7e17cf3ddb947d400d84534e81.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2018
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3022,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BotMD",
+        "website": "www.botmd.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FIVE HEALTH INDONESIA",
+        "tanggal_daftar": "2022-01-11",
+        "nomor_tanda_daftar": "001929.02/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/553b861f7c74d9bb64854077042eddd5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2045
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3018,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BOTMD",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FIVE HEALTH INDONESIA",
+        "tanggal_daftar": "2022-01-10",
+        "nomor_tanda_daftar": "001929.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/efe3accd80995cc3ad565e0b2fb29cae.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2044
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3017,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "bipi",
+        "website": "https://www.axross.co/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "AXROSS DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-01-10",
+        "nomor_tanda_daftar": "001928.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/655a8ad3a7dae10deea5b45392dc55df.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2043
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3016,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Hijra Bank mobile Application",
+        "website": "www.hijra.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH HIJRA ALAMI",
+        "tanggal_daftar": "2022-01-10",
+        "nomor_tanda_daftar": "001927.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0fead2f1ffc44d56a1c11a670aaae4e0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1829
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3015,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b19e2fd67b11b191fabba7edd3b3b5af.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2814
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3012,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sejahteramandiri.com",
-        "website": "Sejahteramandiri.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SEJAHTERA MANDIRI PERKASA",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001924.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1bc1ecc7535875dddbef4dcfc2569eaf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2031
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3011,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TAURUS DISTRO",
-        "website": "taurusdistro.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TAURUSDISTRO",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001923.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2e75801c0470bc548e19c35e3e0efbaa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3943
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9694,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "EHR SYSTEM LIVE",
-        "website": "hrindo.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANUGRAH KARYA INDONESIA",
-        "tanggal_daftar": "2022-08-02",
-        "nomor_tanda_daftar": "001922.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6bb5c3e8cd0800a6d8affdc845a594e2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9572
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3013,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ayo Kerja Indonesia",
-        "website": "www.ayokerja.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANUGRAH KARYA INDONESIA",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001922.02/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa055acfdc90d8a053505058af17eb92.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2042
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3010,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "EHR System",
-        "website": "www.ehr.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANUGRAH KARYA INDONESIA",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001922.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79509ef4bdcb254942ea18616072bc24.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2041
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4530,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BlueGo",
-        "website": "bluego.online",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "M. YUDA PRATAMA",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001921.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e68097e2c1b7abc21404846a3af79e5b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4514
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3004,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Toko Online",
-        "website": "galerimedika.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GEMILANG MENTARI MATEO",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001920.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/23d78f132a8fbc79510cc440c61eb7c3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3796
       }
     }
   ]

@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 598,
       "from": 5971,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 5980,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5440,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "REMITTANCEBCA",
+        "website": "remittancebca.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-13",
+        "nomor_tanda_daftar": "001669.20/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d3c08ccbe948b34a3dd16255f6cb1ef8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5273
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5400,
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620021",
+        "nama": "WEBSITE (PORTAL) API BCA",
+        "website": "developer.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "001669.19/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3ef7fb3e4150f5946b18acef7cb760c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5272
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5399,
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620021",
+        "nama": "VIRA",
+        "website": "vira.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "001669.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7a3d9daec9393f6365644b7a79c0430.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5270
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2857,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi keyBCA (Soft Token)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2021-12-22",
+        "nomor_tanda_daftar": "001669.17/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/649f8d478fbda61fefdcf7ee8a284c92.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 634
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2612,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "eBranch",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2021-12-02",
+        "nomor_tanda_daftar": "001669.16/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38a08ae2e04cd8cceb77182bc08b5d72.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 633
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2585,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KlikBCA Bisnis Integrated Solution",
+        "website": "klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2021-12-02",
+        "nomor_tanda_daftar": "001669.15/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf1c2ef0078daf1d1f9ddab8b89ea883.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 632
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2573,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BCA KlikPay",
+        "website": "klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2021-12-01",
+        "nomor_tanda_daftar": "001669.14/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/67600c45201aa4ea47b00ce35597d997.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 631
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2572,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9bb0bbd27bd64ee8e4273e05f1df2ab.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 628
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2563,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Merchant BCA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.10/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/155fcdb6e9b16fd56de78f301eeb57d4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 627
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2562,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "APOS BCA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.09/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c8ca19914847e3d60b416d4b0829b12.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 626
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2561,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "API BCA",
-        "website": "developer.bca.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.08/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18bb513e9b4161c2094eee6b860da722.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 625
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2560,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OneKlik",
-        "website": "klikbca.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.07/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1410f2d6cac96a573428ad0288aacc5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 624
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2559,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KlikBCA Bisnis",
-        "website": "klikbca.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.06/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/746a2ca316700527bf195d8488eeb1a7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 623
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2558,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sakuku",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.05/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2fa2a573631c99d5052ae61f94902b80.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 622
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2556,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Welma",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.04/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/721012660d707d57da684db1e00d91c5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 621
       }
     }
   ]

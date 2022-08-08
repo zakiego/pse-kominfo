@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 825,
       "from": 8241,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 8250,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6126,
+      "attributes": {
+        "nomor_pb_umku": "912030881096800030002",
+        "nama": "STAR (SAMUEL TRADING ACTIVE REALTIME)",
+        "website": "samuel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SAMUEL SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000501.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b9bfcc941e8c58efa28d2c3e31e577db.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5998
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6106,
+      "attributes": {
+        "nomor_pb_umku": "912030881096800030001",
+        "nama": "SAMUEL TRADING ACTIVE REALTIME",
+        "website": "samuel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SAMUEL SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000501.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bafdf19f35c11930dcc1e7c28f66a76c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5978
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 613,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Samuel Trading Active Realtime (STAR)",
+        "website": "www.samuel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SAMUEL SEKURITAS INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000501.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/69fda4f0f0661ec4ffb64061ef5de425.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 425
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 612,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi Ultra Voucher",
+        "website": "www.ultravoucher.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TRIMEGAH KARYA PRATAMA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000500.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/749e492e355c95cd2ead6a89f030edbf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 408
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4211,
+      "attributes": {
+        "nomor_pb_umku": "240122006692200010001",
+        "nama": "SEJASA.COM",
+        "website": "sejasa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RECOMN TECHNOLOGY SERVICES",
+        "tanggal_daftar": "2022-06-02",
+        "nomor_tanda_daftar": "000499.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ab220f8e96024cc2ed4ae892f0dc3b8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4211
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 611,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "iNews.id",
+        "website": "http://inews.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INEWS DIGITAL INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000499.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4754b979edb0dc316aa6857f303917c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2705
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 610,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digitalimaji",
+        "website": "https://digitalimaji.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "LUMBUNG AMANAH SOLUSI",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000498.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/244ea13f9ad56552f5a566e19fad5ebd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 221
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 608,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca32d033802530bd2b701f456b50549b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3263
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 607,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "kumparan.com",
-        "website": "www.kumparan.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DYNAMO MEDIA NETWORK",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000496.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6f23dbf3f7a4cf52557576033345f146.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3262
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 606,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Orami.co.id",
-        "website": "www.orami.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BILNA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000495.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a79c1d6dd5d293c2efb65c97a79692f3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3261
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 605,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Registrasi Online VOLT",
-        "website": "volt.valbury.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "VALBURY SEKURITAS INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000494.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08f8b7c1a750de43cac859e4d53d1326.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3260
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 602,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Cari Tempat",
-        "website": "www.caritempat.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "AKEZ ADAPHAN HOSPITALITI",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000493.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8370eb6a30513e7d3c2375ed9275e131.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3259
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 601,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT Asia Collect Indonesia",
-        "website": "www.flow-cares.ai",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASIA COLLECT INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000492.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29e285c9a08dd3b4b0a474678a14c099.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 327
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 599,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TaniHub",
-        "website": "HTTPS://TANIHUB.COM",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TANI HUB INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000491.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d40f2f79162ef993506f6a28601c1904.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 229
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4207,
-      "attributes": {
-        "nomor_pb_umku": "290522001292200000001",
-        "nama": "KAWANUA DIGITAL MULTIVERSE",
-        "website": "kawanuadigital.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MELKY TUMPIA",
-        "tanggal_daftar": "2022-06-02",
-        "nomor_tanda_daftar": "000490.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/307f6c0e589a4841a569564516a16bcc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4206
       }
     }
   ]

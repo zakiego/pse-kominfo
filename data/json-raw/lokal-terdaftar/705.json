@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 706,
       "from": 7051,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 7060,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1592,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MyBlueBird",
+        "website": "www.bluebirdgroup.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "BLUE BIRD Tbk",
+        "tanggal_daftar": "2021-06-25",
+        "nomor_tanda_daftar": "001048.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79b17400de179f9c512ca781cb88f381.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1177
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1589,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Furee",
+        "website": "https://furee.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DIGITAL PRIMA LESTARI",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "001047.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13d4b4f73ffac652f94a3668d2ee8fdf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1180
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1588,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Jitunews",
+        "website": "www.jitunews.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INFO PENA INDONESIA",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "001046.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a68ea492bb65156c680b75d937550d68.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3483
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6710,
+      "attributes": {
+        "nomor_pb_umku": "026501024272800020001",
+        "nama": "SMARTLEGAL.ID",
+        "website": "smartlegal.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KREASI SOLUSI BANGSA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "001045.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81d01f36d64c03e6c2872da353eef7ef.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6559
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1587,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SMART LEGAL ACADEMY",
+        "website": "Smartlegalacademy.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KREASI SOLUSI BANGSA",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "001045.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5812683601106a6a4cb40a43118f21db.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3159
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3228,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ternaknesia",
+        "website": "Ternaknesia.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TERNAKNESIA FARM INNOVATION",
+        "tanggal_daftar": "2022-02-11",
+        "nomor_tanda_daftar": "001044.02/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0bfcf62c57979000aa510304cd03baa0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1182
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1585,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ternaknesia",
+        "website": "Ternaknesia.com",
+        "sektor": "Sektor Pangan, Sektor Perdagangan",
+        "nama_perusahaan": "TERNAKNESIA FARM INNOVATION",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "001044.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9fea413e1f14a9d5906e16540fc24f94.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1181
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1584,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ab46945faf94744d2a4bc5133e64cc8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1179
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7803,
-      "attributes": {
-        "nomor_pb_umku": "812021129277300050002",
-        "nama": "BANK MEGA MANIFEST TRACKING",
-        "website": "doctrack.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "001040.21/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9acc409ea7d564fba7aefa2c995b400e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7705
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7150,
-      "attributes": {
-        "nomor_pb_umku": "812021129277300040001",
-        "nama": "BANK MEGA CONTACT MANAGEMENT SYSTEM",
-        "website": "mcms.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001040.20/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b57f233bcb17526b172e191e1a066a54.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7028
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2014,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Mega Employee Mobile",
-        "website": "https://memo.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001040.18/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2d02be9bfd99658fccb37afb7cd9676.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1168
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1638,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Mega Registrasi/Ubah PIN Credit Card",
-        "website": "https://ibank.bankmega.com/regpin/index.php",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2021-07-01",
-        "nomor_tanda_daftar": "001040.16/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b97c8c8e83d60c91c46d862d4b5e911f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1166
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1632,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Mega Document Courier Tracking Credit Card",
-        "website": "https://doctrack.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2021-07-01",
-        "nomor_tanda_daftar": "001040.15/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9fdabe7d1913795f5245db91ca21ab7f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1165
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1631,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Mega Microsite Pengajuan Credit Card",
-        "website": "https://ms.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2021-07-01",
-        "nomor_tanda_daftar": "001040.14/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4da100c536ba797c561942c1988981b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1164
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1629,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Mega Microsite Cicilan",
-        "website": "https://mp.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2021-07-01",
-        "nomor_tanda_daftar": "001040.13/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7df624f5be6c53c34a47ba7cdbd3c60.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1163
       }
     }
   ]

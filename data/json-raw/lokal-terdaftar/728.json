@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 729,
       "from": 7281,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 7290,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1348,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Universal Nikko Online Trading",
+        "website": "www.nikko-online.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NIKKO SEKURITAS INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000899.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2ffb062f3b18b1d314b0815be412f10d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 987
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7163,
+      "attributes": {
+        "nomor_pb_umku": "912020073142800000003",
+        "nama": "HSBCEVOLVE",
+        "website": "fxclientui.gfx.id.gbm.hsbc.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK HSBC INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000898.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5aeaf435e88ac5d325afd56db70a8c2f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7040
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7145,
+      "attributes": {
+        "nomor_pb_umku": "912020073142800000002",
+        "nama": "CORPORATE INTERNET BANKING HSBCNET",
+        "website": "hsbcnet.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK HSBC INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000898.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3fd664caf48ab60b91f3a2b26fedce30.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7025
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1347,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HSBC Ritel Internet dan Mobile Banking",
+        "website": "http://www.hsbc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK HSBC INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000898.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e86094e8cee5affa32ddbd444015ac7a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 644
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1346,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Maucash",
+        "website": "www.maucash.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASTRA WELAB DIGITAL ARTA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000897.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c51becd515c9386860eeaaed3f9c8624.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 803
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1344,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ayokbeli",
+        "website": "www.ayokbeli.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "LITERASI FINANSIAL INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000896.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/657248309e6ebc6ce31bc849978965ec.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 300
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1343,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "tiket.com",
+        "website": "tiket.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "GLOBAL TIKET NETWORK",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000895.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b086ba544fb77a38ee59efe27b020b15.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 966
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2013,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b5658c2797ca92216d90acdd49a60a87.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 332
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1411,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Tosulo",
-        "website": "https://Tosulo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MASSULOWALIE DIGITAL GRUP",
-        "tanggal_daftar": "2021-06-09",
-        "nomor_tanda_daftar": "000892.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d481a34e69d215feaa3c860862543740.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 984
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1338,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Tosulo",
-        "website": "https://Tosulo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MASSULOWALIE DIGITAL GRUP",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000892.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d22b08d83453a1c5d5c3d10c82e6c375.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3804
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1337,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "bata.id",
-        "website": "https://bata.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SEPATU BATA ONLINE",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000891.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6d95eb36c7141f8c2b1d0f10868fbf36.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 923
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1336,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Curator",
-        "website": "www.curator.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CURATOR KARYA INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000890.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14b2496fd249b6330a5b471bec2fd3ff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 745
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1335,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. ASURANSI KREDIT INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000889.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2210bfa272796c0459bbd329af05725c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 960
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1334,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website",
-        "website": "www.askrindo.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. ASURANSI KREDIT INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000889.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eaed66c969aa5053633c52f0376d3210.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 959
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4781,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ruang Akun",
-        "website": "https://ruangakun.store",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FERNANDO RUDERI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000888.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/653214895194f025c61f82a14fbdae70.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4726
       }
     }
   ]

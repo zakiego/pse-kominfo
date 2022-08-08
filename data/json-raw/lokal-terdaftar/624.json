@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 625,
       "from": 6241,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 6250,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2301,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bitwewe Indonesia",
+        "website": "www.bitwewe.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PT SENTRA BITWEWE INDONESIA",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001517.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f403663e3eac096c59c7144f5dbc0b4e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3120
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2300,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.hatiplong.com",
+        "website": "www.hatiplong.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "RESANOMA INOVASI SEHAT",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001516.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4e122959b40864dbc8b0214b339f18b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3119
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2299,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "bkdelivery.co.id",
+        "website": "https://bkdelivery.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SARI BURGER INDONESIA",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001515.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ade0ea9138ba53b37a887731620465b7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3118
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2298,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Merimen",
+        "website": "indonesia.merimen.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PT Merimen Technologies Indonesia",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001514.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/544027b8b44841f09a6cf5661483ebb5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3117
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2297,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SABA",
+        "website": "Saba.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SABA SEMESTAPERKASA",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001513.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/36a02493d3b9510bf41aeb19f27f6adc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3116
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2293,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Platform Dropship dan Reseller",
+        "website": "https://indohp.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PT Indonesia Hakiki Pertama",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001512.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4d0102f77b6084492a651624b163600.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3115
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2290,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MediaHub Broadcast Service",
+        "website": "https://www.mediahub.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MULTIMEDIA NUSANTARA",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001511.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e1dc4439e08b220a7df50d23663ce76.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3486
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2283,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88bf63d7e835345c3b8920b77925609d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5248
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6709,
-      "attributes": {
-        "nomor_pb_umku": "912020910141700010001",
-        "nama": "MITRA KELILING",
-        "website": "mitrakeliling.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TJS USAHA DIGITAL",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001508.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb511ae32ec3e30b9bc032e84b0347b4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5828
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2280,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Woobiz",
-        "website": "https://woobiz.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PT TJS Usaha Digital Tbk.",
-        "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "001508.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7239bc7e501b6358fe9945dced7f64d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3112
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2818,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "M-Bintang",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI BINTANG",
-        "tanggal_daftar": "2021-12-21",
-        "nomor_tanda_daftar": "001507.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4af0a7e68ebf5f641cb9fb8668048915.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3379
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2277,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "website www.asuransibintang.com",
-        "website": "https://www.asuransibintang.com",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASURANSI BINTANG",
-        "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "001507.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cb8451ba4824fd389be85bc65fdb89b6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3378
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2276,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Layanan Cloud Communication - Voxnet",
-        "website": "www.voxnet.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LIMA SATU TIGA GLOBAL TEL-ACCESS",
-        "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "001506.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7b761411924f847a6900e9810dd61c2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1534
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2275,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Lajual",
-        "website": "lajual.com",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Lajual Membangun Indonesia",
-        "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "001505.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0af40dfa96e6ed0f9ef0234ee1220d7b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3111
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2274,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "shafwahholidays.id",
-        "website": "www.shafwahholidays.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BIRO PERJALANAN WISATA APRILYA DARMA WISATA",
-        "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "001504.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58250308d20860386e6c3358b9647a0c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3110
       }
     }
   ]

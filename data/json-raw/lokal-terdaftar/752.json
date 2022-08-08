@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 753,
       "from": 7521,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 7530,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7397,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010009",
+        "nama": "IDX INCUBATOR PORTAL",
+        "website": "idxincubator.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000832.20/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62fedd76cc130ac7f9f0e5d95e469e38.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7287
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7367,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010008",
+        "nama": "APLIKASI E-RKAT",
+        "website": "erkatpm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000832.19/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7e57e6ed9bde71596cb6c3b7c185fc9d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7267
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7335,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010007",
+        "nama": "IDX RECORD",
+        "website": "idxrecord.idx.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000832.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c57493857c7d8b18bc468a42eb20de46.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7229
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7328,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010012",
+        "nama": "BONDFEED",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "000832.17/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/342d5ea79ecd889c930375ee8c82d6dd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7222
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7306,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010006",
+        "nama": "DATAFEED",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000832.16/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71214a814e48c87ee23b8afaa11ad0d5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7199
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7201,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010005",
+        "nama": "CENTRALIZED TRADING PLATFORM - MINISTRY OF FINANCE DEALING SYSTEM (CTP-MOFIDS)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000832.15/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c62354bb39079836556501864e3230d5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7086
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7115,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010004",
+        "nama": "CENTRALIZED TRADING PLATFORM - PENERIMA LAPORAN TRANSAKSI EFEK (CTP-PLTE)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000832.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/181dddf06925535c4f0d4342a5a3ef40.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6966
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7081,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e76998eca466380aab39b65d7468ef08.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 689
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1166,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Portal Pendaftaran Sekolah Pasar Modal (SPM)",
-        "website": "https://sekolahpasarmodal.idx.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.10/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eba9eb3991974121ce8a117a901dedec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 688
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1165,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Informasi Pelanggan Data BEI",
-        "website": "https://data.idx.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.09/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2abb681aed162f20a00b18fb65dab017.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 687
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1164,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Regional Development Information System",
-        "website": "https://rdis.idx.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.08/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df2d43c5ebb2ef6298db6184a489263b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 686
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1163,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "IDX Virtual Trading",
-        "website": "https://virtualtrading.idx.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.07/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cb3267a4dd780e1f173a014a76f820be.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 685
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1162,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Call Center PT Bursa Efek Indonesia (BEI)",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.06/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e55ce568b643b3e566bbf5451396375a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 684
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1161,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sarana Pelaporan Elektronik Terintegrasi Emiten dan Perusahaan Tercatat (SPE-IDXnet)",
-        "website": "https://idxnet.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.05/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d55227669f3dbe3f4bb1e2cc05765cc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 683
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1160,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "IDX Portal",
-        "website": "https://idxportal.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.04/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71594320a35825a7d5b6574e4e4a1854.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 682
       }
     }
   ]

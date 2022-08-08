@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 538,
       "from": 5371,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 5380,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6984,
+      "attributes": {
+        "nomor_pb_umku": "812001303166800780007",
+        "nama": "MUAMALAT DIGITAL INTEGRATED ACCESS (MADINA)",
+        "website": "bankmuamalat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "002012.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0e9e336d39ccf6db8651cc2589f38ae0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6819
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3312,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Internet Banking Muamalat",
+        "website": "www.bankmuamalat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
+        "tanggal_daftar": "2022-02-18",
+        "nomor_tanda_daftar": "002012.06/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9edac13234163b4f79fde7d4a34f117d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1783
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3311,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Muamalat DIN",
+        "website": "www.bankmuamalat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
+        "tanggal_daftar": "2022-02-18",
+        "nomor_tanda_daftar": "002012.05/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3bf623f71d30eeaa12c5b145fe90ec72.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1782
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3310,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "QRIS Acquiring",
+        "website": "www.bankmuamalat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
+        "tanggal_daftar": "2022-02-18",
+        "nomor_tanda_daftar": "002012.04/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ce861f8951c3cc0ddc27fee415da30f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1781
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3307,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Layanan Host to Host Web Service",
+        "website": "www.bankmuamalat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
+        "tanggal_daftar": "2022-02-18",
+        "nomor_tanda_daftar": "002012.03/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca7f62fdde333c8327e2bbd002e75696.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1780
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3305,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Automatic Teller Machine (ATM)",
+        "website": "www.bankmuamalat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
+        "tanggal_daftar": "2022-02-18",
+        "nomor_tanda_daftar": "002012.02/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e353c3bafd09d671c209c2b2a05b064d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1779
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3122,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Widget Reksadana Syariah Bank Muamalat Indonesia",
+        "website": "www.bankmuamalat.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
+        "tanggal_daftar": "2022-01-26",
+        "nomor_tanda_daftar": "002012.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/acc6c95bd974102f5961f14de0a8c48f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1778
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3121,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2818a8a5744fc14e2c20d8592500ddc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1876
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3324,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.jelajahin.id",
-        "website": "www.jelajahin.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. HOTEL INDONESIA NATOUR",
-        "tanggal_daftar": "2022-02-21",
-        "nomor_tanda_daftar": "002008.02/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5fcc54529b91cf0f83695b8d37e7e546.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2029
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3118,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Jelajahin dan HinTrip",
-        "website": "www.jelahin.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. HOTEL INDONESIA NATOUR",
-        "tanggal_daftar": "2022-01-25",
-        "nomor_tanda_daftar": "002008.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15334f00b63d3bb117a3d2ce948fd49c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2028
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3116,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Digital Expert Profesional",
-        "website": "https://dexpro.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DIGITAL EXPERT PROFESIONAL",
-        "tanggal_daftar": "2022-01-25",
-        "nomor_tanda_daftar": "002007.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/303f1fa469c5bc978a50782ad24dca7d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2118
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3115,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Tandamata  Indonesia",
-        "website": "www.tandamataindonesia.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TANDA MATA INDONESIA",
-        "tanggal_daftar": "2022-01-25",
-        "nomor_tanda_daftar": "002006.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66df157fe9bd5d5f40279a33dd9437c1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2117
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3113,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Viu",
-        "website": "viu.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VUCLIP DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-01-25",
-        "nomor_tanda_daftar": "002005.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ea398e435f2c3af4574ade9476d9486c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2724
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3112,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Blockchain",
-        "website": "Platinumblockchain.id",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "SEMESTA PLATINUM BLOCKCHAINASIA",
-        "tanggal_daftar": "2022-01-25",
-        "nomor_tanda_daftar": "002004.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/64657c9fe05b3c5b71e845642a05efda.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2080
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3111,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "https://tokoikan.id",
-        "website": "https://tokoikan.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TOKO IKAN INDONESIA",
-        "tanggal_daftar": "2022-01-25",
-        "nomor_tanda_daftar": "002003.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d9ef50fca5dcae927ea6ec2c9020b3a7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1634
       }
     }
   ]

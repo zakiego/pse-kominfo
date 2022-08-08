@@ -3,13 +3,125 @@
     "page": {
       "currentPage": 851,
       "from": 8501,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 8510,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 447,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Fundtastic",
+        "website": "www.fundtastic.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CHANDHARWEALTH MANDIRI INDONESIA",
+        "tanggal_daftar": "2021-04-14",
+        "nomor_tanda_daftar": "000363.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58d4e1b847b644a09ad9b67af6617784.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 72
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6369,
+      "attributes": {
+        "nomor_pb_umku": "023401102252600020003",
+        "nama": "STARME",
+        "website": "starmakerstudios.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA BINTANG TEKNOLOGI",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000362.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f9311ca0c7a2a9e785e270c7c5d124f7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6162
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5884,
+      "attributes": {
+        "nomor_pb_umku": "023401102252600020002",
+        "nama": "STARFM",
+        "website": "starfm.app",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA BINTANG TEKNOLOGI",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000362.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7f825cad4fc928d4ebdd01170224232e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5722
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 444,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "StarMaker",
+        "website": "https://www.starmakerstudios.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA BINTANG TEKNOLOGI",
+        "tanggal_daftar": "2021-04-14",
+        "nomor_tanda_daftar": "000362.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5310af2d717da47955bfb5b388de13ab.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 224
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4127,
+      "attributes": {
+        "nomor_pb_umku": "027201000151300030001",
+        "nama": "HEAD HUNTER",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "WIDDY FERDIANSYAH",
+        "tanggal_daftar": "2022-05-25",
+        "nomor_tanda_daftar": "000361.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f1be01352cdebcc340608adfd188ca9c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4129
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 443,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ViBiCloud",
+        "website": "https://vibicloud.com/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AWAN INTEGRASI SANDIDATA",
+        "tanggal_daftar": "2021-04-14",
+        "nomor_tanda_daftar": "000361.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d5e9fead3fd05bed6e1da33e99ccf72.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 57
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4165,
+      "attributes": {
+        "nomor_pb_umku": "230322005918300000001",
+        "nama": "SAHABATBISNIS.ID",
+        "website": "sahabatbisnis.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SAHABAT BISNIS INOVASI",
+        "tanggal_daftar": "2022-05-29",
+        "nomor_tanda_daftar": "000360.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c2d1f9b5e795dc6012e8ca1c468d7f50.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4171
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 441,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/72d6919ff2b8e21ee1958dcdf7ee1bb4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7559
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7644,
-      "attributes": {
-        "nomor_pb_umku": "123300014256400020006",
-        "nama": "HANWHA SMART MOBILE APPLICATION (ANDROID & IOS)",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000359.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d804aa020fce518a5c3f0855e63f86e1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7538
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7471,
-      "attributes": {
-        "nomor_pb_umku": "123300014256400020005",
-        "nama": "GROUP HEALTH PIC REPORTING",
-        "website": "health.hanwhalife.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000359.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45429e57c844de85b890c713c9168b3e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7363
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7409,
-      "attributes": {
-        "nomor_pb_umku": "123300014256400020004",
-        "nama": "E-SUBMISSION",
-        "website": "registrasi.hanwhalife.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000359.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/695ceddae312fdadbbd0700a175743a4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7305
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7373,
-      "attributes": {
-        "nomor_pb_umku": "123300014256400020003",
-        "nama": "CORPORATE WEB PT HANWHA LIFE INSURANCE INDONESIA",
-        "website": "hanwhalife.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000359.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5746dc77fa2b7427d3e0d75899748695.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7269
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7336,
-      "attributes": {
-        "nomor_pb_umku": "123300014256400020002",
-        "nama": "SALES ILUSTRATION SYSTEM",
-        "website": "sis.hanwhalife.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000359.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3561ed7eda6f440e30ac814dfa506891.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7230
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 528,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bucket List Plan",
-        "website": "https://bucketlistplan.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2021-04-21",
-        "nomor_tanda_daftar": "000359.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ac78b8df9fcafe6728964b397b8f194.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 190
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 440,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Korea Versi Kamu",
-        "website": "https://koreaversikamu.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2021-04-14",
-        "nomor_tanda_daftar": "000359.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/23541195cf1a5c175915e9376dae1964.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 189
       }
     }
   ]

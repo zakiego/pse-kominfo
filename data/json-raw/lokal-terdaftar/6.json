@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 7,
       "from": 61,
-      "lastPage": 925,
+      "lastPage": 926,
       "perPage": 10,
       "to": 70,
-      "total": 9244
+      "total": 9252
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9867,
+      "attributes": {
+        "nomor_pb_umku": "030822000033500000001",
+        "nama": "DIGIPPOB",
+        "website": "digippob.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PELITA TEKNOLOGI SENTOSA",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006934.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d3810a7e3ab404f2f7b196d2f4de923.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9754
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9863,
+      "attributes": {
+        "nomor_pb_umku": "210322003101800000001",
+        "nama": "DIGIPPOB",
+        "website": "digippob.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DANA KIRTI CEMERLANG",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006933.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3596dc05d555c10fc69cd99525ed17ab.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9752
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9928,
+      "attributes": {
+        "nomor_pb_umku": "912030724246100020001",
+        "nama": "PT RADIO SONORA",
+        "website": "sonora.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RADIO SONORA",
+        "tanggal_daftar": "2022-08-05",
+        "nomor_tanda_daftar": "006932.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5de37ecbd49d7bf4cf89480233a30df8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9782
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9869,
+      "attributes": {
+        "nomor_pb_umku": "127900071297600010001",
+        "nama": "PT.BPR MALIFUT DANATAMA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KASIM I KONORAS",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006930.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5b215ff903631ca331e8b7c2de25c79f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9756
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10004,
+      "attributes": {
+        "nomor_pb_umku": "130921007648200010001",
+        "nama": "URUN MANDIRI",
+        "website": "urunmandiri.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "URUN DANA MANDIRI",
+        "tanggal_daftar": "2022-08-07",
+        "nomor_tanda_daftar": "006928.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66b941d0c8dce3babe15fdfd9106f7eb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9890
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9865,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a96db996d54934e4dbcc24aefec62a56.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9834
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9943,
-      "attributes": {
-        "nomor_pb_umku": "040822003630500000004",
-        "nama": "WEBDAGANG.COM",
-        "website": "webdagang.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DWI YOGA PRASETYO",
-        "tanggal_daftar": "2022-08-05",
-        "nomor_tanda_daftar": "006923.04/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ab40ea80c571d23524c2685b11665847.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9832
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9942,
-      "attributes": {
-        "nomor_pb_umku": "040822003630500000003",
-        "nama": "WEBMEREK.COM",
-        "website": "webmerek.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DWI YOGA PRASETYO",
-        "tanggal_daftar": "2022-08-05",
-        "nomor_tanda_daftar": "006923.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/726eb8625ac4800fa9249a32c1116f44.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9831
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9941,
-      "attributes": {
-        "nomor_pb_umku": "040822003630500000002",
-        "nama": "WEBAJAR.COM",
-        "website": "webajar.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DWI YOGA PRASETYO",
-        "tanggal_daftar": "2022-08-05",
-        "nomor_tanda_daftar": "006923.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7803404776978df36c4efc592f8d981.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9830
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9853,
-      "attributes": {
-        "nomor_pb_umku": "040822003630500000001",
-        "nama": "WEBIFY.CO.ID",
-        "website": "webify.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DWI YOGA PRASETYO",
-        "tanggal_daftar": "2022-08-04",
-        "nomor_tanda_daftar": "006923.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/87463b7e9ce3ab76683d250635bd85d2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9732
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9883,
-      "attributes": {
-        "nomor_pb_umku": "010222000522900010001",
-        "nama": "JCC APPS",
-        "website": "jcc-corp.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "JASMINE CAHAYA CEMERLANG",
-        "tanggal_daftar": "2022-08-04",
-        "nomor_tanda_daftar": "006922.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3577285bc524ab1f12e27b5bb0e24e1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9769
       }
     }
   ]
