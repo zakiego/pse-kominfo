@@ -6,10 +6,58 @@
       "lastPage": 31,
       "perPage": 10,
       "to": 200,
-      "total": 304
+      "total": 307
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6800,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INSTAGRAM",
+        "website": "apps.apple.com/au/app/instagram/id389801252",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004994.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a03796d72d5691be9d4a1fece69acce7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6651
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6799,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INSTAGRAM.COM",
+        "website": "instagram.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004994.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f852b858c232be88f50992373320a400.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6650
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6798,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FACEBOOK",
+        "website": "apps.apple.com/au/app/facebook/id284882215",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004994.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c107f82e934a7476d9a2de00e0f7e3c9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6649
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6797,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/469eb8ef72a600a1e84f634d79d0e902.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6507
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6650,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "EDGE COMPUTING SOLUTIONS",
-        "website": "lumen.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LEVEL 3 COMMUNICATIONS HONG KONG LIMITED",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004882.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1ba68274fca90e341d96e635d5fb070.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6505
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6649,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MUMU PLAYER",
-        "website": "mumuglobal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HONG KONG NETEASE INTERACTIVE ENTERTAINMENT LIMITED",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004879.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/455442307d80d52cf9469acc70f2211a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6504
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6648,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "UU BOOSTER",
-        "website": "uubooster.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HONG KONG NETEASE INTERACTIVE ENTERTAINMENT LIMITED",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004879.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9eab2aa203da57d1d4d58434fe0d3730.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6503
       }
     }
   ]
