@@ -6,10 +6,26 @@
       "lastPage": 31,
       "perPage": 10,
       "to": 20,
-      "total": 307
+      "total": 310
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9799,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ORIGIN",
+        "website": "origin.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "EA SWISS SARL",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006872.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c1d6199bcab8d1e9e969a2ab7b5d4ad.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9675
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9797,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c2ca3772687ec3d8a836b91c6a06ce6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9503
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9602,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GITLAB.COM",
-        "website": "Gitlab.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GITLAB INC",
-        "tanggal_daftar": "2022-08-01",
-        "nomor_tanda_daftar": "006719.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c66e0b12bd8850ca059cdaac32f0a5c3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9496
       }
     }
   ]

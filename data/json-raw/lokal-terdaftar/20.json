@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 21,
       "from": 201,
-      "lastPage": 939,
+      "lastPage": 944,
       "perPage": 10,
       "to": 210,
-      "total": 9386
+      "total": 9434
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 10023,
+      "id": 9846,
       "attributes": {
-        "nomor_pb_umku": "912000852150100000001",
-        "nama": "FORSTOK",
-        "website": "forstok.com",
+        "nomor_pb_umku": "040822002109500000002",
+        "nama": "SITUSALI",
+        "website": "situsali.com",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FORSTOK TEKNOLOGI INDONESIA",
+        "nama_perusahaan": "ALI",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006913.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4bebdb98c82783ac9033b49d45db28e8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9722
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9844,
+      "attributes": {
+        "nomor_pb_umku": "040822002109500000001",
+        "nama": "WEBMU LINK",
+        "website": "webmu.link",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ALI",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006913.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5a87adf4e20a926f1dbb17865c57a49e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9721
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9847,
+      "attributes": {
+        "nomor_pb_umku": "912000873111100010001",
+        "nama": "BPR NUSAMBA ADIWERNA",
+        "website": "bprnusamba-adiwerna.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSAMBA ADIWERNA",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006912.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5db89d8d1cca4ded143bc75ee957803a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9724
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9845,
+      "attributes": {
+        "nomor_pb_umku": "140322004107800020001",
+        "nama": "PT TECH FIL INDONESIA",
+        "website": "FILMine.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TECH FIL INDONESIA",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006911.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ed8c0fbbfa558ba4f55618e477e7832d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9720
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9841,
+      "attributes": {
+        "nomor_pb_umku": "912010249049200010001",
+        "nama": "HONDA TRIO MOBIL",
+        "website": "hondatriomobil.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ISTANA MOBIL TRIO BANJARBARU",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006908.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9737807ebb448594b04f018c4c96634a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9716
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9842,
+      "attributes": {
+        "nomor_pb_umku": "912030178225100010001",
+        "nama": "PT. BPR DHANA LESTARI",
+        "website": "dhanalestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DHANA LESTARI",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006907.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/26fe08592c2cea4a7762aa7c535aab18.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9717
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9836,
+      "attributes": {
+        "nomor_pb_umku": "812001300092300000001",
+        "nama": "RESELLR.ID",
+        "website": "Resellr.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MARKETBIZ JENDELA DIGITAL",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006906.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a007e410cd5fb304e8a56967759e22b5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9711
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9932,
+      "attributes": {
+        "nomor_pb_umku": "812021801105600000001",
+        "nama": "ECOMMERCE",
+        "website": "cellini.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CELLINI DESIGN CENTER",
+        "tanggal_daftar": "2022-08-05",
+        "nomor_tanda_daftar": "006905.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88901230be8bab4c33832cd7016d65ac.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9817
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9828,
+      "attributes": {
+        "nomor_pb_umku": "030822006076200000001",
+        "nama": "TEMAN SAHAM DIGITAL INDONESIA",
+        "website": "temansaham.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RAYENDRA PANGESTU",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006899.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1f281606751bd0ff278cddd38f73693.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9703
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10008,
+      "attributes": {
+        "nomor_pb_umku": "912020061225700000001",
+        "nama": "SNAPCART DIGITAL INDONESIA",
+        "website": "snapcart.global",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SNAPCART DIGITAL INDONESIA",
         "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "006879.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0fb028a5d37fc3a131d8401b9c7501f7.png",
+        "nomor_tanda_daftar": "006898.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/afe491e8b97798b2b8e0f86faae25de8.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9910
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10115,
-      "attributes": {
-        "nomor_pb_umku": "021701015019400030002",
-        "nama": "CELEBRITIES.ID",
-        "website": "celebrities.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MNC PORTAL INDONESIA",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "006877.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/658a6d7fc5d86dbbd0dc4167efcda9f0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9997
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10079,
-      "attributes": {
-        "nomor_pb_umku": "021701015019400030001",
-        "nama": "SPORTSTARS.ID",
-        "website": "sportstars.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MNC PORTAL INDONESIA",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "006877.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a6bd8799d2918873bcf4c97f5f78c01.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9968
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9808,
-      "attributes": {
-        "nomor_pb_umku": "023701114063500010001",
-        "nama": "BUILDWITH ANGGA",
-        "website": "buildwithangga.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANGGA MEMBANGUN INDONESIA",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006876.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e8ee9185f747f02afa1cad3f86216f42.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9682
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9805,
-      "attributes": {
-        "nomor_pb_umku": "070722007580600020001",
-        "nama": "WEBSITE ON LEGAL",
-        "website": "onlegal.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ONLEGAL SOLUSI NUSANTARA",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006874.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d01b5dd27ae89ecae7948e02d92a5afd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9680
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9806,
-      "attributes": {
-        "nomor_pb_umku": "030822002846300000001",
-        "nama": "BEERBOYZ",
-        "website": "beerboyz.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SOBAT KECIL SEJATI",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006873.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d947605866433377e933a4aa29a94288.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9681
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9804,
-      "attributes": {
-        "nomor_pb_umku": "230622000092300000001",
-        "nama": "BANUA DIGITAL SOLUTION",
-        "website": "banuads.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANUA DIGITAL SOLUTION",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006871.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/64ac61ede54fad1a1a5c51822f792c08.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9679
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9798,
-      "attributes": {
-        "nomor_pb_umku": "310522002623300020001",
-        "nama": "BOSKASIR",
-        "website": "boskasir.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KUKUH SETIAWAN",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006869.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fd1878839ab30f9e072cda315b65a3fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9674
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9795,
-      "attributes": {
-        "nomor_pb_umku": "912010750167900000001",
-        "nama": "VISA TOUR ONLINE",
-        "website": "-",
-        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "OREN DIGITAL SOLUSI",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006867.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ea764b03a429b91c7cded4c2506400fb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9670
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9784,
-      "attributes": {
-        "nomor_pb_umku": "912030283350400070002",
-        "nama": "PT PRASETIA DWIDHARMA",
-        "website": "prasetia.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PRASETIA DWIDHARMA",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006864.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bd11f5c8a0da2a52e04e98b05959d1f6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9658
+        "sistem_elektronik_id": 9894
       }
     }
   ]

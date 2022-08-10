@@ -6,10 +6,26 @@
       "lastPage": 31,
       "perPage": 10,
       "to": 40,
-      "total": 307
+      "total": 310
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9341,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MAMBU",
+        "website": "mambu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MAMBU ASIA PACIFIC PTE LTD",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006537.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ef5a19698e497ae957d18957824af36.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9252
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9333,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f266464e62eda7d267bfeb9939bc6a9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9177
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9264,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AFK ARENA",
-        "website": "afkarena.lilith.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006498.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7174ccd44b310eef5bc38013f49bb7c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9176
       }
     }
   ]

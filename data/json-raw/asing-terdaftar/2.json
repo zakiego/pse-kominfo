@@ -6,10 +6,26 @@
       "lastPage": 31,
       "perPage": 10,
       "to": 30,
-      "total": 307
+      "total": 310
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9602,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GITLAB.COM",
+        "website": "Gitlab.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GITLAB INC",
+        "tanggal_daftar": "2022-08-01",
+        "nomor_tanda_daftar": "006719.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c66e0b12bd8850ca059cdaac32f0a5c3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9496
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9570,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aca2152c21161febecbed4ecd3140218.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9267
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9341,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MAMBU",
-        "website": "mambu.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MAMBU ASIA PACIFIC PTE LTD",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006537.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ef5a19698e497ae957d18957824af36.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9252
       }
     }
   ]
