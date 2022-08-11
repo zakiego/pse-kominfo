@@ -3,13 +3,109 @@
     "page": {
       "currentPage": 12,
       "from": 111,
-      "lastPage": 31,
+      "lastPage": 32,
       "perPage": 10,
       "to": 120,
-      "total": 310
+      "total": 316
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8775,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MANGADEX - API",
+        "website": "api.mangadex.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRISTAN NINE",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "005940.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8e63e11f44cdc5ec0cd0e5d4571584a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8692
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8774,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MANGADEX - CDN",
+        "website": "uploads.mangadex.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRISTAN NINE",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "005940.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7d0d1d20d9f81767ea8ebfd578f6edc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8691
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8479,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MANGADEX",
+        "website": "mangadex.org",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TRISTAN NINE",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005940.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/afc849abc05e1a925b39bac96a8506fa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8395
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8477,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MANGODICKS, INC",
+        "website": "mangodicks.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MANGODICKS, INC",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005939.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2527f94155c57e2555b24b72b35ff17c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8394
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8473,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIVO GAME CENTER",
+        "website": "pay.vivoglobal.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92cf381fe86841663da52e6b362f9be2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8389
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8472,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIVO GAME CENTER",
+        "website": "asia-gamecenter.vivoglobal.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.17/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c87ae9382bb1ea2624b4711eee18a9c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8388
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8471,
@@ -72,102 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c858afd02b3bfce41797fa9c4adda2d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8384
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8467,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO BROWSER",
-        "website": "asia-browser.vivoglobal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00cf3cdbbb1a3aba2ddd8df8219a00a8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8383
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8466,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO BROWSER",
-        "website": "asia-browser.vivoglobal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4cd63fbf4f446698a8959a5b522624d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8382
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8465,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO.COM APPLICATION",
-        "website": "asia-expweb.vivo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/329505453599e208d8464e70b8007f69.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8381
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8464,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO.COM OFFICIAL WEBSITE",
-        "website": "vivo.com/id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0ffe9d55c903dcbf267d1da12831839.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8380
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8463,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO GAME CENTER",
-        "website": "in-gamecenter.vivoglobal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40e220bb7756a28aa055e6e4b5d3c3f1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8379
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8462,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO GAME CENTER",
-        "website": "payglobal.vivo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8a74bd67d9793c5fc14d629ac559043.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8378
       }
     }
   ]
