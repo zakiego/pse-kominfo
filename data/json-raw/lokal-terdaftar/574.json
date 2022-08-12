@@ -6,10 +6,122 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 5750,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3020,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Top Legal ID",
+        "website": "www.toplegal.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TOP LEGAL GROUP",
+        "tanggal_daftar": "2022-01-11",
+        "nomor_tanda_daftar": "001902.02/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7b60ea6657fcaa4e7a65ae61111e4a7a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2027
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2965,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Top Legal",
+        "website": "www.toplegal.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TOP LEGAL GROUP",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001902.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d40c115e27ddb406f340615d3f539b95.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2026
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2964,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kredibel",
+        "website": "kredibel.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KREDIBEL TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001901.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fdf1cfe40792086ed906f91e9419e773.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 587
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2963,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website",
+        "website": "astronacci.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASTRONACCI INTERNATIONAL",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001900.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b725560edb94702820c506d1a972635.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1982
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2960,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WEBSITE WWW.IDH.ID , APLIKASI IDH.ID",
+        "website": "www.idh.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INDONESIA DISTRIBUTION HUB",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001899.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f06b29536e72e0c73bc4875e01ee7418.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2022
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2959,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Layanan Penggalangan Dana Sosial (ZISWAF)",
+        "website": "bersedekah.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PILAR TAGIHAN INDONESIA",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001898.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a300ceb047eab475e102fbd0c183bbf2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2021
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2958,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "satupintuaja.co.id",
+        "website": "satupintuaja.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PANCA JAYA SETIA",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001897.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/296f5b8f63e1c68f1d30ecbbc8455db8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2020
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3114,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10d0c6e3b947f68f4065dcd536321c2a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2051
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2953,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GHinshop",
-        "website": "gh-orthoindonesia.com",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
-        "nama_perusahaan": "LANCAR REKA SAMPURNA",
-        "tanggal_daftar": "2022-01-05",
-        "nomor_tanda_daftar": "001894.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7f4f1b80168c70c0d20dd56a142a4c1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1606
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2952,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "eFishery Feeder",
-        "website": "http://api.efishery.com/",
-        "sektor": "Sektor Pangan, Sektor Perdagangan",
-        "nama_perusahaan": "MULTIDAYA TEKNOLOGI NUSANTARA",
-        "tanggal_daftar": "2022-01-05",
-        "nomor_tanda_daftar": "001893.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45fd7ee1bedcf8112ad5ec52cf7e5ec0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 343
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2948,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Portal Berita Online www.sakanews.com",
-        "website": "sakanews.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SAKA NEWS BRILLIANT",
-        "tanggal_daftar": "2022-01-04",
-        "nomor_tanda_daftar": "001892.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b06608ff1033e646d30bea73cf03e922.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2010
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2947,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kinobi Z",
-        "website": "https://app.kinobi.asia",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KINOBI TECHNOLOGIES INDONESIA",
-        "tanggal_daftar": "2022-01-04",
-        "nomor_tanda_daftar": "001891.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c87962504517221ae92644397c1e259.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1873
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2946,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Belinjo.id",
-        "website": "belinjo.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "UMKM NIAGA INTERNATIONAL",
-        "tanggal_daftar": "2022-01-04",
-        "nomor_tanda_daftar": "001890.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7defdee2dbf79799b189994ba7f30b6a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1994
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2945,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Redigan",
-        "website": "Redigan.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIAP PESAN SEKARANG",
-        "tanggal_daftar": "2022-01-04",
-        "nomor_tanda_daftar": "001889.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63d8ba6c3389eeafc9c3927cf63c1219.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1892
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8754,
-      "attributes": {
-        "nomor_pb_umku": "912010880039200030004",
-        "nama": "WON MOBILE (WANTEG MOBILE TRADING) -  IOS & ANDROID",
-        "website": "WANTEG.COM",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "WANTEG SEKURITAS",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "001888.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/25fb62f1e92bc0f7166353c8c6583e96.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8671
       }
     }
   ]

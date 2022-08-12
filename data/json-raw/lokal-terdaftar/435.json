@@ -6,10 +6,90 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 4360,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4994,
+      "attributes": {
+        "nomor_pb_umku": "130622005558500000001",
+        "nama": "GOAPOTIK",
+        "website": "goapotik.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "KARSA INTI TUJU ASKARA",
+        "tanggal_daftar": "2022-07-01",
+        "nomor_tanda_daftar": "003144.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b5465abe86340e52e2f7a3f212094f2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4863
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9119,
+      "attributes": {
+        "nomor_pb_umku": "812011224159400820001",
+        "nama": "WATSONS ID",
+        "website": "watsons.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DUTA INTIDAYA",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "003140.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02e8f0c336f0d78bce0d5f8346c90dd2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8821
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6465,
+      "attributes": {
+        "nomor_pb_umku": "040122001284800000001",
+        "nama": "LAPORHUKUM",
+        "website": "laporhukum.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BERTIGA BANYAK BERKAT",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "003136.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/412ee794c09866d0c5bfed3e82de3341.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6328
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8576,
+      "attributes": {
+        "nomor_pb_umku": "912000969184100010002",
+        "nama": "AFFINITY TECHNOLOGY PLATFORM (ATP)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WILLIS TOWERS WATSON INSURANCE BROKER INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "003127.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17f203ae2a95ee46841511a5111c9951.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8488
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4521,
+      "attributes": {
+        "nomor_pb_umku": "812000290008700000001",
+        "nama": "COMMUTER.ID",
+        "website": "krl.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "KERETA COMMUTER INDONESIA",
+        "tanggal_daftar": "2022-06-15",
+        "nomor_tanda_daftar": "003126.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1f8dc880dc2f6a014f13682156898712.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4504
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4603,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a3fa1ca3080dc7bd6e19ee539e559374.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4901
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7349,
-      "attributes": {
-        "nomor_pb_umku": "310322001343600050001",
-        "nama": "HUAWEI CLOUD",
-        "website": "Huaweicloud.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SPARKOO TECHNOLOGIES INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "003109.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21ccc342b8de9b3baaeb93c718e20d45.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7241
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5156,
-      "attributes": {
-        "nomor_pb_umku": "812001029058400050002",
-        "nama": "NALLASTORE",
-        "website": "nallastore.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NALLA REKAYASA TEKNOLOGI",
-        "tanggal_daftar": "2022-07-07",
-        "nomor_tanda_daftar": "003099.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b0e9df124419116093734290db823bd6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5020
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7450,
-      "attributes": {
-        "nomor_pb_umku": "912010019298300010003",
-        "nama": "MSIG.CO.ID",
-        "website": "msig.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI MSIG INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "003087.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac99d5d6496ae6ab6190a1766488003d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7347
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7399,
-      "attributes": {
-        "nomor_pb_umku": "912010019298300010002",
-        "nama": "MSIG MOBILE",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI MSIG INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "003087.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d5495865c8cd5c4408acab6d2741316.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7291
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4525,
-      "attributes": {
-        "nomor_pb_umku": "912010019298300010001",
-        "nama": "MSIGONLINE",
-        "website": "msigonline.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI MSIG INDONESIA",
-        "tanggal_daftar": "2022-06-16",
-        "nomor_tanda_daftar": "003087.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0cd734e7935b6710dc6485ac20996001.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4509
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 10,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10266,
+      "attributes": {
+        "nomor_pb_umku": "280622008185300000001",
+        "nama": "CITRA MAYANA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CITRA MAYANA",
+        "tanggal_daftar": "2022-08-12",
+        "nomor_tanda_daftar": "007197.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ded28b7e3591d0a81f61f7f816613f51.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10150
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10256,
@@ -40,6 +56,22 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c036106e669d0ce975a2756b550b30f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10146
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10262,
+      "attributes": {
+        "nomor_pb_umku": "180821002005400000003",
+        "nama": "EKLINIK",
+        "website": "eklinik.co",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TAZKIAMEDIA MULTI PRIMA",
+        "tanggal_daftar": "2022-08-12",
+        "nomor_tanda_daftar": "007186.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92ee24afeeb67b30674c46dad2bab12c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10148
       }
     },
     {
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c388b2224ac46842e69bea94bb7298ae.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10097
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10216,
-      "attributes": {
-        "nomor_pb_umku": "280722006354900060001",
-        "nama": "POSBILL - APLIKASI KASIR ONLINE",
-        "website": "posbill.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NOVATAMA SOLUSI TEKNOLOGI",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007158.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b5ad464a96effeb4b359dfd2b6362030.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10094
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10217,
-      "attributes": {
-        "nomor_pb_umku": "812020693154200010001",
-        "nama": "INDOTRADING",
-        "website": "indotrading.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INOVASI SUKSES SENTOSA",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007157.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7106a4f34350e1c59cded199fb13a987.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10096
       }
     }
   ]

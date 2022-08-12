@@ -6,10 +6,74 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 1540,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8311,
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010015",
+        "nama": "WEBSITE BANK PAPUA",
+        "website": "bankpapua.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005497.21/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf990704324baff82993b99356bef5e6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8235
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8292,
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010014",
+        "nama": "DEVELOPMENT NEW MOBILE BANKING ULTIMATE BANK PAPUA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005497.20/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ee89f4cd4d369af1da97ab43f81920e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8210
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8291,
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010013",
+        "nama": "DEVELOPMENT APLIKASI LAKU PANDAI BANK PAPUA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005497.19/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76d7f1508e725a93904f2f0e423d506f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8208
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8285,
+      "attributes": {
+        "nomor_pb_umku": "022030372221800010012",
+        "nama": "DEVELOPMENT APLIKASI QRIS BANK PAPUA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005497.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/55e7e6d86cd26b2b22fb37fad35504c1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8203
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8281,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b615199a61646639bf812eb24dad753b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8001
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8056,
-      "attributes": {
-        "nomor_pb_umku": "022030372221800010005",
-        "nama": "DATAFARM BANK PAPUA",
-        "website": "datafarm.bankpapua.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7d4ad17c4923b13f24d9040a53b55c67.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7978
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8030,
-      "attributes": {
-        "nomor_pb_umku": "022030372221800010004",
-        "nama": "MOBILE BANKING BANK PAPUA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7f6e0d5588c19cfe19795facd5c85fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7955
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7981,
-      "attributes": {
-        "nomor_pb_umku": "022030372221800010003",
-        "nama": "LAKU PANDAI (PAPUA PANDAI) BANK PAPUA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16c6015af57aff4c5aadf7a61ab389b5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7898
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7628,
-      "attributes": {
-        "nomor_pb_umku": "022030372221800010002",
-        "nama": "CASH MANAGEMENT SYSTEM (CMS) CORPORATE PT. BANK PEMBANGUNAN DAERAH PAPUA",
-        "website": "ib.bankpapua.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b80f20fc71147d8964ef2c892563b3e0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7525
       }
     }
   ]

@@ -6,10 +6,122 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 8090,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3541,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Edukasi Satu Hati",
+        "website": "edukasi.satuhati.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASTRA HONDA MOTOR",
+        "tanggal_daftar": "2022-03-15",
+        "nomor_tanda_daftar": "000696.03/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4bd5d4b2f926165d5ac5c63674fc58b8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3207
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1432,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Informasi Resmi Mengenai Produk AHM",
+        "website": "www.astra-honda.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_perusahaan": "ASTRA HONDA MOTOR",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000696.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/28a8c98482d4c984cca9c27cf55006d2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 559
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 919,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AHM Career",
+        "website": "https://recruitment.astra-honda.com/index.html",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASTRA HONDA MOTOR",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000696.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da878d17a02389cc5640ee3d73dfdd20.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 558
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 918,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "bolttech InsurTech Exchange",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BOLTTECH DEVICE PROTECTION INDONESIA INVESTMENT",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000695.02/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa5ea48e3723a3b882eba2cdcf603985.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 373
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 917,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "bolttech InsurTech Exchange",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BOLTTECH DEVICE PROTECTION INDONESIA INVESTMENT",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000695.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9bacc7e7927d288880ed536296a362c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 372
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1291,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "gadjian.com",
+        "website": "www.gadjian.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FATIHA SAKTI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000694.06/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/975889c26551bb8f4a31f822c31c60f7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 641
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1290,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "hadirr.com",
+        "website": "www.hadirr.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FATIHA SAKTI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000694.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5120aca6e4ae284d57913f2b46e10c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 640
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1289,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/668f2349687dd660a22dacb32de8f489.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 637
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 911,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "gadjian.com",
-        "website": "www.gadjian.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FATIHA SAKTI",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000694.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca945136a22d63c385960ba5797aabe1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3702
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 925,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MOST SBN",
-        "website": "www.most.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDIRI SEKURITAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000693.04/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1e904b47e423b852388112a209f8a79.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 652
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 916,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MOST Syariah",
-        "website": "www.most.co.id/syariah",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDIRI SEKURITAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000693.03/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e201dd96ab60dafdbda9be83ea3cc16e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 651
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 915,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MOST WEB REKSADANA",
-        "website": "www.most.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDIRI SEKURITAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000693.02/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10dd02ce625dd6fbc7f022b76304b2a3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 650
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 910,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MOST System",
-        "website": "www.most.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDIRI SEKURITAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000693.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c466ba1074aa82a862f0889250b4ae71.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 649
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 947,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Panin Sekuritas Opening Account Online",
-        "website": "register.pans.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PANIN SEKURITAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000692.07/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5039f1a37cde18b721ed9c5e4015bfe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2467
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 945,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website PT Panin Sekuritas Tbk",
-        "website": "www.pans.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PANIN SEKURITAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000692.06/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1deddc8c50d26d1bd77adc89b0a19e2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2466
       }
     }
   ]

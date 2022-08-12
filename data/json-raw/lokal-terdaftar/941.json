@@ -6,10 +6,122 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 9420,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7946,
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010002",
+        "nama": "CHATBOT ASTARI",
+        "website": "zendesk.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000037.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1ffbda41bd9010fb7d5fea2c54be114.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7860
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6053,
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010001",
+        "nama": "WEBSITE BCA FINANCE",
+        "website": "bcafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000037.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/349bb3b1eaf72f022f371a4dd4fd503b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5921
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 406,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KKB BCA Virtual Mall",
+        "website": "Kreditkerenbanget.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2021-03-16",
+        "nomor_tanda_daftar": "000037.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ef2bb7eaf65312f78621c2b0d44b69e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2313
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 41,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FINA",
+        "website": "https://www.bcafinance.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000037.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/96dafcfd5e8cbe8030858d795304c545.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2312
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 398,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Situs Perusahaan / Situs Web",
+        "website": "https://www.cigna.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI CIGNA",
+        "tanggal_daftar": "2021-03-16",
+        "nomor_tanda_daftar": "000036.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c20b467e27e2a2a7b9cf89bdfecc8773.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2420
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 40,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "punya.cigna",
+        "website": "https://punya.cigna.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI CIGNA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000036.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/708b9ab308e21662ba369ad6d0ea35e0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2419
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5282,
+      "attributes": {
+        "nomor_pb_umku": "912041704100600200002",
+        "nama": "ICBC MOBILE BANKING",
+        "website": "m.icbc.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK ICBC INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "nomor_tanda_daftar": "000035.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ca8c0cbd50cfdfaa390874c0e1757fe.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5151
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5279,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5006d12dffcd15b0a1154732b7cf8a60.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2361
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 38,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ESIGN",
-        "website": "https://www.esign.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JASUINDO TIGA PERKASA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000034.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e75bb174d792c1cadc22275ba8e5d1a1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2406
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 37,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "starpoin",
-        "website": "www.starpoin.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMAS POIN INDONESIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000033.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bcfae5f4e225eb1398746f2918acd368.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2424
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 206,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ERUPS",
-        "website": "https://rups.bimaregistra.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BIMA REGISTRA",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000032.02/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4dbbb77f97f67148fa49990125554a32.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2431
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 36,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ERUPS",
-        "website": "https://rups.bimaregistra.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BIMA REGISTRA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000032.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4a400aa2ee5b098564ac6a69fd377d8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2430
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 35,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "JelasPay",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JELAS PEMBAYARAN BIOMETRIK",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000031.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4480c3691de412944af91816d02a422d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2321
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5774,
-      "attributes": {
-        "nomor_pb_umku": "020200097141300010004",
-        "nama": "CLAIMS VENDOR ASSIGNMENT TOOL",
-        "website": "vendorassignment.chubb.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000030.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/074bd65eb6305048adac5a40b6522f56.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5636
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5582,
-      "attributes": {
-        "nomor_pb_umku": "020200097141300010003",
-        "nama": "CHUBB TRAVEL B2B",
-        "website": "travel.chubb",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "000030.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b20ee6161216042eafb8c241dc23ad43.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5430
       }
     }
   ]

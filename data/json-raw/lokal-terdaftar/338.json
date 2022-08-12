@@ -6,10 +6,74 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 3390,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5782,
+      "attributes": {
+        "nomor_pb_umku": "912000456125300130002",
+        "nama": "POSAJA!",
+        "website": "posfin.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "POS FINANSIAL INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004166.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10cb10351433152a7e7aab9de71d06df.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5644
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5650,
+      "attributes": {
+        "nomor_pb_umku": "912000456125300130001",
+        "nama": "POSPAY AGEN",
+        "website": "agen.posfin.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "POS FINANSIAL INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004166.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/decd474f7d2104fd4f1f636f5663d18e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5510
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5630,
+      "attributes": {
+        "nomor_pb_umku": "100622001451600000001",
+        "nama": "PT. BPR BINARTA LUHUR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BINARTA LUHUR",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004165.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b534f19cbefcfb86d8e6d7932788bb96.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5494
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5561,
+      "attributes": {
+        "nomor_pb_umku": "912000671155500010001",
+        "nama": "TRESNA NIAGA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT TRESNA NIAGA",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004164.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e1d18320a9c9b900ec716d25723ff459.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5428
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5748,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/82a501eba3ce69b99cbbb46af9f74d28.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7622
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7645,
-      "attributes": {
-        "nomor_pb_umku": "022000168299900010005",
-        "nama": "WEBSITE BANK KALTENG",
-        "website": "bankkalteng.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004154.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6dcf787c49859460152038b35750a75.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7543
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7708,
-      "attributes": {
-        "nomor_pb_umku": "022000168299900010005",
-        "nama": "VIRTUAL ACCOUNT",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004154.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8cc0b42601e7a3df285344acc69e7804.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7263
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7351,
-      "attributes": {
-        "nomor_pb_umku": "022000168299900010004",
-        "nama": "SMS BANKING",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004154.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3580eb89a0f35c4ac648d3a3e5dbcfee.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7252
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7339,
-      "attributes": {
-        "nomor_pb_umku": "022000168299900010003",
-        "nama": "APLIKASI PAJAK DAERAH ONLINE",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004154.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a759303ce8d5547670b94c915d8f900f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7236
       }
     }
   ]

@@ -6,10 +6,74 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 3760,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9771,
+      "attributes": {
+        "nomor_pb_umku": "912010514083200040003",
+        "nama": "PIJARU.COM",
+        "website": "pijaru.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOMPAS CYBER MEDIA",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "003859.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f171257d56483f8a015888846dc31d51.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9638
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9747,
+      "attributes": {
+        "nomor_pb_umku": "912010514083200040002",
+        "nama": "WWW.KOMPAS.COM",
+        "website": "kompasiana.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOMPAS CYBER MEDIA",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "003859.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d67fb0dd588138ee9a6153da6d88308.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9621
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5203,
+      "attributes": {
+        "nomor_pb_umku": "912010514083200040001",
+        "nama": "KOMPAS.COM",
+        "website": "kompas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOMPAS CYBER MEDIA",
+        "tanggal_daftar": "2022-07-08",
+        "nomor_tanda_daftar": "003859.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a08097193bd1bdefc3e0bdd3b93c183.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5060
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9231,
+      "attributes": {
+        "nomor_pb_umku": "812021319184101560013",
+        "nama": "BFI CONNECT (BFI FINANCE)",
+        "website": "connect.bfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BFI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "003857.13/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cc8306242d3fe0ef70f0244e3674f974.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9144
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8820,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8fee35b6b21266c4cd2189cc7aa9a8c2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7778
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7810,
-      "attributes": {
-        "nomor_pb_umku": "812021319184101560004",
-        "nama": "E-MAIL BFI FINANCE",
-        "website": "mail.bfi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BFI FINANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "003857.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/388dc1ab2a00a34ca2b404c3d2e5e695.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7731
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7791,
-      "attributes": {
-        "nomor_pb_umku": "812021319184101560003",
-        "nama": "WEBSITE PRODUK BFI (BFI FINANCE)",
-        "website": "produk.bfi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BFI FINANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "003857.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f5a0607c1ce79929b97a806c4df5b9f7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7715
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8822,
-      "attributes": {
-        "nomor_pb_umku": "812021319184101560012",
-        "nama": "PANEL DASHBOARD UNTUK PARTNER BFI FINANCE",
-        "website": "dashboardconnect.bfi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BFI FINANCE INDONESIA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "003857.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13091913035548de68ec6ebb9cc870a5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7537
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8817,
-      "attributes": {
-        "nomor_pb_umku": "812021319184101560007",
-        "nama": "VIRTUAL OFFICE BFI FINANCE",
-        "website": "e-virtualoffice.bfi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BFI FINANCE INDONESIA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "003857.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7e5b619cf8baa032695563f60a82485.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7470
       }
     }
   ]

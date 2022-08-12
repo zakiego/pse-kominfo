@@ -6,10 +6,90 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 4370,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7349,
+      "attributes": {
+        "nomor_pb_umku": "310322001343600050001",
+        "nama": "HUAWEI CLOUD",
+        "website": "Huaweicloud.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SPARKOO TECHNOLOGIES INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003109.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21ccc342b8de9b3baaeb93c718e20d45.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7241
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5156,
+      "attributes": {
+        "nomor_pb_umku": "812001029058400050002",
+        "nama": "NALLASTORE",
+        "website": "nallastore.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NALLA REKAYASA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-07",
+        "nomor_tanda_daftar": "003099.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b0e9df124419116093734290db823bd6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5020
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7450,
+      "attributes": {
+        "nomor_pb_umku": "912010019298300010003",
+        "nama": "MSIG.CO.ID",
+        "website": "msig.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI MSIG INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003087.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac99d5d6496ae6ab6190a1766488003d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7347
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7399,
+      "attributes": {
+        "nomor_pb_umku": "912010019298300010002",
+        "nama": "MSIG MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI MSIG INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003087.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d5495865c8cd5c4408acab6d2741316.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7291
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4525,
+      "attributes": {
+        "nomor_pb_umku": "912010019298300010001",
+        "nama": "MSIGONLINE",
+        "website": "msigonline.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI MSIG INDONESIA",
+        "tanggal_daftar": "2022-06-16",
+        "nomor_tanda_daftar": "003087.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0cd734e7935b6710dc6485ac20996001.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4509
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4702,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4d6cb25dfa519239da763acb360f2f1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4515
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4749,
-      "attributes": {
-        "nomor_pb_umku": "912010894003500010003",
-        "nama": "GRAVEL DULUR",
-        "website": "gravel.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GRAVEL TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-06-24",
-        "nomor_tanda_daftar": "003043.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4bc63aac80c951d694e94bfac61a8edf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4697
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4607,
-      "attributes": {
-        "nomor_pb_umku": "070622000179200000001",
-        "nama": "APLIKASI",
-        "website": "-",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "ENDY FRANDO SIMBOLON",
-        "tanggal_daftar": "2022-06-19",
-        "nomor_tanda_daftar": "003040.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/23593d5b91774e71e4c66537c7d20587.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4570
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5166,
-      "attributes": {
-        "nomor_pb_umku": "912040130256100690004",
-        "nama": "CORPORATE WEBSITE BCAMF",
-        "website": "bcamf.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BCA MULTI FINANCE",
-        "tanggal_daftar": "2022-07-07",
-        "nomor_tanda_daftar": "003026.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5a775464e91512929146cde7b0eb79a9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5030
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4634,
-      "attributes": {
-        "nomor_pb_umku": "040622001126800000001",
-        "nama": "AGX",
-        "website": "agx.co",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HYDRAX DIGITAL TEKNOLOGI",
-        "tanggal_daftar": "2022-06-21",
-        "nomor_tanda_daftar": "003015.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15f44510cb34be44cb539d213fffd591.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4595
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5000,
-      "attributes": {
-        "nomor_pb_umku": "170222006255900030001",
-        "nama": "KAISARCAHYABERKAH.COM",
-        "website": "kaisarcahyaberkah.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KAISAR CAHYA BERKAH",
-        "tanggal_daftar": "2022-07-01",
-        "nomor_tanda_daftar": "002995.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4eee3f03fe2255baf49246c46cbff50e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4869
       }
     }
   ]

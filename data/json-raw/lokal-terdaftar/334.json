@@ -6,10 +6,74 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 3350,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5985,
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010021",
+        "nama": "AUDIT MANAGEMENT SYSTEM BANK SULSELBAR",
+        "website": "ams.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-17",
+        "nomor_tanda_daftar": "004179.23/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/869579313285cdc8f1dae147f95d7e79.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5850
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6030,
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010023",
+        "nama": "WHISTLEBLOWER SYSTEM BANK SULSELBAR",
+        "website": "wbs.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004179.22/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a23e6be83e4c7900ec06d5f2e9674e79.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5849
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6029,
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010022",
+        "nama": "CPANEL BANK SULSELBAR",
+        "website": "cpanel.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004179.21/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e0b62200274a64be2132063e0327144.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5847
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5914,
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010018",
+        "nama": "APLIKASI PUR DIGITAL PT BANKSULSELBAR",
+        "website": "pur-digital.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004179.20/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1bad79485965879fd5ee3b6e4c03a0b1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5708
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5915,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b331d3408fdda19e4037fa06edd4e656.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5555
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5690,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "QRIS BANK SULSELBAR",
-        "website": "qris.banksulsebar.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004179.13/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b832fc9a4f6137e7773a2f6a98d53700.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5551
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5688,
-      "attributes": {
-        "nomor_pb_umku": "122900054220400010012",
-        "nama": "VIRTUAL ACCOUNT BANKSULSELBAR",
-        "website": "va.banksulselbar.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004179.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d627a4fc2f058d9ad607df0124c2f289.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5548
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5685,
-      "attributes": {
-        "nomor_pb_umku": "122900054220400010011",
-        "nama": "TNT DEVELOPMENT BANKSULSELBAR",
-        "website": "tnt-dev.banksulselbar.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004179.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cbaa88597db3ecd829b292d44e847976.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5545
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5684,
-      "attributes": {
-        "nomor_pb_umku": "122900054220400010010",
-        "nama": "TNT BANKSULSELBAR",
-        "website": "tnt.banksulselbar.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004179.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8edcece4f6ee096f52db397d7074a88.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5544
       }
     }
   ]

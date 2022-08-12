@@ -6,10 +6,122 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 8030,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 972,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DanaRupiah",
+        "website": "www.danarupiah.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LAYANAN KEUANGAN BERBAGI",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000731.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17ca381464ed8d7c86feb5ff05f46b68.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 610
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2735,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "sfund.id",
+        "website": "sfund.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SURYA FAJAR URUN DANA",
+        "tanggal_daftar": "2021-12-13",
+        "nomor_tanda_daftar": "000730.02/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/646439938466384dde921aec1635ddee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3312
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 971,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SFUND",
+        "website": "sfund.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SURYA FAJAR URUN DANA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000730.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/75c93619e57a0580f065871bd6f1fab9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3311
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 970,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sajiwa",
+        "website": "sajiwafood.id",
+        "sektor": "Sektor Keuangan, Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MANDALIKA WILASITA SAJIWA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000729.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b2820cc4b882f5a2e1e0575a1d66419.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 677
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 969,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DANA CAIR",
+        "website": "http://www.danacair.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SIMPAN PINJAM SIMPANAN DARURAT MERAKYAT",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000728.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5dddba73bbadcea0add4b380b3c2f8f6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 721
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 968,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "APEKA.ID",
+        "website": "https://apeka.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "APEKA TECHNOLOGY",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000727.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/553c6688e06c438c1aea0ccf038382a3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3310
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 967,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KLIK KAMI",
+        "website": "https://www.klikkami.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "HARAPAN FINTECH INDONESIA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000726.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/548bc6297f064eab6536eb4891a5825a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 483
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 966,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/592e2d3a4a531dada598a19fe778fea4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3309
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10118,
-      "attributes": {
-        "nomor_pb_umku": "912021901110400050002",
-        "nama": "STRIVE",
-        "website": "app.aldiracita.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ALDIRACITA SEKURITAS INDONESIA",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "000722.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4070f9a721c777f4ed0843e41b5c44fd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10000
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 962,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Brokerage Office System S21-Plus Aldiracita",
-        "website": "www.aldiracita.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ALDIRACITA SEKURITAS INDONESIA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000722.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/924a588d0214b778b697d053ea7e9179.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 715
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 961,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Edukasi MasaDepan",
-        "website": "www.masadepan.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "EDUKASI MASA DEPAN",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000721.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e590f96a3bac5d2b3532459381648223.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3308
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 959,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Itruzz",
-        "website": "https://www.itruzz.com/",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INOVASI KREDIT INDONESIA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000720.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12f9f60082d4bb17e853f1ad014068bf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2516
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 958,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Holla",
-        "website": "www.Holla.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HOLLA GLOBAL INDONESIA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000719.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1462b155736bc4f45f88f76a4127cece.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3307
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 957,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FINPLUS",
-        "website": "www.finplus.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "REZEKI BERSAMA TEKNOLOGI",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000718.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71d9a4cc78d7f3ed97201fa4032da672.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2531
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1035,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DANA SIAP",
-        "website": "Http://www.danasiap.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMPAN PINJAM DANA KESUKSESAN INDONESIA",
-        "tanggal_daftar": "2021-05-18",
-        "nomor_tanda_daftar": "000717.02/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4ff824d21c325a31e65c3b691bcab3f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 709
       }
     }
   ]

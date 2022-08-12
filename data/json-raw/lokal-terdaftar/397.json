@@ -6,10 +6,90 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 3980,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5169,
+      "attributes": {
+        "nomor_pb_umku": "022010980017700000001",
+        "nama": "ANIPAY",
+        "website": "anipay.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ANILO ADIKARYA SENTOSA",
+        "tanggal_daftar": "2022-07-07",
+        "nomor_tanda_daftar": "003588.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8cf80cec6ba6579df80d1ffa19e388b5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5034
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8668,
+      "attributes": {
+        "nomor_pb_umku": "812011108341700000003",
+        "nama": "HADIRKOE",
+        "website": "hadirkoe.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ELECTRONIC DATA INTERCHANGE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "003587.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5a7994630bc5e71be805b2b3d5d1d38c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8585
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8654,
+      "attributes": {
+        "nomor_pb_umku": "812011108341700000002",
+        "nama": "E-CMOS",
+        "website": "e-cmos.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ELECTRONIC DATA INTERCHANGE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "003587.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4de83fa0a8c9abc90190974ac91b4976.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8566
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8527,
+      "attributes": {
+        "nomor_pb_umku": "812011108341700000001",
+        "nama": "TPS ONLINE",
+        "website": "seaport.tpsonline.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ELECTRONIC DATA INTERCHANGE INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "003587.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7d8845ed5bbc59b96a0a9331686314a0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8368
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4989,
+      "attributes": {
+        "nomor_pb_umku": "912020443186100000001",
+        "nama": "OTTOPOINT",
+        "website": "ottopoint.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "POIN SUKSES MAKMUR",
+        "tanggal_daftar": "2022-07-01",
+        "nomor_tanda_daftar": "003586.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/147b818b841471842ddebea402faebc8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4857
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4966,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf3ad2f9e41195bb126bd2cf3bc4d682.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4827
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4967,
-      "attributes": {
-        "nomor_pb_umku": "290622006387600000001",
-        "nama": "IKLANKAN.COM",
-        "website": "iklankan.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ILHAM ARNOMO",
-        "tanggal_daftar": "2022-06-30",
-        "nomor_tanda_daftar": "003570.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4792cd85d2b10e02641c7547b50b3b1c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4835
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4957,
-      "attributes": {
-        "nomor_pb_umku": "912030969245200000001",
-        "nama": "DAUKY.CO.ID",
-        "website": "DAUKY.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BERSAMA DAUKY MULYA",
-        "tanggal_daftar": "2022-06-29",
-        "nomor_tanda_daftar": "003569.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eff28218c2cd1c395530fe8fef0fac75.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4825
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4956,
-      "attributes": {
-        "nomor_pb_umku": "912001415008800010001",
-        "nama": "SIDIA (SISTEM INFORMASI DIGITAL ASWATA)",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI WAHANA TATA",
-        "tanggal_daftar": "2022-06-29",
-        "nomor_tanda_daftar": "003568.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79d79f214ab6f1519bbb04ed6338a65b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4823
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4955,
-      "attributes": {
-        "nomor_pb_umku": "912030864265700000001",
-        "nama": "ELZATTA.COM",
-        "website": "Elzatta.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BERSAMA ZATTA MULYA",
-        "tanggal_daftar": "2022-06-29",
-        "nomor_tanda_daftar": "003567.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9167df48d168a029abb897d797e3c8ab.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4824
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4949,
-      "attributes": {
-        "nomor_pb_umku": "310522003060600000001",
-        "nama": "FLANNER",
-        "website": "flanner.id",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SENTOSA BISNET INTERNASIONAL",
-        "tanggal_daftar": "2022-06-29",
-        "nomor_tanda_daftar": "003565.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c215135cc1266ee8fbd9bd620b583602.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4816
       }
     }
   ]

@@ -6,10 +6,122 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 7950,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1034,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Corporate Care Portals",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "FWD INSURANCE INDONESIA",
+        "tanggal_daftar": "2021-05-18",
+        "nomor_tanda_daftar": "000769.04/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43dde7a7c9284623a005035b46cabbf2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 573
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1033,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FWD Mobile",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "FWD INSURANCE INDONESIA",
+        "tanggal_daftar": "2021-05-18",
+        "nomor_tanda_daftar": "000769.03/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b04aaf477347be1acecc0f820aa73f93.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 572
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1032,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FWD Smart/New Business",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FWD INSURANCE INDONESIA",
+        "tanggal_daftar": "2021-05-18",
+        "nomor_tanda_daftar": "000769.02/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af95ef572f7af3d77e59bc780712ffa2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 571
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1029,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Corporate Web",
+        "website": "https://www.fwd.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FWD INSURANCE INDONESIA",
+        "tanggal_daftar": "2021-05-18",
+        "nomor_tanda_daftar": "000769.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1f46d8b38ad37e2c709ef7dcf5b2d76.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 570
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1103,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bank Commonwealth Website",
+        "website": "commbank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK COMMONWEALTH",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000768.07/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7d5279a8108dd446289b1a2588ecabd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 701
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1058,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CommBank KTA (dahulu Tyme Digital KTA)",
+        "website": "https://kta.commbank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK COMMONWEALTH",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000768.06/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ced50a97b538e3a9335647c11b527089.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 700
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1056,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mobile Banking",
+        "website": "commaccess.commbank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK COMMONWEALTH",
+        "tanggal_daftar": "2021-05-28",
+        "nomor_tanda_daftar": "000768.05/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4c4e2ef05ba33b5542ee1c7ddb04365.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 699
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1055,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b46db0c552111661426f2b78fd29fd31.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 696
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1028,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CommBank Mobile",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK COMMONWEALTH",
-        "tanggal_daftar": "2021-05-18",
-        "nomor_tanda_daftar": "000768.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4429da3bdaaa8885a65fdb361cbc06f8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 695
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1027,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Finmas",
-        "website": "https://www.finmas.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ORIENTE MAS SEJAHTERA",
-        "tanggal_daftar": "2021-05-18",
-        "nomor_tanda_daftar": "000767.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84d588b1dc3bdc7ad30589dc3371c654.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 763
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1026,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Wahana Honda",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "WAHANA MAKMUR SEJATI",
-        "tanggal_daftar": "2021-05-18",
-        "nomor_tanda_daftar": "000766.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58f94fd01f49de04701316e1da75478d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 643
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2349,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bussan Auto Finance (BAF) Sandia",
-        "website": "sandia.baf.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BUSSAN AUTO FINANCE",
-        "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "000765.04/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fd5ca653fa7e8608eddda0b270f591f7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 749
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1080,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bussan Auto Finance (BAF) Website",
-        "website": "http://www.baf.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BUSSAN AUTO FINANCE",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000765.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3e63fbf6df368861395af8606a728a5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 748
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1022,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bussan Auto Finance (BAF) Mobile",
-        "website": "http://sandia.baf.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BUSSAN AUTO FINANCE",
-        "tanggal_daftar": "2021-05-18",
-        "nomor_tanda_daftar": "000765.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c8242f05571ad07228a1e354fa14ccb0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 747
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9018,
-      "attributes": {
-        "nomor_pb_umku": "912030798250700020002",
-        "nama": "SPOT BY SUCOR SEKURITAS",
-        "website": "sucorsekuritas.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SUCOR SEKURITAS",
-        "tanggal_daftar": "2022-07-25",
-        "nomor_tanda_daftar": "000764.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ff702bf2a6196770f5241ad609727690.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8932
       }
     }
   ]

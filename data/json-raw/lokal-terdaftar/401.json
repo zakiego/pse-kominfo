@@ -6,10 +6,90 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 4020,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5236,
+      "attributes": {
+        "nomor_pb_umku": "912030564205500000001",
+        "nama": "EDOO.ID",
+        "website": "edoo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WOOLU AKSARA MAYA",
+        "tanggal_daftar": "2022-07-08",
+        "nomor_tanda_daftar": "003559.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2aad91c6813666553e958a5ee54679ca.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5104
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4946,
+      "attributes": {
+        "nomor_pb_umku": "280622005049600020001",
+        "nama": "SUPER EKA FAJAR",
+        "website": "supertrack.my.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SUPER EKA FAJAR",
+        "tanggal_daftar": "2022-06-29",
+        "nomor_tanda_daftar": "003557.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ce71365ca71d0feedec96781f80739c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4812
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7688,
+      "attributes": {
+        "nomor_pb_umku": "912010833001500140005",
+        "nama": "LOVIT",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "YAYASAN KESEHATAN PEGAWAI TELKOM",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003556.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e09c14b1ab4efec30df388e75b0fb303.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7601
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4950,
+      "attributes": {
+        "nomor_pb_umku": "912010833001500120004",
+        "nama": "YAKES MOBILE",
+        "website": "yakestelkom.or.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "YAYASAN KESEHATAN PEGAWAI TELKOM",
+        "tanggal_daftar": "2022-06-29",
+        "nomor_tanda_daftar": "003556.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a44560038a967868a9d19b0a24bdc522.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4817
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4948,
+      "attributes": {
+        "nomor_pb_umku": "022010374173700000001",
+        "nama": "VALMICH HOSTING INDONESIA",
+        "website": "valmich.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VALMICH HOSTING INDONESIA",
+        "tanggal_daftar": "2022-06-29",
+        "nomor_tanda_daftar": "003555.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9adb0e5a0f55944295afc9a004fe2800.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4815
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5077,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fc0b3451fe482b7d6a3bbb80d4626c0b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4826
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4935,
-      "attributes": {
-        "nomor_pb_umku": "290622001998900000001",
-        "nama": "UKASYAH OLSHOP",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MAISAL FITRI",
-        "tanggal_daftar": "2022-06-29",
-        "nomor_tanda_daftar": "003549.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79dc9fc76f9330d9e36ab77ff197a30f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4803
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4934,
-      "attributes": {
-        "nomor_pb_umku": "310821002826100010001",
-        "nama": "JDSPORTS.ID",
-        "website": "jdsports.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "JDSPORTS FASHION INDONESIA",
-        "tanggal_daftar": "2022-06-29",
-        "nomor_tanda_daftar": "003548.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d663f07447c3ee61cdf05704b7715aac.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4802
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4938,
-      "attributes": {
-        "nomor_pb_umku": "912040363216500010001",
-        "nama": "CBS NUSANTARA",
-        "website": "cbclik.com",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CRIF LEMBAGA INFORMASI KEUANGAN",
-        "tanggal_daftar": "2022-06-29",
-        "nomor_tanda_daftar": "003547.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b0a8c9597def53df24e6052576dcfe5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4806
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5223,
-      "attributes": {
-        "nomor_pb_umku": "100322005016400020001",
-        "nama": "SIAPBOS",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIAPBOS BORNEO NUSANTARA",
-        "tanggal_daftar": "2022-07-08",
-        "nomor_tanda_daftar": "003546.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/459933e3da2ed02265224790f56c7a39.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5093
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8648,
-      "attributes": {
-        "nomor_pb_umku": "912000921103500020006",
-        "nama": "TRINVI",
-        "website": "trinvi.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "INDONUSA TELEMEDIA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "003544.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/41545227169108f843f8629cad05be09.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8325
       }
     }
   ]

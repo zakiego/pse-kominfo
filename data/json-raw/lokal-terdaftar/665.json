@@ -6,10 +6,122 @@
       "lastPage": 949,
       "perPage": 10,
       "to": 6660,
-      "total": 9482
+      "total": 9489
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2267,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MARKIS",
+        "website": "WWW.MANDIRIINHEALTH.CO.ID",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "ASURANSI JIWA INHEALTH INDONESIA",
+        "tanggal_daftar": "2021-11-01",
+        "nomor_tanda_daftar": "001411.05/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee679b90778c4949d0969064b6b01247.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1530
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2266,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FIS",
+        "website": "WWW.MANDIRIINHEALTH.CO.ID",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "ASURANSI JIWA INHEALTH INDONESIA",
+        "tanggal_daftar": "2021-11-01",
+        "nomor_tanda_daftar": "001411.04/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24ad15f922730a8563b94092d5aee7e5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1529
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2264,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pelkes Online",
+        "website": "WWW.MANDIRIINHEALTH.CO.ID",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "ASURANSI JIWA INHEALTH INDONESIA",
+        "tanggal_daftar": "2021-11-01",
+        "nomor_tanda_daftar": "001411.03/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8fe0d6694eea273d5ec8ef27cc9517b4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1528
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2263,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MI CARE",
+        "website": "WWW.MANDIRIINHEALTH.CO.ID",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "ASURANSI JIWA INHEALTH INDONESIA",
+        "tanggal_daftar": "2021-11-01",
+        "nomor_tanda_daftar": "001411.02/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0a1ff2dc4e64fd06eb82c4f31d981a1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1527
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2113,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FITAja!",
+        "website": "WWW.MANDIRIINHEALTH.CO.ID",
+        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
+        "nama_perusahaan": "ASURANSI JIWA INHEALTH INDONESIA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001411.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/baf0774e8ac441a99944870d477fab26.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1526
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2112,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Able Remittance",
+        "website": "http://ablegroup.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PT ABLE REMITTANCE",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001410.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/803e82fb22e055aa180eef66dbc2e411.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3031
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2111,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BINTANGO",
+        "website": "https://www.bintango.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PT STARGO DIGITAL INDONESIA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001409.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b42e97a0ce53a83f5a6ebc4bafcdf376.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3030
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2137,
@@ -56,118 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7ea792e32c1462d4606f887ef39e39cc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1519
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2109,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ATOZFURNITURE.CO.ID",
-        "website": "ATOZFURNITURE.CO.ID",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "RANTAI MAS MEBELINDO",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001407.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cdd236991fc539108619728ed5e7670d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1518
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2213,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Faspay SendMe",
-        "website": "faspay.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MEDIA INDONUSA",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001406.02/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d9211e3e0448d9c791b9e195e7bc197d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1512
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2108,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Faspay Payment Gateway",
-        "website": "faspay.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MEDIA INDONUSA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001406.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c590cabc0153bea734abe29a53006220.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1511
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2107,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "opusb",
-        "website": "opusb.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PT BERCA HARDAYAPERKASA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001405.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/439eca83f4fc65d83f4dd521ddca2a2c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3027
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2106,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bahana Link",
-        "website": "https://link.bahanatcw.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PT Bahana TCW Investment Management",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001404.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b1e190da555023511b3aa05c167bb07.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3026
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2156,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OctiFi",
-        "website": "www.octifi.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "OCTIFI GROUP INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001403.02/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c42e13bc6d1cda2fc20177c6a64d618.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 771
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2104,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OctiFi",
-        "website": "www.octifi.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "OCTIFI GROUP INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001403.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/180d1a8da8fa02d3c9e6707fb7f49a42.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 770
       }
     }
   ]
