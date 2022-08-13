@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 32,
       "from": 311,
-      "lastPage": 32,
+      "lastPage": 33,
       "perPage": 10,
       "to": 320,
-      "total": 319
+      "total": 322
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4082,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BIOMARK LABORATORY PLATFORM",
+        "website": "13.227.254.60",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "BIOMARK PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000287.02/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37685d0a930dfe695a2c88a24d9a1b2b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4081
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4081,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BIOMARK MOBILE APPLICATION",
+        "website": "13.227.254.72",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "BIOMARK PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000287.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4be1e2c770ebae54e798195a1c9ca8c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4080
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4067,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SPACE & AVIATION TECHNLOGY SYSTEM",
+        "website": "belumada.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000279.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79c9bff26dc477ac3f7fea8cd82467cd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4066
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4066,
@@ -120,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/989e8840b834c204e44d8bdeea10394d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4059
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4056,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "SWIFT SERVICE BUREAU",
-        "website": "bottomline.com/apac",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BOTTOMLINE TECHNOLOGIES PTE. LTD.",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000274.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/480afc81483b46d05c2d69066680cdb8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4055
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4055,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "LIVEWELL APP AND WEB PORTAL",
-        "website": "livewell-portal.zurich.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "Zurich LiveWell Services and Solutions Ltd.",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000273.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6978494cb7ff055a21f95ac8ec64ecd6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4054
       }
     }
   ]

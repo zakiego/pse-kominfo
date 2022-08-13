@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 2,
       "from": 11,
-      "lastPage": 32,
+      "lastPage": 33,
       "perPage": 10,
       "to": 20,
-      "total": 319
+      "total": 322
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10208,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "STEAM",
+        "website": "Steampowered.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Valve Corporation",
+        "tanggal_daftar": "2022-08-11",
+        "nomor_tanda_daftar": "007153.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6c1256078f3eb16d2e2625d3bde14895.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10087
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10215,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DYNASTY HEROES: ROMANCE SAMKOK",
+        "website": "romancesamkok.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PLAYBSET LIMITED",
+        "tanggal_daftar": "2022-08-11",
+        "nomor_tanda_daftar": "007129.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/601ffecc737dd99a1c0460604f738367.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10093
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10159,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MONKEY KING: ARENA OF HEROES",
+        "website": "monkeykingaoh.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PLAYBSET LIMITED",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "007129.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf035d5374b1a780c6cfca440d44a799.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10040
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10146,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86c1f08bb34347321a9bcd88754f34c0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9705
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9829,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEBSITE",
-        "website": "world.dan.org",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "DAN WORLD, LTD",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006900.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6d41de45935fd1cd61a79186f62a4d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9704
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9810,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BINAMANDIRI",
-        "website": "binamandiri.sg",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BINAMANDIRI",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006882.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/865334d122a2d41c1bce354ff8eccae1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9684
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9799,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ORIGIN",
-        "website": "origin.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EA SWISS SARL",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006872.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c1d6199bcab8d1e9e969a2ab7b5d4ad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9675
       }
     }
   ]
