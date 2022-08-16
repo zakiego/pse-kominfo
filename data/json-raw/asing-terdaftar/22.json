@@ -3,13 +3,77 @@
     "page": {
       "currentPage": 23,
       "from": 221,
-      "lastPage": 33,
+      "lastPage": 34,
       "perPage": 10,
       "to": 230,
-      "total": 328
+      "total": 332
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6683,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SHOPPINGMALL.99.COM",
+        "website": "shoppingmall.99.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NETDRAGON",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004914.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/075e538cdb7b0acbde35f42317c16d0d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6536
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6681,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DISCORD",
+        "website": "discord.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DISCORD INC.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004913.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cfb534eeca7cf00bd3f971e7fcb69ffd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6532
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6654,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NETEASE GAME",
+        "website": "neteasegames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004884.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/213d5a203599ad75d610a981c9a1e1a1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6508
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6653,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NARAKA",
+        "website": "narakathegame.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004884.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/469eb8ef72a600a1e84f634d79d0e902.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6507
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6650,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2081f51103adc0a664e107482ec36491.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6434
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6400,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TEST YI XIA",
-        "website": "guanmutong.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RUOCHENG",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004723.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/80d45adef2b157836fc4c5b55af44ef5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6261
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6398,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SUZHOU NUOCHENG LEGAL CONSULTING SERVICE COMPANY",
-        "website": "gamelawyer.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Suzhou nuocheng Legal Consulting Service Company",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004722.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47d14fe6473da7e44e8e65999d1315eb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6260
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6397,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KINGAME ACCOUNT SYSTEM",
-        "website": "thebulletangel.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KINGAME",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004721.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/06cff365f5b5948c5eb6d15263827923.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6259
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6394,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YOHO",
-        "website": "yoho.media",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MOBILE ALPHA LIMITED",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004720.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81e4d48ca1ce58ccda845c46d505899b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6257
       }
     }
   ]
