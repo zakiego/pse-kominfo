@@ -6,10 +6,42 @@
       "lastPage": 34,
       "perPage": 10,
       "to": 160,
-      "total": 332
+      "total": 334
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8278,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HELLO SEHAT",
+        "website": "hellosehat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HELLO HEALTH GROUP PTE LTD",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005836.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0144fdc7836a75bdb0fe95fceee69efe.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8195
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8277,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SNAPCHAT",
+        "website": "snapchat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SNAPCHAT INC.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005835.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1dda1942bd83a241b8a55f6830b9d234.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8194
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8275,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/850102da6fda5f114849ba6f7d573806.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8185
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8266,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PARTYING",
-        "website": "partying.sg",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "OLA PARTY PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005831.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8216d4b5053132b9a3f50ea521d58314.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8184
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8262,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "IDLE MONSTER GO",
-        "website": "mjhw.hnmaiji.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GUANGZHOU MAIJI INFORMATION TECHNOLOGY CO.,LTD",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005830.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/967ccbc23a85e26af0e69d2450bf86da.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8179
       }
     }
   ]

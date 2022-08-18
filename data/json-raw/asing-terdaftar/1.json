@@ -6,10 +6,42 @@
       "lastPage": 34,
       "perPage": 10,
       "to": 20,
-      "total": 332
+      "total": 334
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10285,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ALEF EDUCATION PLATFORM",
+        "website": "alef.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ALEF EDUCATION CONSULTANCY LLC",
+        "tanggal_daftar": "2022-08-12",
+        "nomor_tanda_daftar": "007226.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/913cb3a679bbb35dc08de005ed9bcb66.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10167
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10281,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HOME+SECURITY",
+        "website": "home.netatmo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LEGRAND FRANCE",
+        "tanggal_daftar": "2022-08-12",
+        "nomor_tanda_daftar": "007220.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a1eb69edfef3fe6437a19f3c16ec937c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10163
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10280,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1958b717a5c2ec1e5820bdc07bd4ddbe.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10088
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10208,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "STEAM",
-        "website": "Steampowered.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Valve Corporation",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007153.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6c1256078f3eb16d2e2625d3bde14895.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10087
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10215,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DYNASTY HEROES: ROMANCE SAMKOK",
-        "website": "romancesamkok.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PLAYBSET LIMITED",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007129.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/601ffecc737dd99a1c0460604f738367.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10093
       }
     }
   ]

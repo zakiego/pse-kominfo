@@ -6,10 +6,42 @@
       "lastPage": 34,
       "perPage": 10,
       "to": 130,
-      "total": 332
+      "total": 334
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9917,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SPARKAL",
+        "website": "play.google.com/store/apps/details?id=com.sparkal.novel&hl=id&gl=id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKURA PTE. LTD.",
+        "tanggal_daftar": "2022-08-05",
+        "nomor_tanda_daftar": "006144.05/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fffee3a943eaec7c8e2cb33a3a5b425d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9804
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9491,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "UNINOVEL",
+        "website": "play.google.com/store/apps/details?id=com.uninovel.novel",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKURA PTE. LTD.",
+        "tanggal_daftar": "2022-08-01",
+        "nomor_tanda_daftar": "006144.04/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b4b6f5a32d6e1772c292a4d7a93001c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9398
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9174,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/afc849abc05e1a925b39bac96a8506fa.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8395
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8477,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MANGODICKS, INC",
-        "website": "mangodicks.org",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MANGODICKS, INC",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005939.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2527f94155c57e2555b24b72b35ff17c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8394
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8473,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO GAME CENTER",
-        "website": "pay.vivoglobal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.18/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92cf381fe86841663da52e6b362f9be2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8389
       }
     }
   ]

@@ -6,10 +6,42 @@
       "lastPage": 34,
       "perPage": 10,
       "to": 280,
-      "total": 332
+      "total": 334
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4679,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SMIC FINANCIAL LINK",
+        "website": "transpeninsular.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU MARIA INVESTMENT CO., LTD.",
+        "tanggal_daftar": "2022-06-23",
+        "nomor_tanda_daftar": "003369.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f686058eefbf02dd802d9eee631025d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4638
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4678,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SMIC FINANCIAL TRADE LINK",
+        "website": "transpeninsular.wordpress.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-06-23",
+        "nomor_tanda_daftar": "003368.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6eb6703274c3153914b1e9658c638a68.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4637
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4677,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5d0730dfe899fb2533f2c6e7cc302151.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4757
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4142,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "RESSO",
-        "website": "resso.app/in/; play.google.com/store/apps/details?id=com.moonvideo.android.resso&hl=en_SG&gl=US; apps.apple.com/in/app/resso-music-songs-lyrics/id1457922673",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MOON VIDEO INC.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "000371.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b502247fc84b6277530240bb640c18cd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4144
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4141,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "CAPCUT",
-        "website": "capcut.net; play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=en_US&gl=US; apps.apple.com/us/app/capcut-video-editor/id1500855883",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BYTEDANCE PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "000370.05/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0ea1b36a9167709fb65d3b4d0e0c97e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4143
       }
     }
   ]

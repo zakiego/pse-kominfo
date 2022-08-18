@@ -6,10 +6,42 @@
       "lastPage": 34,
       "perPage": 10,
       "to": 250,
-      "total": 332
+      "total": 334
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6390,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DOORU LIBRARY",
+        "website": "play.google.com/store/apps/details?id=com.enuma.easylibrary",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ENUMA INC",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004716.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c42ec7b0c05a28aae8d93819ed471bb7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6253
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6389,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TODO MATH",
+        "website": "play.google.com/store/apps/details?id=com.enuma.todomath",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ENUMA INC",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004716.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8deb0808b678b0f361ac66e53344c4c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6252
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6388,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f28bd190c370646e7d3ff23cda0a288.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6247
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6383,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TAPTAP2-EDIT",
-        "website": "taptap.io",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TAPTAP PTE. LTD.",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004712.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5e9f3c3d2248a79b6ba04e602524fcb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6246
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6382,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TAPTAP",
-        "website": "taptap.io",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TAPTAP PTE. LTD.",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004712.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4a86d80e4a6b8fb674073a48f795cc3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6245
       }
     }
   ]

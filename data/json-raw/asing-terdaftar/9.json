@@ -6,10 +6,42 @@
       "lastPage": 34,
       "perPage": 10,
       "to": 100,
-      "total": 332
+      "total": 334
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9212,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "YS6 MOBILE VNG",
+        "website": "ys6.vnggames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VNG CORPORATION",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006460.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1799dc4b5efef289a9609a761c287754.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9120
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9210,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OMI APPLICATION",
+        "website": "omi.sg",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WINK TECHNOLOGY PTE. LTD.",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006458.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d8f0fd3f52e30dcd9dd0694db4c8e02d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9118
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9209,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/169563c68b945429b68fdda2cb70ad36.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9108
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9193,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SENTBE",
-        "website": "sentbe.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SENTBE PTE LTD",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006451.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c4efad6e4228b4a58eff98ecfca7bc23.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9101
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9878,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ELECTRONIC SOUL GAME",
-        "website": "coco4game.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ELECTRONIC SOUL INTERACTIVE TECHNOLOGY(HONG KONG) CO.,LIMITED",
-        "tanggal_daftar": "2022-08-04",
-        "nomor_tanda_daftar": "006450.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0050d6a8a3a6790516071f1a64d1b6ce.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9764
       }
     }
   ]
