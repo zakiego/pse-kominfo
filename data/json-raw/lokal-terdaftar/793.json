@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 794,
       "from": 7931,
-      "lastPage": 970,
+      "lastPage": 975,
       "perPage": 10,
       "to": 7940,
-      "total": 9692
+      "total": 9746
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 1217,
+      "id": 1278,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Cermati",
+        "nama": "API Central",
+        "website": "https://developer.danamon.co.id  https://api.danamon.co.id  https://sandbox.danamon.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000861.08/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d961ccc3a2592e3842a3213aaf6e717.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 920
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1277,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi Jaminan Online",
+        "website": "https://outsys.danamon.co.id/BDIAJO/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000861.07/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/30dc5d3b2d5fa655310ec271040b6dc6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 919
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1276,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Trade Connect",
+        "website": "https://tradeconnect.danamon.co.id/BDICT/ClientTrade",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000861.06/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fce60ec3ade98f2daa87dcee71901dee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 918
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1274,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DBismart",
+        "website": "https://outsys.danamon.co.id/DBisMart_Web/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000861.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd828913ac58080ad2b0c1a50f5087d3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 917
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1271,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Danamon Cash Connect",
+        "website": "https://cashconnect.danamon.co.id https://h2h.cashconnect.danamon.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000861.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e88138c6de7fc11f19ee27e800d0a38d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 916
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1270,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "D-Bank PRO",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "DWI CERMAT INDONESIA",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
         "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000840.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d979a893576fd64429e9dd713d6f5b15.png",
+        "nomor_tanda_daftar": "000861.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a83a24b533e3f19674ef296970d7de88.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 811
+        "sistem_elektronik_id": 915
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 5155,
-      "attributes": {
-        "nomor_pb_umku": "022060087248900000003",
-        "nama": "MANPRO PROGRAMMER SOFTWARE",
-        "website": "manpro.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MANPRO TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-07-06",
-        "nomor_tanda_daftar": "000839.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/85f151b6a4cf08b7e62c64834ee46595.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5019
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5148,
-      "attributes": {
-        "nomor_pb_umku": "022060087248900000002",
-        "nama": "MANPRO TEKNOLOGI INDONESIA",
-        "website": "manpro.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MANPRO TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-07-06",
-        "nomor_tanda_daftar": "000839.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b6f64fcc3c1b17d67a54adf243f697c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5011
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1216,
+      "id": 1266,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "MANPRO",
-        "website": "HTTPS://MANPRO.ID",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MANPRO TEKNOLOGI INDONESIA",
+        "nama": "D-Bank PRO",
+        "website": "https://www.dbank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
         "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000839.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f785ef73f00a95985f203590d110bda1.png",
+        "nomor_tanda_daftar": "000861.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f523b8aaf64f63abf66c798328f3efe7.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3331
+        "sistem_elektronik_id": 914
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 7736,
+      "id": 1264,
       "attributes": {
-        "nomor_pb_umku": "812021712227300490002",
-        "nama": "QNB.CO.ID",
-        "website": "qnb.co.id",
+        "nomor_pb_umku": null,
+        "nama": "Danamon Corporate Website",
+        "website": "www.danamon.co.id",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK QNB INDONESIA",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000861.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0b9c18a9e9101db6a0e8dc8c813e3ff.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 913
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8305,
+      "attributes": {
+        "nomor_pb_umku": "912001519122100010002",
+        "nama": "BINA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK INA PERDANA",
         "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000838.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/56662cb29a7659cfebbf868618bafdfe.png",
+        "nomor_tanda_daftar": "000860.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ec056c0aa62a3138c8e93d14e669e54.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7639
+        "sistem_elektronik_id": 8226
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2510,
+      "id": 8062,
       "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "UCan",
-        "website": "-",
+        "nomor_pb_umku": "912001519122100010001",
+        "nama": "WEBSITE BANKINA.ID",
+        "website": "bankina.id",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK QNB INDONESIA",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "000838.05/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b85de790d0b6538652d2e8fe319f2bec.png",
+        "nama_perusahaan": "BANK INA PERDANA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000860.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3065552df43ff57c2caddd6262d53fa2.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 819
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2012,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "QNB Indonesia Mobile Banking",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK QNB INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "000838.04/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2ede5bc5d3700e1a367b68de821e4c27.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 818
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1179,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "QNB Indonesia Mobile Banking",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK QNB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000838.03/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6761e3f4882382f4b4522a73c652f36e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 817
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1178,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Corporate Internet Banking",
-        "website": "https://cib.qnb.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK QNB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000838.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f9d030d618ad73c378227f7dc0503d04.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 816
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1177,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "QNB Online Banking",
-        "website": "https://ib.qnb.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK QNB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000838.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2675c2aa63e73f65155145f41902e3bc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 815
+        "sistem_elektronik_id": 7931
       }
     }
   ]
