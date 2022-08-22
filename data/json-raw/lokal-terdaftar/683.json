@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 684,
       "from": 6831,
-      "lastPage": 978,
+      "lastPage": 981,
       "perPage": 10,
       "to": 6840,
-      "total": 9774
+      "total": 9802
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 2287,
+      "id": 2210,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "DIP WORKSPACE",
-        "website": "https://dipworkspace.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PT DESKTOPIP TEKNOLOGI INDONESIA",
+        "nama": "Website  Bank Shinhan",
+        "website": "Website  Bank Shinhan",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PT BANK SHINHAN INDONESIA",
+        "tanggal_daftar": "2021-11-01",
+        "nomor_tanda_daftar": "001474.03/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77647ca52468f14d4dea99f4001e8ce6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3090
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2207,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mobile Banking (SOL Indonesia)",
+        "website": "Website  Bank Shinhan",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PT BANK SHINHAN INDONESIA",
+        "tanggal_daftar": "2021-11-01",
+        "nomor_tanda_daftar": "001474.02/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a8f1d03baab8e53622ee1a8e928a65b9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3089
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2205,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Internet Banking",
+        "website": "Direct Internet Banking",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PT BANK SHINHAN INDONESIA",
+        "tanggal_daftar": "2021-11-01",
+        "nomor_tanda_daftar": "001474.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/544f1b12ca54535f20a4e0004a14e676.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3088
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3217,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Avrist Digital Signature",
+        "website": "https://eapps.avrist.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVRIST ASSURANCE",
+        "tanggal_daftar": "2022-02-10",
+        "nomor_tanda_daftar": "001473.09/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d686baa475f9ab8fab2c5fa9c73b6b84.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3391
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3216,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Avrist eApp",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVRIST ASSURANCE",
+        "tanggal_daftar": "2022-02-10",
+        "nomor_tanda_daftar": "001473.08/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e363434839d30f01b972865e63a07879.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3390
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2295,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi Mobile - Avrist Pintar",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVRIST ASSURANCE",
         "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "001459.02/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/54d602f889313fa52f3c88d0aef8b7ed.png",
+        "nomor_tanda_daftar": "001473.07/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/90f5b5af826bd3ab30676f5aa6ecf513.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3081
+        "sistem_elektronik_id": 3389
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2188,
+      "id": 2294,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "JAYBOD",
-        "website": "https://jaybod.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PT DESKTOPIP TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001459.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/777b96e727d50ae903716e0e29c29462.png",
+        "nama": "Avrist Pintar – Admin",
+        "website": "http://agent.avrist.com/pintar",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVRIST ASSURANCE",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001473.06/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6020b8b81c368e7fb61042b357a7207c.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3080
+        "sistem_elektronik_id": 3388
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2187,
+      "id": 2292,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Bisabebas",
-        "website": "https://bisabebas.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "Bisabebas Ekosistem Terpercaya",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001458.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c39ceae94653312b04b2c5b324fd9a5.png",
+        "nama": "Avrist Blog",
+        "website": "http://avrist.com/lifeguide/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVRIST ASSURANCE",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001473.05/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5f335513519dd5e7fb37818b72605dd.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3079
+        "sistem_elektronik_id": 3387
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2185,
+      "id": 2289,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Shifthink",
-        "website": "https://shifthink.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PT Shifthink Digital Creative",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001457.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00871d933179c08abce075b2250684f6.png",
+        "nama": "Avrist Medical Gate",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVRIST ASSURANCE",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001473.04/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7099f915661c3d91a185bd43aeb6f0bb.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3078
+        "sistem_elektronik_id": 3386
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2184,
+      "id": 2288,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "ASTA BUMI CIPTA",
-        "website": "astabumi.com",
-        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "PT ASTA BUMI CIPTA",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001456.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/05b4bdb548b68a3e3adb22ed73948a54.png",
+        "nama": "Avrist Customer Portal",
+        "website": "https://My.Avrist.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVRIST ASSURANCE",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "001473.03/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/153579695fd9d26c316382b28801ff2b.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3077
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2183,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SLASH",
-        "website": "www.getslash.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ORI SERVICES INDONESIA",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001455.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cdd5e8b65010a23f6ff14ff3af551f3a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1520
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2182,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "honestdocs",
-        "website": "honestdocs.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIMINI LONGEVITY INDONESIA",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001454.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7d0a06abbf54c641bce608eec40ae1f7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1537
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3191,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Property.co.id",
-        "website": "Property.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "EDRUS SAFTA ANUGERAH",
-        "tanggal_daftar": "2022-02-08",
-        "nomor_tanda_daftar": "001453.02/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/218579c5587a9be074c8865316467de4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 449
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2181,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ambassador.id",
-        "website": "Ambassador.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "EDRUS SAFTA ANUGERAH",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001453.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5ae3b9934589cf4fe1f2c9c065b97e8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 448
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2180,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "https://araputra-store.co.id",
-        "website": "https://araputra-store.co.id",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "ARAPUTRA FORTUNA PERKASA",
-        "tanggal_daftar": "2021-10-27",
-        "nomor_tanda_daftar": "001452.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2eb8af5057c2418e23ade9fd103ada9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3416
+        "sistem_elektronik_id": 3385
       }
     }
   ]
