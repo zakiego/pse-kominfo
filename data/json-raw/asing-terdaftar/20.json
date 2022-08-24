@@ -3,13 +3,77 @@
     "page": {
       "currentPage": 21,
       "from": 201,
-      "lastPage": 36,
+      "lastPage": 37,
       "perPage": 10,
       "to": 210,
-      "total": 360
+      "total": 364
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8251,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NEW STATE MOBILE",
+        "website": "krafton.com/en/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KRAFTON, INC.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005823.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86e4d574cbd7ae297dba5959b110c171.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8170
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8250,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GAMELOOP",
+        "website": "gameloop.com/id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HONG KONG GATHERING MEDIA LIMITED",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005821.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dac1bbe0ca1b8e40d2ba8ec41b52df64.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8169
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8247,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WETV",
+        "website": "wetv.vip/id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "IMAGE FUTURE INVESTMENT (HK) LIMITED",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005819.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a6029b02bbc61b42752aabd2079245c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8165
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8246,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINGOACE",
+        "website": "lingoace.com/id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PPLINGO PTE LTD",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005818.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd2ca54a43135302c94d28da1c152446.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8164
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8245,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9ae6bc3d7c62e1861d52d861873f2d8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8158
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8238,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LEGENDS OF RUNETERRA",
-        "website": "playruneterra.com/en-us/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RIOT GAMES SERVICES PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005816.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57e6168b7eab80b166d68f7e255ab874.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8157
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8236,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LUDIGAMES",
-        "website": "play.ludigames.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LUDIGAMES",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005815.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf3b777cc4606b15c68869f50e9bc2cf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8155
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8235,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "RAZER GOLD",
-        "website": "gold.razer.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "RAZER ONLINE PTE LTD",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005814.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af3749326205849ee64836fbd87296f7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8153
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8234,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WECHAT",
-        "website": "play.google.com/store/apps/details?id=com. tencent.mm&hl=in&gl=US",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WECHAT INTERNATIONAL PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005813.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba9dee67f018fc9c34671c0a7ce9ebfe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8152
       }
     }
   ]

@@ -14,7 +14,7 @@
 
 <!-- AUTO-GENERATED-CONTENT:START (FILE:src=./last-updated.md) -->
 <!-- The below content is automatically added from ./last-updated.md -->
-Data terakhir diperbarui pada: **Selasa, 23 Agustus 2022 14.37.33 Waktu Indonesia Barat**
+Data terakhir diperbarui pada: **Rabu, 24 Agustus 2022 17.51.24 Waktu Indonesia Barat**
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 Daftar Penyelenggara Sistem Elektronik yang dikumpulkan dari API [pse.kominfo.go.id](https://pse.kominfo.go.id). Diperbarui setiap 1 jam sekali menggunakan [Github Action](/.github/workflows/update.yml)
