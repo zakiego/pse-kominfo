@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 661,
       "from": 6601,
-      "lastPage": 989,
+      "lastPage": 991,
       "perPage": 10,
       "to": 6610,
-      "total": 9888
+      "total": 9907
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 2554,
+      "id": 5492,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "APLIKASI WEB FIRE",
+        "website": "bcaremit.klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-13",
+        "nomor_tanda_daftar": "001669.22/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6525479f4dc4738940da5aa5b52530c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5355
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5440,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "REMITTANCEBCA",
+        "website": "remittancebca.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-13",
+        "nomor_tanda_daftar": "001669.20/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d3c08ccbe948b34a3dd16255f6cb1ef8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5273
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5400,
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620021",
+        "nama": "WEBSITE (PORTAL) API BCA",
+        "website": "developer.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "001669.19/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3ef7fb3e4150f5946b18acef7cb760c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5272
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5399,
+      "attributes": {
+        "nomor_pb_umku": "812000289391400620021",
+        "nama": "VIRA",
+        "website": "vira.bca.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "001669.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7a3d9daec9393f6365644b7a79c0430.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5270
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2857,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "KlikBCA Individu",
+        "nama": "Aplikasi keyBCA (Soft Token)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2021-12-22",
+        "nomor_tanda_daftar": "001669.17/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/649f8d478fbda61fefdcf7ee8a284c92.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 634
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2612,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "eBranch",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2021-12-02",
+        "nomor_tanda_daftar": "001669.16/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38a08ae2e04cd8cceb77182bc08b5d72.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 633
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2585,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KlikBCA Bisnis Integrated Solution",
+        "website": "klikbca.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2021-12-02",
+        "nomor_tanda_daftar": "001669.15/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf1c2ef0078daf1d1f9ddab8b89ea883.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 632
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2573,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BCA KlikPay",
         "website": "klikbca.com",
         "sektor": "Sektor Keuangan",
         "nama_perusahaan": "BANK CENTRAL ASIA",
         "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7e4abb1c206f23972ea2eff7ade962f.png",
+        "nomor_tanda_daftar": "001669.14/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/67600c45201aa4ea47b00ce35597d997.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 619
+        "sistem_elektronik_id": 631
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2553,
+      "id": 2572,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "BCA mobile",
+        "nama": "Vindi (Financial Diary)",
         "website": "-",
         "sektor": "Sektor Keuangan",
         "nama_perusahaan": "BANK CENTRAL ASIA",
         "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001669.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1ee32557e4a9e6806f242252f28639d.png",
+        "nomor_tanda_daftar": "001669.13/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71e46f5fbecd7562bde8f3faa29e8f67.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 618
+        "sistem_elektronik_id": 630
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2552,
+      "id": 2571,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Andal Abadi",
-        "website": "www.andalabadi.co.id",
-        "sektor": "Sektor Kesehatan, Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "ANDAL TUNGGAL ABADI",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001668.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d6a42bbc91a22cdbd07517b034e6fda6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1628
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2551,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Tuan Nyonya",
-        "website": "tuannyonya.id",
-        "sektor": "Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SELERA TUAN NYONYA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001667.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dca3732f1091134753cac819b1887746.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1750
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2538,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Private Solutions Software House",
+        "nama": "Halo BCA",
         "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PRIVATE SOLUTIONS SOFTWARE HOUSE",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "001666.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef521c94ed39b2a9a575a52945da0883.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1749
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5692,
-      "attributes": {
-        "nomor_pb_umku": "912000820106600020005",
-        "nama": "AGRION MILL",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ISAN TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "001665.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/181a265708fb0356c5184250cec48b1f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5554
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5508,
-      "attributes": {
-        "nomor_pb_umku": "912000820106600020004",
-        "nama": "AGRION TRADER",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ISAN TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "001665.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a886f98b72e9cf600f36f87ac2ccf6d0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5371
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5502,
-      "attributes": {
-        "nomor_pb_umku": "912000820106600020003",
-        "nama": "AGRION AGENT",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ISAN TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "001665.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c8f4a1a0e4fd74c07a67fa2829f823ab.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5365
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5192,
-      "attributes": {
-        "nomor_pb_umku": "912000820106600020002",
-        "nama": "AGRION FARMER",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ISAN TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2022-07-07",
-        "nomor_tanda_daftar": "001665.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6fbd87095734e1205cf4e3c632242509.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5062
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2534,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AgriON",
-        "website": "www.agrion.id",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ISAN TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "001665.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c08c55ce44dee1c858dad93f9bee867.png",
+        "nama_perusahaan": "BANK CENTRAL ASIA",
+        "tanggal_daftar": "2021-12-01",
+        "nomor_tanda_daftar": "001669.12/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ced2002a841d5953d3a713f555cf9df0.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1721
+        "sistem_elektronik_id": 629
       }
     }
   ]

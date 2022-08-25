@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 140,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9193,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SENTBE",
+        "website": "sentbe.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SENTBE PTE LTD",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006451.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c4efad6e4228b4a58eff98ecfca7bc23.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9101
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9878,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b9583547463788abbe79b2599dba6597.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9083
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9166,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "EPIC WAR: THRONES 1ST ANNIV.",
-        "website": "play.google.com/store/apps/details?id=com.archosaur.jp.sgzgc.gp",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FAMOUSHEART",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006438.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29a3a4f876a768e6fdc00cb2bcafc2de.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9073
       }
     }
   ]

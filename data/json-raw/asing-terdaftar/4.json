@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 50,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10285,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ALEF EDUCATION PLATFORM",
+        "website": "alef.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ALEF EDUCATION CONSULTANCY LLC",
+        "tanggal_daftar": "2022-08-12",
+        "nomor_tanda_daftar": "007226.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/913cb3a679bbb35dc08de005ed9bcb66.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10167
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10281,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1958b717a5c2ec1e5820bdc07bd4ddbe.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10088
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10208,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "STEAM",
-        "website": "Steampowered.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Valve Corporation",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007153.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6c1256078f3eb16d2e2625d3bde14895.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10087
       }
     }
   ]

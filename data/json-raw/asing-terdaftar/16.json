@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 170,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8479,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MANGADEX",
+        "website": "mangadex.org",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TRISTAN NINE",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005940.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/afc849abc05e1a925b39bac96a8506fa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8395
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8477,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4cd63fbf4f446698a8959a5b522624d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8382
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8465,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO.COM APPLICATION",
-        "website": "asia-expweb.vivo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/329505453599e208d8464e70b8007f69.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8381
       }
     }
   ]

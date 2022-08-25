@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 230,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8227,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ES DAN API: KING OF AVALON",
+        "website": "koa.kingsgroupgames.com/; play.google.com/store/apps/details?id=com.funplus.kingofavalon",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FUNPLUS INTERNATIONAL AG",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005809.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5eb0037470fcb9f711f55a7d6309a0c7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8145
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8226,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19d3dd1789aea0ac97f082aa0747a684.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8071
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8149,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ICLOUD",
-        "website": "icloud.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "APPLE DISTRIBUTION INTERNATIONAL LIMITED",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005787.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6f583a7b17550deaab02e6130311fe03.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8070
       }
     }
   ]

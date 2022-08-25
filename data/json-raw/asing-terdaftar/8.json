@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 90,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9366,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KEPO",
+        "website": "kepo.life",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Comunitee HK Limited",
+        "tanggal_daftar": "2022-07-29",
+        "nomor_tanda_daftar": "006556.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/534f1143bcc757999e8735e723526c8e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9279
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9356,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2cf4af12f9d4853c2422fa4e37ebd746.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9179
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9266,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "RISE OF KINGDOMS",
-        "website": "roc.lilithgames.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006498.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/047f974a8f61f08ad999546a5dc75239.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9178
       }
     }
   ]

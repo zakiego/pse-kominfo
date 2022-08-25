@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 260,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6797,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FACEBOOK.COM",
+        "website": "facebook.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004994.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9becd3d5219cd0a60c598923135644f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6648
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6690,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9eab2aa203da57d1d4d58434fe0d3730.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6503
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6644,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MERIDIA°COLLECT",
-        "website": "refinery.meridia.land",
-        "sektor": "Sektor Pangan",
-        "nama_perusahaan": "MERIDIA LAND",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004878.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3901fc8a712f4cb3241e33d411d51682.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6501
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 330,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4132,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WARHAMMER 40,000 LOST CRUSADE",
+        "website": "lostcrusade.com; apps.apple.com/app/id1532636309; play.google.com/store/apps/details?id=com.orcacorp.wargame",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NUVERSE (HONG KONG) LIMITED",
+        "tanggal_daftar": "2022-05-25",
+        "nomor_tanda_daftar": "000366.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/378701a32eacd62c0247abb1b063931d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4134
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4131,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eadd77eb3983290b474382a1dec221ea.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4113
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4112,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "SOUNDON",
-        "website": "soundon.global",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TIKTOK PTE. LTD.",
-        "tanggal_daftar": "2022-05-24",
-        "nomor_tanda_daftar": "000333.04/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f7b23818c504e52cb86ab1441d16c01.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4112
       }
     }
   ]

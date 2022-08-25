@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 240,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8149,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ICLOUD",
+        "website": "icloud.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "APPLE DISTRIBUTION INTERNATIONAL LIMITED",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005787.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6f583a7b17550deaab02e6130311fe03.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8070
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8148,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ea7300c86f67b57c375edd1c48abaa4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8054
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7663,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TWITTER",
-        "website": "twitter.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TWITTER, INC.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005625.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3dba4fb4dd37e389a9bcb6a8443656a6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7572
       }
     }
   ]

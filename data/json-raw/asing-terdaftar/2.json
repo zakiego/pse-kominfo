@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 30,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10622,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TAPON IOS",
+        "website": "tapon.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ADMIN@TAPON.COM",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007381.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9ca34fb1bb30ceb1d3bd597308a5be1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10457
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10621,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/733e88e33652d065e56b1d9923fb19c8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10395
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10444,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HOSTINGER",
-        "website": "hostinger.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HOSTINGER INTERNATIONAL LIMITED",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007310.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7b4b871a17fe354067ee8ba5fbfe8e9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10301
       }
     }
   ]

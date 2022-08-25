@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 300,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5996,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MOBILE LEGENDS: ADVENTURE",
+        "website": "play.google.com/store/apps/details?id=com.moonton.mobilehero; apps.apple.com/us/app/mobile-legends-adventure/id1456213261; m.mladventure.net/#home",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "YOUNGJOY TECHNOLOGY LIMITED",
+        "tanggal_daftar": "2022-07-17",
+        "nomor_tanda_daftar": "004450.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8e2ed21b876f2b53a3ea4b8576b66f67.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5860
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5995,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c9cf8514f7f1ca964998ccb81cdba6b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10182
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4680,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "MARIAKALAIJ OWEN CAPITAL FINANCIAL LINK",
-        "website": "owenpetrobitumen.blogspot.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "OWEN PETRO BITUMEN",
-        "tanggal_daftar": "2022-06-23",
-        "nomor_tanda_daftar": "003370.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/32d868e0d7c9156b69ab93ca01217780.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4639
       }
     }
   ]

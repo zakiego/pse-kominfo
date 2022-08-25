@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 60,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10208,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "STEAM",
+        "website": "Steampowered.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Valve Corporation",
+        "tanggal_daftar": "2022-08-11",
+        "nomor_tanda_daftar": "007153.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6c1256078f3eb16d2e2625d3bde14895.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10087
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10215,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86c1f08bb34347321a9bcd88754f34c0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9705
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9829,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEBSITE",
-        "website": "world.dan.org",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "DAN WORLD, LTD",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006900.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6d41de45935fd1cd61a79186f62a4d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9704
       }
     }
   ]

@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 387,
       "from": 3861,
-      "lastPage": 989,
+      "lastPage": 991,
       "perPage": 10,
       "to": 3870,
-      "total": 9888
+      "total": 9907
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 9957,
+      "id": 7433,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090012",
+        "nama": "MANAGEMENT INFORMATION SYSTEM (MIS)",
+        "website": "mis-public.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004092.12/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8596c15f0f038e42d20790e59719bd9a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7337
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7386,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090011",
+        "nama": "LANDING PAGE KREDIT MULTIGUNA PRIMA",
+        "website": "ringankancicilan.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004092.11/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4b6c5d7fa97e5e9705bf74bc19f40fd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7286
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7372,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090010",
+        "nama": "LAKU PANDAI (NASABAH)",
+        "website": "lakupandai.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004092.10/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/485870f935f8b45033873eebd4c59bbc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7268
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7353,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090009",
+        "nama": "LAKU PANDAI (AGENT)",
+        "website": "lakupandai-agent.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004092.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b2e94a20c8dc851a33c27f710b2d38b6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7253
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7045,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090008",
+        "nama": "STANDING INSTRUCTION",
+        "website": "si.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004092.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c443c578b095cd160a38f10acf8d9e0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6900
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7011,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090007",
+        "nama": "LESTARINET",
+        "website": "lestarinet.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004092.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4be0b43b07f5a22e20b6a5f64cae11d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6868
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6895,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090006",
+        "nama": "LOS (LOAN ORIGINATION SYSTEM)",
+        "website": "eform.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004092.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2aec2785fc35402e15f80dcf1d3dcf34.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6747
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6881,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090005",
+        "nama": "LOAN TRACKING",
+        "website": "loantracking.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004092.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2bea79a740594596d521f320207c90f3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6727
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6871,
       "attributes": {
         "nomor_pb_umku": "",
-        "nama": "SERVICES.CLIPAN.CO.ID",
-        "website": "services.clipan.co.id",
+        "nama": "ONLINE RECRUITMENT",
+        "website": "recruitment.bprlestari.com",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CLIPAN FINANCE INDONESIA",
-        "tanggal_daftar": "2022-08-05",
-        "nomor_tanda_daftar": "004082.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b02f32e7efff386e1d919a5497430183.png",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004092.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a68e7db63d7ba7c043b5b2ca89665ee.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9846
+        "sistem_elektronik_id": 6717
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 5464,
+      "id": 6689,
       "attributes": {
-        "nomor_pb_umku": "912050087051600010001",
-        "nama": "WEBSITE",
-        "website": "WWW.CLIPAN.CO.ID",
+        "nomor_pb_umku": "812001816045400090003",
+        "nama": "LESTARIMOBILE",
+        "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CLIPAN FINANCE INDONESIA",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "004082.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7dde93307bca6255b16bda324f9df8f.png",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004092.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c89c1dbc5fd41756f50e1583d8c7f228.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5327
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6428,
-      "attributes": {
-        "nomor_pb_umku": "912020259293500020001",
-        "nama": "WEBSITE PROLEGAL.ID",
-        "website": "prolegal.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PRO LEGAL INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004079.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bffa3eea082caacc86371e7a993ddeb8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6301
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6416,
-      "attributes": {
-        "nomor_pb_umku": "912020259293500020004",
-        "nama": "WEBSITE KANTORPENGACARA.CO",
-        "website": "kantorpengacara.co",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PRO LEGAL INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004079.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2672b02b38fef19451d76696c17f13f1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6282
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6240,
-      "attributes": {
-        "nomor_pb_umku": "912020259293500020003",
-        "nama": "WEBSITE INFOLEGALITAS",
-        "website": "infolegalitas.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PRO LEGAL INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004079.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4937cc7a028fac7efaa637628156df77.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6103
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6226,
-      "attributes": {
-        "nomor_pb_umku": "912020259293500020002",
-        "nama": "WEBSITE KLIK LEGAL",
-        "website": "kliklegal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PRO LEGAL INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004079.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dd0ac4cef09181f66c9a1e015395d058.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6090
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6109,
-      "attributes": {
-        "nomor_pb_umku": "912020259293500020001",
-        "nama": "WEBSITE PROLEGAL INDONESIA",
-        "website": "prolegal.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PRO LEGAL INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004079.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/73aa236ff618dfd7fb9fce4e4131fc94.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5979
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5447,
-      "attributes": {
-        "nomor_pb_umku": "912000110165300020001",
-        "nama": "OFFICIAL WEBSITE",
-        "website": "lolcventura.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "LOLC VENTURA INDONESIA",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "004078.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ffaebdb48c3fe33df993bf862ecda85a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5319
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5451,
-      "attributes": {
-        "nomor_pb_umku": "812010383238900000002",
-        "nama": "FINGERSPOT.COM",
-        "website": "fingerspot.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BIOMETRIK CITRA SOLUSI",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "004076.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9aaa1fa82ec9ef923fab7c02a7c32c7f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5323
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5434,
-      "attributes": {
-        "nomor_pb_umku": "129100070099600010001",
-        "nama": "PULSABAYAR",
-        "website": "pulsabayar.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PULSABAYAR SINAR PANBERSI",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "004074.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b086ac39855f0dc181e6f459e3fd81a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5306
+        "sistem_elektronik_id": 6541
       }
     }
   ]

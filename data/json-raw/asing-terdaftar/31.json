@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 320,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4888,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "TRADE FINANCE LINK",
+        "website": "transpeninsular.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
+        "tanggal_daftar": "2022-06-28",
+        "nomor_tanda_daftar": "002748.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5d0730dfe899fb2533f2c6e7cc302151.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4757
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4142,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bfdb6942ef523f51486f2ea75e3441ea.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4135
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4132,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "WARHAMMER 40,000 LOST CRUSADE",
-        "website": "lostcrusade.com; apps.apple.com/app/id1532636309; play.google.com/store/apps/details?id=com.orcacorp.wargame",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NUVERSE (HONG KONG) LIMITED",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "000366.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/378701a32eacd62c0247abb1b063931d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4134
       }
     }
   ]

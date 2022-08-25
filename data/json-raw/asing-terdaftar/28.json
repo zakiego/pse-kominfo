@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 290,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6384,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "XD ENTERTAINMENT",
+        "website": "xd-1.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "XD ENTERTAINMENT PTE. LTD.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004713.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f28bd190c370646e7d3ff23cda0a288.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6247
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6383,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13f44e98ecb07be6daee5b76f213e5c3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5881
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5996,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MOBILE LEGENDS: ADVENTURE",
-        "website": "play.google.com/store/apps/details?id=com.moonton.mobilehero; apps.apple.com/us/app/mobile-legends-adventure/id1456213261; m.mladventure.net/#home",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YOUNGJOY TECHNOLOGY LIMITED",
-        "tanggal_daftar": "2022-07-17",
-        "nomor_tanda_daftar": "004450.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8e2ed21b876f2b53a3ea4b8576b66f67.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5860
       }
     }
   ]

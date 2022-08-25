@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 120,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9245,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DARKNESS RISES: ADVENTURE RPG",
+        "website": "play.google.com/store/apps/details?id=com.nexon.da3.global&hl=en&gl=ES; apps.apple.com/us/app/darkness-rises-adventure-rpg/id1321309284",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEXON KOREA CORPORATION",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006484.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fdee1b45337bf75b6422a69fe70afc05.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9157
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9244,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e78681af22239b87c61466608b34902.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9123
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9212,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YS6 MOBILE VNG",
-        "website": "ys6.vnggames.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VNG CORPORATION",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006460.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1799dc4b5efef289a9609a761c287754.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9120
       }
     }
   ]

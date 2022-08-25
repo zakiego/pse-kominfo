@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 270,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6644,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MERIDIA°COLLECT",
+        "website": "refinery.meridia.land",
+        "sektor": "Sektor Pangan",
+        "nama_perusahaan": "MERIDIA LAND",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004878.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3901fc8a712f4cb3241e33d411d51682.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6501
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6640,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2e8c3a05d01d591001b2ff00e9de8c6d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6255
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6391,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MINI WORLD",
-        "website": "play.google.com/store/apps/details?id=com.playmini.miniworld https://apps.apple.com/id/app/mini-world-creata/id1540197003 www.miniworldgame.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MINOVATE HONG KONG LIMITED",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004717.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37a89ae7fc5fa22db639d90e67c234d5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6254
       }
     }
   ]

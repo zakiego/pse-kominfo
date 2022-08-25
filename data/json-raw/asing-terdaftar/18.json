@@ -6,10 +6,26 @@
       "lastPage": 37,
       "perPage": 10,
       "to": 190,
-      "total": 364
+      "total": 365
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8279,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "XSHOT",
+        "website": "winnerinter.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PT  Winner Interactive",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005837.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3e6453dc1960a7e2ca3324df7127f2af.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8198
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8278,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7bb80ab335d55b5085a78e5a27f39d26.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8186
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8267,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AUK INDUSTRIES SYSTEM",
-        "website": "ops.auk.industries",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AUK INDUSTRIES PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005832.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/850102da6fda5f114849ba6f7d573806.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8185
       }
     }
   ]
