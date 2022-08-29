@@ -3,13 +3,77 @@
     "page": {
       "currentPage": 1,
       "from": 1,
-      "lastPage": 37,
+      "lastPage": 38,
       "perPage": 10,
       "to": 10,
-      "total": 368
+      "total": 372
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10854,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "THE LITT APP",
+        "website": "home.thelittapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LITT GLOBAL",
+        "tanggal_daftar": "2022-08-28",
+        "nomor_tanda_daftar": "007539.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/544b7cc1c3c4b60eec40b43dedb78b0e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10664
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10852,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GRIP LEARNING PLATFORM",
+        "website": "grip-learning.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GRIP PRINCIPLE PTE LTD",
+        "tanggal_daftar": "2022-08-28",
+        "nomor_tanda_daftar": "007537.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ff225a56667c330c3b5432f1eb351489.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10662
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10849,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MUSLIM PRO",
+        "website": "muslimpro.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BITSMEDIA PTE. LTD.",
+        "tanggal_daftar": "2022-08-27",
+        "nomor_tanda_daftar": "007535.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8713f7fccfd1ad5986815ca0f749cfc3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10659
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10848,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "QALBOX",
+        "website": "app.muslimpro.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AQALB PTE. LTD.",
+        "tanggal_daftar": "2022-08-27",
+        "nomor_tanda_daftar": "007534.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e2ea1d1eaef8af81db40e24128a76ce9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10658
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10842,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/99b79da1b226c94179387b58ae0816c5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10567
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10735,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OMEGA - LIVE RANDOM VIDEO CHAT",
-        "website": "omega.app",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EXU (HK) LIMITED",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "007465.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7067cec05676b23c557187639ec7a9b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10566
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10726,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ZERO-BASED WORLD",
-        "website": "zerogame.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHANGHAI YUAN QU YU LE CO., LTD.",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "007459.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66289835ebc8f40a2f545ca340aa3810.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10558
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10711,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "37GAMES.COM",
-        "website": "37games.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WISDOM ENTERTAINMENT ONLINE INTERNATIONAL LIMITED",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "007452.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6bca24129b5b4731a057f1f55a07b3b2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10543
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10708,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LION",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LEON LION",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "007450.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/293dc7db14f47c68f1ae96f86fbfd2dc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10541
       }
     }
   ]
