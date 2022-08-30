@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "page": {
+      "currentPage": 1001,
+      "from": 10001,
+      "lastPage": 1001,
+      "perPage": 10,
+      "to": 10010,
+      "total": 10002
+    }
+  },
+  "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ebuy (E-Commerce)",
+        "website": "https://asuransireceh.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI CIPUTRA INDONESIA",
+        "tanggal_daftar": "2021-02-17",
+        "nomor_tanda_daftar": "000002.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3309189a679672f4a79ed24f30ce9408.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2837
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ADJEK",
+        "website": "https://adjek.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_perusahaan": "ADA AJA BUAT KAMU",
+        "tanggal_daftar": "2021-02-17",
+        "nomor_tanda_daftar": "000001.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97f0a63877a943cef4781c26cde01240.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2307
+      }
+    }
+  ]
+}

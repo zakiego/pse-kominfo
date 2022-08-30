@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 306,
       "from": 3051,
-      "lastPage": 997,
+      "lastPage": 1001,
       "perPage": 10,
       "to": 3060,
-      "total": 9961
+      "total": 10002
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 8635,
+      "id": 6364,
       "attributes": {
-        "nomor_pb_umku": "022080592062400020013",
-        "nama": "ATKP PT BPD KALTIM KALTARA",
-        "website": "atkp.bankaltimtara.co.id",
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN CUSTOMER-BPR MODERN EXPRESS JATENG",
+        "website": "kredit.bprmodernsemarang.com",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004638.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e31ff0656d028b18027e3ce0039ca6de.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6227
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6360,
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "DIGITAL MODERN (DIGIMOD) E-LOAN - BPR MODERN EXPRESS JATENG",
+        "website": "digimod.bprmodernsemarang.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004638.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/525131463ae19c95268b11413833b70d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6223
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6319,
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS JATENG",
+        "website": "bprmodex-jateng.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004638.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/28bbcef9afae84c1ebf318808311cd56.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6185
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6308,
+      "attributes": {
+        "nomor_pb_umku": "912040021182700010001",
+        "nama": "SMS MACROKIOSK (OTP) - BPR MODERN EXPRESS JATENG",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004638.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15dea67374e6a8c72cb88d1517bf208b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6175
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6561,
+      "attributes": {
+        "nomor_pb_umku": "912030110141700050005",
+        "nama": "OFFICIAL WEBSITE HONDA OUTSIDE JAVA",
+        "website": "ns1.hondaoutsidejava.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PROSPECT MOTOR",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004637.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/960273b79653c5d8a9b8e093be4afe62.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6419
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6526,
+      "attributes": {
+        "nomor_pb_umku": "912010769107400010001",
+        "nama": "BPR DAYA LUMBUNG ASIA",
+        "website": "bprdla.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DAYA LUMBUNG ASIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004636.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/04992226e8ad12776c9abc340a6fe8d1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6393
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10857,
+      "attributes": {
+        "nomor_pb_umku": "912020271216100010001",
+        "nama": "BPP",
+        "website": "Bpp-cms.rajawalinet.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RAJAWALI TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2022-08-29",
+        "nomor_tanda_daftar": "004635.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/725d1e11bc7a45ec655d7573ebc64e9d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10668
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6333,
+      "attributes": {
+        "nomor_pb_umku": "180722004565100000001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT PRIMA MULIA ANUGRAH",
+        "website": "bprpma.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PRIMA MULIA ANUGRAH",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004634.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/defa0fe5a4cde567bc6bbd3898664325.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6200
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7350,
+      "attributes": {
+        "nomor_pb_umku": "912030485098100010001",
+        "nama": "WEBSITE  BPR DUTA ADIARTA",
+        "website": "bprdutaadiarta.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DUTA ADIARTA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004633.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/408a07dc85d31b849731b358f8215cdd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7249
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8528,
+      "attributes": {
+        "nomor_pb_umku": "912030688146900000007",
+        "nama": "MVICALL WEBSITE",
+        "website": "Mvicall.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SINERGI BESTAMA INDONESIA",
         "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "004622.13/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d7d9bb223582f55c1afb7a3ea00ef5b.png",
+        "nomor_tanda_daftar": "004632.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fe49b0748d14ada632e9bf045fa60094.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8554
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8630,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020012",
-        "nama": "CMS BANKALTIMTARA",
-        "website": "cms.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "004622.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2440a1fa81d6cfd1cae7c653405cec01.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8550
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8626,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020011",
-        "nama": "DG BANKALTIMTARA",
-        "website": "ib.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "004622.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ed7c174442e89ad8ae9939cea41d499.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8546
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6523,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020010",
-        "nama": "SMS BANKING PT BPD KALTIM KALTARA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc1535b3d8cade2786f2a37e281d9de1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6389
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6521,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020009",
-        "nama": "SIBOS PT BPD KALTIM KALTARA",
-        "website": "sibos.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fbd09a0c4f45a08ab7015df61599d26d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6387
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6519,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020008",
-        "nama": "AGEN LAKUPANDAI PT BPD KALTIM KALTARA",
-        "website": "lkp.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86074e04621c8d856c965b19182cfcd3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6386
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6516,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020007",
-        "nama": "DG QRIS PT BPD KALTIM KALTARA",
-        "website": "qris.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7b815fd3d10070b0498a55693dedb83a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6382
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6513,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020006",
-        "nama": "ATKP PT BDP KALTIM KALTARA",
-        "website": "atkp.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e1220ab804ad7c60ae79efdd192bf9e7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6379
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6512,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020005",
-        "nama": "CMS SPAN PT BPD KALTIM KALTARA",
-        "website": "span.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/191fb44328f385ff995b2296cdd5faba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6377
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6511,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020004",
-        "nama": "CASH MANAGEMENT SYSTEM PT BPD KALTIM KALTARA",
-        "website": "CMS.BANKALTIMTAR.CO.ID",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f11447c1a8c0750400caf1b71a94f94c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6376
+        "sistem_elektronik_id": 8444
       }
     }
   ]
