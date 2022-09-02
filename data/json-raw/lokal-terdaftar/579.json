@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 580,
       "from": 5791,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5800,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3459,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "genkisushi.co.id",
+        "website": "genkisushi.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SARI FOOD LESTARI",
+        "tanggal_daftar": "2022-03-08",
+        "nomor_tanda_daftar": "002254.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/084d709d1bec327d7bfdd987065c332e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2955
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3457,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "digibonds.id",
+        "website": "www.digibonds.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PRATAMA MITRA SEJATI",
+        "tanggal_daftar": "2022-03-08",
+        "nomor_tanda_daftar": "002253.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51f3dc6dcb40ea3ecf1efd5c190bb018.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2920
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3456,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Jaringan Citra Mandiri",
+        "website": "citratel.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JARINGAN CITRA MANDIRI",
+        "tanggal_daftar": "2022-03-08",
+        "nomor_tanda_daftar": "002252.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c8b0062dd2a40a2bb461b14002b6e949.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2916
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3455,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f8e09d9c28d94756c3d7673edcbd038.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2941
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3447,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "IGLO",
-        "website": "iglo.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IMAJI GLOBAL MEDIA",
-        "tanggal_daftar": "2022-03-07",
-        "nomor_tanda_daftar": "002246.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d9ee3aa57ea84f319fae8e516453e0a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2940
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3478,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.mauahotel.com",
-        "website": "mauahotel.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
-        "tanggal_daftar": "2022-03-08",
-        "nomor_tanda_daftar": "002245.09/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4624a863983653c724ed14c1d4e08a2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2950
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3477,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.swiss-belinnmanyar.com",
-        "website": "swiss-belinnmanyar.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
-        "tanggal_daftar": "2022-03-08",
-        "nomor_tanda_daftar": "002245.08/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba36393648974afb895aca7ada073d51.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2949
       }
     }
   ]

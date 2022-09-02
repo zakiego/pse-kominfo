@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 123,
       "from": 1221,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 1230,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9074,
+      "attributes": {
+        "nomor_pb_umku": "170921000084900000001",
+        "nama": "GOGEZIT",
+        "website": "gogezit.wordpress.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "MARSIGIT",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "006250.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8e0ad0c35ae6a7616c5f341b5e7ce8f1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8985
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8937,
+      "attributes": {
+        "nomor_pb_umku": "912000177189600010001",
+        "nama": "BANK PERKREDITAN RAKYAT DANAMAS BELU",
+        "website": "bprdanamasbelu.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANAMAS BELU",
+        "tanggal_daftar": "2022-07-25",
+        "nomor_tanda_daftar": "006249.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/978bc6a8234b41cd5c36309779280b8a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8845
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9143,
+      "attributes": {
+        "nomor_pb_umku": "029201015157100000001",
+        "nama": "BIRMA GEMILANG PRIMA",
+        "website": "birmagp.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BIRMA GEMILANG PRIMA",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006240.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/284efa6c9c9bc70f28b4994174b01984.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8981
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9002,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8593fcb6037b9db64d07acaafa97491d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8855
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9376,
-      "attributes": {
-        "nomor_pb_umku": "240722001227600000001",
-        "nama": "APOTEK PUTRA LANGKAT",
-        "website": "-",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "AMALIA RAHMAH",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "006236.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2aae19d2c0fcd4cbc859e3868dfc9bb2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9287
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9440,
-      "attributes": {
-        "nomor_pb_umku": "041121003151300010001",
-        "nama": "DIGITALITY INC",
-        "website": "womanvpn.apeka.xyz",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MECCA MUDA PERSADA",
-        "tanggal_daftar": "2022-07-30",
-        "nomor_tanda_daftar": "006235.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd66c1774a29e8b72ee855444a21886f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9352
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8938,
-      "attributes": {
-        "nomor_pb_umku": "128200160082700000002",
-        "nama": "ANDRAPAY",
-        "website": "andrapay.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SITI MARIAM",
-        "tanggal_daftar": "2022-07-25",
-        "nomor_tanda_daftar": "006234.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/981f7ab3be7ae4c625b1f2a3e90e45b8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8847
       }
     }
   ]

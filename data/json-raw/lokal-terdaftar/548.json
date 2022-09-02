@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 549,
       "from": 5481,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5490,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3802,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRICAMS",
+        "website": "cms.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-04-07",
+        "nomor_tanda_daftar": "002468.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/44d801e00343eec68be66f5d32d7a7c5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3933
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3798,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ONEMED STORE",
+        "website": "onemedstore.id",
+        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
+        "nama_perusahaan": "PT INTI MEDICOM RETAILINDO",
+        "tanggal_daftar": "2022-04-07",
+        "nomor_tanda_daftar": "002467.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3fc463cc73ee8377d800c47ddcb0d653.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3926
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3807,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Herbalife Nutrition Point Of Sales",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HERBALIFE INDONESIA",
+        "tanggal_daftar": "2022-04-07",
+        "nomor_tanda_daftar": "002466.04/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8acfbeb0223a8f3e6026d7af003ed027.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3924
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3801,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/067becf5a46a0251f676679ddc62f1d2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3760
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3789,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Fast Markt",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "FAST MARKT INDONESIA",
-        "tanggal_daftar": "2022-04-06",
-        "nomor_tanda_daftar": "002460.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c5e2d8aa3fd54f17b6b7ffec52bb33ea.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3930
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3788,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Orang Siber",
-        "website": "www.orangsiber.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ORANG SIBER INDONESIA",
-        "tanggal_daftar": "2022-04-06",
-        "nomor_tanda_daftar": "002459.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1e9bd2478f1a3ed46f7470edef4f3b4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3755
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3786,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ravintola Online Marketplace Integration",
-        "website": "romi.cs.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CIPTA SOLUSI DATARINDO",
-        "tanggal_daftar": "2022-04-06",
-        "nomor_tanda_daftar": "002458.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2e7d4e920c51d303314343945377d468.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3723
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 837,
       "from": 8361,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8370,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1111,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "F-Switch",
+        "website": "https://fortuna-mediatama.co.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FORTUNA MEDIATAMA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000812.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a93e3c0b6b6d8152dc131beeaccfb4c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 782
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8660,
+      "attributes": {
+        "nomor_pb_umku": "912030443214100030001",
+        "nama": "BUKUERLANGGA.COM",
+        "website": "bukuerlangga.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "EUREKA BOOKHOUSE",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "000811.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/acbd0a1dff35f28a2793374da620c6cc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8579
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1465,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Eureka Logistics",
+        "website": "https://eurekalogistics.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_perusahaan": "EUREKA BOOKHOUSE",
+        "tanggal_daftar": "2021-06-14",
+        "nomor_tanda_daftar": "000811.08/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0434718605b6baafc6c5be48fd57fe28.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 793
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1464,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0239f872a2f118a4b3b5cf264b50fe6c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 786
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1106,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bayarind",
-        "website": "https://www.bayarind.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BAYARIND ARTHA INTERNUSA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000810.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c5cbd38823e261bbdb6b745448e601a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2568
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1105,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Digital B2B Aggregator",
-        "website": "tokopedia.com/partner",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SATRIA ABADI TERPADU",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000809.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2300cef278ac68a433cd6168eab05f86.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3322
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1104,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "IT Platform KreditCepat",
-        "website": "https://kreditcepat.co.id",
-        "sektor": "Sektor Keuangan, Sektor Pangan, Sektor Perdagangan, Sektor Transportasi",
-        "nama_perusahaan": "ALFA FINTECH INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000808.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03e691108d82a8f23757aba29be09840.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 768
       }
     }
   ]

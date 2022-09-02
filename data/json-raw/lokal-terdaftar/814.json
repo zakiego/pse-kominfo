@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 815,
       "from": 8141,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8150,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1454,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI TapCash Go",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000872.17/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e4c6315eff337e198fdec327357ecc2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 848
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1453,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI Mobile Banking",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000872.16/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/32755ec9f3e636439dca8efbfd21b3a8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 847
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1322,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website BNI Simponi",
+        "website": "https://dplk.bni.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000872.14/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8714f82410241c4b7b45803ffcd4ffe6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 846
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1321,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5d542432ad01519225b2c15d93a31619.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 839
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1298,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI Simponi Mobile",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000872.06/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/923582f1a7404619eb1fd88502e371b1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 838
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1297,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI Pembukaan Rekening Digital",
-        "website": "https://bukarekening.bni.co.id/simpanan/home",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000872.05/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ace30028f1c013384070e75783ca22d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 837
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1296,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI Credit Card Mobile",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000872.04/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7aac478e73ca7e03508644ff597a7007.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 836
       }
     }
   ]

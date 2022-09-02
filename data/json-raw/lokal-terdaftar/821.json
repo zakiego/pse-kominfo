@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 822,
       "from": 8211,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8220,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1281,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "QRIS BSI",
+        "website": "www.bsimobile.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.06/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/716f38b8a07fdab77d7f46b9817b806f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 905
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1280,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "API Cardless Withdrawal",
+        "website": "https://apisandbox.bsm.co.id:7776/gateway/CashOut/1.0",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ed35af0873dad4862d69c6d842c34ec.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 904
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1279,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "API Bisnis BSI",
+        "website": "https://developer.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000863.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2d2e92e471615bb1c4409a7a285f46c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 903
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1269,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5c0a9ac22e84c545da47201c2418334.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7075
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7206,
-      "attributes": {
-        "nomor_pb_umku": "912020553197500100007",
-        "nama": "D-WALLET",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK DANAMON INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000861.16/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/90600b1de56054583a18df60daf0a10f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7066
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7207,
-      "attributes": {
-        "nomor_pb_umku": "912020553197500100008",
-        "nama": "CASH@WORK",
-        "website": "icashatwork.danamon.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK DANAMON INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000861.15/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/978c568a80939bd1ddca01981a19b779.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7049
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7177,
-      "attributes": {
-        "nomor_pb_umku": "912020553197500100006",
-        "nama": "D-POINT",
-        "website": "dpoint.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK DANAMON INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000861.14/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ccff2490eceaf5afce601fb252a81f33.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7044
       }
     }
   ]

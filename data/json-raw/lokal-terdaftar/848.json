@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 849,
       "from": 8481,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8490,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9972,
+      "attributes": {
+        "nomor_pb_umku": "022020573026600010002",
+        "nama": "OMNE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "FWD INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-08-05",
+        "nomor_tanda_daftar": "000769.12/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f1ba0e4e187d6d7b0c511d362eddb374.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9860
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1045,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FWDI Banca",
+        "website": "https://services.fwdinsurance.co.id/bancassurance",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "FWD INSURANCE INDONESIA",
+        "tanggal_daftar": "2021-05-18",
+        "nomor_tanda_daftar": "000769.11/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a78b1eddffd06678dbdf9974afd81bd2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 580
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1044,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FWDI Agency",
+        "website": "https://agency.fwdinsurance.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "FWD INSURANCE INDONESIA",
+        "tanggal_daftar": "2021-05-18",
+        "nomor_tanda_daftar": "000769.10/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/30b78f6cf030aae0d97fa49481f4d65b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 579
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1043,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b04aaf477347be1acecc0f820aa73f93.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 572
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1032,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FWD Smart/New Business",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FWD INSURANCE INDONESIA",
-        "tanggal_daftar": "2021-05-18",
-        "nomor_tanda_daftar": "000769.02/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af95ef572f7af3d77e59bc780712ffa2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 571
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1029,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Corporate Web",
-        "website": "https://www.fwd.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FWD INSURANCE INDONESIA",
-        "tanggal_daftar": "2021-05-18",
-        "nomor_tanda_daftar": "000769.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1f46d8b38ad37e2c709ef7dcf5b2d76.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 570
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1103,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Commonwealth Website",
-        "website": "commbank.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK COMMONWEALTH",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000768.07/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7d5279a8108dd446289b1a2588ecabd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 701
       }
     }
   ]

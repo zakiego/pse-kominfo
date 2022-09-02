@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 12,
       "from": 111,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 120,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10733,
+      "attributes": {
+        "nomor_pb_umku": "812021123287500010001",
+        "nama": "BANKBIRU.COM",
+        "website": "bankbiru.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARI`AH RIF`ATUL UMMAH",
+        "tanggal_daftar": "2022-08-23",
+        "nomor_tanda_daftar": "007462.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52a0adac09ef2f53e0a179456120b2bf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10565
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10729,
+      "attributes": {
+        "nomor_pb_umku": "912020287057400010001",
+        "nama": "PT BANK PEMBIAYAAN RAKYAT SYARIAH METRO MADANI",
+        "website": "banksyariahmetromadani.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH METRO MADANI",
+        "tanggal_daftar": "2022-08-23",
+        "nomor_tanda_daftar": "007461.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5aac7f6c97ede82712e356ca3d2655a0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10561
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10732,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71b12ad4f56340e407234a08add95547.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10542
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10751,
-      "attributes": {
-        "nomor_pb_umku": "912020250155900010001",
-        "nama": "CASHCEPAT",
-        "website": "cashcepat.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ARTHA PERMATA MAKMUR",
-        "tanggal_daftar": "2022-08-24",
-        "nomor_tanda_daftar": "007447.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/64c805faf08859e84274c60eb157c153.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10581
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10786,
-      "attributes": {
-        "nomor_pb_umku": "912001920126100000001",
-        "nama": "ANTARA INVENTORY",
-        "website": "antarainventory.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANEKA TEKNOLOGI NUSANTARA",
-        "tanggal_daftar": "2022-08-24",
-        "nomor_tanda_daftar": "007446.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2614097a1a3d4d64a504adb09538c7a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10597
       }
     }
   ]

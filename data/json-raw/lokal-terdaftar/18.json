@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 19,
       "from": 181,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 190,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10611,
+      "attributes": {
+        "nomor_pb_umku": "912020740035100100001",
+        "nama": "TRIBUN-TIMUR.COM",
+        "website": "tribun-timur.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BOSOWA MEDIA GRAFIKA",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007374.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/106ecd03be4c6bed316dd2e2d6d96d8e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10446
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10609,
+      "attributes": {
+        "nomor_pb_umku": "912010270129200020008",
+        "nama": "TRIBUN-MEDAN.COM",
+        "website": "tribun-medan.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HARIAN TRIBUN MEDAN",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007373.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9cf21af9ede2e313e5a125338ffefdfb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10445
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10608,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62b2feb10ddfab4a900d69a6468ba478.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10437
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10606,
-      "attributes": {
-        "nomor_pb_umku": "020601003052300020001",
-        "nama": "INDONESIA RISK EXCHANGE",
-        "website": "IDRX.ID",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ARTHA DANA MANDIRI",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007363.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/937965012cd353183686be2bfbe5c1d1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10443
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10612,
-      "attributes": {
-        "nomor_pb_umku": "912030842014200020002",
-        "nama": "SURYAMALANG.COM",
-        "website": "suryamalang.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANTAR SURYA MEDIA",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007362.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aedc48f46a817f15af6798b5bdd3dc36.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10447
       }
     }
   ]

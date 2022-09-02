@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 643,
       "from": 6421,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6430,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3442,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi e-Procurement",
+        "website": "https://eproc.btn.co.id/webextranet/login.aspx",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+        "tanggal_daftar": "2022-03-07",
+        "nomor_tanda_daftar": "001813.22/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b84d843a5e9f69968d9f2f391c678914.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3188
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2954,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Supply Chain Financing",
+        "website": "scf.btn.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+        "tanggal_daftar": "2022-01-05",
+        "nomor_tanda_daftar": "001813.21/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11feb43b6c706d60765b09fd4051f6e6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1939
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2892,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mobile Banking BTN Syariah",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+        "tanggal_daftar": "2021-12-27",
+        "nomor_tanda_daftar": "001813.20/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/603f628e601f490c6da1f5f3cffe724c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1938
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2891,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/747787269c5c326f1ac1fd7e0cde45e7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1931
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2841,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BTN Smart Residence",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001813.11/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a5a7d3ca4cdcf8035ae4b2414124122.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1930
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2839,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BTN Properti Mobile",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001813.10/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d212dc5c74b59dc8cd05dc854417919c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1929
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2838,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BTN Credit Card Mobile",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001813.09/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dcd08b66ed85de28f497aa3774c33195.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1928
       }
     }
   ]

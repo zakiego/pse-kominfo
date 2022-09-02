@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 29,
       "from": 281,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 290,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10454,
+      "attributes": {
+        "nomor_pb_umku": "022030375229300010015",
+        "nama": "CITI CUSTOM REPORTING SYSTEM (CCRS)",
+        "website": "citidirect.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CITIBANK, N.A.",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "007283.14/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a264725d40eb2e3a0b2c1f8ffafea7a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10311
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10453,
+      "attributes": {
+        "nomor_pb_umku": "022030375229300010014",
+        "nama": "API SANDBOX",
+        "website": "citi.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CITIBANK, N.A.",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "007283.13/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c2054ad2b12a13d52913eb9e681d3987.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10310
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10452,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fca685594e32fe2daf76553a20b6f26c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10294
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10435,
-      "attributes": {
-        "nomor_pb_umku": "022030375229300010005",
-        "nama": "COMMERCIAL CARDS CITIMANAGER",
-        "website": "citidirect.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CITIBANK, N.A.",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007283.04/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fdd6ffdb06cc82ad3253e4f9baa62e61.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10292
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10433,
-      "attributes": {
-        "nomor_pb_umku": "022030375229300010004",
-        "nama": "CITIDIRECT SECURITIES",
-        "website": "citivelocity.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CITIBANK, N.A.",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007283.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/70767ee52f71f625e1bf268487497d62.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10290
       }
     }
   ]

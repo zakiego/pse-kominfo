@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 451,
       "from": 4501,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4510,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7243,
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020013",
+        "nama": "KB BUKOPIN REPORT PPOB",
+        "website": "ppob-report.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "003560.13/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4a696e6ea82894771936d1727130647.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7128
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7210,
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020012",
+        "nama": "KB BUKOPIN AGEN PPOB",
+        "website": "ppob-bayar.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "003560.12/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/53411d641c805e324cd5289d80f8f27e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7064
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7208,
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020011",
+        "nama": "KB BUKOPIN MANAGEMENT PPOB",
+        "website": "ppob-mitra.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "003560.11/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/037aabf5f8451ed664ad506b322435d7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7053
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6965,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11102714c342f2105b60581644f8170f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4849
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4980,
-      "attributes": {
-        "nomor_pb_umku": "124700022061900020003",
-        "nama": "B-TUNAI",
-        "website": "btunai.bukopin.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK KB BUKOPIN",
-        "tanggal_daftar": "2022-06-30",
-        "nomor_tanda_daftar": "003560.03/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37635b6522f635a90eaf3326f0c41e10.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4848
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4975,
-      "attributes": {
-        "nomor_pb_umku": "124700022061900020002",
-        "nama": "KB BUKOPIN SMS BANKING",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK KB BUKOPIN",
-        "tanggal_daftar": "2022-06-30",
-        "nomor_tanda_daftar": "003560.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a1392c94484edf9783f0c433ea40abde.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4842
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4964,
-      "attributes": {
-        "nomor_pb_umku": "124700022061900020001",
-        "nama": "KB BUKOPIN CASH MANAGEMENT",
-        "website": "newbcm.bukopin.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK KB BUKOPIN",
-        "tanggal_daftar": "2022-06-30",
-        "nomor_tanda_daftar": "003560.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f90f1d1eb70fb69960ef86c5f5702ff8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4832
       }
     }
   ]

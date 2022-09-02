@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 877,
       "from": 8761,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8770,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 902,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "D2D (Doctor to Doctor)",
+        "website": "https://d2d.co.id/",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "GLOBAL URBAN ESENSIAL",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000644.03/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/60adee0d86ebdedf0cd6d4f39305b7b2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3295
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 901,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Teman Diabetes",
+        "website": "https://www.temandiabetes.com/",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "GLOBAL URBAN ESENSIAL",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000644.02/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ecd87b8b1ab13eb6976699e4f5f2c49.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3294
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 804,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Teman Bumil",
+        "website": "temanbumil.com, temanbumil.co.id, temanbumil.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "GLOBAL URBAN ESENSIAL",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000644.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c615387a80632edaa95f22c28268e64e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3293
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1392,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71eebd7e3bf91544e0d60ead51a2bfb2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3291
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 800,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Importir.com",
-        "website": "Importir.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "EDRUS STRATEGI DIGITAL",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000640.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d95caebfb9bc9e89d99026339db0e075.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3290
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 799,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Pahlawan Pinjaman",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KOPERASI SIMPAN PINJAM SUKSES INTI TERDEPAN INDONESIA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000639.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9ecd7481a058da5afab2301b48b977bc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3289
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 797,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kunci Dana",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KOPERASI SIMPAN PINJAM SUKSES ANUGERAH BERSAMA INDONESIA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000638.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ab7098ad0ec74cf8557984ccbcdfa15.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3396
       }
     }
   ]

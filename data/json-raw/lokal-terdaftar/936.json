@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 937,
       "from": 9361,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9370,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 904,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SMOOA",
+        "website": "https://smooa.telkomsel.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000337.28/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/918003dd02673ebaf11f9451742115c9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4043
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 899,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FITA",
+        "website": "https://www.fitaapp.com/ dan https://www.myfita.com/ (new website, will redirect the traffic to this one)",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000337.27/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e7611ed731ca6588ee17d0f65c47481.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4042
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 896,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kuncie",
+        "website": "https://www.kuncie.com/ (main website) dan https://www.kuncie.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TELEKOMUNIKASI SELULAR",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000337.26/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f6cb9a796c366bcf88b3b3511f6f930e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4041
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 860,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7c54c6d203d27d089e1a876833207e7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4034
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 831,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TadeX",
-        "website": "https://www.tadex.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TELEKOMUNIKASI SELULAR",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000337.18/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7d8f32402611fed86e3617f84abc3e96.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4033
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 830,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Skul.id",
-        "website": "https://skul.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TELEKOMUNIKASI SELULAR",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000337.17/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/389910f680999b61c3cad3c4982391b5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4032
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 829,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KLOP!",
-        "website": "https://klop.co/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TELEKOMUNIKASI SELULAR",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000337.16/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/28d7640adfb54b8b9cef55d5e369a6a5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4031
       }
     }
   ]

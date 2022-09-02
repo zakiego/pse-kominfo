@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 617,
       "from": 6161,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6170,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3099,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Dapur solo web order",
+        "website": "www.dapursolo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DAPUR SOLO MUSTIKA NUSANTARA",
+        "tanggal_daftar": "2022-01-24",
+        "nomor_tanda_daftar": "001993.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6342e26164b233768ab5752eebc64cbd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2914
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3097,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT BINTANG MULYA SELATAN",
+        "website": "domain",
+        "sektor": "Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BINTANG MULYA SELATAN",
+        "tanggal_daftar": "2022-01-24",
+        "nomor_tanda_daftar": "001992.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/286e8f76e51198c77132194060c531c7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2107
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3096,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT. NAHDA MEGA ABADI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NAHDA MEGA ABADI",
+        "tanggal_daftar": "2022-01-23",
+        "nomor_tanda_daftar": "001991.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03472eac0c538e4242f2680806a7764f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2102
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8422,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0cdc61b332ac3370f9ec756f875f0b3e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5654
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3089,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Akseleran",
-        "website": "www.akseleran.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "AKSELERAN KEUANGAN INKLUSIF INDONESIA",
-        "tanggal_daftar": "2022-01-21",
-        "nomor_tanda_daftar": "001986.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ad913675abd20d26f5f0309753c57dc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2084
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3088,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Daun tech indo",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RT/RW INTERNET",
-        "tanggal_daftar": "2022-01-21",
-        "nomor_tanda_daftar": "001985.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4d60caad39bbcfd52d98889b2a2a934.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2098
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3086,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "plesiran transportasi",
-        "website": "www.plesiran.co",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "PLESIRAN DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-01-21",
-        "nomor_tanda_daftar": "001984.02/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a9d8089697f1f1cb94d80cdbbb2f4ff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2097
       }
     }
   ]

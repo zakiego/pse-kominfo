@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 10,
       "from": 91,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 100,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10837,
+      "attributes": {
+        "nomor_pb_umku": "912030997310500030003",
+        "nama": "GAJI CERMAT",
+        "website": "gajicermat.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GAJICERMAT MANDIRI DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-08-26",
+        "nomor_tanda_daftar": "007488.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/350a82428ad2f0cc2283e9d81e647bed.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10647
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10792,
+      "attributes": {
+        "nomor_pb_umku": "028900093128300010001",
+        "nama": "BPR DAYA PERDANA NUSANTARA",
+        "website": "bprperdana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DAYA PERDANA NUSANTARA",
+        "tanggal_daftar": "2022-08-24",
+        "nomor_tanda_daftar": "007487.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b68822beed19b58b6e19f4faca4d228.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10604
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10784,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8ecaf31c108a3b5acfddf23ed0c391b0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10579
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10746,
-      "attributes": {
-        "nomor_pb_umku": "240822001564200000001",
-        "nama": "PT. BPR ARTHA PAMENANG",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARTHA PAMENANG",
-        "tanggal_daftar": "2022-08-24",
-        "nomor_tanda_daftar": "007476.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c6815f25ce9c6961c33363f132a3c76f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10576
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10795,
-      "attributes": {
-        "nomor_pb_umku": "050822000583100010001",
-        "nama": "WOGI",
-        "website": "wogi.sg",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "WOGI SERVICES INDONESIA",
-        "tanggal_daftar": "2022-08-24",
-        "nomor_tanda_daftar": "007475.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b77232a3d208d469847181bfc15a76f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10605
       }
     }
   ]

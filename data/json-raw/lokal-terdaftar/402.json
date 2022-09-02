@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 403,
       "from": 4021,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4030,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5414,
+      "attributes": {
+        "nomor_pb_umku": "812001104192600050002",
+        "nama": "HTTPS://USAHA.CO.ID/",
+        "website": "usaha.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CEKINDO BUSINESS INTERNATIONAL",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "004058.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/32441ba32e303d85fe6d394ad4f927e5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5287
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5413,
+      "attributes": {
+        "nomor_pb_umku": "812001104192600050001",
+        "nama": "HTTPS://CEKINDOBUSINESSCENTER.COM/",
+        "website": "cekindobusinesscenter.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CEKINDO BUSINESS INTERNATIONAL",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "004058.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/99459dad6d3d83eac201865f45439596.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5286
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5499,
+      "attributes": {
+        "nomor_pb_umku": "812020596267900000001",
+        "nama": "GOWORK COWORKING OFFICE SPACE",
+        "website": "go-work.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KOLABORASI GLOBAL SUKSES",
+        "tanggal_daftar": "2022-07-13",
+        "nomor_tanda_daftar": "004055.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a4b1ef037fb3ae05d57939d6a496236.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5364
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5524,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a95a68c3b74ef2e6b4f47b40dc6624b9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5915
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8614,
-      "attributes": {
-        "nomor_pb_umku": "912011013207400010005",
-        "nama": "SIJITU",
-        "website": "sijitu.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PEMBAYARAN LINTAS USAHA SUKSES",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "004049.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d42e3a3adae283f2e856d1e5b74674b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8532
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8180,
-      "attributes": {
-        "nomor_pb_umku": "912011013207400010004",
-        "nama": "KASIR.ID",
-        "website": "kasir.id",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PEMBAYARAN LINTAS USAHA SUKSES",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004049.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33f932795b14a2bc98da9dbbb6382f1a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8096
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5658,
-      "attributes": {
-        "nomor_pb_umku": "912011013207400010003",
-        "nama": "TAGIH.ID",
-        "website": "tagih.id",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PEMBAYARAN LINTAS USAHA SUKSES",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "004049.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63e41568c662ac5035765f265855b474.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5518
       }
     }
   ]

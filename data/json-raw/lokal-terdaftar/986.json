@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 987,
       "from": 9861,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9870,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4318,
+      "attributes": {
+        "nomor_pb_umku": "912050089380600020002",
+        "nama": "FULUSME.ID",
+        "website": "fulusme.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FINTEK ANDALAN SOLUSI TEKNOLOGI",
+        "tanggal_daftar": "2022-06-10",
+        "nomor_tanda_daftar": "000113.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a78fba54e68f32ea69471f872f1c9947.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4311
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 124,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FuLusme",
+        "website": "www.fulusme.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FINTEK ANDALAN SOLUSI TEKNOLOGI",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000113.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d45b2d668683d0a0534c27f96002781.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2565
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 123,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Rantau",
+        "website": "www.rantau.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RANTAU DIGITAL NUSANTARA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000112.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dec075854d897fefaf7e839f629e7a8b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2512
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 122,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01541a8120b670ea87e5521ba55dcf88.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2561
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 359,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Transmedika Telemedicine",
-        "website": "https://transindodata.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRANSINDO DATA PERKASA",
-        "tanggal_daftar": "2021-03-10",
-        "nomor_tanda_daftar": "000106.03/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d87601d8ca4f274b7a1abb72f0f62145.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2552
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 117,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Transmedic SIMRS",
-        "website": "https://transindodata.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRANSINDO DATA PERKASA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000106.02/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ef4990b6d5f25bd4b5a0b8a707b19fa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2551
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 116,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Transmedic Telemedicine",
-        "website": "https://transindodata.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRANSINDO DATA PERKASA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000106.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3056d87f6a837bfee52a06109557c546.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2550
       }
     }
   ]

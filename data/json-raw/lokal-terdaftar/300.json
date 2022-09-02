@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 301,
       "from": 3001,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3010,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6415,
+      "attributes": {
+        "nomor_pb_umku": "027900092245100000002",
+        "nama": "SEKOLAHMODERN",
+        "website": "sekolahmodern.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEQODE RETHA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004703.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3fea8810885ff2131b533e0b2117b819.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6279
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6406,
+      "attributes": {
+        "nomor_pb_umku": "027900092245100000001",
+        "nama": "ABSEN AJA",
+        "website": "absenaja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEQODE RETHA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004703.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f0841151f7ddb116a429a586ce734e9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6269
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6402,
+      "attributes": {
+        "nomor_pb_umku": "027900092245100000001",
+        "nama": "SEKOLAH MODERN",
+        "website": "sekolahmodern.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEQODE RETHA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004703.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9484e1438832df0a997c863024ce1534.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6265
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8813,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a1e19e3d55232f11c76843717cc32c35.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8527
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6403,
-      "attributes": {
-        "nomor_pb_umku": "180722003550100000001",
-        "nama": "TOPUP KUOTA",
-        "website": "topupkuota.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NDAN BABAN SOBANA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004697.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dfd223e001b884f38a747f30a1411b44.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6264
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8846,
-      "attributes": {
-        "nomor_pb_umku": "912050618203500010004",
-        "nama": "INDAHLOGISTIK",
-        "website": "indahlogistik.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDAH LOGISTIK",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "004696.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/deff81e76b2bc3eb0417a5e2b29bb571.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8754
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8840,
-      "attributes": {
-        "nomor_pb_umku": "912050618203500010003",
-        "nama": "MARKETINGINDAHLOGISTIK.COM",
-        "website": "marketingindahlogistik.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDAH LOGISTIK",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "004696.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/49554065250eeba7f70f6dbac5741901.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8747
       }
     }
   ]

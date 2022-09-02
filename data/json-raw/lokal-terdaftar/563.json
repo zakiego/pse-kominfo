@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 564,
       "from": 5631,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5640,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5601,
+      "attributes": {
+        "nomor_pb_umku": "912020362154300020016",
+        "nama": "JITU SSSS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PRAWEDA CIPTAKARSA INFORMATIKA",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "002374.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/75bf05e08aed5e016ccd732181fef628.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5469
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5595,
+      "attributes": {
+        "nomor_pb_umku": "912020362154300020015",
+        "nama": "JITU RTGS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PRAWEDA CIPTAKARSA INFORMATIKA",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "002374.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7da7a2ded66124d05e3d3f12e76e326a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5463
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3640,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kocequ",
+        "website": "kocequ.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PRAWEDA CIPTAKARSA INFORMATIKA",
+        "tanggal_daftar": "2022-03-24",
+        "nomor_tanda_daftar": "002374.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52d94d9a21a7b8573069324acfb97669.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3662
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3639,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ecd9481b61a3772831c9bcdb3be9a64.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3639
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3637,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Salyns",
-        "website": "prosa.ai",
-        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Kesehatan, Sektor Keuangan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "PROSA SOLUSI CERDAS",
-        "tanggal_daftar": "2022-03-24",
-        "nomor_tanda_daftar": "002371.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f51c99d74044649535a661d85a61c550.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3638
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3651,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DHP DIGITAL",
-        "website": "www.dhp.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DHP DIGITAL TEKNOLOGI",
-        "tanggal_daftar": "2022-03-25",
-        "nomor_tanda_daftar": "002370.02/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a1f3f3d9238f9ba619a482641bd1d837.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3621
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3634,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DHP",
-        "website": "www.dhp.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DHP DIGITAL TEKNOLOGI",
-        "tanggal_daftar": "2022-03-24",
-        "nomor_tanda_daftar": "002370.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ad9b72d1ce2f7402ad6ebf1131ec318.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3620
       }
     }
   ]

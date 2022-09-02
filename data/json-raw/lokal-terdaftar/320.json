@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 321,
       "from": 3201,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3210,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6835,
+      "attributes": {
+        "nomor_pb_umku": "912030593192500010003",
+        "nama": "WEBSITE BPR INDRA",
+        "website": "bprindra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT INDRA CANDRA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004579.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0697a0bfa18aabedf6cf98cae9bc3739.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6665
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6283,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "EDC",
+        "website": "BPRINDRA.COM",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT INDRA CANDRA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004579.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d6ed573f64b778d91d768343ffe4b8ee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6143
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6249,
+      "attributes": {
+        "nomor_pb_umku": "912030593192500010001",
+        "nama": "INDRA MOBILE",
+        "website": "bprindra.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT INDRA CANDRA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004579.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42f6382ec1c72eb94bd7f0b6a38db187.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6110
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7770,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57eec3071416cb9c94970b9bcd4af026.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6031
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6162,
-      "attributes": {
-        "nomor_pb_umku": "022000478018900010001",
-        "nama": "WEBSITE BANK TRITUNGGAL",
-        "website": "bprtritunggal.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT TRITUNGGAL",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004571.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b2ca792844f5baa4176d07c1b0f51e38.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6033
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6166,
-      "attributes": {
-        "nomor_pb_umku": "912000477207900010001",
-        "nama": "BPRSEMERU",
-        "website": "bprsemeru.com",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SEMERU",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004570.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5783b2440219638839bc78141baee22b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6037
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6228,
-      "attributes": {
-        "nomor_pb_umku": "912031306155400000001",
-        "nama": "WEBSITE BP LAWYERS",
-        "website": "bplawyers.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BP LAWYERS",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004569.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a6c1ef096195373a2d0377f43b87d2fd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6094
       }
     }
   ]

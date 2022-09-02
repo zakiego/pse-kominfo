@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 30,
       "from": 291,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 300,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10435,
+      "attributes": {
+        "nomor_pb_umku": "022030375229300010005",
+        "nama": "COMMERCIAL CARDS CITIMANAGER",
+        "website": "citidirect.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CITIBANK, N.A.",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "007283.04/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fdd6ffdb06cc82ad3253e4f9baa62e61.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10292
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10433,
+      "attributes": {
+        "nomor_pb_umku": "022030375229300010004",
+        "nama": "CITIDIRECT SECURITIES",
+        "website": "citivelocity.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CITIBANK, N.A.",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "007283.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/70767ee52f71f625e1bf268487497d62.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10290
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10431,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7709c990feb73e8acf432e8c321bd68.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10401
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10390,
-      "attributes": {
-        "nomor_pb_umku": "812021314113400010005",
-        "nama": "WWW.OTOSIA.COM",
-        "website": "otosia.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KAPAN LAGI DOT COM NETWORKS",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007277.05/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d3e09cc6e82a9e7f1a652ef217d8ff2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10248
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10386,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "WWW.FIMELA.COM",
-        "website": "fimela.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KAPAN LAGI DOT COM NETWORKS",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "007277.04/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0270e6f4eeef1268ff34e317785ab331.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10243
       }
     }
   ]

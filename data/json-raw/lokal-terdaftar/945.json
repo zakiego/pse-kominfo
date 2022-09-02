@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 946,
       "from": 9451,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9460,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 383,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REDKENDI",
+        "website": "www.redkendi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "REDKENDI ANDALAN MITRA",
+        "tanggal_daftar": "2021-03-15",
+        "nomor_tanda_daftar": "000311.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2cd8c9051618b8766e821386d8ecd3b3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 140
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4571,
+      "attributes": {
+        "nomor_pb_umku": "912040980232100000001",
+        "nama": "WILKA STORE",
+        "website": "wilkastore.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
+        "nama_perusahaan": "WILKA ENERGI SOLUSI",
+        "tanggal_daftar": "2022-06-16",
+        "nomor_tanda_daftar": "000310.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/54b142284c7d369e3403547c35bb26a0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4535
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4299,
@@ -24,6 +56,22 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3519dc1c39fbf89d5e10042fc0dd8e6a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4292
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4577,
+      "attributes": {
+        "nomor_pb_umku": "912040980232100000001",
+        "nama": "WILKASTORE.CO.ID",
+        "website": "wilkapower.com",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
+        "nama_perusahaan": "WILKA ENERGI SOLUSI",
+        "tanggal_daftar": "2022-06-17",
+        "nomor_tanda_daftar": "000310.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f708734f3f2ca044a5475edb1e0581be.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4534
       }
     },
     {
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6119223c5ff7c72951de02089694a21c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 161
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 377,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DANA KU",
-        "website": "Http://www.danaku.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMPAN PINJAM DANA PANDAWA LIMA",
-        "tanggal_daftar": "2021-03-15",
-        "nomor_tanda_daftar": "000308.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d55eed8e3f0d53a2ca07db3d6c59e273.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 143
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4297,
-      "attributes": {
-        "nomor_pb_umku": "250422004020500020002",
-        "nama": "RINGKAS.",
-        "website": "ringkas.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RINGKAS ASIA TECHNOLOGY",
-        "tanggal_daftar": "2022-06-08",
-        "nomor_tanda_daftar": "000307.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eee23a3348551567277200872badf2cf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4290
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4295,
-      "attributes": {
-        "nomor_pb_umku": "250422004020500020001",
-        "nama": "RINGKAS",
-        "website": "ringkas.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RINGKAS ASIA TECHNOLOGY",
-        "tanggal_daftar": "2022-06-08",
-        "nomor_tanda_daftar": "000307.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8aee64b875aeb0b239e8435bcc01d792.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4289
       }
     }
   ]

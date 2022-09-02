@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 809,
       "from": 8081,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8090,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1329,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Viciscore",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VERIFIKASI INFORMASI CREDIT INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000886.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/96a58f9796f730f273be3e5716a69394.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 955
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7186,
+      "attributes": {
+        "nomor_pb_umku": "912010214275200010002",
+        "nama": "WEBSITE PT BANK JAGO TBK",
+        "website": "jago.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK JAGO",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000885.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee4c616720ac2b0cf706d1c4864c9ee9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7067
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1328,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Jago",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK JAGO",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000885.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/996788522f1834a591ccac804798bd7c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 934
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1326,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0cb910085b60288a36c52e80a569866.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 975
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1311,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Digital Korlantas",
-        "website": "digitalkorlantas.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINTAS TJIPTA SOLUSI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000877.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fca54111d1c96a11e695695a7beb820f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 714
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1310,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LinkAja",
-        "website": "https://www.linkaja.id/",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FINTEK KARYA NUSANTARA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000876.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e3ae2f0af4d3ba62b457ef9f5f991861.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 119
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1332,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ESOP TIKET",
-        "website": "https://tiket.bcasekuritas.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BCA SEKURITAS",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000875.07/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d493b9ead86da9ddaeb5128a508a0c2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 942
       }
     }
   ]

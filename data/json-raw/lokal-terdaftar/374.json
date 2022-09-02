@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 375,
       "from": 3741,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3750,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5789,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "E-BANKING BPR SUPRA",
+        "website": "ibprsupra.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004223.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c332f096c49909167e8afd6b27592b3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5652
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9919,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBSITE MANDALA FINANCE",
+        "website": "mandalafinance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDALA MULTIFINANCE",
+        "tanggal_daftar": "2022-08-05",
+        "nomor_tanda_daftar": "004222.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/022682ba1494459891ca196db525dd17.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9806
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9876,
+      "attributes": {
+        "nomor_pb_umku": "812010492112800230002",
+        "nama": "WEBSITE MITRA MANDALA FINANCE",
+        "website": "partner.mantis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDALA MULTIFINANCE",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "004222.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ddadf80c2ce0381abe4269f7ec0af10d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9762
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9281,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17f9b9c07394378ef364fd4570ac026f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6667
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6371,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010020",
-        "nama": "VENDOR MANAGEMENT SYSTEM",
-        "website": "vms.bankjatim.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.20/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cbc8eb5e6fad879a6a6735a701aad6d4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6233
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6367,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010019",
-        "nama": "MARKETING ACTION PROGRAM (MAP)",
-        "website": "map.bankjatim.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.19/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1e72ee592ab2b32509528cc0807d16a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6232
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6365,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010018",
-        "nama": "E-MAIL BANK JATIM",
-        "website": "mail.bankjatim.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.18/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b35005adebe250bb8718d198f261371a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6228
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 562,
       "from": 5611,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5620,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3663,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Popo Delivery",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_perusahaan": "DEDY HARTANTO",
+        "tanggal_daftar": "2022-03-27",
+        "nomor_tanda_daftar": "002383.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6d3ae22b17dccfc6393af2d7d45fe83.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3626
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3662,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CRABB",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MULTI MANDIRI CENTER",
+        "tanggal_daftar": "2022-03-26",
+        "nomor_tanda_daftar": "002382.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/85056e907498bcf5826b4f0652aa4fee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3624
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3660,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CPulsa",
+        "website": "cpulsa.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CPULSA PAY TEKNOLOGI",
+        "tanggal_daftar": "2022-03-26",
+        "nomor_tanda_daftar": "002381.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c000cd19b668fd46b3cd200c87f0e8de.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3610
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3724,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c00e579da8d8b2f1c441868862e01440.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3663
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4359,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Informasi Manajemen Continuous Auditing Continuous Monitoring (SIM-CACM)",
-        "website": "lkpp.go.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AIDAN CONSULTANCY SERVICES",
-        "tanggal_daftar": "2022-05-17",
-        "nomor_tanda_daftar": "002377.06/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca916cc56236dade790672a7bd5a4bdb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4345
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4358,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Jasa Konsultansi Badan Usaha Pengembangan Sistem Informasi Manajemen Continuous Auditing Continuous Monitoring",
-        "website": "www.lkpp.go.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AIDAN CONSULTANCY SERVICES",
-        "tanggal_daftar": "2022-05-17",
-        "nomor_tanda_daftar": "002377.05/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63cd9ab651923c2abe536463355c4c21.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4344
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3701,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Informasi Manajemen Terintegrasi",
-        "website": "www.aidancs.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AIDAN CONSULTANCY SERVICES",
-        "tanggal_daftar": "2022-03-29",
-        "nomor_tanda_daftar": "002377.04/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3a97be00e181a758b84ad9166d5721af.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3655
       }
     }
   ]

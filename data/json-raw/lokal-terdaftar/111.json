@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 112,
       "from": 1111,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 1120,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9118,
+      "attributes": {
+        "nomor_pb_umku": "022010913381700000002",
+        "nama": "SERBADA",
+        "website": "serbada.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ARKADIA DIGITAL MEDIA",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006357.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c2c1afe71267beee0fc38ca32b51810.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9027
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9105,
+      "attributes": {
+        "nomor_pb_umku": "022010913381700000001",
+        "nama": "ARKADIA.ME",
+        "website": "arkadia.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ARKADIA DIGITAL MEDIA",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006357.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b85a1529380f58f93aeb31304789203b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9014
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9226,
+      "attributes": {
+        "nomor_pb_umku": "190722003963300010001",
+        "nama": "OPAYKLIK.ID",
+        "website": "opayklik.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DIGITAL MULTI INOVASI",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006356.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c088e943c9532215803734bd67ddc6c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9139
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9047,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3666144ddd65275517bce1520511a7dd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8984
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9357,
-      "attributes": {
-        "nomor_pb_umku": "129100021072900020001",
-        "nama": "WEBSITE PT BPR NBP 14",
-        "website": "bprnbp14.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 14",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "006349.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d02203c7dbea1e01de2fe677fbfa4667.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9269
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9054,
-      "attributes": {
-        "nomor_pb_umku": "912010289021300010001",
-        "nama": "BPRDCM",
-        "website": "bprdcm.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANA CENTRAL MULIA",
-        "tanggal_daftar": "2022-07-26",
-        "nomor_tanda_daftar": "006345.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/60f9fc36cdb0231d6ee2f55461dbd93d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8964
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9136,
-      "attributes": {
-        "nomor_pb_umku": "912001208341800000001",
-        "nama": "WOILO",
-        "website": "woilo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KARYA DIGITAL INDO",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006344.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a229c7b2d5b37a39dfce2c6cf198f37b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9043
       }
     }
   ]

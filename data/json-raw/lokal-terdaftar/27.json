@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 28,
       "from": 271,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 280,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10425,
+      "attributes": {
+        "nomor_pb_umku": "912020777074700010001",
+        "nama": "SCANBARCODE EFAKTUR",
+        "website": "barcodefaktur.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "IDEMAS SOLUSINDO SENTOSA",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "007292.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eae062e60ef86ba08ed16b599308fcad.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10282
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10415,
+      "attributes": {
+        "nomor_pb_umku": "050822002990500000001",
+        "nama": "ISLAMIC BANKING APPLICATION",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH CARANA KIAT ANDALAS",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "007291.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f59e294e8f745a3b778f946e35c431c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10273
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10409,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/49cde5cf4486ee3dce061810a478d7b4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10312
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10454,
-      "attributes": {
-        "nomor_pb_umku": "022030375229300010015",
-        "nama": "CITI CUSTOM REPORTING SYSTEM (CCRS)",
-        "website": "citidirect.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CITIBANK, N.A.",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007283.14/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a264725d40eb2e3a0b2c1f8ffafea7a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10311
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10453,
-      "attributes": {
-        "nomor_pb_umku": "022030375229300010014",
-        "nama": "API SANDBOX",
-        "website": "citi.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CITIBANK, N.A.",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007283.13/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c2054ad2b12a13d52913eb9e681d3987.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10310
       }
     }
   ]

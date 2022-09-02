@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 389,
       "from": 3881,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3890,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6066,
+      "attributes": {
+        "nomor_pb_umku": "912000569164400000001",
+        "nama": "WABLAS",
+        "website": "wablas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TIGA MANUNGGAL TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004150.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d5329d67ef0ab5f165b1593eeed170b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5936
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5600,
+      "attributes": {
+        "nomor_pb_umku": "912030914284400010002",
+        "nama": "WEBSITE",
+        "website": "sfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SUZUKI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004149.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac730d72cbd200ab694e76e1335b2be4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5467
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5548,
+      "attributes": {
+        "nomor_pb_umku": "912030914284400010001",
+        "nama": "SUFI SMART",
+        "website": "sfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SUZUKI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004149.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12ab2c8909240b5266f45f498cdecc19.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5413
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5547,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2f2b0bfffeb44049a35563c41cc510e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10530
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10695,
-      "attributes": {
-        "nomor_pb_umku": "912001108163900010021",
-        "nama": "CESSA NATURAL",
-        "website": "cessanatural.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HYPEFAST KARYA NUSANTARA",
-        "tanggal_daftar": "2022-08-26",
-        "nomor_tanda_daftar": "004142.20/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5625308ffd1cbd9e9d91e24364acdb1b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10529
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10693,
-      "attributes": {
-        "nomor_pb_umku": "912001108163900010020",
-        "nama": "BOHOPANNA EUROPE",
-        "website": "bohopannaeurope.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HYPEFAST KARYA NUSANTARA",
-        "tanggal_daftar": "2022-08-26",
-        "nomor_tanda_daftar": "004142.19/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd8ec159615de1ac23c43f607b9f47b9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10526
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10692,
-      "attributes": {
-        "nomor_pb_umku": "912001108163900010019",
-        "nama": "BOHOPANNA",
-        "website": "bohopanna.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HYPEFAST KARYA NUSANTARA",
-        "tanggal_daftar": "2022-08-26",
-        "nomor_tanda_daftar": "004142.18/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e6f1e77f82c1a0de1a75c3f2ad21599.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10525
       }
     }
   ]

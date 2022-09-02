@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 43,
       "from": 421,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 430,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10252,
+      "attributes": {
+        "nomor_pb_umku": "812010190298200010001",
+        "nama": "QUICKPRO MOBILE APPS",
+        "website": "foreximf.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INTERNATIONAL MITRA FUTURES",
+        "tanggal_daftar": "2022-08-12",
+        "nomor_tanda_daftar": "007130.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6fe31d1518501b3b382732f5faca60c9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10133
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10176,
+      "attributes": {
+        "nomor_pb_umku": "912000219177900010001",
+        "nama": "GO BALI CORE BANKING SISTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MAMBAL",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "007127.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1bcf5a7f43f01320ff3cae59cddb19bd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10056
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10156,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b945299839651e639b31856c7cce4bf.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10082
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10150,
-      "attributes": {
-        "nomor_pb_umku": "051221000872500040001",
-        "nama": "RAYYA TOUR & TRAVEL",
-        "website": "kangaab.my.id",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ALFA KURNIA HASANAH",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "007115.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/25682bdf218c6acb7e689e83dd79618d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10031
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10265,
-      "attributes": {
-        "nomor_pb_umku": "812000277128600010001",
-        "nama": "COOKPAD",
-        "website": "cookpad.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "COOKPAD DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "007113.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1818076eacd43149b4dcb0a46ce17c5d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10135
       }
     }
   ]

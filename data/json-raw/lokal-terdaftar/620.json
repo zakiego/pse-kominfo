@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 621,
       "from": 6201,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6210,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3056,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Stockbit Online Trading",
+        "website": "https://www.stockbit.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "STOCKBIT SEKURITAS DIGITAL",
+        "tanggal_daftar": "2022-01-17",
+        "nomor_tanda_daftar": "001958.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dadd7c6418c52b92dfa413caedde2619.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2848
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3055,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRINS Mobile",
+        "website": "brinsaman.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BRI ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-01-17",
+        "nomor_tanda_daftar": "001957.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b44e4d4573386159cfbfb62b91259461.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1751
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3053,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SISTEM ELEKTRONIK PT ARDWEBHOST ZAHIRA MEDIA",
+        "website": "https://ardwebhost.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ARDWEBHOST ZAHIRA MEDIA",
+        "tanggal_daftar": "2022-01-15",
+        "nomor_tanda_daftar": "001956.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/32b3afbb09eb1dac30ca437931bbff21.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2072
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3052,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5b10688d0ada04280e091dc0d97526af.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2058
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3043,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kmart",
-        "website": "k-mart.co.id",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
-        "nama_perusahaan": "AKADEMI INSPIRADZI INDONESIA",
-        "tanggal_daftar": "2022-01-13",
-        "nomor_tanda_daftar": "001948.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4824e66436f782e56da61ec1948c4698.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2061
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3042,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Taunyaprofit99",
-        "website": "taunyaprofit99.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TUKANG JAGA LILIN",
-        "tanggal_daftar": "2022-01-13",
-        "nomor_tanda_daftar": "001947.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/94584f08cb4bf35e776159ec04965092.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2050
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3041,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "POJOK TIMES",
-        "website": "www.pojoktimes.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "POJOK BATAM DIGITAL",
-        "tanggal_daftar": "2022-01-13",
-        "nomor_tanda_daftar": "001946.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3622ff9876f23f8097ac7a348aaaca4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3392
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 883,
       "from": 8821,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8830,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1221,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Otowreck",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI ASTRA BUANA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000620.09/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/99fe290c2a1d28221db6e877f74d4b0d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2586
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 798,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HR-Akses",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI ASTRA BUANA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000620.08/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01bff096ae601db0d3b1f18d0304f043.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2585
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 796,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CR-Akses",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI ASTRA BUANA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000620.07/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca608f67b9e682c512a58062e5d0e15a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2584
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 795,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/60f9753e4d5eb06ffbeccb1cb4aba4ef.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 396
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 765,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PINTRO",
-        "website": "pintro.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDOGLOBAL NUSA PERSADA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000618.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b96e16e434c4c7b9d2a00d4d34198ca0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 538
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7756,
-      "attributes": {
-        "nomor_pb_umku": "125700021039700000001",
-        "nama": "E-RIKKES SIM",
-        "website": "erikkes.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CENTRAL ASESMEN INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000617.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1aa09012aa5ccf060bc9fe6d5a4563d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7669
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 764,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ePPSI SIM (e Pengujian Psikologi SIM)",
-        "website": "https://app.eppsi.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CENTRAL ASESMEN INDONESIA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000617.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37154e859ca224fb07f630cd623c0764.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 509
       }
     }
   ]

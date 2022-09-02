@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 931,
       "from": 9301,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9310,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7471,
+      "attributes": {
+        "nomor_pb_umku": "123300014256400020005",
+        "nama": "GROUP HEALTH PIC REPORTING",
+        "website": "health.hanwhalife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000359.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45429e57c844de85b890c713c9168b3e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7363
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7409,
+      "attributes": {
+        "nomor_pb_umku": "123300014256400020004",
+        "nama": "E-SUBMISSION",
+        "website": "registrasi.hanwhalife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000359.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/695ceddae312fdadbbd0700a175743a4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7305
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7373,
+      "attributes": {
+        "nomor_pb_umku": "123300014256400020003",
+        "nama": "CORPORATE WEB PT HANWHA LIFE INSURANCE INDONESIA",
+        "website": "hanwhalife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000359.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5746dc77fa2b7427d3e0d75899748695.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7269
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7336,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b8ad9009f28bb4ee25c9d59218710fd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2513
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10010,
-      "attributes": {
-        "nomor_pb_umku": "912000224055700040001",
-        "nama": "SOMETHINC",
-        "website": "somethinc.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BEAUTE HAUL INDONESIA",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "000355.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8eb048e8006f170392437414273095f6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9714
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 434,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BeautyHaul",
-        "website": "www.beautyhaul.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BEAUTE HAUL INDONESIA",
-        "tanggal_daftar": "2021-04-09",
-        "nomor_tanda_daftar": "000355.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/23eec80778e74ed9d414bf646b58c480.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2782
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4333,
-      "attributes": {
-        "nomor_pb_umku": "912040779110200020001",
-        "nama": "LAKUEMAS",
-        "website": "lakuemas.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "LAKU EMAS INDONESIA",
-        "tanggal_daftar": "2022-06-13",
-        "nomor_tanda_daftar": "000354.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ceef130f524012db3a2b3ddd760c289.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4320
       }
     }
   ]

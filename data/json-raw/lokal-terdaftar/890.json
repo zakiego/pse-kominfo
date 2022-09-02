@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 891,
       "from": 8901,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8910,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 701,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SUPERMAMA",
+        "website": "www.supermama.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SUPERMAMA KARYA INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000567.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df6d7593088d3293dd302214ff80faff.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 380
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 699,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Eloza",
+        "website": "https://eloza.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "EXRUSH DIGITAL NUSANTARA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000566.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4cdfdb8ae353ffce68ca672203ed0054.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 498
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6099,
+      "attributes": {
+        "nomor_pb_umku": "912031209082500010001",
+        "nama": "PINJAMYUK",
+        "website": "pinjamyuk.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KUAIKUAI TECH INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000565.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/449c33af57e3a387fae6fbc942a8d518.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5210
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 696,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa44e4254ed2948b53d8c65e1ceb0c40.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 477
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 693,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MIS",
-        "website": "https://amartha.id/mis/#/login",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AMARTHA MIKRO FINTEK",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000563.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3ea83505bebbe0a1e2025ac80648b65.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 476
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1676,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "koin-master",
-        "website": "www.koin-master.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INDO FINTEK DIGITAL",
-        "tanggal_daftar": "2021-07-08",
-        "nomor_tanda_daftar": "000562.02/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c178d25670609d4bf672c6304fbcf502.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 218
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 692,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MODAL USAHA",
-        "website": "www.modalusaha.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INDO FINTEK DIGITAL",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000562.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8647b287229f96b78c3512053cbb5893.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 217
       }
     }
   ]

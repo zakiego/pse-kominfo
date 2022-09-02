@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 322,
       "from": 3211,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3220,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6162,
+      "attributes": {
+        "nomor_pb_umku": "022000478018900010001",
+        "nama": "WEBSITE BANK TRITUNGGAL",
+        "website": "bprtritunggal.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT TRITUNGGAL",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004571.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b2ca792844f5baa4176d07c1b0f51e38.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6033
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6166,
+      "attributes": {
+        "nomor_pb_umku": "912000477207900010001",
+        "nama": "BPRSEMERU",
+        "website": "bprsemeru.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SEMERU",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004570.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5783b2440219638839bc78141baee22b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6037
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6228,
+      "attributes": {
+        "nomor_pb_umku": "912031306155400000001",
+        "nama": "WEBSITE BP LAWYERS",
+        "website": "bplawyers.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BP LAWYERS",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004569.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a6c1ef096195373a2d0377f43b87d2fd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6094
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6188,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/344d968720e38d86e6089ae79c7ed958.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6017
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8725,
-      "attributes": {
-        "nomor_pb_umku": "912000952259500000012",
-        "nama": "ADAMQUE",
-        "website": "-",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "004561.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7ac5208321920139c9704cfd7afa5b5e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8643
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8720,
-      "attributes": {
-        "nomor_pb_umku": "912000952259500000011",
-        "nama": "ADAMEDSPRO",
-        "website": "-",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "004561.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8095e427d662aba8058bbc9c33975ad9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8637
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8683,
-      "attributes": {
-        "nomor_pb_umku": "912000952259500000010",
-        "nama": "SERVICE.PERIKSAIN.ID",
-        "website": "service.periksain.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "004561.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24105990ddaa46944b39389a939f8be8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8602
       }
     }
   ]

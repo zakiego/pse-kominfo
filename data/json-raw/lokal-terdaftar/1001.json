@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 1002,
       "from": 10011,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 10020,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 17,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pendaftaran Konsultan/Member dan Pemesanan & Pembelian Barang Online",
+        "website": "https://www.jafra.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JAFRA COSMETICS INDONESIA",
+        "tanggal_daftar": "2021-02-20",
+        "nomor_tanda_daftar": "000016.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1fede62fde5f23742043edb96dec2cbf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2365
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1997,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ASAKITA",
+        "website": "www.asakita.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DIGITRON SOLUSI INDONESIA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "000015.02/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0740d655ab1e6203c27500e6dc2daa9f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2305
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 16,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ASAKITA",
+        "website": "www.asakita.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DIGITRON SOLUSI INDONESIA",
+        "tanggal_daftar": "2021-02-20",
+        "nomor_tanda_daftar": "000015.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9735cd9723843356217e35130b05b9e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2304
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6839,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/370d38842cd0d862f20047fee9f6cd0a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2341
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1532,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ZeniusLand",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ZONA EDUKASI NUSANTARA",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "000012.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f61770142632a2d12e35c966eb0ec277.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2340
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 13,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Zenius.net dan Aplikasi Mobile Zenius Belajar online",
-        "website": "www.zenius.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ZONA EDUKASI NUSANTARA",
-        "tanggal_daftar": "2021-02-19",
-        "nomor_tanda_daftar": "000012.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/844f7f0a98e011ffc0afa8b90870bd25.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2339
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ctrip360.com",
-        "website": "www.ctrip360.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CTRIP TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2021-02-18",
-        "nomor_tanda_daftar": "000011.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d987de26c62ac6219157dee4ca0a69da.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2368
       }
     }
   ]

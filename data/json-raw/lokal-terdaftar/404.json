@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 405,
       "from": 4041,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4050,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10199,
+      "attributes": {
+        "nomor_pb_umku": "912030169218300020003",
+        "nama": "FSA",
+        "website": "sedana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SEDANA PASIFIK SERVISTAMA",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "004042.04/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b537741e538f05c719778e9a53ec2014.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10079
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10197,
+      "attributes": {
+        "nomor_pb_umku": "912030169218300020002",
+        "nama": "ASO",
+        "website": "sedana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SEDANA PASIFIK SERVISTAMA",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "004042.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df6bb8b9caeb6dd7389eefd45aae5a5b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10077
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10202,
+      "attributes": {
+        "nomor_pb_umku": "912030169218300020005",
+        "nama": "BNI FLEKSI",
+        "website": "sedana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SEDANA PASIFIK SERVISTAMA",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "004042.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/939aeb43d0dd9eea46fb0c1d7ed990ba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10074
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5727,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc8eb3e1b66233459662c569a6ef00e2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6091
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6592,
-      "attributes": {
-        "nomor_pb_umku": "100622002238300010001",
-        "nama": "TANAKU",
-        "website": "tanaku.co",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TANAKU NUSANTARA INTERNASIONAL",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004038.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f6a583b3737622156623307ca004ff9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6212
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5407,
-      "attributes": {
-        "nomor_pb_umku": "812020096205300000002",
-        "nama": "FLIGHT INFORMATION DISPLAY SYSTEM",
-        "website": "notifbox.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NERS INTI PERSADA",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "004037.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/abe821a1f2af542a6502eaebd9234f80.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5280
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5404,
-      "attributes": {
-        "nomor_pb_umku": "812020096205300000001",
-        "nama": "FIDS & AAS",
-        "website": "notifbox.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NERS INTI PERSADA",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "004037.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/48b769f0b7591a1f400b5c44fa695352.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5276
       }
     }
   ]

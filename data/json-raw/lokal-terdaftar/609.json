@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 610,
       "from": 6091,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6100,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3156,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "roojai.co.id",
+        "website": "www.roojai.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "IGNITE SERVICES INDONESIA",
+        "tanggal_daftar": "2022-02-02",
+        "nomor_tanda_daftar": "002040.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ba2a17882fec80836cff5ee2fe86d2b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2142
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8081,
+      "attributes": {
+        "nomor_pb_umku": "022020370023500000003",
+        "nama": "JOGJAKITA BISNIS",
+        "website": "jogjakita.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JOGJAKITA MULTI ANDALAN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "002039.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/029765c27ecc992205a3702b2bc601e5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8004
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8063,
+      "attributes": {
+        "nomor_pb_umku": "022020370023500000002",
+        "nama": "DRIVER JOGJAKITA",
+        "website": "jogjakita.co.id",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JOGJAKITA MULTI ANDALAN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "002039.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77c1fb49315875177beeef02d1e2d62c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7984
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3155,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/682fe04247c844dec30c905ad9a5eb09.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2128
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3148,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "X-bot",
-        "website": "Ximpletrade.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KARYASAMA JENIUS INDONESIA",
-        "tanggal_daftar": "2022-02-01",
-        "nomor_tanda_daftar": "002033.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/90a658733831c7a7ba69eb9aeb22284f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2127
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3206,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "https://www.abbotfurniture.co.id/",
-        "website": "https://abbotfurniture.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ABBOTINDO BERKAT BERSAMA",
-        "tanggal_daftar": "2022-02-09",
-        "nomor_tanda_daftar": "002032.03/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ff52435875d06d7983894143df9d7e29.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2134
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3186,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Toko Furniture Online",
-        "website": "www.abbotfurniture.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ABBOTINDO BERKAT BERSAMA",
-        "tanggal_daftar": "2022-02-07",
-        "nomor_tanda_daftar": "002032.02/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02c874b677425e8d1a2c69a44389c419.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2133
       }
     }
   ]

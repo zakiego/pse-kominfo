@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 45,
       "from": 441,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 450,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10165,
+      "attributes": {
+        "nomor_pb_umku": "912031001042700010005",
+        "nama": "WWW.SAJIANSEDAP.COM",
+        "website": "sajiansedap.grid.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SAMINDRA UTAMA",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "007100.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/26754fe492137f566ef0772731c1026b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10048
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10119,
+      "attributes": {
+        "nomor_pb_umku": "912031001042700010004",
+        "nama": "WWW.NOVA.ID",
+        "website": "nova.grid.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SAMINDRA UTAMA",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "007100.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18d168c8aaf762fa7f3b2bc57d8bd0e0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10001
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10235,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88329791b26951e661fe74b8c5274712.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10005
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10108,
-      "attributes": {
-        "nomor_pb_umku": "912010061251500020001",
-        "nama": "REKSA LOAN SYSTEM",
-        "website": "reksafinance.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "REKSA FINANCE",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "007089.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/96e76b102e1ce92affaac747be818017.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9989
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10085,
-      "attributes": {
-        "nomor_pb_umku": "812031109242100010001",
-        "nama": "KARYA LESTARI ABADI",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KARYA LESTARI ABADI",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "007088.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/644721d174956441b167f90c02885d3e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9973
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 291,
       "from": 2901,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 2910,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6721,
+      "attributes": {
+        "nomor_pb_umku": "912020132272800010001",
+        "nama": "COREBANKING SISTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT JETIS",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004809.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/98a71bf46a18992d9a0f3cef50c21f41.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6569
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6564,
+      "attributes": {
+        "nomor_pb_umku": "912010584273300010001",
+        "nama": "BPR KINTAMAS MITRA DANA",
+        "website": "bprkmd.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KINTAMAS MITRA DANA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004807.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/07f64d41de847197e008afa5767f9dda.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6422
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6573,
+      "attributes": {
+        "nomor_pb_umku": "250122005855300000001",
+        "nama": "PULSA GADGET",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PULSA GADGET",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004806.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e92bb8061679b55ec857cc47265ba3e2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6431
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6586,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/93fdf82aeb1dcee82f730297452a4d70.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6409
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6589,
-      "attributes": {
-        "nomor_pb_umku": "912020187229400010001",
-        "nama": "PT. BPR BUMI PRIMA DANA",
-        "website": "bprbumiprima.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BUMI PRIMA DANA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004796.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09b4ad1d53fc49f58ab60f035b33eb21.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6447
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6660,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "CORE BANKING SYSTEM",
-        "website": "bprsaa.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BPR SENTRAL ARTA ASIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004795.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/80d79162383488de46c84ac1ccad8e68.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6513
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6889,
-      "attributes": {
-        "nomor_pb_umku": "912020976293200010001",
-        "nama": "PT. BPR CATUR ARTHA JAYA",
-        "website": "bprcaturartha.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CATUR ARTHA JAYA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004794.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37577968885ff1f6df3fc88e8a155efe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6739
       }
     }
   ]

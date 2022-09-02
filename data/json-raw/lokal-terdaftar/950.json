@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 951,
       "from": 9501,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9510,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 362,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Chatat",
+        "website": "https://chatat.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AZARA DIGITAL INDONESIARAYA",
+        "tanggal_daftar": "2021-03-10",
+        "nomor_tanda_daftar": "000295.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/68998e9cc859af468fdf534fc478ea11.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 84
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5715,
+      "attributes": {
+        "nomor_pb_umku": "912011108157400020005",
+        "nama": "SKYLAR",
+        "website": "skylar.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SALVUS INTI",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000294.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57a9f87d736736e243030c5d31ded822.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5579
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5710,
+      "attributes": {
+        "nomor_pb_umku": "912011108157400020004",
+        "nama": "MOMENTIC BUSINESS",
+        "website": "momentic.salvus.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SALVUS INTI",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000294.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7f2dde213cc99546bb55090737369ba4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5572
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3395,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca2b9e08193155e5c5568b2216730245.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4520
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 355,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Tataskola.id",
-        "website": "https://tatskola.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TATASKOLA TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-03-09",
-        "nomor_tanda_daftar": "000293.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a32ba4ba023584b55e92576c57ca6d65.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 354,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "EMASJEK",
-        "website": "-",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "ERA MASYARAKAT SEJAHTERA",
-        "tanggal_daftar": "2021-03-09",
-        "nomor_tanda_daftar": "000292.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/397c2d8c87f9081e851ab626b683ac6e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 86
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 353,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FREIGHTPAIR.COM",
-        "website": "https://freightpair.com",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "EXIMKU LOGISTIK INDONESIA",
-        "tanggal_daftar": "2021-03-09",
-        "nomor_tanda_daftar": "000291.02/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/783b222a058c1249e6bf355f77275979.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10
       }
     }
   ]

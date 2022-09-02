@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 616,
       "from": 6151,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6160,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3106,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Izidok",
+        "website": "www.izidok.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MEDLINX ASIA TEKNOLOGI",
+        "tanggal_daftar": "2022-01-25",
+        "nomor_tanda_daftar": "001998.02/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d004e370d520d08e8eefe7a112e58b57.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1748
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3104,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Iziklaim",
+        "website": "www.iziklaim.com",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MEDLINX ASIA TEKNOLOGI",
+        "tanggal_daftar": "2022-01-25",
+        "nomor_tanda_daftar": "001998.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/67d46f5128153946cc9b3a81c5a7fd90.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1747
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7835,
+      "attributes": {
+        "nomor_pb_umku": "091221004288500000003",
+        "nama": "PLATFORM PRE-O",
+        "website": "pre-o.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BIZTECH JAYA MAKMUR",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001997.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0a67b03760e9f0137682f6ff947a8310.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7762
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3105,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb6add934d25bab2b6a64fc5e3a91280.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3554
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3099,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Dapur solo web order",
-        "website": "www.dapursolo.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DAPUR SOLO MUSTIKA NUSANTARA",
-        "tanggal_daftar": "2022-01-24",
-        "nomor_tanda_daftar": "001993.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6342e26164b233768ab5752eebc64cbd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2914
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3097,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT BINTANG MULYA SELATAN",
-        "website": "domain",
-        "sektor": "Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BINTANG MULYA SELATAN",
-        "tanggal_daftar": "2022-01-24",
-        "nomor_tanda_daftar": "001992.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/286e8f76e51198c77132194060c531c7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2107
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3096,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT. NAHDA MEGA ABADI",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NAHDA MEGA ABADI",
-        "tanggal_daftar": "2022-01-23",
-        "nomor_tanda_daftar": "001991.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03472eac0c538e4242f2680806a7764f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2102
       }
     }
   ]

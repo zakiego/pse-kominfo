@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 759,
       "from": 7581,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7590,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5126,
+      "attributes": {
+        "nomor_pb_umku": "912021327016200400003",
+        "nama": "EPOS",
+        "website": "eposv3.car.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA CENTRAL ASIA RAYA",
+        "tanggal_daftar": "2022-07-06",
+        "nomor_tanda_daftar": "001212.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33bf8d18d837cda9ce638a6dc5a97128.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4990
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1898,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "3i-Networks",
+        "website": "https://3i-networks.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "ASURANSI JIWA CENTRAL ASIA RAYA",
+        "tanggal_daftar": "2021-09-28",
+        "nomor_tanda_daftar": "001212.06/DJAI.PSE/09/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ea397595f4dc4682bb2bb7ba20f53d93.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1368
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1897,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SPAJ",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "ASURANSI JIWA CENTRAL ASIA RAYA",
+        "tanggal_daftar": "2021-09-28",
+        "nomor_tanda_daftar": "001212.05/DJAI.PSE/09/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/056930ea275167b5fdeda0b31fb72dbf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1367
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1896,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9bc73886dfeb04349e3e2c8b4ad6ece.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3471
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1811,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Udahlunas",
-        "website": "www.udahlunas.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PELANGI TERANG INDAH",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001210.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f2af2e066773c85a491626aad97967a8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1385
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1813,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.mbiz.co.id",
-        "website": "mbiz.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BRILLIANT ECOMMERCE BERJAYA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001209.02/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7310e428de0efc47fa0a8f1b636d03c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1311
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1810,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.mbizmarket.co.id",
-        "website": "mbizmarket.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BRILLIANT ECOMMERCE BERJAYA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001209.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ab5714fdedfb41c65819aa1e226c7ff6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1310
       }
     }
   ]

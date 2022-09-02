@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 34,
       "from": 331,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 340,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10359,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "TRIBUN PRABUMULIH",
+        "website": "sumsel.tribunnews.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIBUN DIGITAL ONLINE",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007253.06/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/126762839b57eacddece8b48c9db3a22.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10214
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10358,
+      "attributes": {
+        "nomor_pb_umku": "912000412023800020006",
+        "nama": "TRIBUNPRABUMULIH.COM",
+        "website": "tribunprabumulih.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIBUN DIGITAL ONLINE",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007253.05/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b284e126dbd943348b3e9c40c881b4b5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10213
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10356,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71e13084d4a1029b1c68caed68745c51.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10249
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10418,
-      "attributes": {
-        "nomor_pb_umku": "912021801049500010002",
-        "nama": "MYJAMSYAR",
-        "website": "myjamsyar.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PENJAMINAN JAMKRINDO SYARIAH",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007246.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/201fd48a0c986d37b25ceb5d77d8775e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10233
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10398,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "ISLAMIC BANKING APLICATION (IBA)",
-        "website": "banksyariah-ampekangkekcandung.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH AMPEK ANGKEK CANDUNG",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007244.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89a911c2eda56054d0054d88cbf34d8e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10255
       }
     }
   ]

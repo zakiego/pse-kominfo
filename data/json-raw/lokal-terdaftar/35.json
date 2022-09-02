@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 36,
       "from": 351,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 360,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10303,
+      "attributes": {
+        "nomor_pb_umku": "022030085265100000001",
+        "nama": "EMINAT",
+        "website": "eminat.store",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRESIA EKA WAHYUNI",
+        "tanggal_daftar": "2022-08-14",
+        "nomor_tanda_daftar": "007233.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/39b42fdcd5f1009bcccde32d94dc825f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10186
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10301,
+      "attributes": {
+        "nomor_pb_umku": "140822000189300010001",
+        "nama": "BERANTASTIPIKOR.COM",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BERANTASTIPIKOR MEDIA PERSADA",
+        "tanggal_daftar": "2022-08-14",
+        "nomor_tanda_daftar": "007232.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f0c239107447751becd3640dcda0572.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10185
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10395,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/39c90bdd49d3bd1df36fe4f7f60d55e5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10166
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10282,
-      "attributes": {
-        "nomor_pb_umku": "120522003955200000001",
-        "nama": "PAYAS - MOBILE MARKET",
-        "website": "payas.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "EDY ANDJAR SOELISTYO",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "007222.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/32e02bf105da02a30cfc5d111e88f7e1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10164
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10289,
-      "attributes": {
-        "nomor_pb_umku": "912020384123300000002",
-        "nama": "BIDAJA 74902",
-        "website": "bidaja.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "FENIX HAVEN MULTINDO",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "007221.09/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e142d7324b1f1d0c3e6158f9d0ec93d9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10178
       }
     }
   ]

@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 21,
       "from": 201,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 210,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10650,
+      "attributes": {
+        "nomor_pb_umku": "126600014141300010003",
+        "nama": "SURYAMALANG.COM",
+        "website": "suryamalang.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIBUN DIGITAL JATIM",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007353.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/53f9776c9f15d149afdc9d61caddd0a2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10487
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10565,
+      "attributes": {
+        "nomor_pb_umku": "126600014141300010002",
+        "nama": "TRIBUNMADURA.COM",
+        "website": "tribunmadura.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIBUN DIGITAL JATIM",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007353.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12d93f14af837b847b5833fb42d2b7c1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10424
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10563,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1faa7ffbfe4901382ee3aeaab01ee8f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10410
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10550,
-      "attributes": {
-        "nomor_pb_umku": "022030685294200080001",
-        "nama": "KALANANTI",
-        "website": "kalananti.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EDUKASI KALANANTI INDONESIA",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007346.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/debb65175729afb4f4009205771e654a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10407
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10544,
-      "attributes": {
-        "nomor_pb_umku": "129400022274100100001",
-        "nama": "BIO DIMA",
-        "website": "bibs.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BIO INDONESIA BAROKAH SEJAHTERA",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "007344.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/627c3bbcfa237084548ba7ece4e5f2ac.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10403
       }
     }
   ]

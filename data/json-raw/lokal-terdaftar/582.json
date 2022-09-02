@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 583,
       "from": 5821,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5830,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3434,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IHG Tech",
+        "website": "Imronhadigroup.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "IMRON HADI GROUP",
+        "tanggal_daftar": "2022-03-05",
+        "nomor_tanda_daftar": "002236.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/285b29e5b8fd6fa801fd94b41ee406a7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2889
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3433,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Seeder Indonesia",
+        "website": "seederindonesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SISTEM ELEKTRONIKA ASIA",
+        "tanggal_daftar": "2022-03-05",
+        "nomor_tanda_daftar": "002235.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/68c12afe7b3917337393b844196c9b1c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2923
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3432,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Belanjaparts",
+        "website": "belanjaparts.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "SOLUSI TEKNIK INDUSTRI",
+        "tanggal_daftar": "2022-03-04",
+        "nomor_tanda_daftar": "002234.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bac416a73d8d0fe4677a58b9501adcf4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2888
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3431,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b32bb7a30ce5c66ee4302bb7438b1ea4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2859
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3425,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "soddigo",
-        "website": "https://pwa.soddigo.com/#/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEOPOWER TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-03-04",
-        "nomor_tanda_daftar": "002230.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f3f369f3abacdb120f849e4d0b0c6ad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2858
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3458,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Datapool",
-        "website": "www.datapool.ai",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KOLAM DATA INDONESIA",
-        "tanggal_daftar": "2022-03-08",
-        "nomor_tanda_daftar": "002229.02/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fa66a5123e16a84c514056a7a41651d1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3186
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3424,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DigiData",
-        "website": "www.digidata.ai",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KOLAM DATA INDONESIA",
-        "tanggal_daftar": "2022-03-04",
-        "nomor_tanda_daftar": "002229.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c911d8842129cc2064677c3a0de4a8b1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2857
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 968,
       "from": 9671,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9680,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1381,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Generali Agency - mConnect",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000217.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d45a8b7df30cf81eda26233ca7576c4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2687
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 278,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sahabat Berbagi",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000217.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51c12436e415ee40350e6a28367c1e52.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2686
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 255,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Generali Website",
+        "website": "www.generali.co.id",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000217.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1584aa92a596ffcb7f00a47c204f291a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2685
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 254,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df22a5bd080c86d7788c3f70ee1704e6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2780
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 415,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "visionplus.id",
-        "website": "www.visionplus.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MNC OTT NETWORK",
-        "tanggal_daftar": "2021-04-09",
-        "nomor_tanda_daftar": "000211.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d9946baec900556474cde117e415a460.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2457
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 249,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Vision+",
-        "website": "www.visionplus.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MNC OTT NETWORK",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000211.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d04e7e9ab5ff4390d1c193aadff6af39.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2456
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 248,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "paola.id",
-        "website": "paola.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PENTASADA ANDALAN KELOLA",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000210.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df9f81556529fa67bd5419a451bc72ed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2779
       }
     }
   ]

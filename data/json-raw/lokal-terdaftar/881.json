@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 882,
       "from": 8811,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8820,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 777,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Velocity@ocbcnisp",
+        "website": "https://newvelocity.ocbcnisp.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK OCBC NISP Tbk",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000627.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/50b5a3c489dde77330d9c010bb3b58cf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 24
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 775,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT DAVID SISTEM GROUP",
+        "website": "davidgroup.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DAVID SISTEM GROUP",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000626.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e68875aaab757382a07251ded09e1ff.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2421
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 773,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Gigacover Indonesia",
+        "website": "https://gigacover.com/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GIGACOVER TECHNOLOGIES INDONESIA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000625.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c0075a78242a0e6b9bf574bf5800c2dc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 496
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 771,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cedf371d423d4ff1a689ec16bf0771da.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2587
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1221,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Otowreck",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI ASTRA BUANA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000620.09/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/99fe290c2a1d28221db6e877f74d4b0d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2586
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 798,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HR-Akses",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI ASTRA BUANA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000620.08/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01bff096ae601db0d3b1f18d0304f043.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2585
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 796,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CR-Akses",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI ASTRA BUANA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000620.07/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca608f67b9e682c512a58062e5d0e15a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2584
       }
     }
   ]

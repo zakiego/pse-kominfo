@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 42,
       "from": 411,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 420,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10759,
+      "attributes": {
+        "nomor_pb_umku": "912030255123100010002",
+        "nama": "TMUGROUP",
+        "website": "tmugroup.id",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
+        "nama_perusahaan": "TITAN MINERAL UTAMA",
+        "tanggal_daftar": "2022-08-24",
+        "nomor_tanda_daftar": "007143.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e8b729b426418ea42ad490676b5f3597.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10588
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10200,
+      "attributes": {
+        "nomor_pb_umku": "912030255123100000001",
+        "nama": "PT. TITAN MINERAL UTAMA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
+        "nama_perusahaan": "TITAN MINERAL UTAMA",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "007143.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5f3040d2718bb0ac31925bf208eb413.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10080
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10193,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a857b6cc17372d3fa23086dcbbc153ed.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10139
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10252,
-      "attributes": {
-        "nomor_pb_umku": "812010190298200010001",
-        "nama": "QUICKPRO MOBILE APPS",
-        "website": "foreximf.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "INTERNATIONAL MITRA FUTURES",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "007130.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6fe31d1518501b3b382732f5faca60c9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10133
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10176,
-      "attributes": {
-        "nomor_pb_umku": "912000219177900010001",
-        "nama": "GO BALI CORE BANKING SISTEM",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MAMBAL",
-        "tanggal_daftar": "2022-08-10",
-        "nomor_tanda_daftar": "007127.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1bcf5a7f43f01320ff3cae59cddb19bd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10056
       }
     }
   ]

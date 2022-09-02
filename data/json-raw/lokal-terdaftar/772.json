@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 773,
       "from": 7721,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7730,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3171,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DAGANGAN DAN WWW.DAGANGAN.COM",
+        "website": "{www.}dagangan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DAGANGAN KARYA INDONESIA",
+        "tanggal_daftar": "2022-02-04",
+        "nomor_tanda_daftar": "001126.02/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c63ec99dda99bf16cd53457677b5886f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1255
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1710,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.dagangan.com",
+        "website": "www.dagangan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DAGANGAN KARYA INDONESIA",
+        "tanggal_daftar": "2021-07-15",
+        "nomor_tanda_daftar": "001126.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9349a972ef960734d85ec2a131fa62a4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1254
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1707,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SAS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANATAMA MAKMUR SEKURITAS",
+        "tanggal_daftar": "2021-07-15",
+        "nomor_tanda_daftar": "001125.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/93cfc144d38a7ced945519f8c24eb8a8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1128
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1706,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81ba6ae729cb7cec45232cd2e7f24f77.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1202
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1698,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "APLIKASI TRANSPORTASI ONLINE",
-        "website": "rodaindonesia.site",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "NGAASAN TAAS NIATEAN",
-        "tanggal_daftar": "2021-07-15",
-        "nomor_tanda_daftar": "001116.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19e6fd7c4e8c1bdd8e4c18b17bcd91d5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1249
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1697,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Mahardikatekno",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MAHARDIKA TEKNOTAMA INTEGRASI",
-        "tanggal_daftar": "2021-07-15",
-        "nomor_tanda_daftar": "001115.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/31fd248edf480fc7076b7437c31e533f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1248
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1696,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "jagi.id",
-        "website": "Jagi.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDI PLATFORM RAKSASA",
-        "tanggal_daftar": "2021-07-15",
-        "nomor_tanda_daftar": "001114.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/020283a09abd2b1e6652fd50ac04fe5a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 474
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 964,
       "from": 9631,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9640,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8237,
+      "attributes": {
+        "nomor_pb_umku": "812021816232400030010",
+        "nama": "BANKING PAYMENT GATEWAY",
+        "website": "ipg.cimbniaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000222.24/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3e2980dc963f439844d562e8889f956e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8154
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8182,
+      "attributes": {
+        "nomor_pb_umku": "812021816232400030009",
+        "nama": "MORTGAGE ONLINE FORM",
+        "website": "apply.cimbniaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000222.23/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62ba3fbc9d6d9d2d3a8cffb9775b6d4c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8101
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5277,
+      "attributes": {
+        "nomor_pb_umku": "812021816232400010006",
+        "nama": "PERSONAL LOAN ONLINE FORM",
+        "website": "apply.cimbniaga.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2022-07-11",
+        "nomor_tanda_daftar": "000222.22/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a8b35306bd43774c4caaf1fe82e86829.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5146
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5275,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0dd193c86cbd5677151f54b3d3e91f4e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2766
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1316,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PoinXtra Gallery",
-        "website": "https://poinxtra.cimbniaga.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CIMB NIAGA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000222.14/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/282b9c905ee7e141fe694d5a17fb5b33.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2765
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1315,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Consumer Microsite",
-        "website": "https://cards-loan.cimbniaga.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CIMB NIAGA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000222.13/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/445a7e8cfe4d867dbc400bdc74da466c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2764
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1313,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OCTO Friends",
-        "website": "https://octofriends.cimbniaga.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CIMB NIAGA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000222.12/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b69c381aea606abb89d7928dde2ab815.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2763
       }
     }
   ]

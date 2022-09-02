@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 226,
       "from": 2251,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 2260,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7642,
+      "attributes": {
+        "nomor_pb_umku": "026301024248900000002",
+        "nama": "POINT BANK EKA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT EKA BUMI ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005335.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1e6cb96a0e4e7ad1e15f08303f1fafb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7541
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7503,
+      "attributes": {
+        "nomor_pb_umku": "026301024248900000001",
+        "nama": "EKA ONLINE",
+        "website": "mb2.bankeka.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT EKA BUMI ARTHA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005335.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f1e8b775be791927334ad99ea70c5149.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7403
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7723,
+      "attributes": {
+        "nomor_pb_umku": "812020387175500000001",
+        "nama": "EXABYTES",
+        "website": "exabytes.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "EXABYTES NETWORK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005334.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/160f34b45f73511a09989c2f2d3c3cf0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7625
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7398,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d78d279831c22440964b8957a3007478.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8094
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7348,
-      "attributes": {
-        "nomor_pb_umku": "270422002447200010001",
-        "nama": "LARUNO",
-        "website": "laruno.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BELAJAR ONLINE SELAMANYA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005328.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9cded068a2b7016b98eaaf6db0064928.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7247
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7340,
-      "attributes": {
-        "nomor_pb_umku": "912010436249200010001",
-        "nama": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 8",
-        "website": "bprnbp8.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 8",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005327.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e5f4d5445a4fd00a48d78344d66f7e4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7219
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8039,
-      "attributes": {
-        "nomor_pb_umku": "100921005075700010001",
-        "nama": "AWANDATA",
-        "website": "awandata.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MITRA AWAN DATA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005326.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00270e616d99a204e250ee3f227e9c18.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7959
       }
     }
   ]

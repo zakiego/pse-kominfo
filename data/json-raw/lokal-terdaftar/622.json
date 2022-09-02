@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 623,
       "from": 6221,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6230,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3031,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Danasaham",
+        "website": "www.danasaham.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA SAHAM BERSAMA",
+        "tanggal_daftar": "2022-01-11",
+        "nomor_tanda_daftar": "001936.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da868cd7392e455644566f64368a1669.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2056
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3030,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DUTA MONEY",
+        "website": "www.dutamoney.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DUTA TEKNOLOGI KREATIF",
+        "tanggal_daftar": "2022-01-11",
+        "nomor_tanda_daftar": "001935.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/475543870544f62c457ba1fe07d49fcc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2053
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4375,
+      "attributes": {
+        "nomor_pb_umku": "912010671190500020002",
+        "nama": "BLUECHIP CIPTADANA",
+        "website": "ciptadana-sekuritas-asia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CIPTADANA SEKURITAS ASIA",
+        "tanggal_daftar": "2022-06-14",
+        "nomor_tanda_daftar": "001934.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de3c0cf4368d34768414325ba0dd87ae.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4360
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3029,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/553b861f7c74d9bb64854077042eddd5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2045
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3018,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BOTMD",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FIVE HEALTH INDONESIA",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001929.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/efe3accd80995cc3ad565e0b2fb29cae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2044
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3017,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "bipi",
-        "website": "https://www.axross.co/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "AXROSS DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001928.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/655a8ad3a7dae10deea5b45392dc55df.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2043
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3016,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Hijra Bank mobile Application",
-        "website": "www.hijra.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH HIJRA ALAMI",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001927.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0fead2f1ffc44d56a1c11a670aaae4e0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1829
       }
     }
   ]

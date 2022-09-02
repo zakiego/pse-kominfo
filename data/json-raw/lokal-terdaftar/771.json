@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 772,
       "from": 7711,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7720,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1721,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DIONLINEAJA.ID",
+        "website": "https://dionlineaja.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "FOCUS INFOTAMA",
+        "tanggal_daftar": "2021-07-15",
+        "nomor_tanda_daftar": "001136.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7b347d7c6437f015d729453a74b7cb75.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1278
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1720,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Wilov",
+        "website": "https://wilov.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "WILOV WANITA INDONESIA",
+        "tanggal_daftar": "2021-07-15",
+        "nomor_tanda_daftar": "001135.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/50d74fdc8bc2e0b596a8546db1ea37e1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1176
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1718,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ajaib Futures Asia",
+        "website": "https://ajaib.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AJAIB FUTURES ASIA",
+        "tanggal_daftar": "2021-07-15",
+        "nomor_tanda_daftar": "001134.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6f58f3e794363cdb89ac24cf75431e8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1277
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1717,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0bde1e3212296bf11d1528a2b81c2111.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1269
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3171,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DAGANGAN DAN WWW.DAGANGAN.COM",
-        "website": "{www.}dagangan.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DAGANGAN KARYA INDONESIA",
-        "tanggal_daftar": "2022-02-04",
-        "nomor_tanda_daftar": "001126.02/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c63ec99dda99bf16cd53457677b5886f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1255
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1710,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.dagangan.com",
-        "website": "www.dagangan.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DAGANGAN KARYA INDONESIA",
-        "tanggal_daftar": "2021-07-15",
-        "nomor_tanda_daftar": "001126.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9349a972ef960734d85ec2a131fa62a4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1254
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1707,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SAS",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "DANATAMA MAKMUR SEKURITAS",
-        "tanggal_daftar": "2021-07-15",
-        "nomor_tanda_daftar": "001125.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/93cfc144d38a7ced945519f8c24eb8a8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1128
       }
     }
   ]

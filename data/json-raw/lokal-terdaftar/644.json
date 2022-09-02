@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 645,
       "from": 6441,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6450,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2811,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BTN Corporate Website",
+        "website": "www.btn.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+        "tanggal_daftar": "2021-12-21",
+        "nomor_tanda_daftar": "001813.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ec3e899041e85be132676785da73cd07.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1920
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2810,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Olsera",
+        "website": "www.olsera.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OLSERA INDONESIA PRATAMA",
+        "tanggal_daftar": "2021-12-21",
+        "nomor_tanda_daftar": "001812.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0efe325730141552a90835463836a102.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3487
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2809,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "1 (one) Medix",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ANARYA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2021-12-20",
+        "nomor_tanda_daftar": "001811.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db62c0a3e2353f56a49014afb550038c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1270
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2808,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8bfda88b496e12733aa535d9ebe4f22f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5243
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5314,
-      "attributes": {
-        "nomor_pb_umku": "912000448196500010009",
-        "nama": "VTRADEIN",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LAKU6 ONLINE INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "001807.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c03bb5838e2e919bb5b61ea886eceea.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5189
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5313,
-      "attributes": {
-        "nomor_pb_umku": "912000448196500010008",
-        "nama": "OTRADEIN",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LAKU6 ONLINE INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "001807.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d59926c06cea7d706e9e719d335a3782.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5188
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5312,
-      "attributes": {
-        "nomor_pb_umku": "912000448196500010007",
-        "nama": "GALAXY TRADE-IN",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LAKU6 ONLINE INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "001807.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c67c4f605b7dc7543bb4e70b507c62d5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5187
       }
     }
   ]

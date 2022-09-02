@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 878,
       "from": 8771,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8780,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 800,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Importir.com",
+        "website": "Importir.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "EDRUS STRATEGI DIGITAL",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000640.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d95caebfb9bc9e89d99026339db0e075.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3290
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 799,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pahlawan Pinjaman",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KOPERASI SIMPAN PINJAM SUKSES INTI TERDEPAN INDONESIA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000639.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9ecd7481a058da5afab2301b48b977bc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3289
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 797,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kunci Dana",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KOPERASI SIMPAN PINJAM SUKSES ANUGERAH BERSAMA INDONESIA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000638.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ab7098ad0ec74cf8557984ccbcdfa15.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3396
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 794,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc57edb43bcaa87c7e1d7b038abd6686.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2730
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2115,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bluelink",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HYUNDAI MOTORS INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "000635.03/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4e9f5211534ea590d8f55abd9c691fbd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2729
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1556,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Hyundai Global Customer eXperience (HGCX)",
-        "website": "https://ap.hyundaiglobalcx.com/mngwsercgateway/getLogin.do",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HYUNDAI MOTORS INDONESIA",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "000635.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f810c60e6b6a1150ac87e2dc9462de72.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2728
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 791,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Click to Buy",
-        "website": "https://clicktobuy.hyundai.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HYUNDAI MOTORS INDONESIA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000635.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f1c864113c9209c45cd9450cc2c49b2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2727
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 997,
       "from": 9961,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9970,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 51,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EDUON",
+        "website": "www.eduon.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KONTEN KARYA KREATIF",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000043.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/777e630b4bed805cb52b4c4faa2e94bb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2391
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 50,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Landmark Retail Trading",
+        "website": "maxfashions.id, babyshopstores.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "LANDMARK RETAIL TRADING",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000042.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e068e9e7c50146a1c90e27e3af5b34c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2840
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 48,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MOOKEE",
+        "website": "www.mookee.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MOOKEE AURANERS INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000041.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/59e83f4afe7bcf0d716787a1377874b3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2441
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 47,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ec639fd75089eeaabc5be56fc4768e8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2355
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7985,
-      "attributes": {
-        "nomor_pb_umku": "912040026017900010003",
-        "nama": "FINA SHOWROOM",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BCA FINANCE",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000037.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57e31a10bf72350fa3b841729f214228.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7900
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7946,
-      "attributes": {
-        "nomor_pb_umku": "912040026017900010002",
-        "nama": "CHATBOT ASTARI",
-        "website": "zendesk.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BCA FINANCE",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000037.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1ffbda41bd9010fb7d5fea2c54be114.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7860
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6053,
-      "attributes": {
-        "nomor_pb_umku": "912040026017900010001",
-        "nama": "WEBSITE BCA FINANCE",
-        "website": "bcafinance.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BCA FINANCE",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "000037.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/349bb3b1eaf72f022f371a4dd4fd503b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5921
       }
     }
   ]

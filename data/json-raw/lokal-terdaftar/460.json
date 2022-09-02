@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 461,
       "from": 4601,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4610,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7865,
+      "attributes": {
+        "nomor_pb_umku": "912020954230500010007",
+        "nama": "KPM DEALER",
+        "website": "kreditpastimudah.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MAYBANK INDONESIA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003479.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/645d43a684c8cc9d4e754ff43a020205.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7782
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7814,
+      "attributes": {
+        "nomor_pb_umku": "912020954230500010006",
+        "nama": "KPM",
+        "website": "kreditpastimudah.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MAYBANK INDONESIA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003479.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8ed94f02fb6b56ccb1b300b77ce5b599.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7729
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7043,
+      "attributes": {
+        "nomor_pb_umku": "912020954230500010005",
+        "nama": "KPM WEB",
+        "website": "kreditpastimudah.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MAYBANK INDONESIA FINANCE",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "003479.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf95a984073444a3d08243e416696a2a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6895
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6442,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/949b04f27dadd1fefeebd643255ce761.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4742
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4799,
-      "attributes": {
-        "nomor_pb_umku": "301221003691500000002",
-        "nama": "KONGPOS",
-        "website": "misterkong.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KONG JAYA PERKASA",
-        "tanggal_daftar": "2022-06-27",
-        "nomor_tanda_daftar": "003475.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/27330b24cdcd574cf70a93bbb0fc902e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4741
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4798,
-      "attributes": {
-        "nomor_pb_umku": "301221003691500000001",
-        "nama": "MISTERKONG",
-        "website": "misterkong.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KONG JAYA PERKASA",
-        "tanggal_daftar": "2022-06-27",
-        "nomor_tanda_daftar": "003475.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b24b635f832de3ca0d9947ac692a3cf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4740
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4896,
-      "attributes": {
-        "nomor_pb_umku": "912030053213600000003",
-        "nama": "MKM",
-        "website": "mkm.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MAGNA KARSA MULYA",
-        "tanggal_daftar": "2022-06-28",
-        "nomor_tanda_daftar": "003472.03/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf26045bf202fdff7a61c37def7a4fe0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4766
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 116,
       "from": 1151,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 1160,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9328,
+      "attributes": {
+        "nomor_pb_umku": "912040123236100000007",
+        "nama": "SADIX API FOR SHARE",
+        "website": "sadixapi.sadix.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CAKRAWALA PUTRA NUSANTARA",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006308.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51c765c3be10a59ceeeaee553d0dc3e3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9239
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9326,
+      "attributes": {
+        "nomor_pb_umku": "912040123236100000006",
+        "nama": "CVM (CUSTOMER VALUE MANAGEMENT)",
+        "website": "cvm.sadix.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CAKRAWALA PUTRA NUSANTARA",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006308.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7065a1eb78e4c552101b43e41fd5ad69.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9238
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9325,
+      "attributes": {
+        "nomor_pb_umku": "912040123236100000005",
+        "nama": "LOCKER API",
+        "website": "apishell.sadix.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CAKRAWALA PUTRA NUSANTARA",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006308.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/04539e067f4c7b346f1edc57f5ccdd1f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9237
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9324,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c705d2075ad79554dd9f00447e115f0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8911
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9003,
-      "attributes": {
-        "nomor_pb_umku": "100622000603400000001",
-        "nama": "CV PANDU TAMA",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PANDU TAMA",
-        "tanggal_daftar": "2022-07-25",
-        "nomor_tanda_daftar": "006303.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/398c84fd13393f42cf25e67b9ca15438.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8917
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9000,
-      "attributes": {
-        "nomor_pb_umku": "912031913119100030001",
-        "nama": "REMITPRO",
-        "website": "remitpro.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "REYHAN PUTRA MANDIRI",
-        "tanggal_daftar": "2022-07-25",
-        "nomor_tanda_daftar": "006302.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03a708cb15c53ab19c2b9316adaf2eb8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8913
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9117,
-      "attributes": {
-        "nomor_pb_umku": "912000370105500010001",
-        "nama": "TELKOM SATU",
-        "website": "bprnusamba-wlingi.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSAMBA WLINGI",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006301.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/be9b73aee65dc4d50ab6737355a87cb3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9026
       }
     }
   ]

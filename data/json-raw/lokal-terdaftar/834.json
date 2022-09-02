@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 835,
       "from": 8341,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8350,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1126,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Movic",
+        "website": "Movic.Id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ASTRA DIGITAL INTERNASIONAL",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000819.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bc98a2279ba7aaf28e354199ed74621f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 729
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2872,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "www.legalspace.id",
+        "website": "www.legalspace.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SENTRA TEKNOLEGAL INDONESIA",
+        "tanggal_daftar": "2021-12-24",
+        "nomor_tanda_daftar": "000818.02/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/226e28889fb756fbbc7f191369da3e43.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 226
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1125,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT. Sentra Teknolegal Indonesia",
+        "website": "http://www.legalspace.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SENTRA TEKNOLEGAL INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000818.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c152aebaccbf8dc0350c604c40fe9ae.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 225
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1124,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/732789649e0a9218baa7c9d92bc3f943.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3328
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1121,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEB MIRAE ASSET",
-        "website": "hots.miraeasset.co.id",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000815.05/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/65a52fb3eaa63988a2ce913d7e359727.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3327
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1120,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HOTS",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000815.04/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5046f30b39e2c9ebbbdbfc34f820fa5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3326
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1119,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "NEO HOTS",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000815.03/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee44ee113cebf0b4a7c529343e0e4d25.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3325
       }
     }
   ]

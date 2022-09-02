@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 889,
       "from": 8881,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8890,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 719,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Informasi Manajemen Rumah Sakit (SIMRS) Trisna Medika",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "TRISNA YOGA PUTRA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000581.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7bcfde40a2fd6ad8fc24975b80ccc034.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 490
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2951,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LAKUFIN LOS",
+        "website": "lakufin.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NTT DATA INDONESIA",
+        "tanggal_daftar": "2022-01-05",
+        "nomor_tanda_daftar": "000580.02/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76d2fb243cc1049a3e5035b3da473e22.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 470
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 718,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HR ZERO",
+        "website": "https://hrzero.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NTT DATA INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000580.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b3dad19a8ea496e0a7b56f1f9d8b69a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 469
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 716,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d51e3e17fece608b8abf70d89190df58.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3286
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 709,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PAYFAZZ",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PAYFAZZ TEKNOLOGI NUSANTARA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000574.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa45a5d633ef29187b14d5a29d50a85c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3285
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 708,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Admiral Markets",
-        "website": "admiralmarkets.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADMIRALS INVEST INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000573.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f14719fdb551215e26c302cd0d2b427.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 261
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5908,
-      "attributes": {
-        "nomor_pb_umku": "128500011261400000001",
-        "nama": "KASYR ID",
-        "website": "kasyr.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KASYR SIBERNETIKA INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000572.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/386c8ee3dae396cba2b040691cba7946.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5772
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 656,
       "from": 6551,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6560,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2713,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EDGE DC",
+        "website": "edge.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "EKAGRATA DATA GEMILANG",
+        "tanggal_daftar": "2021-12-10",
+        "nomor_tanda_daftar": "001741.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ce1294121dfc4dfcafe2ce7dc81cc4cc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1589
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2710,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Zoomcar",
+        "website": "www.zoomcar.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "ZOOMCAR INDONESIA MOBILITY SERVICES",
+        "tanggal_daftar": "2021-12-10",
+        "nomor_tanda_daftar": "001740.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ac110619e2fcb1bf66bd47ea61b4056.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1549
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6237,
+      "attributes": {
+        "nomor_pb_umku": "023301001274700020011",
+        "nama": "IFG PAY",
+        "website": "pay.life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA IFG",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "001739.12/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0799e9360fb156b8c3fa7cc4efb1a998.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6098
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5045,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c973e67425abb67166246ff73928154f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1836
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2720,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MIFG (MI-IFG) Mandiri Inheath - Indonesia Financial Group)",
-        "website": "registration.ifg-life.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA IFG",
-        "tanggal_daftar": "2021-12-10",
-        "nomor_tanda_daftar": "001739.04/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e8b4e6d01568858ec22591603ac2954.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1835
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2712,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Portal Penjualan  Asuransi Mikro IFG Life(Microsite IFG Life)",
-        "website": "asuransi.ifg-life.id/mikro/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA IFG",
-        "tanggal_daftar": "2021-12-10",
-        "nomor_tanda_daftar": "001739.03/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/149f2bc91d60c347185048b43683163d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1834
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2711,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Corporate Website IFG Life",
-        "website": "ifg-life.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA IFG",
-        "tanggal_daftar": "2021-12-10",
-        "nomor_tanda_daftar": "001739.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0c081c43de5789743a148a0276de4ef.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1833
       }
     }
   ]

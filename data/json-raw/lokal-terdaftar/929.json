@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 930,
       "from": 9291,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9300,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6369,
+      "attributes": {
+        "nomor_pb_umku": "023401102252600020003",
+        "nama": "STARME",
+        "website": "starmakerstudios.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA BINTANG TEKNOLOGI",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000362.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f9311ca0c7a2a9e785e270c7c5d124f7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6162
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5884,
+      "attributes": {
+        "nomor_pb_umku": "023401102252600020002",
+        "nama": "STARFM",
+        "website": "starfm.app",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA BINTANG TEKNOLOGI",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000362.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7f825cad4fc928d4ebdd01170224232e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5722
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 444,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "StarMaker",
+        "website": "https://www.starmakerstudios.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA BINTANG TEKNOLOGI",
+        "tanggal_daftar": "2021-04-14",
+        "nomor_tanda_daftar": "000362.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5310af2d717da47955bfb5b388de13ab.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 224
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4127,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d804aa020fce518a5c3f0855e63f86e1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7538
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7471,
-      "attributes": {
-        "nomor_pb_umku": "123300014256400020005",
-        "nama": "GROUP HEALTH PIC REPORTING",
-        "website": "health.hanwhalife.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000359.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45429e57c844de85b890c713c9168b3e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7363
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7409,
-      "attributes": {
-        "nomor_pb_umku": "123300014256400020004",
-        "nama": "E-SUBMISSION",
-        "website": "registrasi.hanwhalife.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000359.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/695ceddae312fdadbbd0700a175743a4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7305
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7373,
-      "attributes": {
-        "nomor_pb_umku": "123300014256400020003",
-        "nama": "CORPORATE WEB PT HANWHA LIFE INSURANCE INDONESIA",
-        "website": "hanwhalife.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HANWHA LIFE INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000359.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5746dc77fa2b7427d3e0d75899748695.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7269
       }
     }
   ]

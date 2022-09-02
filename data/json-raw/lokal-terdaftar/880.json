@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 881,
       "from": 8801,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8810,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 883,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "API Management",
+        "website": "https://api.ocbcnisp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK OCBC NISP Tbk",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000627.11/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4fb544ceccb4d09c087f82b874a3f5f0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 32
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 882,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "One Mobile",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK OCBC NISP Tbk",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000627.10/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ea4ffac14569f3d1c2642f106edd81c1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 31
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 881,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Internet banking",
+        "website": "https://online.ocbcnisp.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK OCBC NISP Tbk",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000627.09/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ddf909971c998b94c6cd2f9addff03d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 30
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 880,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13ea1103e36f6189270ae8fc456fc400.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 25
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 777,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Velocity@ocbcnisp",
-        "website": "https://newvelocity.ocbcnisp.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK OCBC NISP Tbk",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000627.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/50b5a3c489dde77330d9c010bb3b58cf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 24
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 775,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT DAVID SISTEM GROUP",
-        "website": "davidgroup.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DAVID SISTEM GROUP",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000626.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e68875aaab757382a07251ded09e1ff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2421
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 773,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Gigacover Indonesia",
-        "website": "https://gigacover.com/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GIGACOVER TECHNOLOGIES INDONESIA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000625.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c0075a78242a0e6b9bf574bf5800c2dc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 496
       }
     }
   ]

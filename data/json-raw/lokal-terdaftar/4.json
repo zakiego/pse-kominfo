@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 5,
       "from": 41,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 50,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10918,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "ARDETAMEDIA",
+        "website": "ardetamedia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GENERASI MILENIAL INDONESIA",
+        "tanggal_daftar": "2022-08-30",
+        "nomor_tanda_daftar": "007546.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/027ce707ad4e3faebbd808cf4282578d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10728
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10912,
+      "attributes": {
+        "nomor_pb_umku": "026201022094500020001",
+        "nama": "HOSTER",
+        "website": "hoster.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GENERASI MILENIAL INDONESIA",
+        "tanggal_daftar": "2022-08-30",
+        "nomor_tanda_daftar": "007546.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/673d14d451dc70e139064006df5b6176.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10724
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10865,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fe7d0c14be942ec6d1eaf55ca7758413.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10656
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10845,
-      "attributes": {
-        "nomor_pb_umku": "270822000099900000001",
-        "nama": "MYPAY",
-        "website": "mypay.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MITRA YUDHISTIRA DIGITAL",
-        "tanggal_daftar": "2022-08-27",
-        "nomor_tanda_daftar": "007529.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a32fdca420c5abe4b8a792aad411bec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10655
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10844,
-      "attributes": {
-        "nomor_pb_umku": "250722006631200080001",
-        "nama": "GENERASI MILLENNIAL INDONESIA",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GENERASI MILLENNIAL INDONESIA",
-        "tanggal_daftar": "2022-08-26",
-        "nomor_tanda_daftar": "007528.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd25755a0e6a0002e4a4ff284985167c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10654
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 605,
       "from": 6041,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6050,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3205,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bro Payday",
+        "website": "www.thebro.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERSAMA RAKYAT ONLINE",
+        "tanggal_daftar": "2022-02-09",
+        "nomor_tanda_daftar": "002076.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dbd07f2d5fa5b87214608bbaed86c5d1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2047
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3366,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "https://www.chandrakarya.com",
+        "website": "chandrakarya.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CHANDRA KARYA PRAMUKA",
+        "tanggal_daftar": "2022-02-24",
+        "nomor_tanda_daftar": "002075.03/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/94d2943034f2dbf37640a0de1c484b1b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2179
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3313,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "https://chandra-karya.com/",
+        "website": "chandra-karya.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CHANDRA KARYA PRAMUKA",
+        "tanggal_daftar": "2022-02-18",
+        "nomor_tanda_daftar": "002075.02/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/98c18195f096357579c64a9500dd70b5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2178
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3204,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/458630820ec03ff24cbf59c57fd1defe.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2167
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3197,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BAVKU",
-        "website": "bina-artha.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BINA ARTHA VENTURA",
-        "tanggal_daftar": "2022-02-08",
-        "nomor_tanda_daftar": "002069.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77dd4040c8cfcd441b9ce0271080da7d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2159
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3196,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Cryptokun",
-        "website": "cryptokun.com",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "FAMINDO BURSA INDONESIA",
-        "tanggal_daftar": "2022-02-08",
-        "nomor_tanda_daftar": "002068.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c614f218055596d9cf2e99cde504240d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2139
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3195,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "lapakgaming",
-        "website": "www.lapakgaming.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GLOBAL DIGITAL INDOKREASI",
-        "tanggal_daftar": "2022-02-08",
-        "nomor_tanda_daftar": "002067.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a46f420b9a540114c79ade6451ee95f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2171
       }
     }
   ]

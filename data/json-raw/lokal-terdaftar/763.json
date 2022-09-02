@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 764,
       "from": 7631,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7640,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1779,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MyLink",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SMARTFREN TELECOM",
+        "tanggal_daftar": "2021-07-27",
+        "nomor_tanda_daftar": "001191.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/154447ec72b368c9f4177673b07028c9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2597
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1778,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kerem",
+        "website": "www.kerem.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIPUTRA TEKNO SOLUSINDO",
+        "tanggal_daftar": "2021-07-27",
+        "nomor_tanda_daftar": "001190.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba615795be1766ec7a42191c4ea7c153.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3358
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1777,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KayongKu",
+        "website": "https://kayongku.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KAYU ARRA PRATAMA",
+        "tanggal_daftar": "2021-07-27",
+        "nomor_tanda_daftar": "001189.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/514c92137cb363152f7f9b16092501b0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1356
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1776,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d458e5558559b9d90a3d197dea7a380.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8214
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8212,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010011",
-        "nama": "AGENT PORTAL",
-        "website": "btpn.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "001186.17/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ebcdad193ff6f9945cd7277f1df1c27.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8097
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7497,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010010",
-        "nama": "BEEP.BTPN.COM",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "001186.16/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f86be6d3922aff7fb56c3aa62a2dadb3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7364
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7491,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010018",
-        "nama": "WOW SUSAN",
-        "website": "btpn.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "001186.15/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7cc2d7fe7b438c23672f669358105c5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7355
       }
     }
   ]

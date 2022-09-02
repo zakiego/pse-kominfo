@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 47,
       "from": 461,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 470,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10060,
+      "attributes": {
+        "nomor_pb_umku": "260122006791400000002",
+        "nama": "HTTPS://WWW.OTELLOGAMING.COM",
+        "website": "otellogaming.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "VITA INTI SELARAS",
+        "tanggal_daftar": "2022-08-08",
+        "nomor_tanda_daftar": "007076.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bb315f41aab2e22607d3e4d73b32cea3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9947
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10058,
+      "attributes": {
+        "nomor_pb_umku": "260122006791400000001",
+        "nama": "HTTP://WWW.OTELLOGAMING.COM",
+        "website": "otellogaming.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "VITA INTI SELARAS",
+        "tanggal_daftar": "2022-08-08",
+        "nomor_tanda_daftar": "007076.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18a045256b89deff75b67b2ea6b19969.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9945
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10662,
@@ -24,6 +56,22 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f195f5771d9d5a5bfc1aa9d4dea3d514.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10494
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10977,
+      "attributes": {
+        "nomor_pb_umku": "080822006215200080001",
+        "nama": "WWW.PM-INTERNATIONAL.COM",
+        "website": "pm-international.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "FITLINE NUTRITION AND COSMETICS",
+        "tanggal_daftar": "2022-09-02",
+        "nomor_tanda_daftar": "007071.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9d167b701ef03354217b67945147d1da.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10786
       }
     },
     {
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3e5d7c60d3452db3ac85b7606f02d28f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10125
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10032,
-      "attributes": {
-        "nomor_pb_umku": "124300031294600010001",
-        "nama": "BPR AGRO CIPTA ADIGUNA",
-        "website": "bpragrocipta.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT AGRO CIPTA ADIGUNA",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007065.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b01f8c522635d325b873fd5ee94e50b4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9921
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10030,
-      "attributes": {
-        "nomor_pb_umku": "241121000155600220007",
-        "nama": "MEDIA FAKTA SATU",
-        "website": "mediafaktasatu.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NARA TEKHNIK KREASINDO",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007063.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd075acdbf8de4dc1f2922828f8a7573.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9918
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10043,
-      "attributes": {
-        "nomor_pb_umku": "912010717094200000001",
-        "nama": "WEBSITE PT SENSOR INDONESIA (WWW.SENSORINDO.CO.ID)",
-        "website": "sensorindo.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SENSOR INDONESIA",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007062.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f299a7a12079286237187d98bd31dcc5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9930
       }
     }
   ]

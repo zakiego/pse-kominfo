@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 823,
       "from": 8221,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8230,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7206,
+      "attributes": {
+        "nomor_pb_umku": "912020553197500100007",
+        "nama": "D-WALLET",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000861.16/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/90600b1de56054583a18df60daf0a10f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7066
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7207,
+      "attributes": {
+        "nomor_pb_umku": "912020553197500100008",
+        "nama": "CASH@WORK",
+        "website": "icashatwork.danamon.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000861.15/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/978c568a80939bd1ddca01981a19b779.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7049
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7177,
+      "attributes": {
+        "nomor_pb_umku": "912020553197500100006",
+        "nama": "D-POINT",
+        "website": "dpoint.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK DANAMON INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000861.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ccff2490eceaf5afce601fb252a81f33.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7044
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6339,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/30dc5d3b2d5fa655310ec271040b6dc6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 919
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1276,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Trade Connect",
-        "website": "https://tradeconnect.danamon.co.id/BDICT/ClientTrade",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK DANAMON INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000861.06/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fce60ec3ade98f2daa87dcee71901dee.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 918
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1274,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DBismart",
-        "website": "https://outsys.danamon.co.id/DBisMart_Web/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK DANAMON INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000861.05/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd828913ac58080ad2b0c1a50f5087d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 917
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1271,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Danamon Cash Connect",
-        "website": "https://cashconnect.danamon.co.id https://h2h.cashconnect.danamon.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK DANAMON INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000861.04/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e88138c6de7fc11f19ee27e800d0a38d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 916
       }
     }
   ]

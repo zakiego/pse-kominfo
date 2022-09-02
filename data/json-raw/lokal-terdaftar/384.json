@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 385,
       "from": 3841,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3850,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5580,
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010003",
+        "nama": "CMS BANKSULSELBAR",
+        "website": "cms.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004179.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/802367e2900fb7d3adf37434b413455d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5455
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5579,
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010002",
+        "nama": "WEBSITE BANK SULSELBAR",
+        "website": "banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004179.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b13af35b799db6fbc643c0c75f88c65.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5452
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5576,
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010001",
+        "nama": "INTERNET BANKING & MOBILE BANKING BANK SULSELBAR",
+        "website": "ib.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004179.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/832514ae4266e44ae5b70faee2fb9153.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5448
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5575,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d72341bb493392c1540b2b071934f694.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6487
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6194,
-      "attributes": {
-        "nomor_pb_umku": "912020190055200010002",
-        "nama": "ADITAMA MOBILE",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ADITAMA FINANCE",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004170.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b65c4c43afdb6c506b38db83e0ed81c0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6060
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5642,
-      "attributes": {
-        "nomor_pb_umku": "912020190055200010001",
-        "nama": "MOBILE.ADITAMA-FINANCE.COM",
-        "website": "aditama-finance.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ADITAMA FINANCE",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "004170.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24d0fdde4d000feac760be6e850c3968.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5504
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5831,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "SMS MACROKIOSK - BPR PALU LOKADANA UTAMA",
-        "website": "boldpass.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004168.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62cebae3c8c3e0f069b697888f987f59.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5690
       }
     }
   ]

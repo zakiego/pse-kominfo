@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 958,
       "from": 9571,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9580,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4315,
+      "attributes": {
+        "nomor_pb_umku": "081021001412400010001",
+        "nama": "DUITCROWD",
+        "website": "duitcrowd.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "URUN DANA MAJU NUSANTARA",
+        "tanggal_daftar": "2022-06-09",
+        "nomor_tanda_daftar": "000264.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d33e7a4147fc8c96f18ea8696e147cc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4308
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 312,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Gudang Game",
+        "website": "https://gudanggame.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GUDANG INOVASI INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000264.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89e0a0c340bb424c32aacb88263e422f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 52
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 311,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Nono_Style",
+        "website": "www.nonostyle.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NONO STYLE INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000263.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9822905554e59a6516aa9e121b93c78c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2731
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 310,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5bc48c08388cbf43d9b1f2989e58be4f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 59
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 303,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BEESFUNDING",
-        "website": "https://beesfunding.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MIKRO KAPITAL INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000256.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08d74bd2c534356740ad3bf850278c0b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2403
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 302,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "QingCloud WebSite",
-        "website": "intl.qingcloud.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CLOUD COMPUTING INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000255.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4c3aaca7c67668058e05d7f12da8a5d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2562
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 301,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ayo Bantuin",
-        "website": "ayobantuin.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AYO BANTUIN INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000254.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0883d49ef3e4c9f0d606a16281919913.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 75
       }
     }
   ]

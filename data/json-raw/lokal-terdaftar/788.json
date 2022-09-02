@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 789,
       "from": 7881,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7890,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8386,
+      "attributes": {
+        "nomor_pb_umku": "912021828192600000003",
+        "nama": "VIRTUAL ACCOUNT",
+        "website": "ussi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "USSI",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "001020.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/061552a6c91b5871cd32821d03a3c161.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8302
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7192,
+      "attributes": {
+        "nomor_pb_umku": "912021828192600000002",
+        "nama": "IBSS CORE BANKING SYSTEM",
+        "website": "ussipgs.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "USSI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "001020.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c506d0a0f3895952e9e76e6468f2e463.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7058
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1552,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IBS E-CHANNEL",
+        "website": "https://ussi.co.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "USSI",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "001020.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0559f7b700203a6d9a8ad625cb20a4b0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 165
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1551,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/53e278fb4ccc53a2292a47414106706f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 596
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1544,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEPLUS (WE+)",
-        "website": "weplus.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KITA INDONESIA PLUS",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "001013.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a70f768aea1c4bf59bc882c826e7f961.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1129
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3539,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Pegipegi",
-        "website": "pegipegi.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GO ONLINE DESTINATIONS",
-        "tanggal_daftar": "2022-03-15",
-        "nomor_tanda_daftar": "001012.02/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6bca03d6b29dc5ea1742744e14889b7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3206
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1543,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Pegipegi",
-        "website": "pegipegi.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GO ONLINE DESTINATIONS",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "001012.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2539fca0cc6152676121c7532cb44c40.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1127
       }
     }
   ]

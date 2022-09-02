@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 803,
       "from": 8021,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8030,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1394,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Dashboard DomaiNesia",
+        "website": "www.domainesia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DELTA NEVA ANGKASA",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000927.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b895f571f94587a3da8912d125b6fa2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3481
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1393,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Turbo.co.id",
+        "website": "https://turbo.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TURBO MITRA PERKASA",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000926.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/feadb6ec3bb486b059dcf72c78ca23e4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3334
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1545,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kerjaan",
+        "website": "https://kerjaan.co.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SAMPINGAN MITRA INDONESIA",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "000925.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0cb1e400f8781bb64b7d7ad203865497.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3333
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1389,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0329593133ee69229e3dd73e283052dd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 744
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1380,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Grab Health powered by Good Doctor",
-        "website": "www.gooddoctor.co.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "GOOD DOCTOR TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000919.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6e858b63b5f58da032677e5f35cf8e5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2722
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1379,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SIRCLO",
-        "website": "sirclo.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "LINGKAR NIAGA SOLUSINDO",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000918.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a1b5560140272485433b94bffedb491.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1012
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1378,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Nu Skin Website",
-        "website": "www.nuskin.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NUSA SELARAS INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000917.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5cd539b85ca264a9fda95319476dfaeb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 545
       }
     }
   ]

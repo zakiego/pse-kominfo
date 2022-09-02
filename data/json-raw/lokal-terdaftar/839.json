@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 840,
       "from": 8391,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8400,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1209,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MIB (Mandiri Internet Bisnis)",
+        "website": "https://mib.bankmandiri.co.id/sme",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.29/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/48906a7928261c66b38efa9148947a1f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3459
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1208,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MCM (Mandiri Cash Management)",
+        "website": "https://mcm2.bankmandiri.co.id/corporate",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.28/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ed313ec6b96fdd5c055969b0b5495e22.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3458
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1207,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "eWorkplace - SIMPLE",
+        "website": "https://eworkplace.bankmandiri.co.id/#",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.27/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/98592eee90e211b305a77de6a6bc462c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3457
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1206,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9d32a0d41dd547ad95b352cb59fdfdb.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3450
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1199,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Service API Bank Mandiri Production",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.19/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4693beb0653ecf3135d90747b4509d3f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3449
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1198,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi API Portal",
-        "website": "https://developer.bankmandiri.co.id /",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.18/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47dda183c529b0e9f00444ce60b327a8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3448
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1197,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Livin' by Mandiri",
-        "website": "https://ibank.bankmandiri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.17/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/725d1d049c00e06091463b329f3665d0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3447
       }
     }
   ]

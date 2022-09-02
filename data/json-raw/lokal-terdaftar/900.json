@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 901,
       "from": 9001,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9010,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9309,
+      "attributes": {
+        "nomor_pb_umku": "812011619289900530013",
+        "nama": "PEGA RISK SCORE EPEFINDO.SINARMAS.CO.ID",
+        "website": "sinarmas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI SINAR MAS",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "000513.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e3429703e854ada72074afb5e0cc536d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9221
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9307,
+      "attributes": {
+        "nomor_pb_umku": "812011619289900530012",
+        "nama": "WEBSITE KLAIM APP.SINARMAS.CO.ID",
+        "website": "sinarmas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI SINAR MAS",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "000513.13/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0c950487a8e81aad0ef9fa8a93659883.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9220
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9295,
+      "attributes": {
+        "nomor_pb_umku": "812011619289900530011",
+        "nama": "APLIKASI PEGA BUSINESS PARTNER API.SINARMAS.CO.ID",
+        "website": "sinarmas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI SINAR MAS",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "000513.12/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7beafbce94369b6c6136fcea4fa4c674.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9206
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9290,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7987f14564d3e1c650b740c2b18d3d7c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7298
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7305,
-      "attributes": {
-        "nomor_pb_umku": "812011619289900510003",
-        "nama": "WEBSITE SINARMAS.CO.ID",
-        "website": "sinarmas.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI SINAR MAS",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000513.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/029e42d12c6f486384abcbe34318eb60.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7198
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7179,
-      "attributes": {
-        "nomor_pb_umku": "812011619289900510002",
-        "nama": "WEBSITE SIMASMOBIL.COM",
-        "website": "simasmobil.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI SINAR MAS",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000513.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4d5f89a3995a986d7cee9e755434d6a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6904
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7010,
-      "attributes": {
-        "nomor_pb_umku": "812011619289900510001",
-        "nama": "APLIKASI ASURANSI SINAR MAS ONLINE",
-        "website": "sinarmas.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI SINAR MAS",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000513.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7e2f87661cdc1709fb7fa71bb5f0758.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6847
       }
     }
   ]

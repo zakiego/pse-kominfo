@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 978,
       "from": 9771,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9780,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5797,
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030003",
+        "nama": "MOTION SURE WEB APPLICATION",
+        "website": "motion-sure.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000158.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/70baf2b28d263379d28d82ca5ccfe8a3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5657
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5726,
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030002",
+        "nama": "PROTEKSI PINTAR (SI PINTAR)",
+        "website": "mnc-insurance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000158.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b34e2bf1457ed0a0e4a0c28f5dafd847.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5590
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2991,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Motion Sure",
+        "website": "motion-sure.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-01-07",
+        "nomor_tanda_daftar": "000158.04/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33ca621a7e87157b50a4d34ecbc23329.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2350
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 371,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4c374d5eafed33bb1474ea872daab4c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2658
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 175,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SP-ONE",
-        "website": "www.syde.co",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SYDECO",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000156.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de426ea429333cae1e60447e266538db.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2657
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7479,
-      "attributes": {
-        "nomor_pb_umku": "912030111272600010010",
-        "nama": "JFXGRIT",
-        "website": "jfxgrit-app.jfx.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BULLION ECOSYSTEM INTERNATIONAL",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000155.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1f239298aea28b47c2299071d59bbb17.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7386
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5117,
-      "attributes": {
-        "nomor_pb_umku": "912030111272600010009",
-        "nama": "GOLDEX",
-        "website": "goldex.icdx.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BULLION ECOSYSTEM INTERNATIONAL",
-        "tanggal_daftar": "2022-07-06",
-        "nomor_tanda_daftar": "000155.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9a919770c78c283bb7a59b7a904bd163.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4979
       }
     }
   ]

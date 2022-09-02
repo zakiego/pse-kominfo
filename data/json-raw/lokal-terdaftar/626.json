@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 627,
       "from": 6261,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6270,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2990,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PAXEL",
+        "website": "paxel.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GLOBAL UNGGUL MANDIRI",
+        "tanggal_daftar": "2022-01-07",
+        "nomor_tanda_daftar": "001908.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/344506669e597e90da674c8c6da3ef52.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1965
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2980,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KLIKPAJAK",
+        "website": "www.klikpajak.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JURNAL CONSULTING INDONESIA",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001907.02/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e98400a82e097980ffa86003a01e1e9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1230
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2977,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "JURNAL",
+        "website": "www.jurnal.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JURNAL CONSULTING INDONESIA",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001907.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c8135343b9af81f698543f2cf79c021.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1229
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8308,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3bf506f1dff5a221426787078c9b3a6b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2023
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2967,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VSA",
-        "website": "Vsaglobal.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "VAYYA SUKSES ABADI",
-        "tanggal_daftar": "2022-01-06",
-        "nomor_tanda_daftar": "001904.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c3413790b321ad1a812b44adba8de4a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2025
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2968,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Maintenance Information System",
-        "website": "elisium.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ELISIUM DIGITAL TEKNOLOGI",
-        "tanggal_daftar": "2022-01-06",
-        "nomor_tanda_daftar": "001903.02/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/186ef6050ad2829419ad2f4922268b5a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2005
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2966,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HSSE Information System",
-        "website": "elisium.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ELISIUM DIGITAL TEKNOLOGI",
-        "tanggal_daftar": "2022-01-06",
-        "nomor_tanda_daftar": "001903.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5b0c9b40c607adb13b725c86d5bb316f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2004
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 551,
       "from": 5501,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5510,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3776,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Online Retail",
+        "website": "www.papermark.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TIRTA SUKSES SEJAHTERA",
+        "tanggal_daftar": "2022-04-05",
+        "nomor_tanda_daftar": "002451.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/845f80ef5b47070e9fae9f5e894ce742.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3799
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3775,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GK Reload",
+        "website": "www.gkreload.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KENZIE MEDIA GROUP",
+        "tanggal_daftar": "2022-04-05",
+        "nomor_tanda_daftar": "002450.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6d390c55981c91965e7accffc89e4847.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3838
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3774,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "QONEX",
+        "website": "www.qonex.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "QONEX INDONESIA SOLUSI",
+        "tanggal_daftar": "2022-04-05",
+        "nomor_tanda_daftar": "002449.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cda116fd2cc58ae1c8ff64bc8ad650ba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3708
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3772,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a56d336ea6d4ca3dcbfd4377c794723d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3850
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3764,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "car24.co.id",
-        "website": "car24.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GLOBAL CARS INDONESIA",
-        "tanggal_daftar": "2022-04-04",
-        "nomor_tanda_daftar": "002441.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9a89d3dae93ab3c1370e03b0536a9c8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3785
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3763,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Elektronik Blocknom",
-        "website": "https://www.blocknom.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TEKNOLOGI ASET DIGITAL",
-        "tanggal_daftar": "2022-04-04",
-        "nomor_tanda_daftar": "002440.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e888834b06717b1e443e85e557cbd84d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3783
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3762,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WIDIA EVA SARI",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "WIDIA EVA SARI",
-        "tanggal_daftar": "2022-04-04",
-        "nomor_tanda_daftar": "002439.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38d42e9f5e013f641c4666bf12da0ee3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3745
       }
     }
   ]

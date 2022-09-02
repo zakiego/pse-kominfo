@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 658,
       "from": 6571,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6580,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8521,
+      "attributes": {
+        "nomor_pb_umku": "812011802002900160003",
+        "nama": "RUANGKERJA",
+        "website": "ruangkerja.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RUANG RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "001737.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/36038d85221fe17aa19b330865be3996.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8434
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8436,
+      "attributes": {
+        "nomor_pb_umku": "812011802002900160002",
+        "nama": "SKILLACADEMY",
+        "website": "skillacademy.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RUANG RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "001737.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d3feafd407e82279ad0fe5eef516fd0e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8354
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2706,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ruangguru",
+        "website": "ruangguru.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "RUANG RAYA INDONESIA",
+        "tanggal_daftar": "2021-12-10",
+        "nomor_tanda_daftar": "001737.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12faefed609bf19eda4aa8267726e41f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1609
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4009,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9173c216a9511afb2d441638bdffeda.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2806
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2702,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT PINTAR PLATFORM DIGITAL",
-        "website": "oneaset.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PINTAR PLATFORM DIGITAL",
-        "tanggal_daftar": "2021-12-09",
-        "nomor_tanda_daftar": "001733.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da1d98d0314d206d6739cd0e4255a299.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2805
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2701,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Indonet",
-        "website": "indonet.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDOINTERNET",
-        "tanggal_daftar": "2021-12-09",
-        "nomor_tanda_daftar": "001732.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ebc1d0b757d633e92f9cb770cae139e7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1734
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2700,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SENDJEK APP",
-        "website": "www.sendjek.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "SENDJEK APP INDONESIA",
-        "tanggal_daftar": "2021-12-09",
-        "nomor_tanda_daftar": "001731.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c9d61a97b29dfd001d832e2f13ae02f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1799
       }
     }
   ]

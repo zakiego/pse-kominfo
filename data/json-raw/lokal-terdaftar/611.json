@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 612,
       "from": 6111,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6120,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3143,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EtimeTrac",
+        "website": "etimetrac.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MEDIA DIMENSI TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-01-31",
+        "nomor_tanda_daftar": "002028.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9dabceadabf79f49658b634a66837fae.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1488
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3142,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Semaai",
+        "website": "https://play.google.com/store/apps/details?id=com.semaai.toko",
+        "sektor": "Sektor Pangan, Sektor Perdagangan",
+        "nama_perusahaan": "AGRI PINTAR ASIA",
+        "tanggal_daftar": "2022-01-31",
+        "nomor_tanda_daftar": "002027.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3772f292540aab3efa34f38638ef52d4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2110
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3139,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CV MEDICAL EINSTEIN SURABAYA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MEDICAL EINSTEIN SURABAYA",
+        "tanggal_daftar": "2022-01-31",
+        "nomor_tanda_daftar": "002025.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a25130709a467cc20496fda2619aa0ff.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2131
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3138,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df8eed3fd52d1e70ca805ae20a4b6c7c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3556
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3129,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kulina",
-        "website": "www.kulina.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "JEJARING MAKANAN INDONESIA",
-        "tanggal_daftar": "2022-01-27",
-        "nomor_tanda_daftar": "002018.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9cbea24392a3e1439a4f7e6cb08a5d0f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2122
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3128,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT. HALIM SELINDO INTERNASIONAL",
-        "website": "www.idstore.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HALIM SELINDO INTERNASIONAL",
-        "tanggal_daftar": "2022-01-27",
-        "nomor_tanda_daftar": "002017.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c17215f4a2669f58cf6d944347282766.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2099
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3127,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MIDTRANS",
-        "website": "midtrans.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MIDTRANS",
-        "tanggal_daftar": "2022-01-27",
-        "nomor_tanda_daftar": "002016.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1aab97c52c6217343065672388e8dde.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2081
       }
     }
   ]

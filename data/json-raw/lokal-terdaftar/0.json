@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 1,
       "from": 1,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 10,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10978,
+      "attributes": {
+        "nomor_pb_umku": "912030519202200010004",
+        "nama": "MULTIPRO.ID",
+        "website": "multipro.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MULTIPRO JAYA PRIMA",
+        "tanggal_daftar": "2022-09-02",
+        "nomor_tanda_daftar": "007604.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c4c786385556f45536d24d33edf00a56.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10787
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10976,
+      "attributes": {
+        "nomor_pb_umku": "022030024179700000001",
+        "nama": "TRAVELNETSIA",
+        "website": "travelnetsia.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SANGKEK",
+        "tanggal_daftar": "2022-09-01",
+        "nomor_tanda_daftar": "007602.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/04f63253a426067332f4f742efed22ab.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10785
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10975,
@@ -67,7 +99,7 @@
         "website": "simplidots.co.id",
         "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
         "nama_perusahaan": "SIMPLI INOVATIF MANDIRI",
-        "tanggal_daftar": "2022-09-01",
+        "tanggal_daftar": "2022-09-02",
         "nomor_tanda_daftar": "007595.01/DJAI.PSE/09/2022",
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4755b1f9bdbf23d970735bf0215a0636.png",
         "status_id": "TERDAFTAR",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3eb6c54d61ad00b23796075d04c73800.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10761
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10952,
-      "attributes": {
-        "nomor_pb_umku": "060722005283300020001",
-        "nama": "PT REAL ESTATE DEVELOPER INDONESIA",
-        "website": "reper.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "REAL ESTATE DEVELOPER INDONESIA",
-        "tanggal_daftar": "2022-09-01",
-        "nomor_tanda_daftar": "007591.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4be3fd81df589a8ad95ddcab8a461d5c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10760
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10961,
-      "attributes": {
-        "nomor_pb_umku": "912030779242700010001",
-        "nama": "PROSPERO ERMS",
-        "website": "prosperosolutions.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PROSPERO OPTIMA SOLUSINDO",
-        "tanggal_daftar": "2022-09-01",
-        "nomor_tanda_daftar": "007590.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dd43cf92b3844dedab2a7da2d966ee42.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10766
       }
     }
   ]

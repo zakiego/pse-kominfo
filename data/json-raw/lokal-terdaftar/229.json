@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 230,
       "from": 2291,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 2300,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8324,
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000007",
+        "nama": "JADIPERGI",
+        "website": "jadipergi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005304.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a531daa823eb21bbff7f5cf65d6c6d08.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8245
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8309,
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000006",
+        "nama": "MYBEB",
+        "website": "mybeb.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005304.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/168c1f792f23b665f1a3d6e13ad856c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8232
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8204,
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000005",
+        "nama": "TIKETKAI",
+        "website": "tiketkai.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005304.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1d51fc017cee53daa2c832aed995bc2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8124
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8151,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/abb45467ccf630d5d803488d0f61d2f0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8121
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7280,
-      "attributes": {
-        "nomor_pb_umku": "210522001855800000001",
-        "nama": "MILLIONAIRE DIGITAL INDONESIA",
-        "website": "millionaire.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MILLIONAIRE DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005301.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21a8d0f5695b1befc8d801c5b0b264e6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7174
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7278,
-      "attributes": {
-        "nomor_pb_umku": "190722008379900000001",
-        "nama": "PULSAKU",
-        "website": "pulsaku.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IQBAL ANDARU N. P",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005300.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e57fd3615a64b2212849c1827202edd8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7172
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7508,
-      "attributes": {
-        "nomor_pb_umku": "912030684182500010001",
-        "nama": "WEBSITE PT. BPR PRIMA NADI MATARAM",
-        "website": "bpr-primanadi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PRIMA NADI",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005299.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/853f2dccf8f8f6d0bf18d2a6a4c2b95a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7406
       }
     }
   ]

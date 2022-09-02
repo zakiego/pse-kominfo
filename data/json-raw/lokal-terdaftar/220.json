@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 221,
       "from": 2201,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 2210,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7469,
+      "attributes": {
+        "nomor_pb_umku": "912000994112600010001",
+        "nama": "ASSIST-BPR",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BPR WUTAMA ARTHA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005375.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6718631be6ef29fe9ac71041f19e63b6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7377
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7986,
+      "attributes": {
+        "nomor_pb_umku": "190722007520300000001",
+        "nama": "PT BPR BAHTERA MASYARAKAT JABAR",
+        "website": "bankbahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BAHTERA MASYARAKAT JABAR",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005374.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd0758bdf5c7fda1d1817d023a33cdaa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7903
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7315,
+      "attributes": {
+        "nomor_pb_umku": "200722001326900000001",
+        "nama": "BANK BPR CANDI AGUNG AMUNTAI",
+        "website": "bprcandiagungamt.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CANDI AGUNG AMUNTAI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005373.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03ff2d135140e7fb8019a898b7876dd3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7209
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7517,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dcb2e852371b74d73aea5ac088c4374e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7771
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7833,
-      "attributes": {
-        "nomor_pb_umku": "022010447220800010001",
-        "nama": "TRUSTMEDIS HISV2",
-        "website": "trustmedis.net",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INOVASI TEKNOLOGI SOLUSINDO",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005366.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09360b15db92eead28def9187a83f846.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7758
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7830,
-      "attributes": {
-        "nomor_pb_umku": "022010447220800010001",
-        "nama": "TRUSTMEDIS HISV1",
-        "website": "trustmedis.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INOVASI TEKNOLOGI SOLUSINDO",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005366.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e82bdb7a8bcbf6df802c91af15f47b6f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7749
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7820,
-      "attributes": {
-        "nomor_pb_umku": "022010447220800010001",
-        "nama": "DOCTUGO",
-        "website": "doctugo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INOVASI TEKNOLOGI SOLUSINDO",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005366.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7e6a7b7f9805354bb35014feaac3c564.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7735
       }
     }
   ]

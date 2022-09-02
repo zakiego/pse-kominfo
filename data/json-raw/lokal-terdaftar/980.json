@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 981,
       "from": 9801,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9810,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 166,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kartunet",
+        "website": "www.kartunet.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SAHABAT MAKMUR INOVASI",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000147.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf3f626685916b049e7dad73519d0b35.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2636
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 165,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Codemi Learning",
+        "website": "codemi.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CODEMI GLOBAL",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000146.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45e9fafd257df0600236cd74556e1d2f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2635
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 164,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Garasi.id",
+        "website": "https://garasi.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DIGITAL OTOMOTIF INDONESIA",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000145.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92fafb6dfa316af9e01d81e21e99ebd3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2442
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 162,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1253cca852fe4e8fdcc66b8762e7836.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6121
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 158,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "pinjemsaja",
-        "website": "https://pinjemsaja.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KONSUMEN KOLABORASI SEJAHTERA ABADI",
-        "tanggal_daftar": "2021-02-24",
-        "nomor_tanda_daftar": "000140.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a530df1973bfe6c9c84e652dc99d2055.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2632
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 157,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Digiscore -E-KYC",
-        "website": "www.digiscore.id/ekyc",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INKLUSI KEUANGAN DIGITAL",
-        "tanggal_daftar": "2021-02-24",
-        "nomor_tanda_daftar": "000139.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f386fdad3d438e6854b2a9026129e708.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2629
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 156,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Digiscore Credit Scoring",
-        "website": "www.digiscore.id/creditscoring",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SKORING KREDIT INKLUSIF",
-        "tanggal_daftar": "2021-02-24",
-        "nomor_tanda_daftar": "000138.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dfb8b0d3216e23ac7f4db3c98656fd42.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2628
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 1004,
       "from": 10031,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 10040,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TEMAN SEHAT (com.temansehat.person, co.achiko.temansehat-person)",
+        "website": "https://person-app.teman-sehat.co.id",
+        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PROGRESSIVMEDIA INDONESIA",
+        "tanggal_daftar": "2021-02-18",
+        "nomor_tanda_daftar": "000008.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d5eabccffee3880ac2413d322923bb3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2322
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7955,
+      "attributes": {
+        "nomor_pb_umku": "022201110082300010009",
+        "nama": "AIA INDONESIA VYMO (BLAST)",
+        "website": "aiablast.lms.getvymo.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AIA FINANCIAL",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000007.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7216d31436b9d990c975913293c4aaba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7872
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7921,
+      "attributes": {
+        "nomor_pb_umku": "022201110082300010008",
+        "nama": "AIA INDONESIA ANYA CHATBOT",
+        "website": "aia-financial.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AIA FINANCIAL",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000007.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00ad8069fd722d16d6ef5dfd14d3b12d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7837
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7826,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a1de1c558bdc9fd38b813c4052602bce.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2354
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kiocha",
-        "website": "www.kiocha.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KIOCHA MITRA ABADI",
-        "tanggal_daftar": "2021-02-18",
-        "nomor_tanda_daftar": "000006.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fa80e542bac73e92cd4b7f99e9b2b627.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2346
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Zi.Care",
-        "website": "zicare.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JEJARING TIGA ARTHA",
-        "tanggal_daftar": "2021-02-18",
-        "nomor_tanda_daftar": "000005.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f16a1a5e0d3a0e901dfec8c1ffbf3c63.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2311
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KKMI Mobile",
-        "website": "https://koperasikencanamadani.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA MADANI INVESTAMA",
-        "tanggal_daftar": "2021-02-17",
-        "nomor_tanda_daftar": "000004.02/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8901969483657c069b98a49c9b3447df.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2345
       }
     }
   ]

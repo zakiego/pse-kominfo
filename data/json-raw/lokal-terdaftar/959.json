@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 960,
       "from": 9591,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9600,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 296,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Gramedia Mitra Edukasi Indonesia",
+        "website": "gramediaedukasi.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MITRA EDUKASI NUSANTARA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000249.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ed4a8ea12a0b527664b099827d50db9e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 49
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 295,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "URUS",
+        "website": "https://urus.co.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ADIWISISTA DAYA PRATAMA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000248.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11e727eb397f7e43d9ed019667cc9e29.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 66
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 293,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Awanio",
+        "website": "https://awan.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AWAN KOMPUTASI TEKNOLOGI",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000247.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/78ccc647c151aa33114178a7d0bdafeb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 68
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 291,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f5d1ecc285f2d5fb1239a64edfba168.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 22
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1153,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SatuAja",
-        "website": "satuaja.co.id , https://play.google.com/store/apps/details?id=com.satuaja.online&hl=in",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi",
-        "nama_perusahaan": "SASUKA ONLINE INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000241.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c4723c272d7a24ee27570584f4cd0495.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3694
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 286,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "sasuka online",
-        "website": "https://sasuka.online ,  https://sasuka.co.id,  https://ritzuka.com,",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SASUKA ONLINE INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000241.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5154fcddf4afc159813898f05ed1485.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 56
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10245,
-      "attributes": {
-        "nomor_pb_umku": "022030022100300020002",
-        "nama": "PRIME TRUPHONE",
-        "website": "ptdigital.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PRIME TEKNOLOGI DIGITAL INFORMINDO",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "000240.04/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/832d035ca9ad2ba7ce4c4a9de1f8fda9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10127
       }
     }
   ]

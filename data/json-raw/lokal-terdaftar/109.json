@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 110,
       "from": 1091,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 1100,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9229,
+      "attributes": {
+        "nomor_pb_umku": "912030355153500010001",
+        "nama": "PT BPR DANAMAS PRATAMA",
+        "website": "bprdanamas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANAMAS PRATAMA",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006374.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4669171d069438e90781357c1c337772.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9142
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9680,
+      "attributes": {
+        "nomor_pb_umku": "040722005234600000001",
+        "nama": "SATU ILMU",
+        "website": "satuilmu.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CUKUP SATU ILMU TEPAT",
+        "tanggal_daftar": "2022-08-02",
+        "nomor_tanda_daftar": "006372.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5cd0293059fd41efa5a10cefb9b0baeb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9557
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9067,
+      "attributes": {
+        "nomor_pb_umku": "260722004924600000001",
+        "nama": "APLIKASI SISTEM PEMBIAYAAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ANUGERAH BUANA CENTRAL MULTIFINANCE",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "006370.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee4a9556597d860efde87a2a79abb024.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8976
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9370,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/065eca771699b668cc6bce45a6335cb3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8965
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9323,
-      "attributes": {
-        "nomor_pb_umku": "022020135025600000005",
-        "nama": "LANDING PAGE COMPROF PT EKA AKAR JATI",
-        "website": "Ekaakarjati.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EKA AKAR JATI",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006362.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/251967508baca4e75b78fe236b333a36.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9235
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9317,
-      "attributes": {
-        "nomor_pb_umku": "022020135025600000004",
-        "nama": "REKRUTMEN PT EKA AKAR JATI",
-        "website": "Karir.ekaakarjati.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EKA AKAR JATI",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006362.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c11625f3546ffe21982f747ab59526cd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9231
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9314,
-      "attributes": {
-        "nomor_pb_umku": "022020135025600000003",
-        "nama": "ELEARNING PT EKA AKAR JATI",
-        "website": "Elearning.ekaakarjati.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EKA AKAR JATI",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006362.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5ced2471da27c7e7ee0408250e2e6ab.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9228
       }
     }
   ]

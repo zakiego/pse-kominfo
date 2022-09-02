@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 722,
       "from": 7211,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7220,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2103,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "iChoose",
+        "website": "https://www.ichooseasia.com/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JASA ASIA GROUP",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001402.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2156c75177efd0cfe33608b4e2ee4234.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3688
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2140,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KlinikGo.com",
+        "website": "www.klinikgo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PT Medika Nuswantara Digital",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001401.02/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cee4963effb315f8350620573b976535.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3025
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2102,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KlinikGo.com",
+        "website": "www.klinikgo.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "PT Medika Nuswantara Digital",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001401.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1460df9894b1d58adb73d0ebd825cbeb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3024
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2101,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/314a4e7ec6b62fed1663282021f89ee3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3019
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2098,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PIPELINE MANAGEMENT SYSTEM",
-        "website": "pms.banksumut.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SUMATERA UTARA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001396.12/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fbc0fe30aea0c4803a6475eb562f731d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3018
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2097,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "e-RECRUITMENT",
-        "website": "recruitment.banksumut.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SUMATERA UTARA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001396.11/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f2b7c33fdfb3e744e4f016521dd9bfb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3017
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2095,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KMG ONLINE",
-        "website": "kmgonline.banksumut.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SUMATERA UTARA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001396.10/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3306ce94c2495f0df7ba64fbffa1b2ad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3016
       }
     }
   ]

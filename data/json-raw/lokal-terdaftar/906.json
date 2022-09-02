@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 907,
       "from": 9061,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9070,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 591,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RangkulTeman",
+        "website": "https://rangkulteman.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "RANGKUL TEMAN JAKARTA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000484.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee6ed5412ca48768386cd0f57a257882.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 285
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 590,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IUIGA",
+        "website": "https://www.iuiga.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "IUIGA RITEL PLUS",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000483.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/06f9f4a83bd594b05cdd2c9e5f3538e9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 160
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4209,
+      "attributes": {
+        "nomor_pb_umku": "812021304102800000001",
+        "nama": "AUTO PORTAL",
+        "website": "oto.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CARBAY SERVICES INDONESIA",
+        "tanggal_daftar": "2022-06-02",
+        "nomor_tanda_daftar": "000482.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b107b9850ea66dd374e22bdf3e17534f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4208
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 589,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/689c54a6bab82edecb7422d33d683bea.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 399
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 585,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MoneyGram Money Transfer System",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MONEYGRAM PAYMENT SYSTEMS INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000478.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cc4ac442e319f2d1b6f46e5010277799.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 81
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 625,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Alomedika",
-        "website": "www.alomedika.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "ALODOKTER TEKNOLOGI SOLUSI",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000477.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/926ce33d7123fbe27ec4cf015da6d533.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 47
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 584,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Alodokter",
-        "website": "www.alodokter.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "ALODOKTER TEKNOLOGI SOLUSI",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000477.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/20ebc5206a33843cd965b35a17ea54d1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 46
       }
     }
   ]

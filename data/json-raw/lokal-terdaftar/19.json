@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 20,
       "from": 191,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 200,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10606,
+      "attributes": {
+        "nomor_pb_umku": "020601003052300020001",
+        "nama": "INDONESIA RISK EXCHANGE",
+        "website": "IDRX.ID",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ARTHA DANA MANDIRI",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007363.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/937965012cd353183686be2bfbe5c1d1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10443
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10612,
+      "attributes": {
+        "nomor_pb_umku": "912030842014200020002",
+        "nama": "SURYAMALANG.COM",
+        "website": "suryamalang.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ANTAR SURYA MEDIA",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007362.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aedc48f46a817f15af6798b5bdd3dc36.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10447
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10596,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ebdfff0c1564de3ee2ee1dfd3145999.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10430
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10650,
-      "attributes": {
-        "nomor_pb_umku": "126600014141300010003",
-        "nama": "SURYAMALANG.COM",
-        "website": "suryamalang.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIBUN DIGITAL JATIM",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007353.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/53f9776c9f15d149afdc9d61caddd0a2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10487
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10565,
-      "attributes": {
-        "nomor_pb_umku": "126600014141300010002",
-        "nama": "TRIBUNMADURA.COM",
-        "website": "tribunmadura.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIBUN DIGITAL JATIM",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007353.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12d93f14af837b847b5833fb42d2b7c1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10424
       }
     }
   ]

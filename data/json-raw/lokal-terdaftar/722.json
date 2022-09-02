@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 723,
       "from": 7221,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7230,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2098,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PIPELINE MANAGEMENT SYSTEM",
+        "website": "pms.banksumut.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SUMATERA UTARA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001396.12/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fbc0fe30aea0c4803a6475eb562f731d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3018
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2097,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "e-RECRUITMENT",
+        "website": "recruitment.banksumut.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SUMATERA UTARA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001396.11/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f2b7c33fdfb3e744e4f016521dd9bfb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3017
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2095,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KMG ONLINE",
+        "website": "kmgonline.banksumut.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SUMATERA UTARA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001396.10/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3306ce94c2495f0df7ba64fbffa1b2ad.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3016
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2094,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0f60f34668d5440d2f5c4de016588cf.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3009
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2084,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "INTERNET BANKING",
-        "website": "ib.banksumut.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SUMATERA UTARA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001396.02/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03fec63d024e581fe0b36e0685002d9e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3008
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2082,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEBSITE PERUSAHAAN",
-        "website": "https://www.banksumut.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PT BANK PEMBANGUNAN DAERAH SUMATERA UTARA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001396.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0194fd2e5308cd9582f1ad7bbdd711c6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3007
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2081,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Komodo powered by CTXG",
-        "website": "www.komodoexchange.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CTXG INDONESIA BERKARYA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001395.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c2d90a6c1a77ee2e5edaa1c5b57e4a2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1517
       }
     }
   ]

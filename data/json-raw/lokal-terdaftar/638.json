@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 639,
       "from": 6381,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6390,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2864,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PlazaBanten",
+        "website": "https://plazabanten.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "AGROBISNIS BANTEN MANDIRI",
+        "tanggal_daftar": "2021-12-23",
+        "nomor_tanda_daftar": "001837.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/432de9a505f082bae5950123e2675fc7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1587
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2863,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MILI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JENDELA PULSA INDONESIA",
+        "tanggal_daftar": "2021-12-23",
+        "nomor_tanda_daftar": "001836.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2b7c2d77b63a84a4051f3d19d91b14e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1963
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6450,
+      "attributes": {
+        "nomor_pb_umku": "912030077198800040007",
+        "nama": "E-PAPERLESS",
+        "website": "paperless.suryayudha.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SURYA YUDHAKENCANA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "001835.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4a1519049ce5f58a6426f800ddd62ec.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6318
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6440,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/528a7352b5da1771a18d5f7ff695e311.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1962
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2859,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DAV",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "VATAR MEDIA RAYA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001833.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92b1f71735082829268b944a1aa5706a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1961
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2858,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TOKO AWADAH",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "AWADAH AKAR MIMPI",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001832.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/91ef795fd601151ca3b6106d317f88b2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1952
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2856,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MBJB Mobile",
-        "website": "www.mitrabjb.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KONSUMEN MITRA BINA JAYA BERDIKARI",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001831.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a0a22cc9100cd9af2978ce982a416654.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1957
       }
     }
   ]

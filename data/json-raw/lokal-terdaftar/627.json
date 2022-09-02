@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 628,
       "from": 6271,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6280,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2967,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VSA",
+        "website": "Vsaglobal.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "VAYYA SUKSES ABADI",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001904.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c3413790b321ad1a812b44adba8de4a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2025
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2968,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Maintenance Information System",
+        "website": "elisium.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ELISIUM DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001903.02/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/186ef6050ad2829419ad2f4922268b5a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2005
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2966,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HSSE Information System",
+        "website": "elisium.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ELISIUM DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "001903.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5b0c9b40c607adb13b725c86d5bb316f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2004
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3020,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/296f5b8f63e1c68f1d30ecbbc8455db8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2020
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3114,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "new",
-        "website": "www.newnational.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DAB INDONESIA",
-        "tanggal_daftar": "2022-01-25",
-        "nomor_tanda_daftar": "001896.02/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42771e0c5edd739a47db73cdd6ee189b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2017
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2956,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "distributor pompa air dan led",
-        "website": "dabindonesia.co.id",
-        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Perdagangan, Sektor Pertahanan dan Keamanan",
-        "nama_perusahaan": "DAB INDONESIA",
-        "tanggal_daftar": "2022-01-06",
-        "nomor_tanda_daftar": "001896.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/343e83400a3064668dc249501ec43e56.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2016
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2955,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Elektronik Titipku",
-        "website": "https://titipku.com/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TERANG BAGI BANGSA",
-        "tanggal_daftar": "2022-01-06",
-        "nomor_tanda_daftar": "001895.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10d0c6e3b947f68f4065dcd536321c2a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2051
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 631,
       "from": 6301,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6310,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2939,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "snacktime",
+        "website": "www.snacktime.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KARSA MEDIA DIGITAL",
+        "tanggal_daftar": "2021-12-31",
+        "nomor_tanda_daftar": "001885.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4e51f93681cb03ea40d71af6d33408c8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2003
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5490,
+      "attributes": {
+        "nomor_pb_umku": "912020448118100030011",
+        "nama": "JARVIN",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BUMI BERKAH BOGA",
+        "tanggal_daftar": "2022-05-27",
+        "nomor_tanda_daftar": "001884.02/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9ce6f5fb717a08e7333ad0be8c0e9f1b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4159
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2938,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kopi Kenangan Apps",
+        "website": "kopikenangan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BUMI BERKAH BOGA",
+        "tanggal_daftar": "2021-12-31",
+        "nomor_tanda_daftar": "001884.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9cca2338928caa54258843c9516d4141.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 606
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2937,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d38013b533b0ca4611a6fa3d27505680.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5289
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5416,
-      "attributes": {
-        "nomor_pb_umku": "022010417140600020003",
-        "nama": "IB CASH MASALAHAN - ADMIN (CASH MANAGEMENT SYSTEM)",
-        "website": "ibcash-admin.bjbsyariah.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "001879.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02e0b63979f206b55ba751f7be29b08d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5116
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5415,
-      "attributes": {
-        "nomor_pb_umku": "022010417140600020003",
-        "nama": "IB CASH MASLAHAH (CASH MANAGEMENT SYSTEM)",
-        "website": "ibcash.bjbsyariah.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "001879.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1fd3fea93dddb447935db3c0ca41ffed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5114
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4984,
-      "attributes": {
-        "nomor_pb_umku": "022010417140600020002",
-        "nama": "WEBSITE BANK BJB SYARIAH",
-        "website": "bjbsyariah.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK JABAR BANTEN SYARIAH",
-        "tanggal_daftar": "2022-06-30",
-        "nomor_tanda_daftar": "001879.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2aa1840e77bcb5eabe248c3ad63ae846.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4853
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 966,
       "from": 9651,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9660,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 646,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OCTO Merchant",
+        "website": "https://branchlessbanking.cimbniaga.co.id/octo-merchant",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000222.04/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/55cbf9f1b2a66407957cea632f56b1a3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2755
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 280,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Branchless Banking",
+        "website": "https://branchlessbanking.cimbniaga.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000222.03/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ab731390532c5d185f051ed5a9d4fce.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2754
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 261,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Octo Mobile",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-02-26",
+        "nomor_tanda_daftar": "000222.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f651775f714ff8a0d8fe8563ba80499.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2753
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 260,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/842534f9cce5b6bf44bfdce30c436e43.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7520
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7598,
-      "attributes": {
-        "nomor_pb_umku": "912020150003700010004",
-        "nama": "BRAVO",
-        "website": "bravo.generali.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000217.13/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c2728b6f6c7700340f9684d35568e1a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7485
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5744,
-      "attributes": {
-        "nomor_pb_umku": "912020150003700010003",
-        "nama": "IPROPOSE YOU",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000217.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/35ef5298a153c20881cdec20a9e7f6aa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5609
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5732,
-      "attributes": {
-        "nomor_pb_umku": "912020150003700010002",
-        "nama": "AKUBERBAGI.COM",
-        "website": "akuberbagi.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000217.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a6d03af5a74d3ea513699ce509256a3f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5595
       }
     }
   ]

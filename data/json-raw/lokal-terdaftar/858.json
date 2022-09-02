@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 859,
       "from": 8581,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8590,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10118,
+      "attributes": {
+        "nomor_pb_umku": "912021901110400050002",
+        "nama": "STRIVE",
+        "website": "app.aldiracita.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ALDIRACITA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "000722.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4070f9a721c777f4ed0843e41b5c44fd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10000
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 962,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Brokerage Office System S21-Plus Aldiracita",
+        "website": "www.aldiracita.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ALDIRACITA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000722.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/924a588d0214b778b697d053ea7e9179.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 715
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 961,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Edukasi MasaDepan",
+        "website": "www.masadepan.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "EDUKASI MASA DEPAN",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000721.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e590f96a3bac5d2b3532459381648223.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3308
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 959,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bb3fe80499596473872ca1fb386efa70.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 530
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 948,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.ninestars.id",
-        "website": "www.ninestars.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BINTANG PRIMA KARYA BERSAMA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000714.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d543e27b65981ae5240e991e6fb3e860.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 557
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6150,
-      "attributes": {
-        "nomor_pb_umku": "812011808152500450002",
-        "nama": "WEBSITE KORPORASI PERMATABANK",
-        "website": "permatabank.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERMATA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "000713.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/93e822d2064b2d845f2fe6a5b4dc7275.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6018
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 952,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Permatae-Business",
-        "website": "https://www.permatae-business.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERMATA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000713.05/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7b300b7b2f0b31945f83cec0d780dae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 605
       }
     }
   ]

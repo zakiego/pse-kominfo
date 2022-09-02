@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 324,
       "from": 3231,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3240,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9031,
+      "attributes": {
+        "nomor_pb_umku": "220522001670400010002",
+        "nama": "KONTER PULSA NETINDO",
+        "website": "konterpulsa.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KONTER PULSA NETINDO",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "004558.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58c77379fa7f8094b73f4edd4efbbed3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8945
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6130,
+      "attributes": {
+        "nomor_pb_umku": "220522001670400010001",
+        "nama": "KONTER PULSA",
+        "website": "konterpulsa.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KONTER PULSA NETINDO",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004558.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38e07fd108b2666bdc7c6de83d7d615a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6003
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6145,
+      "attributes": {
+        "nomor_pb_umku": "912000570275600000001",
+        "nama": "WEBSITE",
+        "website": "bprdinamika.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DINAMIKA BANGUN ARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004557.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8dfd654817d869bdbe89021edee001ee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6013
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6161,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cc55fd877f430a2df33c2061e660a767.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6443
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6219,
-      "attributes": {
-        "nomor_pb_umku": "029501021229100010001",
-        "nama": "SITUS PT BPR SARI DANANIAGA",
-        "website": "bprsaridananiaga.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SARI DANANIAGA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004549.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58f80e7c95e20be71f11e6faadcd5c00.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6084
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6285,
-      "attributes": {
-        "nomor_pb_umku": "8120001860126143387777770007",
-        "nama": "RUANG ILMIAH",
-        "website": "ruangilmiah-dexa.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "DEXA MEDICA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004547.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c22a3e961e7ac700525cfcd78371c893.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6028
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7390,
-      "attributes": {
-        "nomor_pb_umku": "912010494046100010001",
-        "nama": "WEBSITE BPR PANDANARAN JAYA",
-        "website": "bprpandanaranjaya.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PANDANARAN JAYA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004546.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf30363d97ce08ee3b5de9ba597123a9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7290
       }
     }
   ]

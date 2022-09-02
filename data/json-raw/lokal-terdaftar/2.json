@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 3,
       "from": 21,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 30,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10949,
+      "attributes": {
+        "nomor_pb_umku": "812021425170100000018",
+        "nama": "BOCSH BECONNECTED",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ROBERT BOSCH",
+        "tanggal_daftar": "2022-09-01",
+        "nomor_tanda_daftar": "007564.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5022cb19582b90096413c7de7b6215cd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10757
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10925,
+      "attributes": {
+        "nomor_pb_umku": "300822002363600000001",
+        "nama": "BENGKEL ROBOT FOREX",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BENGKEL ROBOT FOREX",
+        "tanggal_daftar": "2022-08-31",
+        "nomor_tanda_daftar": "007563.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a3bcce38add062b6a2d90ee070406c93.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10736
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10913,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/142c6209f4a3c84a2b072a602b14edcc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10711
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10896,
-      "attributes": {
-        "nomor_pb_umku": "022030592032500000001",
-        "nama": "JOGJAHOST",
-        "website": "jogjahost.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JOGJAHOST",
-        "tanggal_daftar": "2022-08-30",
-        "nomor_tanda_daftar": "007557.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29f4a90aec78838fcc500213ddcf7b13.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10708
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10901,
-      "attributes": {
-        "nomor_pb_umku": "812011009119100000001",
-        "nama": "RECHARGE",
-        "website": "Recharge.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "JALAN TERUS SAJA",
-        "tanggal_daftar": "2022-08-30",
-        "nomor_tanda_daftar": "007555.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/469b40c21899cef64e696b9e77ea2da6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10713
       }
     }
   ]

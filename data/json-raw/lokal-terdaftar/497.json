@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 498,
       "from": 4971,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4980,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4327,
+      "attributes": {
+        "nomor_pb_umku": "022010822221600000004",
+        "nama": "INMOBI PULSE",
+        "website": "pulse.inmobi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INMOBI INDONESIA TECHNOLOGIES",
+        "tanggal_daftar": "2022-06-10",
+        "nomor_tanda_daftar": "002868.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a68395488e4757107ac6033c98d2a4c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4312
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4325,
+      "attributes": {
+        "nomor_pb_umku": "022010822221600000003",
+        "nama": "INMOBI EXCHANGE",
+        "website": "exchange.inmobi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INMOBI INDONESIA TECHNOLOGIES",
+        "tanggal_daftar": "2022-06-10",
+        "nomor_tanda_daftar": "002868.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de5cfa510754773a0aaf0fec87f2e99e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4276
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10533,
+      "attributes": {
+        "nomor_pb_umku": "912030519120100010015",
+        "nama": "TRIBUNSHOPPING.COM",
+        "website": "tribunshopping.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIBUN BERITA ONLINE",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "002867.16/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/371e7d7193397bf25f49fd0f4ab00f6b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10392
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10532,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f377d56776ce9b0a02ea686b42acca10.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10381
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10521,
-      "attributes": {
-        "nomor_pb_umku": "912030519120100010007",
-        "nama": "TRIBUN-VIDEO.COM",
-        "website": "tribun-video.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIBUN BERITA ONLINE",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "002867.08/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/23bc7f6ba693fee1ed4a1779beda7b73.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10380
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10520,
-      "attributes": {
-        "nomor_pb_umku": "912030519120100010006",
-        "nama": "TRIBUNNEWSMAKER.COM",
-        "website": "tribunnewsmaker.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIBUN BERITA ONLINE",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "002867.07/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11aa054eeac72cda32b865cdb75a9ec5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10379
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10519,
-      "attributes": {
-        "nomor_pb_umku": "912030519120100010005",
-        "nama": "TRIBUNWOW.COM",
-        "website": "tribunwow.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIBUN BERITA ONLINE",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "002867.06/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/34fff7f90c6f8f1dee9df3e63cbbf968.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10378
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 670,
       "from": 6691,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6700,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2579,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "S-INVEST",
+        "website": "s-invest.ksei.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
+        "tanggal_daftar": "2021-12-01",
+        "nomor_tanda_daftar": "001675.05/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/635358dc65d09eda334d25adf8b1c3b1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1761
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2578,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Pendaftaran Efek Elektronik (SPEK)",
+        "website": "spek.ksei.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
+        "tanggal_daftar": "2021-12-01",
+        "nomor_tanda_daftar": "001675.04/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4c058b46366f3eb6f325a040c6ba418.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1760
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2577,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "C-BEST",
+        "website": "cbest.ksei.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
+        "tanggal_daftar": "2021-12-01",
+        "nomor_tanda_daftar": "001675.03/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/78a794fe18ad392cd24194fef4d147e4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1759
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2576,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e85969342fb156633e061119c96735f9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1744
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2557,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Smartfren.Shop",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NURI GAYA CITRA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001670.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76c58ca6459979fa61d5e42ad6d70374.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1701
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7655,
-      "attributes": {
-        "nomor_pb_umku": "812000289391400640049",
-        "nama": "WEBSITE REGISTRASI BYC 2",
-        "website": "cyb.ourapps.site",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "001669.56/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cbf22e30cc74d2a3473e0ba7d905912b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7508
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7036,
-      "attributes": {
-        "nomor_pb_umku": "812000289391400640048",
-        "nama": "EBRANCH BCA (WEB) - 3",
-        "website": "ebranch.bca.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CENTRAL ASIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001669.55/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5293f64c2861b5a8d7b250faf4ea52e9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6875
       }
     }
   ]

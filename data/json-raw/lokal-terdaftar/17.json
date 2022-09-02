@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 18,
       "from": 171,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 180,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10664,
+      "attributes": {
+        "nomor_pb_umku": "040222004068500080002",
+        "nama": "CV BINTANG CAKRA KREASI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BINTANG CAKRA KREASI",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007391.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ddd8c05594672aa3393660848fe7ba9e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10498
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10638,
+      "attributes": {
+        "nomor_pb_umku": "111121000185500000001",
+        "nama": "GOHAI",
+        "website": "klikgohai.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MUHAMAD SYAEFUL BAHRI",
+        "tanggal_daftar": "2022-08-20",
+        "nomor_tanda_daftar": "007390.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/482213e5294ab3d388946fc18332fe59.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10473
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10636,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2dde332e845ecd4757432db1410099c1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10448
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10611,
-      "attributes": {
-        "nomor_pb_umku": "912020740035100100001",
-        "nama": "TRIBUN-TIMUR.COM",
-        "website": "tribun-timur.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BOSOWA MEDIA GRAFIKA",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007374.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/106ecd03be4c6bed316dd2e2d6d96d8e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10446
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10609,
-      "attributes": {
-        "nomor_pb_umku": "912010270129200020008",
-        "nama": "TRIBUN-MEDAN.COM",
-        "website": "tribun-medan.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HARIAN TRIBUN MEDAN",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007373.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9cf21af9ede2e313e5a125338ffefdfb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10445
       }
     }
   ]

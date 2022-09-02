@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 783,
       "from": 7821,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7830,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5300,
+      "attributes": {
+        "nomor_pb_umku": "912000218009900010002",
+        "nama": "WEBSITE SEABANK",
+        "website": "seabank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SEABANK INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "nomor_tanda_daftar": "001052.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d34b5e36d10698aef0a5f442a0805695.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5173
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1596,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi SeaBank",
+        "website": "www.bankbke.co.id & www.seabank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SEABANK INDONESIA",
+        "tanggal_daftar": "2021-06-25",
+        "nomor_tanda_daftar": "001052.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1f58ac49bce9aef9d0319e87ec61fb5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1184
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1595,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "XM helper",
+        "website": "https://xmhelper.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TEKNOLOGI LAYANAN INFORMASI YOKA",
+        "tanggal_daftar": "2021-06-25",
+        "nomor_tanda_daftar": "001051.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a56c8ac1823c6552b3726703e7e0583b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1028
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1594,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13d4b4f73ffac652f94a3668d2ee8fdf.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1180
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1588,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Jitunews",
-        "website": "www.jitunews.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INFO PENA INDONESIA",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "001046.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a68ea492bb65156c680b75d937550d68.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3483
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6710,
-      "attributes": {
-        "nomor_pb_umku": "026501024272800020001",
-        "nama": "SMARTLEGAL.ID",
-        "website": "smartlegal.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KREASI SOLUSI BANGSA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001045.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81d01f36d64c03e6c2872da353eef7ef.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6559
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1587,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SMART LEGAL ACADEMY",
-        "website": "Smartlegalacademy.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KREASI SOLUSI BANGSA",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "001045.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5812683601106a6a4cb40a43118f21db.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3159
       }
     }
   ]

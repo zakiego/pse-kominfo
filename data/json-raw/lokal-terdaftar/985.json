@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 986,
       "from": 9851,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9860,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 130,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "YeahMeshi",
+        "website": "www.yeahmeshi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SOLUSI MASAK INDONESIA",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000117.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2309bc9a9c51f751638d1e2ca0c29ba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2566
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1645,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SeaweedTrace",
+        "website": "https://app.seaweedtrace.com/system/login/index/#",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOLTIVA",
+        "tanggal_daftar": "2021-07-05",
+        "nomor_tanda_daftar": "000116.06/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/305b70fb820bf0f2e37e5f58de11c964.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2335
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1365,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CoffeeTrace",
+        "website": "app.coffeetrace.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KOLTIVA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000116.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e90fd05039157e1b21eabcb429d52375.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2334
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1345,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81febfcd2f53b74a3b3c601685734934.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2423
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4318,
-      "attributes": {
-        "nomor_pb_umku": "912050089380600020002",
-        "nama": "FULUSME.ID",
-        "website": "fulusme.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FINTEK ANDALAN SOLUSI TEKNOLOGI",
-        "tanggal_daftar": "2022-06-10",
-        "nomor_tanda_daftar": "000113.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a78fba54e68f32ea69471f872f1c9947.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4311
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 124,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FuLusme",
-        "website": "www.fulusme.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FINTEK ANDALAN SOLUSI TEKNOLOGI",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000113.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d45b2d668683d0a0534c27f96002781.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2565
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 123,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Rantau",
-        "website": "www.rantau.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RANTAU DIGITAL NUSANTARA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000112.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dec075854d897fefaf7e839f629e7a8b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2512
       }
     }
   ]

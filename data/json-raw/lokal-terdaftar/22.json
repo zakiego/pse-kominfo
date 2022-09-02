@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 23,
       "from": 221,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 230,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10526,
+      "attributes": {
+        "nomor_pb_umku": "091121004262500010001",
+        "nama": "METACO.GG",
+        "website": "metaco.gg",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ABADI FINAL KREASI",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007337.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b07f8473b1bfa975effe4a7523f8020.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10385
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10525,
+      "attributes": {
+        "nomor_pb_umku": "912050386299800010001",
+        "nama": "PT TEKNOLOGI REKACIPTA DIGITAL",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH TANMIYA ARTHA",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007336.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e33babbf334dc67399c33080a488586.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10383
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10517,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/beb426e523116742ebbea5a44abd402a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10338
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10475,
-      "attributes": {
-        "nomor_pb_umku": "812011417061900010001",
-        "nama": "SINGA",
-        "website": "singa.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ABADI SEJAHTERA FINANSINDO",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "007325.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5d44815fc3a330218c26d423c1aaa890.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10336
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10631,
-      "attributes": {
-        "nomor_pb_umku": "100222004611300030001",
-        "nama": "BEELLI.COM",
-        "website": "Beelli.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MARS BLOCKCHAIN TEKNOLOGI",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007324.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/54d3ded4e6d169081704f16a24e039c5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10466
       }
     }
   ]

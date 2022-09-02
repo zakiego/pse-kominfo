@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 607,
       "from": 6061,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6070,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3187,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MyGo",
+        "website": "www.mygo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_perusahaan": "SANG SAKA GEMILANG",
+        "tanggal_daftar": "2022-02-07",
+        "nomor_tanda_daftar": "002061.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0c5adb669db2520b01824a77dec507d0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3170
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3185,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Dam Korporindo Digital",
+        "website": "damcorp.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DAM KORPORINDO DIGITAL",
+        "tanggal_daftar": "2022-02-07",
+        "nomor_tanda_daftar": "002060.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ed2b22973d821669f1b5381ff298eda5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2164
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3183,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SimulasiKu",
+        "website": "simulasiku.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINIMUDA INSPIRASI NEGERI",
+        "tanggal_daftar": "2022-02-07",
+        "nomor_tanda_daftar": "002059.02/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c594df3814c1108709367914da1152d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2163
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3180,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6fa003b37d0587a024a8ea24ea5d3cea.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2105
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3175,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Resto Expert Academy",
-        "website": "Academy.resto.expert",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SOLUSI PINTAR UTAMA",
-        "tanggal_daftar": "2022-02-05",
-        "nomor_tanda_daftar": "002055.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7640cc09bd2ddb18a25afc1d58558f74.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2104
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3174,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kaidah network",
-        "website": "www.k-dha.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KAIDAH NETWORK SUKSES BERSAMA",
-        "tanggal_daftar": "2022-02-05",
-        "nomor_tanda_daftar": "002054.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/91b90365b2cf5350fd27267f25573377.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 991
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3173,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Emkop",
-        "website": "www.emkop.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "EMKOP FORINDO TEKNOLOGI",
-        "tanggal_daftar": "2022-02-05",
-        "nomor_tanda_daftar": "002053.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16aec79e9ed99050af6419ade74f30a3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2111
       }
     }
   ]

@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 14,
       "from": 131,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 140,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10802,
+      "attributes": {
+        "nomor_pb_umku": "022010336043800010001",
+        "nama": "EDUPARX",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INIXINDO WIDYA ISWARA NUSANTARA",
+        "tanggal_daftar": "2022-08-25",
+        "nomor_tanda_daftar": "007438.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bd8929e2cc9f0bc3644bd19dbf673a23.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10601
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10696,
+      "attributes": {
+        "nomor_pb_umku": "300322004380900090002",
+        "nama": "WEPOS.ID",
+        "website": "wepos.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RANARA CREATIVE STUDIO",
+        "tanggal_daftar": "2022-08-23",
+        "nomor_tanda_daftar": "007436.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86f57cc92bebe99423f3220b1a971c20.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10531
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10686,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af0b7bf5e22fa4ebf9e32e22746c701e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10513
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10730,
-      "attributes": {
-        "nomor_pb_umku": "120822004671100010007",
-        "nama": "WEBSITE PILARMAS INVESTINDO SEKURITAS",
-        "website": "pilarmas-investindo.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PILARMAS INVESTINDO SEKURITAS",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "007421.07/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c08bff685d2b60828f93f284e92c69f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10562
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10728,
-      "attributes": {
-        "nomor_pb_umku": "120822004671100010006",
-        "nama": "FORGOT PASSWORD PILARMAS INVESTINDO SEKURITAS",
-        "website": "eform.pilarmas-investindo.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PILARMAS INVESTINDO SEKURITAS",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "007421.06/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c659404bb4478858a1fec9acb35c358.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10560
       }
     }
   ]

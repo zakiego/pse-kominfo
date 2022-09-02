@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 825,
       "from": 8241,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8250,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1258,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website PT Bank Ina Perdana Tbk",
+        "website": "www.bankina.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK INA PERDANA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000860.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef7bea6344fe8ba04c691bd7e0f5622d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 930
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1262,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Surat Berharga Negara (SBN Ritel)",
+        "website": "https://www.victoriabank.co.id/SBNRITEL/welcome",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK VICTORIA INTERNATIONAL",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000859.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7d4672fbdc133ccc4ce1238e1bd87e7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 947
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1261,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Bank Victoria",
+        "website": "https://www.victoriabank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK VICTORIA INTERNATIONAL",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000859.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/598c86b21ddb2c7fbd1cb9b146134fa6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 946
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1259,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/250fac6432d9883ca548b5b64b414d32.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 928
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1252,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website MUF Online Syariah",
-        "website": "https://bsioto.muf.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000856.04/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/641fe276bd8d407b340054eee4acc22e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 927
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1251,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website MUF Dananow",
-        "website": "https://dananow.muf.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000856.03/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/371bb53b76675f8054a59aafb1b893fa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 926
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1249,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website MUF Online Auto Show",
-        "website": "https://moas.muf.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000856.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/851b779e4b8d30780847db1d8ae4a72c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 925
       }
     }
   ]

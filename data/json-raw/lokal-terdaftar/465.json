@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 466,
       "from": 4651,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4660,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5114,
+      "attributes": {
+        "nomor_pb_umku": "912020556140300000001",
+        "nama": "MY BRIF",
+        "website": "brifinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BRI MULTIFINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "nomor_tanda_daftar": "003431.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5dd6803ec5cd2777e5f0d94d931ddfc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4973
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4744,
+      "attributes": {
+        "nomor_pb_umku": "812000383134100010001",
+        "nama": "BERDU.ID",
+        "website": "berdu.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BERDUNIA DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "003430.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d6be1ea024f8fc738dcee48877350c2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4693
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5183,
+      "attributes": {
+        "nomor_pb_umku": "912011408128500020004",
+        "nama": "RELI-HOME",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "nomor_tanda_daftar": "003429.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a3ad4c9dcbbeffa35e1c908aa17566f0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5049
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5182,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a0faa2b992935add7264e9759b1a7554.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4707
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4756,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000003",
-        "nama": "BATANGTORU.ID",
-        "website": "batangtoru.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-06-25",
-        "nomor_tanda_daftar": "003426.03/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8b85e9a13979da7579bd9832e929b4c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4703
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4741,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000002",
-        "nama": "BANTUDESA.COM",
-        "website": "bantudesa.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-06-24",
-        "nomor_tanda_daftar": "003426.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de4bcfbe712a8f4e926a485c2408e0b6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4691
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4740,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000001",
-        "nama": "SHOP BANTUDESA",
-        "website": "shop.bantudesa.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-06-24",
-        "nomor_tanda_daftar": "003426.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8513d6de0bc386e85053e52101cee896.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4690
       }
     }
   ]

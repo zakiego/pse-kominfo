@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 917,
       "from": 9161,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9170,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 533,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KlikCair",
+        "website": "https://klikcair.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KLIKCAIR MAGGA JAYA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000433.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9129ac38463d9bbbbfed4e5ccac17e7b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 365
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 531,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Indosaku",
+        "website": "https://indosaku.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SENS TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000432.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b1db5725e736590d20ef6aaff145fca.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3529
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 530,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Data as a Service (DaaS)",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASTRA INTEGRASI DIGITAL",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000431.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9402862eff2a83ce7836cc6228576aca.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 281
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 529,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee6b9eb371f5573fc6f6b5c99d97a82d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3528
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4188,
-      "attributes": {
-        "nomor_pb_umku": "101121001708600020001",
-        "nama": "SINERGI INDOMEDIA PERKASA",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SINERGI INDOMEDIA PERKASA",
-        "tanggal_daftar": "2022-05-30",
-        "nomor_tanda_daftar": "000427.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ebc8e9329bdcc136079a7e2b9b053406.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4189
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 524,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CAIR LEKAS",
-        "website": "http://www.cairlekas.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMPAN PINJAM CAIR LEKAS INDONESIA",
-        "tanggal_daftar": "2021-04-21",
-        "nomor_tanda_daftar": "000427.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4ad31ef750bbcd3b08f14ac5b904396.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 358
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 522,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Portal Verifikasi Verihubs",
-        "website": "https://verihubs.com/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VERIHUBS INTELIGENSIA NUSANTARA",
-        "tanggal_daftar": "2021-04-20",
-        "nomor_tanda_daftar": "000425.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a84ebf0eada9b5d943c0e3e1d04d4e4d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3527
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 315,
       "from": 3141,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3150,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6860,
+      "attributes": {
+        "nomor_pb_umku": "125500030142700000005",
+        "nama": "IBS DASHBOARD",
+        "website": "bprhoki.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004617.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1192decbfdf9bf10d8190c300748168d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6708
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6792,
+      "attributes": {
+        "nomor_pb_umku": "125500030142700000004",
+        "nama": "WEBSITE HOKIBANK",
+        "website": "hokibank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004617.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6eaab8e03107eb4ad66bae121ac361b5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6640
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6651,
+      "attributes": {
+        "nomor_pb_umku": "125500030142700000003",
+        "nama": "IBS BRANCHLESS",
+        "website": "hokibank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT HOKI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004617.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a0b15374063fac3201be0bf489dd136.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6506
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6618,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ec3a7fc36ab237a9c91f2924a672071d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6167
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6270,
-      "attributes": {
-        "nomor_pb_umku": "022010677195100000001",
-        "nama": "NOVELTOON",
-        "website": "noveltoon.mobi",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MANGA TOON GROUP",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004613.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0bce75293a7e251c30ac5adafda4e2d9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6129
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6873,
-      "attributes": {
-        "nomor_pb_umku": "025001021043200010001",
-        "nama": "BPR DUTA BALI",
-        "website": "bprduta.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DUTA BALI",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004612.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42fa9853d865f0a67d7e315db65cb010.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6720
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6289,
-      "attributes": {
-        "nomor_pb_umku": "061021003581400010001",
-        "nama": "WEBSITE",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT TATA KARYA INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004611.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d57384fe4b34e9005d543a07ee11f9a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6150
       }
     }
   ]

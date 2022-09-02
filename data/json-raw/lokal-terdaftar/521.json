@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 522,
       "from": 5211,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5220,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4022,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Perdagangan Melalui Sistem Elektronik",
+        "website": "www.indonetwork.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INDONETWORK ADI PERKASA",
+        "tanggal_daftar": "2022-04-25",
+        "nomor_tanda_daftar": "002610.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f64044a99b81673d5d873b1cd3a59400.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3730
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4017,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kenlola",
+        "website": "https://kenlola.com/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KENLOLA GRUP INDONESIA",
+        "tanggal_daftar": "2022-04-25",
+        "nomor_tanda_daftar": "002609.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/999005c337664b70afad3de898c8c24a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3769
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9238,
+      "attributes": {
+        "nomor_pb_umku": "221021003593500010002",
+        "nama": "LAUTANIA",
+        "website": "lautania.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SOGIH TEKNOLOGI BANGSA",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "002608.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7bf2594df928b9bbe042e2c42d963f5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9150
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4016,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/22b38c22e320f82bb44305ee5de5d4f7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3812
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4008,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AsiaCommerce.id",
-        "website": "asiacommerce.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "MATAHARI LABS",
-        "tanggal_daftar": "2022-04-23",
-        "nomor_tanda_daftar": "002603.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db0cb58515ae9ed7bb524e47cbac861d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3811
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4007,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Naldo Studio",
-        "website": "Golanstudio.my.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RONALDO NAINGGOLAN",
-        "tanggal_daftar": "2022-04-22",
-        "nomor_tanda_daftar": "002602.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b5b08ddb3d3db5698a98361a7d9c08ee.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3798
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4006,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KOPI SUSU",
-        "website": "kopisusu.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PILIHAN SAHABAT SEMUA",
-        "tanggal_daftar": "2022-04-22",
-        "nomor_tanda_daftar": "002601.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15563305f6d79156e3bb8f5cc8106df3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3750
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 740,
       "from": 7391,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7400,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1990,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MyCarrier",
+        "website": "www.mycarrier.telkom.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2021-10-12",
+        "nomor_tanda_daftar": "001331.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bb6198e5975e08d869ea4620056b8698.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1312
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1989,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mobil123",
+        "website": "https://www.mobil123.com/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MOBIL SATU ASIA",
+        "tanggal_daftar": "2021-10-12",
+        "nomor_tanda_daftar": "001330.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d87a248461d9ba5d3e84914db6c9d1b1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1452
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1988,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PEMMZ",
+        "website": "www.pemmz.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PEMINDO MITRA SINERGI",
+        "tanggal_daftar": "2021-10-12",
+        "nomor_tanda_daftar": "001329.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6fc973dd0c7c157cf84c9732f4ed7bc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1422
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1986,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d9e9572d51b9eb81edfe49d7e7dfebf.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6025
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1982,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT BAREKSA PORTAL INVESTASI",
-        "website": "https://www.bareksa.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BAREKSA PORTAL INVESTASI",
-        "tanggal_daftar": "2021-10-12",
-        "nomor_tanda_daftar": "001324.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12148ad9bd1cdb2238064c7dc841888a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1461
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1981,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MOLADIN INDONESIA",
-        "website": "www.moladin.com",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Transportasi",
-        "nama_perusahaan": "MOLADIN DIGITAL INDONESIA",
-        "tanggal_daftar": "2021-10-12",
-        "nomor_tanda_daftar": "001323.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a6b753974c5a41b60ab6093890bb8998.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3393
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1980,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KESAN (Kedaulatan Santri)",
-        "website": "Https://www.kesan.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KESAN DIGITAL NUSANTARA",
-        "tanggal_daftar": "2021-10-12",
-        "nomor_tanda_daftar": "001322.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/530dc65fb69d93ace05204686600072e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 276
       }
     }
   ]

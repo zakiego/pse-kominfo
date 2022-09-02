@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 524,
       "from": 5231,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5240,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3998,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MY MSI",
+        "website": "mymsi.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MAHKOTA SUKSES INDONESIA",
+        "tanggal_daftar": "2022-04-22",
+        "nomor_tanda_daftar": "002595.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/646dddf3c828f37f9634ed503ea1cd04.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3947
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3997,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FH Indonesia",
+        "website": "www.fullertonhealth.co.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GLOBAL ASSISTANCE AND HEALTHCARE",
+        "tanggal_daftar": "2022-04-22",
+        "nomor_tanda_daftar": "002594.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d34486da0643b5410fce585907e768d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3938
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3996,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Asturi Project",
+        "website": "https://asturiproject.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GEDE APGANDHI PRANATA",
+        "tanggal_daftar": "2022-04-22",
+        "nomor_tanda_daftar": "002593.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/be5d25d2e789b8ac21b529b877c0ab2a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3861
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3995,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/56007bc4d4cac6230b254f6c578261fe.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3986
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4042,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PanenBersama",
-        "website": "panenbersama.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CARMEL ANUGERAH CEMERLANG",
-        "tanggal_daftar": "2022-04-26",
-        "nomor_tanda_daftar": "002586.03/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c56dd0f04b2c92200a2db1baad2e42d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3978
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3981,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi PanenSaham",
-        "website": "panensaham.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CARMEL ANUGERAH CEMERLANG",
-        "tanggal_daftar": "2022-04-21",
-        "nomor_tanda_daftar": "002586.02/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2bba8101c59a21d0f4d189e759196ad1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3977
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3979,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PanenSaham",
-        "website": "panensaham.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CARMEL ANUGERAH CEMERLANG",
-        "tanggal_daftar": "2022-04-21",
-        "nomor_tanda_daftar": "002586.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0e7534d712f4acd122a15128d2e57cb3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3976
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 312,
       "from": 3111,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3120,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6294,
+      "attributes": {
+        "nomor_pb_umku": "127600037130700010001",
+        "nama": "PT BPR ARGA TATA",
+        "website": "bprargatata.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARGA TATA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004627.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2013bb76f8b6a97f4432f7200afee579.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6156
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6579,
+      "attributes": {
+        "nomor_pb_umku": "180722002735500000001",
+        "nama": "PT SINERGI PRAKARSA UTAMA",
+        "website": "bankbas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ANGSA SEDANAYOGA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004626.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5613fe3f148725d2933727fb7456367c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6436
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6407,
+      "attributes": {
+        "nomor_pb_umku": "210821001449900060002",
+        "nama": "PENTASI KONSULTASI",
+        "website": "pentasi.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PENTA SOFTWARE INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004625.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d408ed9077eec02b2bdc0880514c15d1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6270
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6327,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc1535b3d8cade2786f2a37e281d9de1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6389
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6521,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020009",
-        "nama": "SIBOS PT BPD KALTIM KALTARA",
-        "website": "sibos.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fbd09a0c4f45a08ab7015df61599d26d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6387
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6519,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020008",
-        "nama": "AGEN LAKUPANDAI PT BPD KALTIM KALTARA",
-        "website": "lkp.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86074e04621c8d856c965b19182cfcd3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6386
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6516,
-      "attributes": {
-        "nomor_pb_umku": "022080592062400020007",
-        "nama": "DG QRIS PT BPD KALTIM KALTARA",
-        "website": "qris.bankaltimtara.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004622.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7b815fd3d10070b0498a55693dedb83a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6382
       }
     }
   ]

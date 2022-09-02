@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 9,
       "from": 81,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 90,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10805,
+      "attributes": {
+        "nomor_pb_umku": "812000379199100010002",
+        "nama": "CVMEDIASOLUSI",
+        "website": "cvmediasolusi.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MEDIA SOLUSI",
+        "tanggal_daftar": "2022-08-25",
+        "nomor_tanda_daftar": "007500.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f42e7923c486899b861300f4dd96dcb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10616
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10812,
+      "attributes": {
+        "nomor_pb_umku": "912040273117500010001",
+        "nama": "BPR PURWOSARI ANUGERAH",
+        "website": "bprpa.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PURWOSARI ANUGERAH",
+        "tanggal_daftar": "2022-08-25",
+        "nomor_tanda_daftar": "007499.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02030c30bccfe98c6d47ad722518e217.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10622
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10806,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4e26f9021025ba946ba0db60002c9d45.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10620
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10837,
-      "attributes": {
-        "nomor_pb_umku": "912030997310500030003",
-        "nama": "GAJI CERMAT",
-        "website": "gajicermat.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GAJICERMAT MANDIRI DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-08-26",
-        "nomor_tanda_daftar": "007488.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/350a82428ad2f0cc2283e9d81e647bed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10647
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10792,
-      "attributes": {
-        "nomor_pb_umku": "028900093128300010001",
-        "nama": "BPR DAYA PERDANA NUSANTARA",
-        "website": "bprperdana.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DAYA PERDANA NUSANTARA",
-        "tanggal_daftar": "2022-08-24",
-        "nomor_tanda_daftar": "007487.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b68822beed19b58b6e19f4faca4d228.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10604
       }
     }
   ]

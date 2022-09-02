@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 511,
       "from": 5101,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5110,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4471,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KORNET INTER MEDIA",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "YUSUF FAISAL",
+        "tanggal_daftar": "2022-05-15",
+        "nomor_tanda_daftar": "002696.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ea8903f1ab661388b8b830c38c1b3a3e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4455
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4470,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SAKTI",
+        "website": "ptskk.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SAKTI KINERJA KOLABORASINDO",
+        "tanggal_daftar": "2022-05-14",
+        "nomor_tanda_daftar": "002695.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b0e7809c1d55d47c96025f28eb656cd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4454
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4469,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TANA HULU TERBAIK",
+        "website": "-",
+        "sektor": "Sektor Pertahanan dan Keamanan",
+        "nama_perusahaan": "TANA HULU TERBAIK",
+        "tanggal_daftar": "2022-05-13",
+        "nomor_tanda_daftar": "002694.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0c8793d92f90dac130702e9ecfd3f948.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4453
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4468,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29cb4e0a5af8179c57e470f4eadcae66.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4448
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4463,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ningrat Muda Mandiri",
-        "website": "www.ningratmudamandiri.com/",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "NINGRAT MUDA MANDIRI",
-        "tanggal_daftar": "2022-05-13",
-        "nomor_tanda_daftar": "002688.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51f8253157022c1aac7898d496080ad4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4447
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4462,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Vapemal",
-        "website": "vapemal.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "VEMO DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-05-12",
-        "nomor_tanda_daftar": "002687.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9018d04456d6d3eaf5e1ca74367b2a20.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4446
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4459,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SEWAAJA",
-        "website": "sewaaja.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GRAHA SEWA INOVASI",
-        "tanggal_daftar": "2022-05-12",
-        "nomor_tanda_daftar": "002686.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d648cb796481e0bfc2ebaf528d036bff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4443
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 867,
       "from": 8661,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8670,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1030,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Finansialku.com",
+        "website": "www.Finansialku.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SOLUSI FINANSIALKU INDONESIA",
+        "tanggal_daftar": "2021-05-18",
+        "nomor_tanda_daftar": "000685.02/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/630989d96bfafebf7ae69d953346ffbe.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 647
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 892,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Finansialku.com",
+        "website": "www.finansialku.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SOLUSI FINANSIALKU INDONESIA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000685.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/043dbb5ce8d2b3e813756acaef3d50c5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 646
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 889,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRAVO (Belanja Reksa Dana Valbury Online)",
+        "website": "https://bravo.valbury.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "VALBURY CAPITAL MANAGEMENT",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000684.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6574f49f6a4d27084cbb35e7f4a58392.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 353
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 888,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8dab4b36758eda375d7b8a07966f719d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 660
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 922,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Simobi",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SINARMAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000681.07/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2775877daf752ed30dd26bf575cfbb8a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 659
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 921,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Simobi+ (Simobi Plus)",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SINARMAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000681.06/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4edef479476e89b0808b196fed8b874e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 658
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 895,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Simas Merchant QRIS",
-        "website": "https://www.banksinarmas.com/QRManager",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SINARMAS",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000681.05/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df37d3cfe0030973d7052566b9a07693.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 657
       }
     }
   ]

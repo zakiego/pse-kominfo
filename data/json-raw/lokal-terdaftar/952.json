@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 953,
       "from": 9521,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9530,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 348,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi Super",
+        "website": "superapp.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KRAKATAU KARYA ABADI",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000288.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0306a5b0afef01fe95dc8bbabc78eaa7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 124
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4523,
+      "attributes": {
+        "nomor_pb_umku": "010622000260300050001",
+        "nama": "MEDIA PUBLIKASI BERBASIS ELEKTRONIK",
+        "website": "idisionline.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "IDISI MULTI MANDIRI",
+        "tanggal_daftar": "2022-06-15",
+        "nomor_tanda_daftar": "000287.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92de3ffe00e65ea1a06994ad63e6fb87.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4506
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 347,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "insankreatif.co.id",
+        "website": "http://insankreatif.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "AURA INSAN KREATIF",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000287.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1e4a42d8ce76c8440817e4848a4f9403.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 123
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4524,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f8a9d3d946f5073786b46283b42217a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2793
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4268,
-      "attributes": {
-        "nomor_pb_umku": "812011416095600000001",
-        "nama": "HAKUHODO INDONESIA",
-        "website": "hakuhodo.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HAKUHODO INDONESIA",
-        "tanggal_daftar": "2022-06-07",
-        "nomor_tanda_daftar": "000282.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9a1144b2dba71dea7a96159fa5084ae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4265
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4580,
-      "attributes": {
-        "nomor_pb_umku": "310522005608900000001",
-        "nama": "BANG JAMIN",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ARKANA ADVANCE TECHNOLOGY",
-        "tanggal_daftar": "2022-06-17",
-        "nomor_tanda_daftar": "000282.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0fe66f0c00fcdce1139137dd09243ca4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4543
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 337,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "eBuy",
-        "website": "www.ebuy.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ETOP GLOBAL TECHNOLOGY",
-        "tanggal_daftar": "2021-03-08",
-        "nomor_tanda_daftar": "000282.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f230a5634a0503ed45f4e790bd2642fb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2792
       }
     }
   ]

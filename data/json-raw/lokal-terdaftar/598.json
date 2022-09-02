@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 599,
       "from": 5981,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5990,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3268,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INM",
+        "website": "INFONUSAMANDIRI.COM",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INFO NUSA MANDIRI",
+        "tanggal_daftar": "2022-02-16",
+        "nomor_tanda_daftar": "002120.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/298b5da386e08cf749e0e82ce78a18a5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2217
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3267,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BeKind HUB",
+        "website": "bekindhub.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BEKIND TEKNOLOGI ASIA",
+        "tanggal_daftar": "2022-02-16",
+        "nomor_tanda_daftar": "002119.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2b9f763bca6a307fd1867a8c58bafb39.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2181
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3265,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Quantum Metal Indonesia",
+        "website": "quantummetal.id",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "QUANTUM METAL INDONESIA",
+        "tanggal_daftar": "2022-02-16",
+        "nomor_tanda_daftar": "002118.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ab986708699ad0fdabcd4f8e3ed7dc3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2215
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3266,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c43d7b60430b4c77f770ab1610cafc41.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2205
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3258,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kunci Sistem Manajemen Mutu Pendidikan",
-        "website": "demosmk.sekolah.kunci.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KUNCI TRANSFORMASI DIGITAL",
-        "tanggal_daftar": "2022-02-15",
-        "nomor_tanda_daftar": "002111.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/98ce980ae9c074898821e4bea3a2f3aa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2202
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3257,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SRUPA",
-        "website": "www.srupa.io",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANARGYARUPA KARYA DIGITAL",
-        "tanggal_daftar": "2022-02-15",
-        "nomor_tanda_daftar": "002110.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b490feb19bc9c124b6fe772a0c26be51.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2064
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3254,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website Perusahaan",
-        "website": "perserobatam.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. PENGUSAHAAN DAERAH INDUSTRI PULAU BATAM",
-        "tanggal_daftar": "2022-02-15",
-        "nomor_tanda_daftar": "002109.03/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/668bb505802e0cb386d5034864b4ed90.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2170
       }
     }
   ]

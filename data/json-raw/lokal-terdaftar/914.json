@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 915,
       "from": 9141,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9150,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4180,
+      "attributes": {
+        "nomor_pb_umku": "240921002096300010001",
+        "nama": "TIPTIP",
+        "website": "Tiptip.tv",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TIPTIP NETWORK INDONESIA",
+        "tanggal_daftar": "2022-05-30",
+        "nomor_tanda_daftar": "000442.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8e27a93dcffb7527fca5e098050a9f39.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4181
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 542,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "http://maingame.com",
+        "website": "http://maingame.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BAHAGIA BERSAMA INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000442.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cdf6dec7e310c05c3606e43f8ae7ee23.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 316
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 541,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MauDana",
+        "website": "https://maudana.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PERMATA AGUNG NUSARAYA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000441.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/052c908b5c718f4994d2a97d4999a96a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 157
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6784,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/324debd73536c7e03be5501a50558e32.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 370
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 543,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SIPLAH KEMENDIKBUD",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "FIA KURNIA GRUP",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000437.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11b2870191dab73c75904ca7d326136a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 369
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4176,
-      "attributes": {
-        "nomor_pb_umku": "231021002078300000001",
-        "nama": "SWOOP MOVE",
-        "website": "swoopmove.com",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "TEKNOLOGI MOBILITAS INDONESIA",
-        "tanggal_daftar": "2022-05-30",
-        "nomor_tanda_daftar": "000437.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3021b2aaa26f151961c87793df2557ff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4179
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 537,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "siplah",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "FIA KURNIA GRUP",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000437.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f76cb94097cb792509a46b5cb4398bb7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 368
       }
     }
   ]

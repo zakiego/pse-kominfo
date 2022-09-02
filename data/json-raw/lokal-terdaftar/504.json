@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 505,
       "from": 5041,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5050,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4510,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Triplyfe",
+        "website": "triplyfe.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TELUSUR WISATA NUSANTARA",
+        "tanggal_daftar": "2022-05-20",
+        "nomor_tanda_daftar": "002728.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c303f4500864c882ac4ed6324edf7bd3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4494
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4507,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Medikademia.id",
+        "website": "https://www.medikademia.id/",
+        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
+        "nama_perusahaan": "EKA DIGITAL TRIDAYA",
+        "tanggal_daftar": "2022-05-20",
+        "nomor_tanda_daftar": "002727.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c436ec34024a2b192cb626f14f781e02.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4491
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4752,
+      "attributes": {
+        "nomor_pb_umku": "110522002659100000002",
+        "nama": "PT LUBNA CELL EXPRESS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RULLY MULYADI",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "002726.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd4bbe5121a36a7ef7ff03ca743e60ce.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4699
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4509,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/41a245aa93e141306ce08e5ba1c9bed4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4931
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5048,
-      "attributes": {
-        "nomor_pb_umku": "200222000003200020003",
-        "nama": "AMK WEBHOSTING",
-        "website": "amk.webi.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADIFA MEDIA KARYA",
-        "tanggal_daftar": "2022-07-04",
-        "nomor_tanda_daftar": "002722.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b428e3ab9532c2cb2a5f9c3ce16db94c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4919
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4504,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AMK   TOP UP & PAYMENT",
-        "website": "adifamedia.web.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADIFA MEDIA KARYA",
-        "tanggal_daftar": "2022-05-19",
-        "nomor_tanda_daftar": "002722.06/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a74b03c7583129fb597b1ce1d911224.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4488
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4503,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AMK  BOOK STORE",
-        "website": "adifamedia.web.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ADIFA MEDIA KARYA",
-        "tanggal_daftar": "2022-05-19",
-        "nomor_tanda_daftar": "002722.05/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1f073f7b6fab12ff94192e858f92b25b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4487
       }
     }
   ]

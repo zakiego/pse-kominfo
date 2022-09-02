@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 736,
       "from": 7351,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7360,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2801,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "sooltanPay",
+        "website": "www.sooltanpay.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2021-12-20",
+        "nomor_tanda_daftar": "001331.41/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8e7868a23b7d33ad5edac190ceefd1a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1352
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2800,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "t-money",
+        "website": "www.tmoney.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2021-12-20",
+        "nomor_tanda_daftar": "001331.40/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c08355f443b03e32cada9762b8301cd2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1351
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2683,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "smarteye.id",
+        "website": "www.smarteye.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+        "tanggal_daftar": "2021-12-08",
+        "nomor_tanda_daftar": "001331.39/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7074277c796a9a2a4309a22703a596b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1350
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2682,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/65124c4e722711ca87723ba99b93b141.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1343
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2671,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Logee Order Rural",
-        "website": "www.logee.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-        "tanggal_daftar": "2021-12-08",
-        "nomor_tanda_daftar": "001331.31/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f2f48be9bb3289864e073202c1059a3f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1342
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2670,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Pijar Sekolah",
-        "website": "www.pijarsekolah.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-        "tanggal_daftar": "2021-12-08",
-        "nomor_tanda_daftar": "001331.30/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a88e5c66f9170eecb789ab6468abdbc8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1341
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2669,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Logee Order",
-        "website": "www.logeeorder.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-        "tanggal_daftar": "2021-12-08",
-        "nomor_tanda_daftar": "001331.29/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12213d8e51cd6e502a8d4e1f87780403.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1340
       }
     }
   ]

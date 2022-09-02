@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 24,
       "from": 231,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 240,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10475,
+      "attributes": {
+        "nomor_pb_umku": "812011417061900010001",
+        "nama": "SINGA",
+        "website": "singa.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ABADI SEJAHTERA FINANSINDO",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007325.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5d44815fc3a330218c26d423c1aaa890.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10336
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10631,
+      "attributes": {
+        "nomor_pb_umku": "100222004611300030001",
+        "nama": "BEELLI.COM",
+        "website": "Beelli.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MARS BLOCKCHAIN TEKNOLOGI",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007324.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/54d3ded4e6d169081704f16a24e039c5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10466
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10804,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/35b7a2c69971eff945d9ace93ce5718f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10330
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10657,
-      "attributes": {
-        "nomor_pb_umku": "160822006231800000002",
-        "nama": "ALTERNATE APPS SYARIAH",
-        "website": "bprsrahmah.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH RAHMAH HIJRAH AGUNG",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007317.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/186990d84ab4a47e1cc5b04a93ce2ec4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10492
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10466,
-      "attributes": {
-        "nomor_pb_umku": "160822006231800000001",
-        "nama": "ALTERNATE APPS",
-        "website": "bprsrahmah.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH RAHMAH HIJRAH AGUNG",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "007317.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21dac84cbfb5b4608438f617faa1b07b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10327
       }
     }
   ]

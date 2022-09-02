@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 998,
       "from": 9971,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9980,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7985,
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010003",
+        "nama": "FINA SHOWROOM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000037.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57e31a10bf72350fa3b841729f214228.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7900
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7946,
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010002",
+        "nama": "CHATBOT ASTARI",
+        "website": "zendesk.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000037.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1ffbda41bd9010fb7d5fea2c54be114.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7860
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6053,
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010001",
+        "nama": "WEBSITE BCA FINANCE",
+        "website": "bcafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000037.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/349bb3b1eaf72f022f371a4dd4fd503b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5921
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 406,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/73bfa9682ec88bbee5cbaac813383958.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2362
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 39,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Corporate Internet Banking",
-        "website": "https://cbank.icbc.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK ICBC INDONESIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000035.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5006d12dffcd15b0a1154732b7cf8a60.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2361
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 38,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ESIGN",
-        "website": "https://www.esign.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JASUINDO TIGA PERKASA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000034.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e75bb174d792c1cadc22275ba8e5d1a1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2406
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 37,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "starpoin",
-        "website": "www.starpoin.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMAS POIN INDONESIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000033.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bcfae5f4e225eb1398746f2918acd368.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2424
       }
     }
   ]

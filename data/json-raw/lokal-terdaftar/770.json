@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 771,
       "from": 7701,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7710,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1863,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IDQ Loyalty",
+        "website": "www.id-q.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JELAJAH DATA SEMESTA",
+        "tanggal_daftar": "2021-08-09",
+        "nomor_tanda_daftar": "001144.02/DJAI.PSE/08/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/243603faeadcce350b530f134b0d01f6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2433
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1729,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Molecool",
+        "website": "www.molecool.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JELAJAH DATA SEMESTA",
+        "tanggal_daftar": "2021-07-22",
+        "nomor_tanda_daftar": "001144.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/212436cf65011f018c586fd6bca1a7be.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2432
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1728,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Markinah",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MARKINAH",
+        "tanggal_daftar": "2021-07-15",
+        "nomor_tanda_daftar": "001143.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/762717acb337a3685764f6505dafef34.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1276
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1727,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/22b94c8cc484add5a3e7dcc241e930e1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1241
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1721,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DIONLINEAJA.ID",
-        "website": "https://dionlineaja.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "FOCUS INFOTAMA",
-        "tanggal_daftar": "2021-07-15",
-        "nomor_tanda_daftar": "001136.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7b347d7c6437f015d729453a74b7cb75.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1278
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1720,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Wilov",
-        "website": "https://wilov.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "WILOV WANITA INDONESIA",
-        "tanggal_daftar": "2021-07-15",
-        "nomor_tanda_daftar": "001135.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/50d74fdc8bc2e0b596a8546db1ea37e1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1176
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1718,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ajaib Futures Asia",
-        "website": "https://ajaib.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "AJAIB FUTURES ASIA",
-        "tanggal_daftar": "2021-07-15",
-        "nomor_tanda_daftar": "001134.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6f58f3e794363cdb89ac24cf75431e8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1277
       }
     }
   ]

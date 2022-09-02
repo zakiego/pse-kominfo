@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 472,
       "from": 4711,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4720,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4746,
+      "attributes": {
+        "nomor_pb_umku": "912020555046900010002",
+        "nama": "BMI EXTERNAL WEB",
+        "website": "MizuhoBank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MIZUHO INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "003384.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca997f32c2c05e7659918fffd5b150bb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4695
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4745,
+      "attributes": {
+        "nomor_pb_umku": "912020555046900010001",
+        "nama": "MGEB (MIZUHO GLOBAL ELECTRONIC BANKING)",
+        "website": "ffrontier.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MIZUHO INDONESIA",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "003384.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1cbd91716ce70c0868ee0f07459d804d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4694
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7658,
+      "attributes": {
+        "nomor_pb_umku": "812011705094600040032",
+        "nama": "SIBOS BANK BJB",
+        "website": "sibos.bankbjb.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003382.34/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10c404db781a43d26c3c1a84529cc0a7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7556
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6659,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/41fb090eeb6bb49582d3c2bc57eaeb3a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6070
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6131,
-      "attributes": {
-        "nomor_pb_umku": "812011705094600040024",
-        "nama": "APLIKASI SOCIAL FUND TRANSFER (SFT)",
-        "website": "sft.bankbjb.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "003382.26/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/071c87953505d284dd74b28444a3127d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6004
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6124,
-      "attributes": {
-        "nomor_pb_umku": "812011705094600040023",
-        "nama": "BJB VIRTUAL ACCOUNT DEBIT",
-        "website": "bjbva.bankbjb.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "003382.25/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/04b2daf985b85fa7a369bc722e2aac5c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5996
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6059,
-      "attributes": {
-        "nomor_pb_umku": "812011705094600040022",
-        "nama": "BJB WHISTLEBLOWING",
-        "website": "bjbwbs.bankbjb.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "003382.24/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/582ec668ee73a9c9ee3b1d0911cb21fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5929
       }
     }
   ]

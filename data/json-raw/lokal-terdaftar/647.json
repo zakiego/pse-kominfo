@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 648,
       "from": 6471,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6480,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2792,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Wafaa Studio",
+        "website": "wafaastudio.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ELSA AURORA PERMATA DEWI",
+        "tanggal_daftar": "2021-12-18",
+        "nomor_tanda_daftar": "001798.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db3e5288012c316b71595e69b07ff32e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1907
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2791,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT. PANTHERAS TEKNOLOGI INTERNASIONAL",
+        "website": "www.pantheras.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PANTHERAS TEKNOLOGI INTERNASIONAL",
+        "tanggal_daftar": "2021-12-17",
+        "nomor_tanda_daftar": "001797.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5b74fc55b6e42d443d8f495824f07a21.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1905
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2789,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Smartcoop",
+        "website": "www.smartcoop.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FOUR VISION MEDIA",
+        "tanggal_daftar": "2021-12-17",
+        "nomor_tanda_daftar": "001796.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2ff878ad3d6caf0f08373aab9ea36202.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1903
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2788,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/287c09b8104fc64cca94e9e2363c1c3c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1898
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2779,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "My Chili",
-        "website": "chilimoney.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CHILI SOLUSI INDONESIA",
-        "tanggal_daftar": "2021-12-17",
-        "nomor_tanda_daftar": "001788.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/be7b2eec3e96854b7917d299e7f1f0db.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1897
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2778,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Brodo",
-        "website": "www.bro.do",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BRODO GANESHA INDONESIA",
-        "tanggal_daftar": "2021-12-17",
-        "nomor_tanda_daftar": "001787.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c12eac5faa808d1f753bda76c60894b3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2819
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2777,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PRIME369",
-        "website": "mastermprime.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MASTER MILLIONAIRE PRIME",
-        "tanggal_daftar": "2021-12-17",
-        "nomor_tanda_daftar": "001786.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9f80cff7952a75dbd748b315de53446.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1600
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 821,
       "from": 8201,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8210,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6891,
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "BANK SYARIAH INDONESIA CASH MANAGEMENT SYSTEM (BSI CMS)",
+        "website": "cms.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000863.16/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00a1461d9059c5fef9c72de7f3850e59.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6738
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6794,
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "SERVICE ULTIMATE RACE DASHBOARD",
+        "website": "serviceultimaterace.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000863.15/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ce7ebf7aec3396f4afaa67779846c8f0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6644
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6769,
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160002",
+        "nama": "CUSTOMER SATISFACTION SURVEY BSI (CSS BSI)",
+        "website": "serviceultimaterace.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000863.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ce6e61dbb17c7c3bb2bafc3819474a45.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6620
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6747,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db328b3ef38cc86fe9d307158a995df4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 906
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1281,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "QRIS BSI",
-        "website": "www.bsimobile.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SYARIAH INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000863.06/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/716f38b8a07fdab77d7f46b9817b806f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 905
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1280,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "API Cardless Withdrawal",
-        "website": "https://apisandbox.bsm.co.id:7776/gateway/CashOut/1.0",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SYARIAH INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000863.05/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ed35af0873dad4862d69c6d842c34ec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 904
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1279,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "API Bisnis BSI",
-        "website": "https://developer.bankbsi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SYARIAH INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000863.04/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2d2e92e471615bb1c4409a7a285f46c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 903
       }
     }
   ]

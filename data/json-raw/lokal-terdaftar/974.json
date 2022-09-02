@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 975,
       "from": 9741,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9750,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 203,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ReliID",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "RELIANCEINTEGRASI DUNIA ANDA",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000178.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7d08b37b96eafa4c232c5bb88a395725.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2679
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 202,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AksataKYC",
+        "website": "http://www.aksatakyc.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKSATA PRATAMA TEKNOLOGI",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000177.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef8b987e63ff412b9778548e508c7b30.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2671
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 201,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FH Indonesia",
+        "website": "www.fullertonhealth.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "SUPRIMA MITRA ADIHUSADA",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000176.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6946e5b469817a4b3de75d2cd0129c73.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2618
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 200,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cc7f92f7c23d7e67322b2dd4e706e721.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2555
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 755,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "https://www.floweradvisor.co.id/",
-        "website": "https://www.floweradvisor.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ALDMIC TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000168.02/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6041b2a5841a105e2d9c55db48c4591f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2353
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 193,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aldmic.com",
-        "website": "www.aldmic.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ALDMIC TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000168.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/309d9a846dc658100fe9aa4756eaa76e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2352
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 191,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "birucreative.com",
-        "website": "https://www.birucreative.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BIRUNI DIGITAL KREATIF",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000167.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e1d09d15b13516be1949fa63b2c5d6e1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2553
       }
     }
   ]

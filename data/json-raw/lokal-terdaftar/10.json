@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 11,
       "from": 101,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 110,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10746,
+      "attributes": {
+        "nomor_pb_umku": "240822001564200000001",
+        "nama": "PT. BPR ARTHA PAMENANG",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARTHA PAMENANG",
+        "tanggal_daftar": "2022-08-24",
+        "nomor_tanda_daftar": "007476.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c6815f25ce9c6961c33363f132a3c76f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10576
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10795,
+      "attributes": {
+        "nomor_pb_umku": "050822000583100010001",
+        "nama": "WOGI",
+        "website": "wogi.sg",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "WOGI SERVICES INDONESIA",
+        "tanggal_daftar": "2022-08-24",
+        "nomor_tanda_daftar": "007475.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b77232a3d208d469847181bfc15a76f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10605
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10823,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2b35e5d75ec107cbc5ee2506732659da.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10578
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10733,
-      "attributes": {
-        "nomor_pb_umku": "812021123287500010001",
-        "nama": "BANKBIRU.COM",
-        "website": "bankbiru.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARI`AH RIF`ATUL UMMAH",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "007462.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52a0adac09ef2f53e0a179456120b2bf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10565
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10729,
-      "attributes": {
-        "nomor_pb_umku": "912020287057400010001",
-        "nama": "PT BANK PEMBIAYAAN RAKYAT SYARIAH METRO MADANI",
-        "website": "banksyariahmetromadani.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH METRO MADANI",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "007461.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5aac7f6c97ede82712e356ca3d2655a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10561
       }
     }
   ]

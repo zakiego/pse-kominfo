@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 962,
       "from": 9611,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9620,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 277,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Initio",
+        "website": "https://initio.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ABINITIO INOVASI TEKNOLOGI",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000235.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89cc27da9e1b7ca0335dc0e2a5f23311.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2569
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 276,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Proline Finance",
+        "website": "https://www.prolinefinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PROLINE FINANCE INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000234.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/764beaaeecf2c0d7259be1c13f11c8b8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2684
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 437,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IKI PAY",
+        "website": "harsya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "HARSYA REMITINDO",
+        "tanggal_daftar": "2021-04-14",
+        "nomor_tanda_daftar": "000233.04/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ff734dd85f9646ccaf6b0173c518233.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2501
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 275,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/778bd7397142be46c5750cf7ee100595.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2774
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 269,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SHAFIQ",
-        "website": "https://www.shafiq.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHAFIQ DIGITAL INDONESIA",
-        "tanggal_daftar": "2021-02-26",
-        "nomor_tanda_daftar": "000230.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/27f94c4abe0738b584f3021de1322d6d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2303
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 321,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Teknologi Informasi Desa (STID)",
-        "website": "https://demosid.karyabangun.co.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KARYA BANGUN INFORMASI",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000229.02/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c11460b8ce7f5d17058c5f288899e68f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 268,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Karya Bangun Informasi",
-        "website": "https://karyabangun.co.id/, https://karyabangun.co.id/e-shop/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KARYA BANGUN INFORMASI",
-        "tanggal_daftar": "2021-02-26",
-        "nomor_tanda_daftar": "000229.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8744db30a938c94ea129dc5596a84254.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7
       }
     }
   ]

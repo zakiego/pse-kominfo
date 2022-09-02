@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 841,
       "from": 8401,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8410,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1199,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Service API Bank Mandiri Production",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.19/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4693beb0653ecf3135d90747b4509d3f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3449
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1198,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi API Portal",
+        "website": "https://developer.bankmandiri.co.id /",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.18/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47dda183c529b0e9f00444ce60b327a8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3448
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1197,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Livin' by Mandiri",
+        "website": "https://ibank.bankmandiri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.17/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/725d1d049c00e06091463b329f3665d0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3447
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1196,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/327a448b5ca45bb1012bc1de441e1e75.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3440
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1187,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARS EUC",
-        "website": "mars.rshs.or.id;  csa-rsmh.1.6/index.php",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.09/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d606a5e121dc225f2fd3324629d6463c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3439
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1186,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MHAS 1.0 (Global Innovation Technology)",
-        "website": "mhasdashboard.bankmandiri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.08/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7e74543495ad81f9028af10d57ca8a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3438
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1185,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MEP Rekon",
-        "website": "https://mep-recon.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.07/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c530c292cf8378d36f70c3e6b9b54d32.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3437
       }
     }
   ]

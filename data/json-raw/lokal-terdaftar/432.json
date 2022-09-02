@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 433,
       "from": 4321,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4330,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7587,
+      "attributes": {
+        "nomor_pb_umku": "812021611196600050001",
+        "nama": "KREDIT BPF",
+        "website": "bpfi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BATAVIA PROSPERINDO FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003807.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/401d7e3b200e80347a19b702cd1aa8d6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7462
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5143,
+      "attributes": {
+        "nomor_pb_umku": "122600072152500000001",
+        "nama": "PAJAK.COM",
+        "website": "pajak.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LONTAR TALI MEDIA",
+        "tanggal_daftar": "2022-07-06",
+        "nomor_tanda_daftar": "003806.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7561c13880ae7e8dcf66b570775efcb9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5005
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5923,
+      "attributes": {
+        "nomor_pb_umku": "912020572150200030002",
+        "nama": "EDUCOURSE.ID",
+        "website": "educourse.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MALEO EDUKASI TEKNOLOGI",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "003805.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da819b076dc7ed9b6596c5ae7e2ea7cc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5784
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5139,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8db197edad3bfe339464b4deea423848.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4996
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5218,
-      "attributes": {
-        "nomor_pb_umku": "211221001451400010001",
-        "nama": "PT MAXS DIGITAL TEKNOLOGI",
-        "website": "maxspos.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MAXS DIGITAL TEKNOLOGI",
-        "tanggal_daftar": "2022-07-08",
-        "nomor_tanda_daftar": "003799.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7b6c8c25c9d8b5eb2917a9dcaa11d2d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5088
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5131,
-      "attributes": {
-        "nomor_pb_umku": "812010379286800000002",
-        "nama": "MINISO APPLICATION",
-        "website": "miniso.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "Miniso Internasional Compani",
-        "tanggal_daftar": "2022-07-06",
-        "nomor_tanda_daftar": "003798.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/419f08ff9e57b2ca5258c10302e9eb7d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4995
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5127,
-      "attributes": {
-        "nomor_pb_umku": "812010379286800000001",
-        "nama": "MINISO APP",
-        "website": "miniso.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "Miniso Internasional Compani",
-        "tanggal_daftar": "2022-07-06",
-        "nomor_tanda_daftar": "003798.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b298ffe6dd845d71c128e9cd0efd1a0c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4992
       }
     }
   ]

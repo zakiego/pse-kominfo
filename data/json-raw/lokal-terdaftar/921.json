@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 922,
       "from": 9211,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9220,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 505,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Fundtastic+ (Plus)",
+        "website": "www.fundtasticplus.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "NUSANTARA SEJAHTERA INVESTAMA",
+        "tanggal_daftar": "2021-04-20",
+        "nomor_tanda_daftar": "000410.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/825d5d6fd20e0aab49ed0ce6f94dd45d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3522
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 504,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SCF-Securities Crowd Funding System emerging technology",
+        "website": "www.aindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ANGEL INVESTOR INDONESIA",
+        "tanggal_daftar": "2021-04-20",
+        "nomor_tanda_daftar": "000409.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/25509a093caeba6cd21e2fb6576cc971.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 231
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 503,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bisabeli.id",
+        "website": "https://bisabeli.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CITRA DATA NUSANTARA",
+        "tanggal_daftar": "2021-04-20",
+        "nomor_tanda_daftar": "000408.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7987c76bf63941605f66d269e727ed11.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 320
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3092,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d6f748819a9fe0d30face84709c2a51e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 164
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 499,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Yukepo",
-        "website": "https://www.yukepo.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIA MULIA NUSANTARA",
-        "tanggal_daftar": "2021-04-20",
-        "nomor_tanda_daftar": "000402.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/677b88c736d5e82aec429890bab19f52.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 326
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4156,
-      "attributes": {
-        "nomor_pb_umku": "912030138015100090001",
-        "nama": "SIPLAH MITRA MEDIA",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MITRA MEDIA",
-        "tanggal_daftar": "2022-05-27",
-        "nomor_tanda_daftar": "000402.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63a3196c8d6b94ce7655a88e18cc2ee6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4162
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 496,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Keepo",
-        "website": "keepo.me",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIA MULIA NUSANTARA",
-        "tanggal_daftar": "2021-04-20",
-        "nomor_tanda_daftar": "000402.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3e83a7c429e5d504e90bfa3643d848b3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 325
       }
     }
   ]

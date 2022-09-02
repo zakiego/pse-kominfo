@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 506,
       "from": 5051,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5060,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5048,
+      "attributes": {
+        "nomor_pb_umku": "200222000003200020003",
+        "nama": "AMK WEBHOSTING",
+        "website": "amk.webi.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-07-04",
+        "nomor_tanda_daftar": "002722.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b428e3ab9532c2cb2a5f9c3ce16db94c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4919
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4504,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMK   TOP UP & PAYMENT",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-05-19",
+        "nomor_tanda_daftar": "002722.06/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a74b03c7583129fb597b1ce1d911224.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4488
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4503,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMK  BOOK STORE",
+        "website": "adifamedia.web.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ADIFA MEDIA KARYA",
+        "tanggal_daftar": "2022-05-19",
+        "nomor_tanda_daftar": "002722.05/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1f073f7b6fab12ff94192e858f92b25b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4487
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4502,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ab98ea6760892d0c12886ee77157e98.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4480
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4495,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT Kerinci Merangin Hidro",
-        "website": "-",
-        "sektor": "Sektor Energi dan Sumber Daya Mineral",
-        "nama_perusahaan": "KERINCI MERANGIN HIDRO",
-        "tanggal_daftar": "2022-05-19",
-        "nomor_tanda_daftar": "002718.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d718395d31be611e0dcb8977a16e4f59.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4479
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4466,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website Yakult",
-        "website": "yakult.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "YAKULT INDONESIA PERSADA",
-        "tanggal_daftar": "2022-05-19",
-        "nomor_tanda_daftar": "002717.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e3ccc555cf50bf7dfe15440897b44d3a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4450
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4494,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Formi",
-        "website": "formi.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "FORMI UNTUNG BERSAMA",
-        "tanggal_daftar": "2022-05-19",
-        "nomor_tanda_daftar": "002716.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db7e4f36f23e95ba4a0af6dbb980eb96.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4478
       }
     }
   ]

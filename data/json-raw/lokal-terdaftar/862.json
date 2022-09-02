@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 863,
       "from": 8621,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8630,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5110,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEBSITE PT. VICTORIA SEKURITAS INDONESIA",
+        "website": "victoria-sekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "VICTORIA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "nomor_tanda_daftar": "000701.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb1bdb4e08f62b3b98b4c83add7f734f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4971
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 929,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website PT Victoria Sekuritas Indonesia",
+        "website": "www.victoria-sekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "VICTORIA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000701.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c6c3a251e38af192a51463f768c33943.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 678
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8398,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "META WATER",
+        "website": "metawater.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "AKU CINTA MEMILES",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "000700.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c5a1db816e7912180a82382fa7f34d3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8316
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 928,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/48322ea369eb228344a05407505933ba.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3304
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 926,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "amaan apps",
-        "website": "amaan.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "AMAAN INDONESIA SEJAHTERA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000698.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c8f54736d3da41ca9e3c9c58c3da527.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3303
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 920,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Koala",
-        "website": "www.koala.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NYALA INOVASI PROPERTI",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000697.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a73b5442b177c7682bb10093df3d5ad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3476
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3541,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Edukasi Satu Hati",
-        "website": "edukasi.satuhati.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASTRA HONDA MOTOR",
-        "tanggal_daftar": "2022-03-15",
-        "nomor_tanda_daftar": "000696.03/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4bd5d4b2f926165d5ac5c63674fc58b8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3207
       }
     }
   ]

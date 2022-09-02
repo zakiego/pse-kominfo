@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 872,
       "from": 8711,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8720,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 844,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KTB Telematics",
+        "website": "runner.ktbfuso.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KRAMA YUDHA TIGA BERLIAN MOTORS",
+        "tanggal_daftar": "2021-05-10",
+        "nomor_tanda_daftar": "000655.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a48653e86a43a423edaf707a1d49c1d2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 409
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1174,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Astra Integrated System (ASSIST)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ASTRA INTERNATIONAL",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000654.16/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/415cadb71b72cd33f459cf38b4bfd072.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 248
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1173,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Astra Dealer Management System",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ASTRA INTERNATIONAL",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000654.15/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f331045a11f8584cfc677d824a8f1eca.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 247
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1172,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba01b645d3b0abb80245f0235f51dada.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 240
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 908,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website Astra Daihatsu",
-        "website": "https://www.astra-daihatsu.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000654.07/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/755f434e8b234f3a84a2da66efeb6d0e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 239
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 843,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website Astra Isuzu",
-        "website": "https://astraisuzu.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-10",
-        "nomor_tanda_daftar": "000654.06/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a37f67bffd2e3db6a07369f06109bd7f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 238
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 842,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website Astra Motor",
-        "website": "https://www.astramotor.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-10",
-        "nomor_tanda_daftar": "000654.05/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f6a1044c73275d32e52d272bf7dc9f5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 237
       }
     }
   ]

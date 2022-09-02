@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 161,
       "from": 1601,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 1610,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9014,
+      "attributes": {
+        "nomor_pb_umku": "250821001766600000001",
+        "nama": "MERCHANT",
+        "website": "app.merchant.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LOKAL MENUJU GLOBAL",
+        "tanggal_daftar": "2022-07-25",
+        "nomor_tanda_daftar": "005870.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/50a9c79afdf5b8e929e0b3a8ae53c94c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8926
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8366,
+      "attributes": {
+        "nomor_pb_umku": "071021002800500010001",
+        "nama": "WEBSITE BPR GRACIA MANDIRI",
+        "website": "bankgraciamandiri.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT GRACIA MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005868.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bc2744c5e0cb7d41c09edf09068037d4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8287
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8590,
+      "attributes": {
+        "nomor_pb_umku": "022000530087400000001",
+        "nama": "DIGIMOSQUE",
+        "website": "digimosque.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SINERGI ABADI MEDIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005866.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/68e2118c1af32c457b2ca9a365085b43.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8509
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8358,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c6ab1af6385188079ba61041cbdf845.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9405
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8362,
-      "attributes": {
-        "nomor_pb_umku": "022010665225800030007",
-        "nama": "APLIKASI MMPPAYMENT,NTRONIK",
-        "website": "Indopay.net",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDOPAY MULTISINERGI",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005857.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d196d2b00f02d40b6e9c28ceb751e7f3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8283
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8357,
-      "attributes": {
-        "nomor_pb_umku": "022010665225800030006",
-        "nama": "APLIKASI MITRA INDOPAY",
-        "website": "Indopay.net",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDOPAY MULTISINERGI",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005857.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/369049a542d0afd294e2e10b4488d1bc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8278
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8355,
-      "attributes": {
-        "nomor_pb_umku": "022010665225800030005",
-        "nama": "APLIKASI INDOPAY",
-        "website": "Indopay.net",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDOPAY MULTISINERGI",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005857.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66713a5c53e147683dd6101dc057e131.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8275
       }
     }
   ]

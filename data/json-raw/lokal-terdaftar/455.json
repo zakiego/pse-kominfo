@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 456,
       "from": 4551,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4560,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4884,
+      "attributes": {
+        "nomor_pb_umku": "912010063217900000001",
+        "nama": "DOCTORTOOL",
+        "website": "doctortool.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "MEDIFA INFOYASA SURYANTARA",
+        "tanggal_daftar": "2022-06-28",
+        "nomor_tanda_daftar": "003519.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c35bc3a4fddaa0975b909d3dfda330c4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4752
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5079,
+      "attributes": {
+        "nomor_pb_umku": "128100244139300060002",
+        "nama": "AWS INDONESIA",
+        "website": "blitznet.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BLITZNET UPAYA INDONESIA",
+        "tanggal_daftar": "2022-07-05",
+        "nomor_tanda_daftar": "003518.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a1bdc28d53d26dc1ab058963ce1c5d91.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4944
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7551,
+      "attributes": {
+        "nomor_pb_umku": "912030986115600010009",
+        "nama": "TRAVEL FAIR",
+        "website": "apps.bcainsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI UMUM BCA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003517.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/05394f3d9eda59cbe24d303c2bec8b47.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7441
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7297,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/be95ce954c7cd7375be3c84630815d33.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5377
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5466,
-      "attributes": {
-        "nomor_pb_umku": "912030986115600010001",
-        "nama": "TRAVEL INSURANCE",
-        "website": "apps.bcainsurance.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI UMUM BCA",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "003517.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2ef9c14cb075cd56aa573b04645e4dc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5338
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5235,
-      "attributes": {
-        "nomor_pb_umku": "912030163246500010001",
-        "nama": "WEBSITE PT CATURNUSA SEJAHTERA FINANCE",
-        "website": "paylater.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CATURNUSA SEJAHTERA FINANCE",
-        "tanggal_daftar": "2022-07-08",
-        "nomor_tanda_daftar": "003515.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c88391b296e85260ad7cef53e001b33.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5102
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9358,
-      "attributes": {
-        "nomor_pb_umku": "270622006182400010001",
-        "nama": "BEAM MOBILITY",
-        "website": "ridebeam.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BEAM MOBILITY INDONESIA",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "003514.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d55cb67847fd9e2a703a41d5533a79a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4960
       }
     }
   ]

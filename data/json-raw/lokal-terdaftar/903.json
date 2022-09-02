@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 904,
       "from": 9031,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9040,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 613,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Samuel Trading Active Realtime (STAR)",
+        "website": "www.samuel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SAMUEL SEKURITAS INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000501.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/69fda4f0f0661ec4ffb64061ef5de425.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 425
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 612,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi Ultra Voucher",
+        "website": "www.ultravoucher.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TRIMEGAH KARYA PRATAMA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000500.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/749e492e355c95cd2ead6a89f030edbf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 408
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4211,
+      "attributes": {
+        "nomor_pb_umku": "240122006692200010001",
+        "nama": "SEJASA.COM",
+        "website": "sejasa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RECOMN TECHNOLOGY SERVICES",
+        "tanggal_daftar": "2022-06-02",
+        "nomor_tanda_daftar": "000499.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ab220f8e96024cc2ed4ae892f0dc3b8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4211
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 611,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a79c1d6dd5d293c2efb65c97a79692f3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3261
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 605,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Registrasi Online VOLT",
-        "website": "volt.valbury.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "VALBURY SEKURITAS INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000494.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08f8b7c1a750de43cac859e4d53d1326.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3260
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 602,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Cari Tempat",
-        "website": "www.caritempat.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "AKEZ ADAPHAN HOSPITALITI",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000493.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8370eb6a30513e7d3c2375ed9275e131.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3259
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 601,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT Asia Collect Indonesia",
-        "website": "www.flow-cares.ai",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASIA COLLECT INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000492.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29e285c9a08dd3b4b0a474678a14c099.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 327
       }
     }
   ]

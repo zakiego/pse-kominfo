@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 790,
       "from": 7891,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7900,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1544,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WEPLUS (WE+)",
+        "website": "weplus.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KITA INDONESIA PLUS",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "001013.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a70f768aea1c4bf59bc882c826e7f961.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1129
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3539,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pegipegi",
+        "website": "pegipegi.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GO ONLINE DESTINATIONS",
+        "tanggal_daftar": "2022-03-15",
+        "nomor_tanda_daftar": "001012.02/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6bca03d6b29dc5ea1742744e14889b7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3206
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1543,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pegipegi",
+        "website": "pegipegi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GO ONLINE DESTINATIONS",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "001012.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2539fca0cc6152676121c7532cb44c40.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1127
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1542,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3a2866825ea649bed3822235e67ad51e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1090
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1537,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "bikebike.id",
-        "website": "https://www.digitalocean.com/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "UNICORN INTERNATIONAL INDONESIA",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "001006.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63b5a9476b2614cfb6ca6c4d1400ef51.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1126
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10890,
-      "attributes": {
-        "nomor_pb_umku": "024900095209100030002",
-        "nama": "ARUNA.ID",
-        "website": "aruna.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ARUNA JAYA NUSWANTARA",
-        "tanggal_daftar": "2022-09-01",
-        "nomor_tanda_daftar": "001005.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/93b6b24d4ea2669ad3d8fa092fbe8bc4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10701
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1534,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Buyer Apps",
-        "website": "inquiry.aruna.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ARUNA JAYA NUSWANTARA",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "001005.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47a5906700a1a6a0ff1e21b3516d953b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1083
       }
     }
   ]

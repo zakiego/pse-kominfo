@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 300,
       "from": 2991,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3000,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8035,
+      "attributes": {
+        "nomor_pb_umku": "120800011163700060001",
+        "nama": "PERIKSALAB",
+        "website": "periksalab.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "SOLUSI TIGA SELARAS",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004728.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5b61a3988de205e7da9356084572cda.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7957
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6427,
+      "attributes": {
+        "nomor_pb_umku": "912020182125100050001",
+        "nama": "WEBSITE PROFIL PERUSAHAAN",
+        "website": "bprbkk-pwt.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BPR BKK PURWOKERTO PERSERODA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004727.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b6f976bd4f61056955b59dea701f9c4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6291
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6420,
+      "attributes": {
+        "nomor_pb_umku": "912030071391400010001",
+        "nama": "BPR ECASH",
+        "website": "bprdanamasterbahtera.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BPR DANAMASTER BAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004726.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a285bc63bd8d8401b7a7861f15d16598.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6288
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6449,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89fe2495ce2ecf0c7c3f305abd19bd25.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6483
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6415,
-      "attributes": {
-        "nomor_pb_umku": "027900092245100000002",
-        "nama": "SEKOLAHMODERN",
-        "website": "sekolahmodern.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEQODE RETHA INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004703.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3fea8810885ff2131b533e0b2117b819.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6279
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6406,
-      "attributes": {
-        "nomor_pb_umku": "027900092245100000001",
-        "nama": "ABSEN AJA",
-        "website": "absenaja.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEQODE RETHA INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004703.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f0841151f7ddb116a429a586ce734e9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6269
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6402,
-      "attributes": {
-        "nomor_pb_umku": "027900092245100000001",
-        "nama": "SEKOLAH MODERN",
-        "website": "sekolahmodern.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEQODE RETHA INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004703.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9484e1438832df0a997c863024ce1534.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6265
       }
     }
   ]

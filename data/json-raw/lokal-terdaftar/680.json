@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 681,
       "from": 6801,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6810,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2474,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANANA",
+        "website": "http://bananas.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BANANA NIAGA NATURA",
+        "tanggal_daftar": "2021-11-26",
+        "nomor_tanda_daftar": "001634.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6659ed8fb76bc79b7537aca423f3bfd4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1703
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2473,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kugo App",
+        "website": "www.kugo.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASIASAT COMMUNICATIONS INDONESIA",
+        "tanggal_daftar": "2021-11-26",
+        "nomor_tanda_daftar": "001633.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a7517dcb8d76581ce12d7774c55b8bf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1522
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2472,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Marketplace",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DIMAS KRISTAL INDONESIA",
+        "tanggal_daftar": "2021-11-26",
+        "nomor_tanda_daftar": "001632.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10d260c7e10d5a4fd283ab60942b316c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1712
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4221,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01caa6c35723273af62a079f090581f5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1690
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2544,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi HBL - Pegadaian",
-        "website": "https://aplikasihbl.pegadaian.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PEGADAIAN",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "001631.28/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/563f41c0c0328585cd643becd50c7301.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1689
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2543,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Portal Pengajuan Kredit Instansi - Pegadaian",
-        "website": "https://simulasi.pegadaian.co.id/LandingInstansi",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PEGADAIAN",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "001631.27/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4dbb75c70134cea1ffba3a1e6b3d951.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1688
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2542,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Loan Origination System Digital Lending - Pegadaian",
-        "website": "https://pad.pegadaian.co.id/directlending",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PEGADAIAN",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "001631.26/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee0104c8ef4e987d11d1e7fb04eca520.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1687
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 955,
       "from": 9541,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9550,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5041,
+      "attributes": {
+        "nomor_pb_umku": "812021707320100000008",
+        "nama": "DSDBOOK - ONLINE APPOINTMENT BOOKING",
+        "website": "mercedes-benz.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MERCEDES-BENZ DISTRIBUTION INDONESIA",
+        "tanggal_daftar": "2022-07-04",
+        "nomor_tanda_daftar": "000279.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12770aa95ebf73970bb024c1bd3cd43f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4897
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 331,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digital Commerce Plattform (DCP)",
+        "website": "https://shop.mercedes-benz.com/en-ID/shop/srp/vehicle",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MERCEDES-BENZ DISTRIBUTION INDONESIA",
+        "tanggal_daftar": "2021-03-05",
+        "nomor_tanda_daftar": "000279.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a7f69694b653514a627a414486c43f6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2458
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4278,
+      "attributes": {
+        "nomor_pb_umku": "812031015066100000001",
+        "nama": "HYBRID-H",
+        "website": "hybrid-h.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HARDANA WIDYA MAHIR",
+        "tanggal_daftar": "2022-06-08",
+        "nomor_tanda_daftar": "000278.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/acb7cc4bad2ee3528b902abe3a6e6e57.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4263
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 330,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c91d29984a9ddf9c627b64b58cb40779.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 105
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 327,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT Sahabat Finansial Kamu (\"Finku\")",
-        "website": "www.finku.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SAHABAT FINANSIAL KAMU",
-        "tanggal_daftar": "2021-03-05",
-        "nomor_tanda_daftar": "000275.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18a667f44e4a00ab80dbd5d43094163f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 103
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1893,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "https://www.lacoste.com/",
-        "website": "https://www.lacoste.com/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MITRA ADIPERKASA, TBK",
-        "tanggal_daftar": "2021-09-28",
-        "nomor_tanda_daftar": "000274.03/DJAI.PSE/09/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a75750a31e29481a8d257335bf9a5f29.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3680
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1227,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "id.tumi.com",
-        "website": "id.tumi.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MITRA ADIPERKASA, TBK",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000274.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/046f194d6834930dfb8c8a5285893292.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3679
       }
     }
   ]

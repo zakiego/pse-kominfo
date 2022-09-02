@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 892,
       "from": 8911,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8920,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 693,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MIS",
+        "website": "https://amartha.id/mis/#/login",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AMARTHA MIKRO FINTEK",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000563.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3ea83505bebbe0a1e2025ac80648b65.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 476
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1676,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "koin-master",
+        "website": "www.koin-master.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "INDO FINTEK DIGITAL",
+        "tanggal_daftar": "2021-07-08",
+        "nomor_tanda_daftar": "000562.02/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c178d25670609d4bf672c6304fbcf502.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 218
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 692,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MODAL USAHA",
+        "website": "www.modalusaha.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "INDO FINTEK DIGITAL",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000562.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8647b287229f96b78c3512053cbb5893.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 217
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 691,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/319227aad1a2cefbed61fd2bb1f32e9c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3282
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 685,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "premiro.com",
-        "website": "https://www.premiro.com/ https://slim.premiro.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MITRA IBISNIS TERAPAN",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000555.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0b59d05c362dce3a343c8e6bb5f2f05.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 303
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 731,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "APGAN",
-        "website": "apgan.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KOPERASI ALUMNI PENDUDUK GANESHA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000554.02/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4aba86f430009c45fd7f3b736ec4b16f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 489
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 684,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "APGAN",
-        "website": "apgan.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KOPERASI ALUMNI PENDUDUK GANESHA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000554.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/195e4c30c715211b74b74349d0b0951c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 488
       }
     }
   ]

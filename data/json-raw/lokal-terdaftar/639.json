@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 640,
       "from": 6391,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6400,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2859,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DAV",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "VATAR MEDIA RAYA",
+        "tanggal_daftar": "2021-12-22",
+        "nomor_tanda_daftar": "001833.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92b1f71735082829268b944a1aa5706a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1961
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2858,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TOKO AWADAH",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "AWADAH AKAR MIMPI",
+        "tanggal_daftar": "2021-12-22",
+        "nomor_tanda_daftar": "001832.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/91ef795fd601151ca3b6106d317f88b2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1952
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2856,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MBJB Mobile",
+        "website": "www.mitrabjb.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KONSUMEN MITRA BINA JAYA BERDIKARI",
+        "tanggal_daftar": "2021-12-22",
+        "nomor_tanda_daftar": "001831.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a0a22cc9100cd9af2978ce982a416654.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1957
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2855,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1401d884f68d6114d5c4e6c23c8bfdfd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1877
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2840,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEBSTORE / WEBSITE",
-        "website": "ns1.niagahoster.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HEMA MEDHAJAYA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001824.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/525ae9afbe7a6501064aef32fcb5025e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1902
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9223,
-      "attributes": {
-        "nomor_pb_umku": "022000287134600000002",
-        "nama": "PT DATA ANDALAN UTAMA",
-        "website": "datautama.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DATA ANDALAN UTAMA",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "001823.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14ca6c17bc88166e6eab177086a1d655.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9131
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2835,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DATA UTAMA",
-        "website": "https://datautama.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DATA ANDALAN UTAMA",
-        "tanggal_daftar": "2021-12-22",
-        "nomor_tanda_daftar": "001823.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/639db44b5a37fa0fbf9ff6706bcc3856.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1951
       }
     }
   ]

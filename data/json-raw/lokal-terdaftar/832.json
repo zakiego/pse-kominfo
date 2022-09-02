@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 833,
       "from": 8321,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8330,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1152,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Idebiz.Id",
+        "website": "www.idebiz.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KIRANA ADHIRAJASA INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000831.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d798dcdb4d935aed1bbb68509d59361.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 751
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1150,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VeriJelas",
+        "website": "www.verijelas.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JELAS KARYA WASANTARA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000830.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9622fa24fc37afc2b84ea70899d83441.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 565
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1149,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KKS",
+        "website": "www.karyaks.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA KERJA SEJAHTERA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000829.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4f8ff46f7470c4508791db39ce47057.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 564
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1170,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43891bd97a1512ee3fdd5e596e2a3c59.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 254
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1140,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Personal Internet Banking (PIB)",
-        "website": "pib.uob.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK UOB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000824.03/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/358940d17eb761deae66916bc540b6ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 253
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1139,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TMRW (Tomorrow)",
-        "website": "iddbsoi.uob.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK UOB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000824.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2e0870d6536b8f1cc3426904386d25a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 252
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1138,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website PT. Bank UOB Indonesia",
-        "website": "www.uob.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK UOB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000824.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b94d917c730dea40e2c0b0fc788b7b7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 251
       }
     }
   ]

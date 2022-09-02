@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 32,
       "from": 311,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 320,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10678,
+      "attributes": {
+        "nomor_pb_umku": "070722006067500000001",
+        "nama": "SPOT DIGI",
+        "website": "spotdigi.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SPOT DIGI KRIPTO",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007267.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4285adc133202b26a7873a2e1b7b5f4b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10511
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10599,
+      "attributes": {
+        "nomor_pb_umku": "912010353096900010002",
+        "nama": "MOBILE APPS SIAPCAIR",
+        "website": "siapcair.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SARANA MAJUKAN EKONOMI FINANCE INDONESIA",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007265.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3665097e09fdfbfb9eeed96be24c1e9d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10436
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10428,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b742f00c10791eb4922503cdfd80d2c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10216
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10357,
-      "attributes": {
-        "nomor_pb_umku": "010722004407400000001",
-        "nama": "QOINPAY WALLET",
-        "website": "qoinpay.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "POINTO INTERNATIONAL XCHANGE",
-        "tanggal_daftar": "2022-08-15",
-        "nomor_tanda_daftar": "007257.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ebf783658e575435ca4b6760b07fd56d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10212
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10374,
-      "attributes": {
-        "nomor_pb_umku": "160921003394600000001",
-        "nama": "TOBANG MARKETPLACE",
-        "website": "tobang.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TOBANG TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-08-15",
-        "nomor_tanda_daftar": "007256.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c2b29b16ad9ff61fbc99d648a9b70f37.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10229
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 1000,
       "from": 9991,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 10000,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 32,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CHUBB STUDIO",
+        "website": "https://ap.studio.chubb.com/id/xl-axiata/pweb/mpi/en/home",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000030.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1fe78c5d7878be642a41942261d27ad4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2843
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 31,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CHUBB TRAVEL",
+        "website": "www.chubbtravelinsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000030.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/05f20945385f57493960865736ac9ec7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2842
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 34,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "t-smartoffice",
+        "website": "t-smartoffice.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PADI INDAH DISTRIBUSI",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000029.03/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9a5e57a9ca5b5a69525ea8fd3ae03863.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2398
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 33,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f952eed2bdd5e7dec0e6f57a2445691.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2405
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 24,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "RUPIAH TOKEN",
-        "website": "https://rupiahtoken.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RUPIAH TOKEN INDONESIA",
-        "tanggal_daftar": "2021-02-22",
-        "nomor_tanda_daftar": "000023.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e8be5349382fe5d334dc7722d098058a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2409
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9373,
-      "attributes": {
-        "nomor_pb_umku": "812000493004800020002",
-        "nama": "FUSE",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FUSE TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "000022.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16075db0671c7f4db5612399b7e7ae2c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9286
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 23,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FUSE PRO",
-        "website": "https://fuse.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FUSE TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-02-22",
-        "nomor_tanda_daftar": "000022.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1aef1a57c469f8c9be56a469e4b5cc5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2387
       }
     }
   ]

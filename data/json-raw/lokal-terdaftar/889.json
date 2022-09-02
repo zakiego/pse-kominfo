@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 890,
       "from": 8891,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8900,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 709,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PAYFAZZ",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PAYFAZZ TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000574.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa45a5d633ef29187b14d5a29d50a85c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3285
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 708,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Admiral Markets",
+        "website": "admiralmarkets.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ADMIRALS INVEST INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000573.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f14719fdb551215e26c302cd0d2b427.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 261
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5908,
+      "attributes": {
+        "nomor_pb_umku": "128500011261400000001",
+        "nama": "KASYR ID",
+        "website": "kasyr.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KASYR SIBERNETIKA INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000572.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/386c8ee3dae396cba2b040691cba7946.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5772
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 707,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/26db9e18527d9f8a5cd06b0ccab0cd02.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 467
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 701,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SUPERMAMA",
-        "website": "www.supermama.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SUPERMAMA KARYA INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000567.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df6d7593088d3293dd302214ff80faff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 380
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 699,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Eloza",
-        "website": "https://eloza.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EXRUSH DIGITAL NUSANTARA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000566.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4cdfdb8ae353ffce68ca672203ed0054.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 498
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6099,
-      "attributes": {
-        "nomor_pb_umku": "912031209082500010001",
-        "nama": "PINJAMYUK",
-        "website": "pinjamyuk.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KUAIKUAI TECH INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "000565.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/449c33af57e3a387fae6fbc942a8d518.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5210
       }
     }
   ]

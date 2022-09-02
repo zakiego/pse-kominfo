@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 834,
       "from": 8331,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8340,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1140,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Personal Internet Banking (PIB)",
+        "website": "pib.uob.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK UOB INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000824.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/358940d17eb761deae66916bc540b6ba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 253
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1139,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TMRW (Tomorrow)",
+        "website": "iddbsoi.uob.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK UOB INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000824.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2e0870d6536b8f1cc3426904386d25a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 252
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1138,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website PT. Bank UOB Indonesia",
+        "website": "www.uob.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK UOB INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000824.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b94d917c730dea40e2c0b0fc788b7b7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 251
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1137,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d100eb816955ffcb4379cc55faec2bda.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 730
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1126,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Movic",
-        "website": "Movic.Id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA DIGITAL INTERNASIONAL",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000819.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bc98a2279ba7aaf28e354199ed74621f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 729
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2872,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.legalspace.id",
-        "website": "www.legalspace.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SENTRA TEKNOLEGAL INDONESIA",
-        "tanggal_daftar": "2021-12-24",
-        "nomor_tanda_daftar": "000818.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/226e28889fb756fbbc7f191369da3e43.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 226
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1125,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT. Sentra Teknolegal Indonesia",
-        "website": "http://www.legalspace.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SENTRA TEKNOLEGAL INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000818.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c152aebaccbf8dc0350c604c40fe9ae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 225
       }
     }
   ]

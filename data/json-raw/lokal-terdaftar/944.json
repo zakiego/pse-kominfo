@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 945,
       "from": 9441,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9450,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 388,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Infokes Mobile",
+        "website": "infokes.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INFOKES INDONESIA",
+        "tanggal_daftar": "2021-03-15",
+        "nomor_tanda_daftar": "000314.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21896ed2379035da403b24f6f1087ddc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2505
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 386,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ePuskesmas NG",
+        "website": "epuskesmas.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INFOKES INDONESIA",
+        "tanggal_daftar": "2021-03-15",
+        "nomor_tanda_daftar": "000314.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4fc5f665ff3501b43e0566d4342272a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2504
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4303,
+      "attributes": {
+        "nomor_pb_umku": "912020636202100070005",
+        "nama": "HDK MULTISOLUTION",
+        "website": "hdk-solution.id",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HADEKA MULTISOLUTION",
+        "tanggal_daftar": "2022-06-09",
+        "nomor_tanda_daftar": "000313.03/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51d22b446f821631e0b1f334dff463ca.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4296
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4302,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/094cc931a2c89623870154a060ef0e03.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4199
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 383,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REDKENDI",
-        "website": "www.redkendi.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "REDKENDI ANDALAN MITRA",
-        "tanggal_daftar": "2021-03-15",
-        "nomor_tanda_daftar": "000311.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2cd8c9051618b8766e821386d8ecd3b3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 140
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4571,
-      "attributes": {
-        "nomor_pb_umku": "912040980232100000001",
-        "nama": "WILKA STORE",
-        "website": "wilkastore.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
-        "nama_perusahaan": "WILKA ENERGI SOLUSI",
-        "tanggal_daftar": "2022-06-16",
-        "nomor_tanda_daftar": "000310.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/54b142284c7d369e3403547c35bb26a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4535
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4577,
-      "attributes": {
-        "nomor_pb_umku": "912040980232100000001",
-        "nama": "WILKASTORE.CO.ID",
-        "website": "wilkapower.com",
-        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
-        "nama_perusahaan": "WILKA ENERGI SOLUSI",
-        "tanggal_daftar": "2022-06-17",
-        "nomor_tanda_daftar": "000310.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f708734f3f2ca044a5475edb1e0581be.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4534
       }
     }
   ]

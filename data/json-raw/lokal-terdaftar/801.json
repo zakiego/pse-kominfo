@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 802,
       "from": 8011,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8020,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1942,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Komuno",
+        "website": "http://komuno.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FANTASTIS ANAK BANGSA INDONESIA",
+        "tanggal_daftar": "2021-10-04",
+        "nomor_tanda_daftar": "000933.02/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7ebbd0e89cfafa54f56643b3ec94609.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 675
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1400,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Tlusure",
+        "website": "http://tlusure.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FANTASTIS ANAK BANGSA INDONESIA",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000933.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ab7d82bbb8c8b9dd0ae6f5523eb6efc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 674
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1401,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Smartyseller Indonesia",
+        "website": "Https://www.smartyseller.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SMARTY SEJAHTERA INDONESIA",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000932.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8efdd9cfa09b32d5582f5cabe6d34a8d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1025
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1399,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9261651d1562fdc2e9b53a873dc8f4b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 80
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1394,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Dashboard DomaiNesia",
-        "website": "www.domainesia.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DELTA NEVA ANGKASA",
-        "tanggal_daftar": "2021-06-09",
-        "nomor_tanda_daftar": "000927.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b895f571f94587a3da8912d125b6fa2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3481
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1393,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Turbo.co.id",
-        "website": "https://turbo.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TURBO MITRA PERKASA",
-        "tanggal_daftar": "2021-06-09",
-        "nomor_tanda_daftar": "000926.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/feadb6ec3bb486b059dcf72c78ca23e4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3334
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1545,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kerjaan",
-        "website": "https://kerjaan.co.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SAMPINGAN MITRA INDONESIA",
-        "tanggal_daftar": "2021-06-24",
-        "nomor_tanda_daftar": "000925.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0cb1e400f8781bb64b7d7ad203865497.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3333
       }
     }
   ]

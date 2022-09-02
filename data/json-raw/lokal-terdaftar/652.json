@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 653,
       "from": 6521,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6530,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2743,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TOKOSABUN",
+        "website": "https://www.tokosabun.online",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "YUSA KARYA INDONESIA",
+        "tanggal_daftar": "2021-12-13",
+        "nomor_tanda_daftar": "001761.02/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/05dad07a1b4c98dbf898cc66b578fbfa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1868
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2741,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TOKOYUSA",
+        "website": "https://www.tokoyusa.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "YUSA KARYA INDONESIA",
+        "tanggal_daftar": "2021-12-13",
+        "nomor_tanda_daftar": "001761.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/72b7ddaf35986285a41805a6e64007a3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1867
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2740,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CMS ( Courier Management System )",
+        "website": "www.sbs-express.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_perusahaan": "SABILUNA SEJAHTERA",
+        "tanggal_daftar": "2021-12-13",
+        "nomor_tanda_daftar": "001760.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76a09c5528b679a0bf6551744cccad2d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1866
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2739,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f81b941a05d73c5260d25d5ad9e2a52d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1559
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2731,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PENGEMBANGAN APLIKASI",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADHI MULIA GROUP",
-        "tanggal_daftar": "2021-12-13",
-        "nomor_tanda_daftar": "001753.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/461b30aad033536ea5d9255a137e6a26.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1802
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2730,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YUKDIGI",
-        "website": "yukdigi.net",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MUHAMMAD ARI TAUFAN",
-        "tanggal_daftar": "2021-12-12",
-        "nomor_tanda_daftar": "001752.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19105fec2594853a248002bd158e7ec8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2827
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2729,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ksp mitra bahagia",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KSP MITRA BAHAGIA",
-        "tanggal_daftar": "2021-12-12",
-        "nomor_tanda_daftar": "001751.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/402939dd7a3133afbbff61f0946d0724.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1727
       }
     }
   ]

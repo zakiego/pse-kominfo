@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 798,
       "from": 7971,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7980,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1441,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Prixa",
+        "website": "www.prixa.ai",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "PINTAR DATA GROUP",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000960.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dfe107b6fcf1d72bb9117ac0355f57db.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 986
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1439,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ULA",
+        "website": "https://landing.ula.app/id/index.html",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JEMBATAN AKAR TEKNOLOGI",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000959.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/360bcd8678b2ccb187c0e74f2ffcd808.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 323
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1438,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "gajikuapp",
+        "website": "https://gajikuapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VARA TECHNOLOGIES CORP",
+        "tanggal_daftar": "2021-06-09",
+        "nomor_tanda_daftar": "000958.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1cbf64b14953cdf7869415759841af53.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 351
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1437,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3928ca9fb2f10fc619268a8d1be019bd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1034
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1428,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SCOOTER VIP",
-        "website": "https://www.scootervip.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SCOOTER VICTORY INTER PART",
-        "tanggal_daftar": "2021-06-09",
-        "nomor_tanda_daftar": "000951.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a47c8ef51f3df398a8bbe2aa9ff909a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1041
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8963,
-      "attributes": {
-        "nomor_pb_umku": "022010158115300020008",
-        "nama": "LEARNING MANAGEMENT SYSTEM (LMS) SABA",
-        "website": "allianzlearn-in.sabacloud.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI ALLIANZ LIFE INDONESIA",
-        "tanggal_daftar": "2022-07-25",
-        "nomor_tanda_daftar": "000950.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f1b3a7d51926dc959789acee2687bd0c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8604
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8502,
-      "attributes": {
-        "nomor_pb_umku": "022010158115300020007",
-        "nama": "ASN PORTAL",
-        "website": "allianzstarnetwork.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI ALLIANZ LIFE INDONESIA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "000950.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/209c3cdf7f54647de9813ae02e28e7ac.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8419
       }
     }
   ]

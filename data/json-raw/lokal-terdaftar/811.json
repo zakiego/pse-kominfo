@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 812,
       "from": 8111,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8120,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2975,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Agen 46",
+        "website": "agenbni46.bni.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "000872.47/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1859e21091673ea7fe78f811f5b204e3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 878
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2974,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Poin Plus (BNI POIN+)",
+        "website": "poinplus.bni.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "000872.46/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02df6be3e2ee0a21c0c03cc06250cb62.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 877
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2973,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Eform Kartu Kredit BNI",
+        "website": "applykartukredit.bni.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "000872.45/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2495af9dbbe41ed7913a8eccca1a96a1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 876
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2972,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/73d619a73a4ba8e425e01b5bebc83582.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 869
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1487,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI e-Collection",
-        "website": "https://bni-ecollection.bni.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-        "tanggal_daftar": "2021-06-14",
-        "nomor_tanda_daftar": "000872.37/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33a8b22626fb87b6dd5798ccd6a18a2b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 868
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1486,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI ASP",
-        "website": "https://aspbni.bni.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-        "tanggal_daftar": "2021-06-14",
-        "nomor_tanda_daftar": "000872.36/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5d1c07d00f6daa87db1d6d4cc7d89da.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 867
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1485,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI Kredit Digital e-Form",
-        "website": "https://eform.bni.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-        "tanggal_daftar": "2021-06-14",
-        "nomor_tanda_daftar": "000872.35/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/379fc74d859529918d77d126d38aa891.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 866
       }
     }
   ]

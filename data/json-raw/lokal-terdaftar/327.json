@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 328,
       "from": 3271,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3280,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6165,
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010002",
+        "nama": "MAIL SERVER BANK NAGARI",
+        "website": "mail.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK NAGARI",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "004529.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0d577a4998eeac1907d8c73bc400898.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6036
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6158,
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010001",
+        "nama": "WEB BANK NAGARI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK NAGARI",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004529.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84e951c8eb062f8430832d0279e7c2af.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6024
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7342,
+      "attributes": {
+        "nomor_pb_umku": "912000714188200010002",
+        "nama": "WEBSITE BPR SARASWATI",
+        "website": "bprsaraswatiekabumi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BPR SARASWATI EKABUMI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004528.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/95e6de86216b00260d90f68f4dd1f928.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7238
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6175,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aaa2656761ab5555697c5ef86d5ed6ee.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5946
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6097,
-      "attributes": {
-        "nomor_pb_umku": "912020072065200010001",
-        "nama": "WEBSITE PT. BANK PERKREDITAN RAKYAT ARTHA KARYA SEJAHTERA",
-        "website": "bpraks.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARTHA KARYA SEJAHTERA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004521.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63bb401a578625041ff6e7da3b3ac1db.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5968
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6081,
-      "attributes": {
-        "nomor_pb_umku": "912050276310400030001",
-        "nama": "BACKOFFICE SAS",
-        "website": "evergreensekuritas.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "EVERGREEN SEKURITAS INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004520.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e746842fdc5fe8df582a235d17d757bd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5951
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6095,
-      "attributes": {
-        "nomor_pb_umku": "180722001439500000001",
-        "nama": "BELAJAR JADI BAIK STORE",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BENI HERYANTO",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004519.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d665bb478ea1a4d500a7ba963cb0ceb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5966
       }
     }
   ]

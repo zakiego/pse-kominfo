@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 46,
       "from": 451,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 460,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10108,
+      "attributes": {
+        "nomor_pb_umku": "912010061251500020001",
+        "nama": "REKSA LOAN SYSTEM",
+        "website": "reksafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "REKSA FINANCE",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "007089.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/96e76b102e1ce92affaac747be818017.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9989
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10085,
+      "attributes": {
+        "nomor_pb_umku": "812031109242100010001",
+        "nama": "KARYA LESTARI ABADI",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "KARYA LESTARI ABADI",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "007088.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/644721d174956441b167f90c02885d3e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9973
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10086,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/271f140bab166991e98a68c18da4417f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10580
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10060,
-      "attributes": {
-        "nomor_pb_umku": "260122006791400000002",
-        "nama": "HTTPS://WWW.OTELLOGAMING.COM",
-        "website": "otellogaming.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "VITA INTI SELARAS",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007076.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bb315f41aab2e22607d3e4d73b32cea3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9947
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10058,
-      "attributes": {
-        "nomor_pb_umku": "260122006791400000001",
-        "nama": "HTTP://WWW.OTELLOGAMING.COM",
-        "website": "otellogaming.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "VITA INTI SELARAS",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007076.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18a045256b89deff75b67b2ea6b19969.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9945
       }
     }
   ]

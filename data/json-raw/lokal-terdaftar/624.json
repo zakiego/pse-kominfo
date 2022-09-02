@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 625,
       "from": 6241,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6250,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3010,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EHR System",
+        "website": "www.ehr.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ANUGRAH KARYA INDONESIA",
+        "tanggal_daftar": "2022-01-10",
+        "nomor_tanda_daftar": "001922.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79509ef4bdcb254942ea18616072bc24.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2041
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4530,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BlueGo",
+        "website": "bluego.online",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "M. YUDA PRATAMA",
+        "tanggal_daftar": "2022-01-10",
+        "nomor_tanda_daftar": "001921.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e68097e2c1b7abc21404846a3af79e5b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4514
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3004,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Toko Online",
+        "website": "galerimedika.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GEMILANG MENTARI MATEO",
+        "tanggal_daftar": "2022-01-10",
+        "nomor_tanda_daftar": "001920.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/23d78f132a8fbc79510cc440c61eb7c3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3796
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3003,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3061ef58c81556cf5e22ce0b8979aa8a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2037
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3006,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Payung Agung",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PAYUNG AGUNG",
-        "tanggal_daftar": "2022-01-10",
-        "nomor_tanda_daftar": "001913.02/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f436d2f34e74509b640b9a5faaf7b205.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2036
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2997,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aktivitas Pemrograman, Konsultasi Komputer dan Kebutuhan Lainnya",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PAYUNG AGUNG",
-        "tanggal_daftar": "2022-01-08",
-        "nomor_tanda_daftar": "001913.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b1a2a374c63d6908e09c48f0b02fc41.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2035
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2996,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Snapvybes",
-        "website": "snapvybes.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HERLAMBANG DIAH SETIAWAN",
-        "tanggal_daftar": "2022-01-07",
-        "nomor_tanda_daftar": "001912.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ad4f755dc738b5c19156eb82e54d12d6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2034
       }
     }
   ]

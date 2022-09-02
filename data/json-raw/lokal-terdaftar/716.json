@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 717,
       "from": 7161,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7170,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2130,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT Top Karir Indonesia",
+        "website": "https://www.topkarir.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PT Top Karir Indonesia",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001425.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8684e9223136e1141e08086bd11d74f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3039
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2129,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Harrisma data citta",
+        "website": "www.hdc.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HARRISMA DATA CITTA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001424.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6ce1fe62d10cbeda342bb0b762e0e47.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 256
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4591,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PDaja.com",
+        "website": "https://www.pdaja.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SAHABAT SAMPOERNA",
+        "tanggal_daftar": "2022-04-27",
+        "nomor_tanda_daftar": "001422.06/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/657e56a38b4b83b6313294f7c812ab48.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4554
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4590,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4d71e61f57d391bc2ebc1e6ee6deee4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7542
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7586,
-      "attributes": {
-        "nomor_pb_umku": "912020929138700100004",
-        "nama": "TEPAT MOBILE",
-        "website": "btpnsyariah.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN SYARIAH",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "001421.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/278c0390ebea756233c22543e9225bfa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7481
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6837,
-      "attributes": {
-        "nomor_pb_umku": "912020929138700100003",
-        "nama": "TEPAT INTERNET BANKING BISNIS",
-        "website": "btpnsyariah.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN SYARIAH",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001421.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ec778c7b9b4b889de23697d15eaf7ea2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6681
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5560,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "TEPAT INTERNET BANKING",
-        "website": "btpnsyariah.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN SYARIAH",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "001421.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d90c82399f5fa3e364323ba5b847a431.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4998
       }
     }
   ]

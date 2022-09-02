@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 31,
       "from": 301,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 310,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10390,
+      "attributes": {
+        "nomor_pb_umku": "812021314113400010005",
+        "nama": "WWW.OTOSIA.COM",
+        "website": "otosia.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KAPAN LAGI DOT COM NETWORKS",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "007277.05/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d3e09cc6e82a9e7f1a652ef217d8ff2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10248
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10386,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WWW.FIMELA.COM",
+        "website": "fimela.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KAPAN LAGI DOT COM NETWORKS",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007277.04/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0270e6f4eeef1268ff34e317785ab331.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10243
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10388,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da1c00f86cb9e5cef72085bdbf944784.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10603
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10678,
-      "attributes": {
-        "nomor_pb_umku": "070722006067500000001",
-        "nama": "SPOT DIGI",
-        "website": "spotdigi.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SPOT DIGI KRIPTO",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007267.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4285adc133202b26a7873a2e1b7b5f4b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10511
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10599,
-      "attributes": {
-        "nomor_pb_umku": "912010353096900010002",
-        "nama": "MOBILE APPS SIAPCAIR",
-        "website": "siapcair.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SARANA MAJUKAN EKONOMI FINANCE INDONESIA",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007265.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3665097e09fdfbfb9eeed96be24c1e9d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10436
       }
     }
   ]

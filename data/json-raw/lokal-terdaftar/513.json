@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 514,
       "from": 5131,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5140,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4442,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RANUP SIGAPU",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "RANUP SIGAPU",
+        "tanggal_daftar": "2022-05-12",
+        "nomor_tanda_daftar": "002674.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/104422e2ad5ebfa7208cc61342957890.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4426
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4586,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BITRAS",
+        "website": "bitras.com",
+        "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_perusahaan": "BITRAS",
+        "tanggal_daftar": "2022-05-11",
+        "nomor_tanda_daftar": "002673.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a1aef409e82321de1b606df07677e90b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4549
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4441,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "natindocargo.com",
+        "website": "natindocargo.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NATINDO SEJAHTERA INDONESIA",
+        "tanggal_daftar": "2022-05-11",
+        "nomor_tanda_daftar": "002672.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77e0dd44debdc28f4062f448d39f0ff3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4425
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4440,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d72c5cc51a6d3dfc9a5b0ac6498c1ea5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4418
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10721,
-      "attributes": {
-        "nomor_pb_umku": "912020714208400050004",
-        "nama": "E2PAY",
-        "website": "e2pay.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "E2PAY GLOBAL UTAMA",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "002665.04/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a764708a02430cdb280eeb3bf19a762a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10553
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10704,
-      "attributes": {
-        "nomor_pb_umku": "912020714208400050003",
-        "nama": "PT E2PAY GLOBAL UTAMA",
-        "website": "e2pay.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "E2PAY GLOBAL UTAMA",
-        "tanggal_daftar": "2022-08-23",
-        "nomor_tanda_daftar": "002665.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/69b04855a2fc2ea792d5dca0dc620675.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10538
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4786,
-      "attributes": {
-        "nomor_pb_umku": "912020714208400000002",
-        "nama": "E2PAY GLOBAL UTAMA",
-        "website": "e2pay.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "E2PAY GLOBAL UTAMA",
-        "tanggal_daftar": "2022-06-27",
-        "nomor_tanda_daftar": "002665.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6d8c4763ba79e6f48773f4242f5fb8ac.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4729
       }
     }
   ]

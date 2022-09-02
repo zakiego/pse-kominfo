@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 733,
       "from": 7321,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7330,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2005,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TRUKU",
+        "website": "https://truku.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
+        "nama_perusahaan": "BIRU SAMUDERA SELATAN",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001338.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/46f7a91c5738d8f610f629fbd5bb4bbe.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 517
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2001,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LingoTalk",
+        "website": "https://lingotalk.co/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INTERMEDIA MULTIBAHASA INDONESIA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001337.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/367917487d8f06e3e23d62747e6dd3b8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 97
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2000,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT. INSPIRE MULTI SOLUSINDO",
+        "website": "www.inspiremultisolusindo.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MANDIRI CITRA INFORMASI TEKNOLOGI",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001336.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42090bb9e5c035a665a41a2553638b42.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 53
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1995,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e6dc6b2c137dc5de6121b78ee6a2747.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9676
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9802,
-      "attributes": {
-        "nomor_pb_umku": "912030449041501120067",
-        "nama": "ONE PLAY",
-        "website": "oneplay.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "001331.61/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/46d52374a83ffd8dd1406835813d67e7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9671
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9794,
-      "attributes": {
-        "nomor_pb_umku": "912030449041501120065",
-        "nama": "MYINDIHOME X",
-        "website": "myih.telkom.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "001331.60/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ffb4867777fbb9073b589ad35dfe4d8c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9669
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9792,
-      "attributes": {
-        "nomor_pb_umku": "912030449041501120064",
-        "nama": "MYTENS",
-        "website": "mytens.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "001331.59/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b5ce3441e7381069b48910af2e4253e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9668
       }
     }
   ]

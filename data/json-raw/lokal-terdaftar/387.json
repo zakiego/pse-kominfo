@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 388,
       "from": 3871,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3880,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7645,
+      "attributes": {
+        "nomor_pb_umku": "022000168299900010005",
+        "nama": "WEBSITE BANK KALTENG",
+        "website": "bankkalteng.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004154.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6dcf787c49859460152038b35750a75.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7543
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7708,
+      "attributes": {
+        "nomor_pb_umku": "022000168299900010005",
+        "nama": "VIRTUAL ACCOUNT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004154.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8cc0b42601e7a3df285344acc69e7804.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7263
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7351,
+      "attributes": {
+        "nomor_pb_umku": "022000168299900010004",
+        "nama": "SMS BANKING",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004154.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3580eb89a0f35c4ac648d3a3e5dbcfee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7252
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7339,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f836cffc1f1269701b3b4fcee4bae7e0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5961
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6066,
-      "attributes": {
-        "nomor_pb_umku": "912000569164400000001",
-        "nama": "WABLAS",
-        "website": "wablas.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TIGA MANUNGGAL TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004150.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d5329d67ef0ab5f165b1593eeed170b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5936
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5600,
-      "attributes": {
-        "nomor_pb_umku": "912030914284400010002",
-        "nama": "WEBSITE",
-        "website": "sfi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SUZUKI FINANCE INDONESIA",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "004149.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac730d72cbd200ab694e76e1335b2be4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5467
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5548,
-      "attributes": {
-        "nomor_pb_umku": "912030914284400010001",
-        "nama": "SUFI SMART",
-        "website": "sfi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SUZUKI FINANCE INDONESIA",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "004149.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12ab2c8909240b5266f45f498cdecc19.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5413
       }
     }
   ]

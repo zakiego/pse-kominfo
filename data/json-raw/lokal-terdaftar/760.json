@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 761,
       "from": 7601,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7610,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1802,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Virtual Account BBA",
+        "website": "https://va.bankbba.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BUMI ARTA",
+        "tanggal_daftar": "2021-07-29",
+        "nomor_tanda_daftar": "001206.02/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a63c0e149196519b12a774c52dc5c53a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1006
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1801,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Internet Banking Corporate (e-BBA)",
+        "website": "https://ebanking.bankbba.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BUMI ARTA",
+        "tanggal_daftar": "2021-07-29",
+        "nomor_tanda_daftar": "001206.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e93711a32e31462f907abfd96a7aec26.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1005
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1799,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Berrybenka..com",
+        "website": "www.berrybenka.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BERRYBENKA",
+        "tanggal_daftar": "2021-07-29",
+        "nomor_tanda_daftar": "001205.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1dde51b26a93397a98ecbe969510ed4e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1371
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1798,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21c3ed88baa813a19a7290d0e0ea8da6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 166
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1791,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Platform Logisly",
-        "website": "https://logisly.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LOGISTIK PINTAR INDONESIA",
-        "tanggal_daftar": "2021-07-27",
-        "nomor_tanda_daftar": "001197.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b02cbc86aa59006fecc49ce8f6b7e1ac.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1124
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1790,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MOSHEALTH",
-        "website": "moshealth.co.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "ENSEVAL PUTERA MEGATRADING",
-        "tanggal_daftar": "2021-07-27",
-        "nomor_tanda_daftar": "001196.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a9fa1b41391a35711bdd1ad6e993822.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 522
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1789,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Route Mobile",
-        "website": "www.routemobile.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ROUTE MOBILE INDONESIA",
-        "tanggal_daftar": "2021-07-27",
-        "nomor_tanda_daftar": "001195.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5d0685719af1c458fade582c019e61e8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1377
       }
     }
   ]

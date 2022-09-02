@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 450,
       "from": 4491,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4500,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8710,
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020021",
+        "nama": "KB BUKOPIN LEARNING MANAGEMENT SYSTEM",
+        "website": "learning.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "003560.23/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33d4f29fb0cd0674eaa470bcddb39be3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8628
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8589,
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020020",
+        "nama": "KB BUKOPIN VIRTUAL ACCOUNT",
+        "website": "vadashboard.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "003560.22/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/354a2af7641501ac94870e5e413db02d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8500
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8084,
+      "attributes": {
+        "nomor_pb_umku": "124700022061900020019",
+        "nama": "KB BUKOPIN VPN",
+        "website": "vpn.bukopin.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK KB BUKOPIN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "003560.21/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b4cc1d296aefb063db036914a61019c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7801
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8085,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a32c1a9e9747863395bfe4641c47653.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7135
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7243,
-      "attributes": {
-        "nomor_pb_umku": "124700022061900020013",
-        "nama": "KB BUKOPIN REPORT PPOB",
-        "website": "ppob-report.bukopin.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK KB BUKOPIN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "003560.13/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4a696e6ea82894771936d1727130647.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7128
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7210,
-      "attributes": {
-        "nomor_pb_umku": "124700022061900020012",
-        "nama": "KB BUKOPIN AGEN PPOB",
-        "website": "ppob-bayar.bukopin.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK KB BUKOPIN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "003560.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/53411d641c805e324cd5289d80f8f27e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7064
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7208,
-      "attributes": {
-        "nomor_pb_umku": "124700022061900020011",
-        "nama": "KB BUKOPIN MANAGEMENT PPOB",
-        "website": "ppob-mitra.bukopin.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK KB BUKOPIN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "003560.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/037aabf5f8451ed664ad506b322435d7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7053
       }
     }
   ]

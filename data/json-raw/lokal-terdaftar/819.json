@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 820,
       "from": 8191,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8200,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7483,
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160012",
+        "nama": "APLIKASI BSI BISA",
+        "website": "amlbisa.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000863.26/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a354888422e284ff70d0474ec5613b8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7390
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7442,
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160011",
+        "nama": "WAIS (WHOLESALE ALLIANCE INTEGRATED SYSTEM)",
+        "website": "wais.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000863.25/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/969ef282c59bf63ba18f5fd7a58cb579.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7346
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7414,
+      "attributes": {
+        "nomor_pb_umku": "912010214198600160010",
+        "nama": "CUSTOMER ONLINE ONBOARDING BSI (COO BSI)",
+        "website": "onboarding.bankbsi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SYARIAH INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000863.24/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c6f167a5c23ceaedb4e123f65306996d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7315
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7241,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aba03e20403d202fa34a86c597c90898.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6915
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6891,
-      "attributes": {
-        "nomor_pb_umku": "912010214198600160002",
-        "nama": "BANK SYARIAH INDONESIA CASH MANAGEMENT SYSTEM (BSI CMS)",
-        "website": "cms.bankbsi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SYARIAH INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000863.16/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00a1461d9059c5fef9c72de7f3850e59.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6738
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6794,
-      "attributes": {
-        "nomor_pb_umku": "912010214198600160002",
-        "nama": "SERVICE ULTIMATE RACE DASHBOARD",
-        "website": "serviceultimaterace.bankbsi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SYARIAH INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000863.15/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ce7ebf7aec3396f4afaa67779846c8f0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6644
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6769,
-      "attributes": {
-        "nomor_pb_umku": "912010214198600160002",
-        "nama": "CUSTOMER SATISFACTION SURVEY BSI (CSS BSI)",
-        "website": "serviceultimaterace.bankbsi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK SYARIAH INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000863.14/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ce6e61dbb17c7c3bb2bafc3819474a45.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6620
       }
     }
   ]

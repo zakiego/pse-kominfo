@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 873,
       "from": 8721,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8730,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 908,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Astra Daihatsu",
+        "website": "https://www.astra-daihatsu.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ASTRA INTERNATIONAL",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000654.07/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/755f434e8b234f3a84a2da66efeb6d0e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 239
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 843,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Astra Isuzu",
+        "website": "https://astraisuzu.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ASTRA INTERNATIONAL",
+        "tanggal_daftar": "2021-05-10",
+        "nomor_tanda_daftar": "000654.06/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a37f67bffd2e3db6a07369f06109bd7f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 238
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 842,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Astra Motor",
+        "website": "https://www.astramotor.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ASTRA INTERNATIONAL",
+        "tanggal_daftar": "2021-05-10",
+        "nomor_tanda_daftar": "000654.05/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f6a1044c73275d32e52d272bf7dc9f5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 237
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 841,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5f9942e2e7e9aab0e45bb9290318d80.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3156
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6937,
-      "attributes": {
-        "nomor_pb_umku": "912011120056500020001",
-        "nama": "E-PAYS",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CIPAS QUINDO PRATAMA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000651.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9775819367c46bf4fb55d18bd14db15f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6790
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 812,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "E-Salaam",
-        "website": "https://e-salaam.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CIPAS QUINDO PRATAMA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000651.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f662865da5c10f84f04fb165667cdfa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3298
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 811,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PESAT",
-        "website": "desapesat.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PIONIR REVOLUSI DIGITAL",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000650.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09c12eff2cb9c8c2ea84a00eab568605.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 597
       }
     }
   ]

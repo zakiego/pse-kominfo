@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 765,
       "from": 7641,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7650,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8212,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010011",
+        "nama": "AGENT PORTAL",
+        "website": "btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001186.17/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ebcdad193ff6f9945cd7277f1df1c27.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8097
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7497,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010010",
+        "nama": "BEEP.BTPN.COM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001186.16/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f86be6d3922aff7fb56c3aa62a2dadb3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7364
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7491,
+      "attributes": {
+        "nomor_pb_umku": "912010141191700010018",
+        "nama": "WOW SUSAN",
+        "website": "btpn.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001186.15/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7cc2d7fe7b438c23672f669358105c5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7355
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7486,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81b069c27a042cdefee0fa3ddba0a136.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7175
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7285,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010005",
-        "nama": "COCREATE.ID",
-        "website": "cocreate.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a539bdd2178f155ccd7f1904bc9ee9a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7171
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7276,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010003",
-        "nama": "BISNISKIT",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9656384317e1ed9396008ebbe25095fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7169
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7274,
-      "attributes": {
-        "nomor_pb_umku": "912010141191700010002",
-        "nama": "DAYA.ID",
-        "website": "daya.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK BTPN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001186.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca0afbf02764e6676e0abfbbee5b742c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7111
       }
     }
   ]

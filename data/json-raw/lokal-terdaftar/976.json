@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 977,
       "from": 9761,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9770,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 192,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PRUWorks",
+        "website": "https://pruworks.prudential.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PRUDENTIAL LIFE ASSURANCE",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000164.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/175616aec5f8bf35b606f2d7cbb12028.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2444
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 188,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PRUPay Link",
+        "website": "https://payment.prudential.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PRUDENTIAL LIFE ASSURANCE",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000164.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21655ae5b2b3dadd515c2c5395e1794c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2443
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 187,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kitabisa",
+        "website": "https://id.kitabisa.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KITA BISA INDONESIA",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000163.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fae398cc95d07a5a5d3d19df0492bd64.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2656
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 186,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43cff62209c48e3b064809583f236bb6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5665
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5797,
-      "attributes": {
-        "nomor_pb_umku": "812021017278900030003",
-        "nama": "MOTION SURE WEB APPLICATION",
-        "website": "motion-sure.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MNC ASURANSI INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000158.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/70baf2b28d263379d28d82ca5ccfe8a3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5657
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5726,
-      "attributes": {
-        "nomor_pb_umku": "812021017278900030002",
-        "nama": "PROTEKSI PINTAR (SI PINTAR)",
-        "website": "mnc-insurance.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MNC ASURANSI INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000158.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b34e2bf1457ed0a0e4a0c28f5dafd847.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5590
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2991,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Motion Sure",
-        "website": "motion-sure.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MNC ASURANSI INDONESIA",
-        "tanggal_daftar": "2022-01-07",
-        "nomor_tanda_daftar": "000158.04/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33ca621a7e87157b50a4d34ecbc23329.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2350
       }
     }
   ]

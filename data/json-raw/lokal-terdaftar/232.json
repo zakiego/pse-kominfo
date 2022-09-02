@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 233,
       "from": 2321,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 2330,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7268,
+      "attributes": {
+        "nomor_pb_umku": "026301101212300000001",
+        "nama": "KIOSKU",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "KRISMANTO",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005292.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1cce9b402dea1595b4ed63deb50c626e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7163
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7559,
+      "attributes": {
+        "nomor_pb_umku": "912011107053700010001",
+        "nama": "PT BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 4",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 4",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005291.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3db091e45f3e026e8fafe01fbadf4208.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7452
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7436,
+      "attributes": {
+        "nomor_pb_umku": "912000651163200000001",
+        "nama": "BANK PERKREDITAN RAKYAT SUKADANA",
+        "website": "bprsukadana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SUKADANA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005290.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e00750649639a1dd013677814ec51a5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7338
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7264,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/368a4344099b9f4568236c533e9cb74a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7145
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7581,
-      "attributes": {
-        "nomor_pb_umku": "912010720278900000001",
-        "nama": "PT WIDYA INFORMASI NUSANTARA",
-        "website": "widyawicara.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WIDYA INFORMASI NUSANTARA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005284.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40bca57c4cf23fde023329dc52a7e5ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7474
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7249,
-      "attributes": {
-        "nomor_pb_umku": "190122001896900000001",
-        "nama": "P-STORE.NET",
-        "website": "p-store.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TRIJAYA DIGITAL GRUP",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005283.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d66951317a81bb8a0cbf7ae05156be54.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7142
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7256,
-      "attributes": {
-        "nomor_pb_umku": "190722006453900000001",
-        "nama": "SWIPEAPE",
-        "website": "Swipeape.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANDREW Y SUHADA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005282.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4be8976e5d1d45e29da92dc43fca8dbc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7155
       }
     }
   ]

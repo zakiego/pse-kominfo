@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 327,
       "from": 3261,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3270,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6119,
+      "attributes": {
+        "nomor_pb_umku": "240122006817100010001",
+        "nama": "BPRMARCORINDO",
+        "website": "bprmarcorindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BPR. MARCORINDO PERDANA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004533.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5a82c01e42413b01e47fedbb5cc828bd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5991
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6121,
+      "attributes": {
+        "nomor_pb_umku": "912010684267700010001",
+        "nama": "BPR ARUM MANDIRI MELATI",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARUM MANDIRI MELATI",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004532.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c24eea2d0523f40ec9894edf2cd664c8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5992
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6673,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "ADMINPULSA",
+        "website": "adminpulsa.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "UUS KOSASIH",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004531.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b077efcc032239a55faec5796968501e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6525
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6086,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89da624e4c50988a69e534660f88fd7a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6038
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6165,
-      "attributes": {
-        "nomor_pb_umku": "912030010258800010002",
-        "nama": "MAIL SERVER BANK NAGARI",
-        "website": "mail.banknagari.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK NAGARI",
-        "tanggal_daftar": "2022-07-26",
-        "nomor_tanda_daftar": "004529.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0d577a4998eeac1907d8c73bc400898.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6036
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6158,
-      "attributes": {
-        "nomor_pb_umku": "912030010258800010001",
-        "nama": "WEB BANK NAGARI",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK NAGARI",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004529.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84e951c8eb062f8430832d0279e7c2af.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6024
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7342,
-      "attributes": {
-        "nomor_pb_umku": "912000714188200010002",
-        "nama": "WEBSITE BPR SARASWATI",
-        "website": "bprsaraswatiekabumi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BPR SARASWATI EKABUMI",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004528.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/95e6de86216b00260d90f68f4dd1f928.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7238
       }
     }
   ]

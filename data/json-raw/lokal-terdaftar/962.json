@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 963,
       "from": 9621,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9630,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 269,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SHAFIQ",
+        "website": "https://www.shafiq.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHAFIQ DIGITAL INDONESIA",
+        "tanggal_daftar": "2021-02-26",
+        "nomor_tanda_daftar": "000230.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/27f94c4abe0738b584f3021de1322d6d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2303
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 321,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Teknologi Informasi Desa (STID)",
+        "website": "https://demosid.karyabangun.co.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA BANGUN INFORMASI",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000229.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c11460b8ce7f5d17058c5f288899e68f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 268,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Karya Bangun Informasi",
+        "website": "https://karyabangun.co.id/, https://karyabangun.co.id/e-shop/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KARYA BANGUN INFORMASI",
+        "tanggal_daftar": "2021-02-26",
+        "nomor_tanda_daftar": "000229.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8744db30a938c94ea129dc5596a84254.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 279,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f9083a36d308c15b4ad3b5f07392c74.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2783
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8237,
-      "attributes": {
-        "nomor_pb_umku": "812021816232400030010",
-        "nama": "BANKING PAYMENT GATEWAY",
-        "website": "ipg.cimbniaga.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CIMB NIAGA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000222.24/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3e2980dc963f439844d562e8889f956e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8154
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8182,
-      "attributes": {
-        "nomor_pb_umku": "812021816232400030009",
-        "nama": "MORTGAGE ONLINE FORM",
-        "website": "apply.cimbniaga.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CIMB NIAGA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000222.23/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62ba3fbc9d6d9d2d3a8cffb9775b6d4c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8101
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5277,
-      "attributes": {
-        "nomor_pb_umku": "812021816232400010006",
-        "nama": "PERSONAL LOAN ONLINE FORM",
-        "website": "apply.cimbniaga.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK CIMB NIAGA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "000222.22/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a8b35306bd43774c4caaf1fe82e86829.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5146
       }
     }
   ]

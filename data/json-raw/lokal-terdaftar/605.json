@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 606,
       "from": 6051,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6060,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3197,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BAVKU",
+        "website": "bina-artha.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BINA ARTHA VENTURA",
+        "tanggal_daftar": "2022-02-08",
+        "nomor_tanda_daftar": "002069.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77dd4040c8cfcd441b9ce0271080da7d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2159
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3196,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Cryptokun",
+        "website": "cryptokun.com",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "FAMINDO BURSA INDONESIA",
+        "tanggal_daftar": "2022-02-08",
+        "nomor_tanda_daftar": "002068.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c614f218055596d9cf2e99cde504240d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2139
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3195,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "lapakgaming",
+        "website": "www.lapakgaming.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GLOBAL DIGITAL INDOKREASI",
+        "tanggal_daftar": "2022-02-08",
+        "nomor_tanda_daftar": "002067.01/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a46f420b9a540114c79ade6451ee95f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2171
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3194,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10516ac62bdd340ad63037a109af1caf.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2124
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3187,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MyGo",
-        "website": "www.mygo.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "SANG SAKA GEMILANG",
-        "tanggal_daftar": "2022-02-07",
-        "nomor_tanda_daftar": "002061.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0c5adb669db2520b01824a77dec507d0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3170
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3185,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Dam Korporindo Digital",
-        "website": "damcorp.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DAM KORPORINDO DIGITAL",
-        "tanggal_daftar": "2022-02-07",
-        "nomor_tanda_daftar": "002060.01/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ed2b22973d821669f1b5381ff298eda5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2164
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3183,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SimulasiKu",
-        "website": "simulasiku.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINIMUDA INSPIRASI NEGERI",
-        "tanggal_daftar": "2022-02-07",
-        "nomor_tanda_daftar": "002059.02/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c594df3814c1108709367914da1152d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2163
       }
     }
   ]

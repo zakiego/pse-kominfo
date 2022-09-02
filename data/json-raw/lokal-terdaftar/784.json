@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 785,
       "from": 7841,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7850,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2014,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bank Mega Employee Mobile",
+        "website": "https://memo.bankmega.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MEGA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001040.18/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2d02be9bfd99658fccb37afb7cd9676.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1168
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1638,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bank Mega Registrasi/Ubah PIN Credit Card",
+        "website": "https://ibank.bankmega.com/regpin/index.php",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MEGA",
+        "tanggal_daftar": "2021-07-01",
+        "nomor_tanda_daftar": "001040.16/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b97c8c8e83d60c91c46d862d4b5e911f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1166
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1632,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bank Mega Document Courier Tracking Credit Card",
+        "website": "https://doctrack.bankmega.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MEGA",
+        "tanggal_daftar": "2021-07-01",
+        "nomor_tanda_daftar": "001040.15/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9fdabe7d1913795f5245db91ca21ab7f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1165
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1631,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/466f1f4cd0b28866c320e2062a20e9cc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1158
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1599,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Mega Career",
-        "website": "https://career.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2021-06-25",
-        "nomor_tanda_daftar": "001040.07/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dfa97e24f13aeb1161382a7c43be0fbf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1157
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1598,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Mega VPN",
-        "website": "https://vpn.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2021-06-25",
-        "nomor_tanda_daftar": "001040.06/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c0b724530d87e12b52757c36306ac43.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1156
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1590,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank Mega Employee Mobile",
-        "website": "https://memo.bankmega.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA",
-        "tanggal_daftar": "2021-06-25",
-        "nomor_tanda_daftar": "001040.05/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/53128eccee2485bc5ac45f72763055ed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1155
       }
     }
   ]

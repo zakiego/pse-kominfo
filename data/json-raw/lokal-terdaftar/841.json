@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 842,
       "from": 8411,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8420,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1187,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MARS EUC",
+        "website": "mars.rshs.or.id;  csa-rsmh.1.6/index.php",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.09/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d606a5e121dc225f2fd3324629d6463c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3439
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1186,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MHAS 1.0 (Global Innovation Technology)",
+        "website": "mhasdashboard.bankmandiri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.08/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7e74543495ad81f9028af10d57ca8a0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3438
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1185,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MEP Rekon",
+        "website": "https://mep-recon.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.07/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c530c292cf8378d36f70c3e6b9b54d32.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3437
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1184,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01c58490587c5cd8004b192c29101ab1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 595
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1113,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Aggregator Pulsa Prepaid All Operator",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "FINNET INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000804.03/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5be5654b57340a80f97978c3133512a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3321
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1099,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Finpay Money",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "FINNET INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000804.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e7acd1e506fb9f376e149b909940a92.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3320
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1097,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Finpay",
-        "website": "Finpay.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "FINNET INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000804.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c241ba158a1fbff17f901f525f316b56.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3319
       }
     }
   ]

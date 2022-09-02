@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 944,
       "from": 9431,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9440,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 387,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mangdropship",
+        "website": "mangdropship.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MANGDROPSHIP KARYA INTERLOKA",
+        "tanggal_daftar": "2021-03-15",
+        "nomor_tanda_daftar": "000315.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81beac8e9949643b44636d2215c5e160.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 152
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7229,
+      "attributes": {
+        "nomor_pb_umku": "022020872134800000003",
+        "nama": "EANTREAN ONLINE",
+        "website": "eantrean.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INFOKES INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000314.11/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b6f359ffc76dc1549f804419800e4eb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7118
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7218,
+      "attributes": {
+        "nomor_pb_umku": "022020872134800000002",
+        "nama": "EPOSYANDU",
+        "website": "eposyandu.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INFOKES INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000314.10/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac74cee3c948113820d281673b248c8d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7104
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7190,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c34dd009f64ce8e27beaedba26a2cb02.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2506
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 388,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Infokes Mobile",
-        "website": "infokes.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INFOKES INDONESIA",
-        "tanggal_daftar": "2021-03-15",
-        "nomor_tanda_daftar": "000314.02/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21896ed2379035da403b24f6f1087ddc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2505
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 386,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ePuskesmas NG",
-        "website": "epuskesmas.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INFOKES INDONESIA",
-        "tanggal_daftar": "2021-03-15",
-        "nomor_tanda_daftar": "000314.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4fc5f665ff3501b43e0566d4342272a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2504
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4303,
-      "attributes": {
-        "nomor_pb_umku": "912020636202100070005",
-        "nama": "HDK MULTISOLUTION",
-        "website": "hdk-solution.id",
-        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HADEKA MULTISOLUTION",
-        "tanggal_daftar": "2022-06-09",
-        "nomor_tanda_daftar": "000313.03/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51d22b446f821631e0b1f334dff463ca.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4296
       }
     }
   ]

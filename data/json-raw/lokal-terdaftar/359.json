@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 360,
       "from": 3591,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3600,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5757,
+      "attributes": {
+        "nomor_pb_umku": "912010998042600020001",
+        "nama": "KBPR AMANAH",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT AMANAH",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004297.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ff10b97b10762298f31a5c6c2205993.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5622
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5785,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "HARRISMA STORE",
+        "website": "Harrismastore.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HARRISMA BUWANA JAYA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004296.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77e238ce7cc668971f2ed9f1b7115235.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5647
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5792,
+      "attributes": {
+        "nomor_pb_umku": "912020645048200010001",
+        "nama": "WIDYA IMERSIF",
+        "website": "widyaimersif.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WIDYA IMERSIF TEKNOLOGI",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004295.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6692a8534abceb2964b0ff97a5e9e9fe.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5650
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5740,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9a8ebe0c4690495c413ddd5a55be4431.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5735
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5855,
-      "attributes": {
-        "nomor_pb_umku": "024101015273300010007",
-        "nama": "E-MAIL BANK JAMBI",
-        "website": "mail.bankjambi.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004292.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/080043bb55860cc120f45c8fc6071535.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5718
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5854,
-      "attributes": {
-        "nomor_pb_umku": "024101015273300010006",
-        "nama": "SPAN BANK JAMBI",
-        "website": "span.bankjambi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004292.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ec086a822c0391b3ee52dd645cd0d3a8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5717
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5847,
-      "attributes": {
-        "nomor_pb_umku": "024101015273300010005",
-        "nama": "MOBILE BANKING BANK JAMBI SYARIAH",
-        "website": "digitalsy.bankjambi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004292.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a4161a067eef11a5a4589dac6a3f623.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5707
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 932,
       "from": 9311,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9320,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10010,
+      "attributes": {
+        "nomor_pb_umku": "912000224055700040001",
+        "nama": "SOMETHINC",
+        "website": "somethinc.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BEAUTE HAUL INDONESIA",
+        "tanggal_daftar": "2022-08-08",
+        "nomor_tanda_daftar": "000355.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8eb048e8006f170392437414273095f6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9714
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 434,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BeautyHaul",
+        "website": "www.beautyhaul.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BEAUTE HAUL INDONESIA",
+        "tanggal_daftar": "2021-04-09",
+        "nomor_tanda_daftar": "000355.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/23eec80778e74ed9d414bf646b58c480.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2782
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4333,
+      "attributes": {
+        "nomor_pb_umku": "912040779110200020001",
+        "nama": "LAKUEMAS",
+        "website": "lakuemas.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "LAKU EMAS INDONESIA",
+        "tanggal_daftar": "2022-06-13",
+        "nomor_tanda_daftar": "000354.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ceef130f524012db3a2b3ddd760c289.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4320
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 433,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c915e4379b2e059f1caa8447c8df8891.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 210
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3891,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "pramdana.co.id",
-        "website": "pramdana.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "GRIYA DANAKU DIGITAL INVESTAMA",
-        "tanggal_daftar": "2022-04-18",
-        "nomor_tanda_daftar": "000348.02/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/817c56838ab8f2c405df4d2621b955ed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3740
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4125,
-      "attributes": {
-        "nomor_pb_umku": "091121004964500000003",
-        "nama": "SUMUL STORE",
-        "website": "bukaolshop.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DENURATO SUMUL GROUP",
-        "tanggal_daftar": "2022-05-24",
-        "nomor_tanda_daftar": "000348.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5af813d5b6e15c5291c4014953da3e72.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4126
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 427,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Pramdana.co,id",
-        "website": "Pramdana.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "GRIYA DANAKU DIGITAL INVESTAMA",
-        "tanggal_daftar": "2021-04-09",
-        "nomor_tanda_daftar": "000348.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/75480f89b12e02810474d5677c92d57f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 219
       }
     }
   ]

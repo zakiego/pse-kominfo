@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 728,
       "from": 7271,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7280,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2401,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Cocoro Life",
+        "website": "cocorolife.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHARP TRADING INDONESIA",
+        "tanggal_daftar": "2021-11-18",
+        "nomor_tanda_daftar": "001370.02/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e2b406b3454a1dc5f9673188c9f05eae.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 15
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2053,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SHARP E-COMMERCE",
+        "website": "www.sharp.id/estore ",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHARP TRADING INDONESIA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001370.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c33471e3587843e614d9c19536aa0ed.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 14
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2052,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ELEPHATE",
+        "website": "www.elephate.co.id",
+        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
+        "nama_perusahaan": "PT MULTICARE MITRA SEJAHTERA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001369.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/25dd8f73da1d8ab7d736f4ef9894629e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2998
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2051,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1f5c253fb349944d6723ca7bf57e6bbd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1521
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2044,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Rumah123.com",
-        "website": "Rumah123.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WEB MARKETING INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001361.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/447eefd6b19ce3f54b2a90a068cc3ca5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2818
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2043,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "99.co",
-        "website": "99.co",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NINETY NINE DOTCO",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001360.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2b17a4d3bca651410eb5d64cecc2bcd7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1482
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2042,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "cantikid.com",
-        "website": "https://www.cantikid.com/",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan",
-        "nama_perusahaan": "INOVASI KECANTIKAN DIGITAL INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001359.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/20f1adffdb51fa03cd9412788e6e947a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1474
       }
     }
   ]

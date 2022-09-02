@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 718,
       "from": 7171,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7180,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7586,
+      "attributes": {
+        "nomor_pb_umku": "912020929138700100004",
+        "nama": "TEPAT MOBILE",
+        "website": "btpnsyariah.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN SYARIAH",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "001421.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/278c0390ebea756233c22543e9225bfa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7481
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6837,
+      "attributes": {
+        "nomor_pb_umku": "912020929138700100003",
+        "nama": "TEPAT INTERNET BANKING BISNIS",
+        "website": "btpnsyariah.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN SYARIAH",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "001421.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ec778c7b9b4b889de23697d15eaf7ea2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6681
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5560,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "TEPAT INTERNET BANKING",
+        "website": "btpnsyariah.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK BTPN SYARIAH",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "001421.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d90c82399f5fa3e364323ba5b847a431.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4998
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4350,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/48d12e021647f0633d698194db6eeca8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3035
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3636,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aladinku",
-        "website": "Aladinku.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INTEKNO RAYA",
-        "tanggal_daftar": "2022-03-24",
-        "nomor_tanda_daftar": "001417.03/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c750e2bc92de583ee9ac28791e20a4e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3689
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3067,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BOOSTER",
-        "website": "boosterku.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INTEKNO RAYA",
-        "tanggal_daftar": "2022-01-19",
-        "nomor_tanda_daftar": "001417.02/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/988e47a6c4945fe09ba2efd9b45d854f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3400
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2120,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DANAMERDEKA",
-        "website": "https://danamerdeka.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INTEKNO RAYA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "001417.01/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/41421237b725153cb4560af988009e4e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3399
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 613,
       "from": 6121,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6130,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3129,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kulina",
+        "website": "www.kulina.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JEJARING MAKANAN INDONESIA",
+        "tanggal_daftar": "2022-01-27",
+        "nomor_tanda_daftar": "002018.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9cbea24392a3e1439a4f7e6cb08a5d0f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2122
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3128,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT. HALIM SELINDO INTERNASIONAL",
+        "website": "www.idstore.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HALIM SELINDO INTERNASIONAL",
+        "tanggal_daftar": "2022-01-27",
+        "nomor_tanda_daftar": "002017.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c17215f4a2669f58cf6d944347282766.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2099
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3127,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MIDTRANS",
+        "website": "midtrans.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MIDTRANS",
+        "tanggal_daftar": "2022-01-27",
+        "nomor_tanda_daftar": "002016.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1aab97c52c6217343065672388e8dde.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2081
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3126,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ce861f8951c3cc0ddc27fee415da30f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1781
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3307,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Layanan Host to Host Web Service",
-        "website": "www.bankmuamalat.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
-        "tanggal_daftar": "2022-02-18",
-        "nomor_tanda_daftar": "002012.03/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca7f62fdde333c8327e2bbd002e75696.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1780
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3305,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Automatic Teller Machine (ATM)",
-        "website": "www.bankmuamalat.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
-        "tanggal_daftar": "2022-02-18",
-        "nomor_tanda_daftar": "002012.02/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e353c3bafd09d671c209c2b2a05b064d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1779
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3122,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Widget Reksadana Syariah Bank Muamalat Indonesia",
-        "website": "www.bankmuamalat.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MUAMALAT INDONESIA",
-        "tanggal_daftar": "2022-01-26",
-        "nomor_tanda_daftar": "002012.01/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/acc6c95bd974102f5961f14de0a8c48f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1778
       }
     }
   ]

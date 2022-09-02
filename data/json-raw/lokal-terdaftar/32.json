@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 33,
       "from": 321,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 330,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10357,
+      "attributes": {
+        "nomor_pb_umku": "010722004407400000001",
+        "nama": "QOINPAY WALLET",
+        "website": "qoinpay.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "POINTO INTERNATIONAL XCHANGE",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007257.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ebf783658e575435ca4b6760b07fd56d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10212
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10374,
+      "attributes": {
+        "nomor_pb_umku": "160921003394600000001",
+        "nama": "TOBANG MARKETPLACE",
+        "website": "tobang.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TOBANG TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007256.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c2b29b16ad9ff61fbc99d648a9b70f37.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10229
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10368,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c5f3e4c850809a3def2b266d24592e7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10217
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10359,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "TRIBUN PRABUMULIH",
-        "website": "sumsel.tribunnews.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIBUN DIGITAL ONLINE",
-        "tanggal_daftar": "2022-08-15",
-        "nomor_tanda_daftar": "007253.06/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/126762839b57eacddece8b48c9db3a22.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10214
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10358,
-      "attributes": {
-        "nomor_pb_umku": "912000412023800020006",
-        "nama": "TRIBUNPRABUMULIH.COM",
-        "website": "tribunprabumulih.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIBUN DIGITAL ONLINE",
-        "tanggal_daftar": "2022-08-15",
-        "nomor_tanda_daftar": "007253.05/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b284e126dbd943348b3e9c40c881b4b5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10213
       }
     }
   ]

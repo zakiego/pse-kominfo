@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 147,
       "from": 1461,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 1470,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8595,
+      "attributes": {
+        "nomor_pb_umku": "120500024234700030001",
+        "nama": "ISLAMIC BANKING APPLICATION",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH RIYAL IRSYADI",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "006014.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6da4516a8d54f8ef763a727962a1b38f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8517
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8861,
+      "attributes": {
+        "nomor_pb_umku": "812030289001200050004",
+        "nama": "TRADEPROFX",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "KONTAKPERKASA FUTURES",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "006012.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/159e7080373abecff14cdd336097c116.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8767
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8855,
+      "attributes": {
+        "nomor_pb_umku": "812030289001200050003",
+        "nama": "PORTAL NEWS",
+        "website": "kp-press.com",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "KONTAKPERKASA FUTURES",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "006012.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d023a13d08710854d0f275480dd3c93.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8761
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8640,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3442ffd30650b76e7a9f7e242bd6a7de.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8515
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8611,
-      "attributes": {
-        "nomor_pb_umku": "281221002461600000001",
-        "nama": "POS PULSA",
-        "website": "pospulsa.tokowebku.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANDI PRISTIAWAN",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "006007.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aabd197a272202d14a7ff1365627a6ed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8529
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8605,
-      "attributes": {
-        "nomor_pb_umku": "240222005353500020001",
-        "nama": "WEBSITE PT. BPR SUKADANA PRIMA",
-        "website": "bprsukadanaprima.wordpress.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SUKADANA PRIMA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "006005.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cdf30edc32f8bc95fccc7add10ec66bf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8524
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8596,
-      "attributes": {
-        "nomor_pb_umku": "912020858274900010001",
-        "nama": "PT. BPR OPHIR",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT OPHIR",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "006003.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b6fbdb60f8e7132e6290dce3b5f1d72.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8516
       }
     }
   ]

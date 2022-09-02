@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 826,
       "from": 8251,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8260,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1252,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website MUF Online Syariah",
+        "website": "https://bsioto.muf.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/641fe276bd8d407b340054eee4acc22e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 927
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1251,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website MUF Dananow",
+        "website": "https://dananow.muf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/371bb53b76675f8054a59aafb1b893fa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 926
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1249,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website MUF Online Auto Show",
+        "website": "https://moas.muf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/851b779e4b8d30780847db1d8ae4a72c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 925
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1247,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/22c70a3542de401e5d75c3758fe871ef.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 911
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1245,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.peternco.com",
-        "website": "www.peternco.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ARTE KREASI INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000852.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f5c6aadea056c7e2fa09799500f12f7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 827
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1240,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.peternco.com",
-        "website": "www.peternco.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ARTE KREASI INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000852.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0c2df514a0151127a821b4760c51e569.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 826
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8344,
-      "attributes": {
-        "nomor_pb_umku": "912050483066500050007",
-        "nama": "MILEA (MANTAP INTELLIGENCE E-ASSISTANT)",
-        "website": "milea.bankmantap.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MANDIRI TASPEN",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000851.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8e2954b23ae3435bf1fc14e94982bac.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8264
       }
     }
   ]

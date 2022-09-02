@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 557,
       "from": 5561,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5570,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3739,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "E-TICKET",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASA TECHNOVASINDO",
+        "tanggal_daftar": "2022-04-01",
+        "nomor_tanda_daftar": "002413.03/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8e60b8a1a928c6897b8c46d31002d590.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3493
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3737,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DMC Indonesia",
+        "website": "digitalmarketingconsultant.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASA TECHNOVASINDO",
+        "tanggal_daftar": "2022-04-01",
+        "nomor_tanda_daftar": "002413.02/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bd11f822d162ff7527a476c79637669f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3492
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3710,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Software Development",
+        "website": "asatechnovasindo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASA TECHNOVASINDO",
+        "tanggal_daftar": "2022-03-30",
+        "nomor_tanda_daftar": "002413.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5d9868c44a5bcaf3d2ace99acb1c71ca.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3491
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3709,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b2a43ec87d9d7e537a56093748c2fa77.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3630
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3697,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.beritalumbungbumi.online",
-        "website": "beritalumbungbumi.online",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LUMBUNG BUMI PERCUT",
-        "tanggal_daftar": "2022-03-29",
-        "nomor_tanda_daftar": "002407.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9dc06590576d883d432af911d6608384.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3629
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3703,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANK DESA DIGITAL INDONESIA VENTURA",
-        "website": "www.bankdesadigital.id",
-        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Kesehatan, Sektor Keuangan, Sektor Pangan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "BANK DESA DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-03-29",
-        "nomor_tanda_daftar": "002406.04/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58665b0b80ea03b9f4199503dc1b5343.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3635
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3700,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ASURANSI BANK DESA DIGITAL INDONESIA",
-        "website": "www.bankdesadigital.id",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK DESA DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-03-29",
-        "nomor_tanda_daftar": "002406.03/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89433cf0d26e3ebe798e6c21db7f1586.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3634
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 776,
       "from": 7751,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7760,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1678,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AksesToko",
+        "website": "https://www.aksestoko.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SINERGI INFORMATIKA SEMEN INDONESIA",
+        "tanggal_daftar": "2021-07-08",
+        "nomor_tanda_daftar": "001102.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/34354b43660f3cd1fcbf124a80c4714f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2769
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1677,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Depository",
+        "website": "https://depository.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "TENNET DEPOSITORY INDONESIA",
+        "tanggal_daftar": "2021-07-08",
+        "nomor_tanda_daftar": "001101.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b3f56f644c25004a8387c6e27886171.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1237
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1675,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "broom.id",
+        "website": "https://www.broom.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TEKNOLOGI USAHA NUSANTARA",
+        "tanggal_daftar": "2021-07-08",
+        "nomor_tanda_daftar": "001100.01/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/077ce9e1f05542a0ebde72919be7b798.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1224
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1674,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e098d399ed278f17639efbd28551854e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1223
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1663,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ksptesa",
-        "website": "www.ksptesa.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SIMPAN PINJAM TEKNOLOGI SEJAHTERA BERSAMA",
-        "tanggal_daftar": "2021-07-08",
-        "nomor_tanda_daftar": "001093.01/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b40171acf7aab0374b169be0b42cb9d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1227
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1820,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Pasar Elektronik Rakyat",
-        "website": "https://pasarerakyat.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADIJAYA SAKTI WICAKSANA",
-        "tanggal_daftar": "2021-07-29",
-        "nomor_tanda_daftar": "001092.03/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac7e90758f1f92692c15c0b289dc534a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3547
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1664,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Pasar Elektronik Rakyat",
-        "website": "https://pasarerakyat.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ADIJAYA SAKTI WICAKSANA",
-        "tanggal_daftar": "2021-07-08",
-        "nomor_tanda_daftar": "001092.02/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d898f225ed2b0676f52fd4573c3cafa5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3546
       }
     }
   ]

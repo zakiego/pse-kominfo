@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 874,
       "from": 8731,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8740,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6937,
+      "attributes": {
+        "nomor_pb_umku": "912011120056500020001",
+        "nama": "E-PAYS",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CIPAS QUINDO PRATAMA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000651.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9775819367c46bf4fb55d18bd14db15f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6790
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 812,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "E-Salaam",
+        "website": "https://e-salaam.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CIPAS QUINDO PRATAMA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000651.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8f662865da5c10f84f04fb165667cdfa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3298
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 811,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PESAT",
+        "website": "desapesat.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PIONIR REVOLUSI DIGITAL",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000650.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09c12eff2cb9c8c2ea84a00eab568605.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 597
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1339,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62385395cb12914f73b9dab8345280c5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 582
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 806,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Pohon Pengetahuan Tambah Ilmu",
-        "website": "http://pohonpengetahuantambahilmu.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EFSU DIGITAL INDONESIA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000646.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dd6a08b085560fbcee0c38e303910c2e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 334
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9839,
-      "attributes": {
-        "nomor_pb_umku": "812021129139900020016",
-        "nama": "MIDOCS",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA MANULIFE INDONESIA",
-        "tanggal_daftar": "2022-08-04",
-        "nomor_tanda_daftar": "000645.18/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7f85ac8c2b60cd9060770cf27e7023b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9713
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9700,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "CWS GLH",
-        "website": "miaccount.manulife.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA MANULIFE INDONESIA",
-        "tanggal_daftar": "2022-08-02",
-        "nomor_tanda_daftar": "000645.17/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c6774cacacd94fd92661ff6014a219f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9578
       }
     }
   ]

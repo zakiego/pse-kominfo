@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 856,
       "from": 8551,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8560,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 994,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AGI Pay",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK ARTHA GRAHA INTERNASIONAL",
+        "tanggal_daftar": "2021-05-17",
+        "nomor_tanda_daftar": "000741.05/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0f47e02e0813009d4eea22d711e28759.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 737
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 993,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Laku Pandai",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK ARTHA GRAHA INTERNASIONAL",
+        "tanggal_daftar": "2021-05-17",
+        "nomor_tanda_daftar": "000741.04/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0dc665c25bc76dc850362860b4797a7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 736
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 992,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Internet Banking Corporate",
+        "website": "https://Ib.bankarthagraha.co.id/cib",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK ARTHA GRAHA INTERNASIONAL",
+        "tanggal_daftar": "2021-05-17",
+        "nomor_tanda_daftar": "000741.03/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0fb297a06959240a14aaa5c50470d25.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 735
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 991,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a1baf37a3ec225614a6e955f391a6f5f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2475
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 983,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Mastore.co.id",
-        "website": "http://mastore.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MASTORE SINERGI UTAMA",
-        "tanggal_daftar": "2021-05-17",
-        "nomor_tanda_daftar": "000737.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8d684aa029b25e5d485885c6a17957c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2567
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3405,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Evermos",
-        "website": "evermos.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SETIAP HARI DIPAKAI",
-        "tanggal_daftar": "2022-03-01",
-        "nomor_tanda_daftar": "000736.02/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/307af8945e63b963278e9b79bd6ded40.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3185
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 982,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Evermos",
-        "website": "https://www.evermos.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SETIAP HARI DIPAKAI",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000736.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33833c9e75f6eea6600ac3ed6a6f34c0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 607
       }
     }
   ]

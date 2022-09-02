@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 980,
       "from": 9791,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9800,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2565,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Metal X",
+        "website": "https://bullionecosystem.com/metal-x-mdx/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BULLION ECOSYSTEM INTERNATIONAL",
+        "tanggal_daftar": "2021-12-01",
+        "nomor_tanda_daftar": "000155.03/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/827f779ef83bae3f19d96883b10af05d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2642
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2303,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MetalPay",
+        "website": "https://bullionecosystem.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BULLION ECOSYSTEM INTERNATIONAL",
+        "tanggal_daftar": "2021-11-08",
+        "nomor_tanda_daftar": "000155.02/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e3e808a7409d851c41d934e864e0f821.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2641
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 174,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PosGO Syariah",
+        "website": "https://posgo.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BULLION ECOSYSTEM INTERNATIONAL",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000155.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/95fe1aa85084fab4c7326bf4b462acfa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2640
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 173,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84a21f6f469070648b24efcbdb9bb783.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2593
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 166,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kartunet",
-        "website": "www.kartunet.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SAHABAT MAKMUR INOVASI",
-        "tanggal_daftar": "2021-02-24",
-        "nomor_tanda_daftar": "000147.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf3f626685916b049e7dad73519d0b35.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2636
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 165,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Codemi Learning",
-        "website": "codemi.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CODEMI GLOBAL",
-        "tanggal_daftar": "2021-02-24",
-        "nomor_tanda_daftar": "000146.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45e9fafd257df0600236cd74556e1d2f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2635
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 164,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Garasi.id",
-        "website": "https://garasi.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DIGITAL OTOMOTIF INDONESIA",
-        "tanggal_daftar": "2021-02-24",
-        "nomor_tanda_daftar": "000145.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92fafb6dfa316af9e01d81e21e99ebd3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2442
       }
     }
   ]

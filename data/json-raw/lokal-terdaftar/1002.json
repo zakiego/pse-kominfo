@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 1003,
       "from": 10021,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 10030,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1532,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ZeniusLand",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ZONA EDUKASI NUSANTARA",
+        "tanggal_daftar": "2021-06-24",
+        "nomor_tanda_daftar": "000012.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f61770142632a2d12e35c966eb0ec277.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2340
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 13,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Zenius.net dan Aplikasi Mobile Zenius Belajar online",
+        "website": "www.zenius.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ZONA EDUKASI NUSANTARA",
+        "tanggal_daftar": "2021-02-19",
+        "nomor_tanda_daftar": "000012.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/844f7f0a98e011ffc0afa8b90870bd25.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2339
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 12,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ctrip360.com",
+        "website": "www.ctrip360.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CTRIP TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2021-02-18",
+        "nomor_tanda_daftar": "000011.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d987de26c62ac6219157dee4ca0a69da.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2368
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5188,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bfce3c79ab87975d2eab5542692e22c7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2323
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TEMAN SEHAT (com.temansehat.person, co.achiko.temansehat-person)",
-        "website": "https://person-app.teman-sehat.co.id",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PROGRESSIVMEDIA INDONESIA",
-        "tanggal_daftar": "2021-02-18",
-        "nomor_tanda_daftar": "000008.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d5eabccffee3880ac2413d322923bb3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2322
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7955,
-      "attributes": {
-        "nomor_pb_umku": "022201110082300010009",
-        "nama": "AIA INDONESIA VYMO (BLAST)",
-        "website": "aiablast.lms.getvymo.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "AIA FINANCIAL",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000007.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7216d31436b9d990c975913293c4aaba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7872
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7921,
-      "attributes": {
-        "nomor_pb_umku": "022201110082300010008",
-        "nama": "AIA INDONESIA ANYA CHATBOT",
-        "website": "aia-financial.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "AIA FINANCIAL",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000007.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00ad8069fd722d16d6ef5dfd14d3b12d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7837
       }
     }
   ]

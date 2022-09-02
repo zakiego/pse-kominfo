@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 630,
       "from": 6291,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6300,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2948,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Portal Berita Online www.sakanews.com",
+        "website": "sakanews.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SAKA NEWS BRILLIANT",
+        "tanggal_daftar": "2022-01-04",
+        "nomor_tanda_daftar": "001892.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b06608ff1033e646d30bea73cf03e922.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2010
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2947,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kinobi Z",
+        "website": "https://app.kinobi.asia",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KINOBI TECHNOLOGIES INDONESIA",
+        "tanggal_daftar": "2022-01-04",
+        "nomor_tanda_daftar": "001891.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c87962504517221ae92644397c1e259.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1873
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2946,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Belinjo.id",
+        "website": "belinjo.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "UMKM NIAGA INTERNATIONAL",
+        "tanggal_daftar": "2022-01-04",
+        "nomor_tanda_daftar": "001890.01/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7defdee2dbf79799b189994ba7f30b6a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1994
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2945,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/efb338e78e388ebd86cc4985ba492587.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2007
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2939,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "snacktime",
-        "website": "www.snacktime.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KARSA MEDIA DIGITAL",
-        "tanggal_daftar": "2021-12-31",
-        "nomor_tanda_daftar": "001885.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4e51f93681cb03ea40d71af6d33408c8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2003
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5490,
-      "attributes": {
-        "nomor_pb_umku": "912020448118100030011",
-        "nama": "JARVIN",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BUMI BERKAH BOGA",
-        "tanggal_daftar": "2022-05-27",
-        "nomor_tanda_daftar": "001884.02/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9ce6f5fb717a08e7333ad0be8c0e9f1b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4159
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2938,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kopi Kenangan Apps",
-        "website": "kopikenangan.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BUMI BERKAH BOGA",
-        "tanggal_daftar": "2021-12-31",
-        "nomor_tanda_daftar": "001884.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9cca2338928caa54258843c9516d4141.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 606
       }
     }
   ]

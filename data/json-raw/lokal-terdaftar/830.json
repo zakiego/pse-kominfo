@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 831,
       "from": 8301,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8310,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7397,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010009",
+        "nama": "IDX INCUBATOR PORTAL",
+        "website": "idxincubator.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000832.20/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62fedd76cc130ac7f9f0e5d95e469e38.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7287
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7367,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010008",
+        "nama": "APLIKASI E-RKAT",
+        "website": "erkatpm.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000832.19/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7e57e6ed9bde71596cb6c3b7c185fc9d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7267
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7335,
+      "attributes": {
+        "nomor_pb_umku": "812001429187400010007",
+        "nama": "IDX RECORD",
+        "website": "idxrecord.idx.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000832.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c57493857c7d8b18bc468a42eb20de46.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7229
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7328,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e76998eca466380aab39b65d7468ef08.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 689
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1166,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Portal Pendaftaran Sekolah Pasar Modal (SPM)",
-        "website": "https://sekolahpasarmodal.idx.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.10/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eba9eb3991974121ce8a117a901dedec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 688
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1165,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Informasi Pelanggan Data BEI",
-        "website": "https://data.idx.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.09/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2abb681aed162f20a00b18fb65dab017.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 687
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1164,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Regional Development Information System",
-        "website": "https://rdis.idx.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BURSA EFEK INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000832.08/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df2d43c5ebb2ef6298db6184a489263b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 686
       }
     }
   ]

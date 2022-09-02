@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 959,
       "from": 9581,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9590,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 303,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BEESFUNDING",
+        "website": "https://beesfunding.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MIKRO KAPITAL INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000256.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08d74bd2c534356740ad3bf850278c0b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2403
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 302,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "QingCloud WebSite",
+        "website": "intl.qingcloud.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CLOUD COMPUTING INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000255.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4c3aaca7c67668058e05d7f12da8a5d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2562
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 301,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ayo Bantuin",
+        "website": "ayobantuin.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AYO BANTUIN INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000254.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0883d49ef3e4c9f0d606a16281919913.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 75
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 300,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bb140b74c784697077edd2b83b7346ed.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 50
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 296,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Gramedia Mitra Edukasi Indonesia",
-        "website": "gramediaedukasi.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MITRA EDUKASI NUSANTARA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000249.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ed4a8ea12a0b527664b099827d50db9e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 49
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 295,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "URUS",
-        "website": "https://urus.co.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADIWISISTA DAYA PRATAMA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000248.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11e727eb397f7e43d9ed019667cc9e29.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 66
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 293,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Awanio",
-        "website": "https://awan.io",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AWAN KOMPUTASI TEKNOLOGI",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000247.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/78ccc647c151aa33114178a7d0bdafeb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 68
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 523,
       "from": 5221,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5230,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4008,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AsiaCommerce.id",
+        "website": "asiacommerce.id",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "MATAHARI LABS",
+        "tanggal_daftar": "2022-04-23",
+        "nomor_tanda_daftar": "002603.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db0cb58515ae9ed7bb524e47cbac861d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3811
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4007,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Naldo Studio",
+        "website": "Golanstudio.my.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RONALDO NAINGGOLAN",
+        "tanggal_daftar": "2022-04-22",
+        "nomor_tanda_daftar": "002602.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b5b08ddb3d3db5698a98361a7d9c08ee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3798
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4006,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KOPI SUSU",
+        "website": "kopisusu.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PILIHAN SAHABAT SEMUA",
+        "tanggal_daftar": "2022-04-22",
+        "nomor_tanda_daftar": "002601.01/DJAI.PSE/04/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15563305f6d79156e3bb8f5cc8106df3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3750
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4005,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/216af6e8b042f88c328b55fb2923d90c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3962
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3998,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MY MSI",
-        "website": "mymsi.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MAHKOTA SUKSES INDONESIA",
-        "tanggal_daftar": "2022-04-22",
-        "nomor_tanda_daftar": "002595.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/646dddf3c828f37f9634ed503ea1cd04.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3947
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3997,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FH Indonesia",
-        "website": "www.fullertonhealth.co.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GLOBAL ASSISTANCE AND HEALTHCARE",
-        "tanggal_daftar": "2022-04-22",
-        "nomor_tanda_daftar": "002594.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d34486da0643b5410fce585907e768d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3938
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3996,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Asturi Project",
-        "website": "https://asturiproject.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GEDE APGANDHI PRANATA",
-        "tanggal_daftar": "2022-04-22",
-        "nomor_tanda_daftar": "002593.01/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/be5d25d2e789b8ac21b529b877c0ab2a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3861
       }
     }
   ]

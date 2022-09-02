@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 663,
       "from": 6621,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6630,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2695,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Pesan Antar",
+        "website": "belanjadisrc.src.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SRC INDONESIA SEMBILAN",
+        "tanggal_daftar": "2021-12-09",
+        "nomor_tanda_daftar": "001712.06/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81671a85c0d0b82a902af95e527961eb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 172
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2694,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Official Store",
+        "website": "belanjadi.src.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SRC INDONESIA SEMBILAN",
+        "tanggal_daftar": "2021-12-09",
+        "nomor_tanda_daftar": "001712.05/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4372653f37fecbab5d4c6686ef03021c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 171
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2690,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Paguyuban",
+        "website": "Paguyuban.src.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SRC INDONESIA SEMBILAN",
+        "tanggal_daftar": "2021-12-09",
+        "nomor_tanda_daftar": "001712.04/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c60ebc7f0fa74851f27b6d2136000b7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 170
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2688,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09385a0dcc0f72ab4afc3b536b50a158.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1268
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2646,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ultimeal Merchant",
-        "website": "ultimeal.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "USAHA KREATIF PEMBAYARAN",
-        "tanggal_daftar": "2021-12-07",
-        "nomor_tanda_daftar": "001708.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38a71ed135aed4fe1ae9e92d8b08850c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1267
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2641,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ultimeal",
-        "website": "ultimeal.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "USAHA KREATIF PEMBAYARAN",
-        "tanggal_daftar": "2021-12-07",
-        "nomor_tanda_daftar": "001708.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f499931ab4157cb98874c12afb698239.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1266
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2640,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Benefits by GreatDay HR",
-        "website": "benefitsapp.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PEOPLE INTELLIGENCE INDONESIA",
-        "tanggal_daftar": "2021-12-07",
-        "nomor_tanda_daftar": "001707.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/547682beacf9edb51754da7ccb7d1096.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1820
       }
     }
   ]

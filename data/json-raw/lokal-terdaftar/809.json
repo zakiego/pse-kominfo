@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 810,
       "from": 8091,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8100,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1311,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digital Korlantas",
+        "website": "digitalkorlantas.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINTAS TJIPTA SOLUSI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000877.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fca54111d1c96a11e695695a7beb820f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 714
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1310,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LinkAja",
+        "website": "https://www.linkaja.id/",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FINTEK KARYA NUSANTARA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000876.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e3ae2f0af4d3ba62b457ef9f5f991861.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 119
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1332,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ESOP TIKET",
+        "website": "https://tiket.bcasekuritas.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA SEKURITAS",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000875.07/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d493b9ead86da9ddaeb5128a508a0c2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 942
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1309,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d7ea0f5bd2cca28280434749c6072fd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 921
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1293,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.oranye.co.id",
-        "website": "www.oranye.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ORANYE LAYANAN DIGITAL INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000873.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/56a089c66c42676cd1822605214dcabb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2702
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2987,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNIDirect",
-        "website": "bnidirect.bni.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-        "tanggal_daftar": "2022-01-07",
-        "nomor_tanda_daftar": "000872.56/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b21d05d143498037fd0f832a49997b22.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 887
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2986,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "E-PBB",
-        "website": "epbb.bni-ecollection.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-        "tanggal_daftar": "2022-01-07",
-        "nomor_tanda_daftar": "000872.55/DJAI.PSE/01/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/669f99f55113e28626ffe18aaaa0e143.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 886
       }
     }
   ]

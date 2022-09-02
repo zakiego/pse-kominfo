@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 957,
       "from": 9561,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9570,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 344,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CTBC Retail Internet Banking",
+        "website": "https://ebanking.ctbcbank.co.id/retail/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&__FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=BCI",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CTBC INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000270.03/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f344158dbc0e6b5a23ef84f27dacb0c1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 18
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 342,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CTBC Digital Lending",
+        "website": "https://eloan.ctbcbank.co.id/danacinta; (landing page) Ktadigital.com, Ktainstan.com, Danacintadigital.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CTBC INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000270.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/265d8a5efd3c2715b5b88a3299bc0450.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 17
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 319,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CTBC Website",
+        "website": "https://ctbcbank.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CTBC INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000270.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7bebee63faf180f32b47ac6a71e2dade.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 16
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 318,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7f442e8e90637999e1ff7994b71445f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3509
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4315,
-      "attributes": {
-        "nomor_pb_umku": "081021001412400010001",
-        "nama": "DUITCROWD",
-        "website": "duitcrowd.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "URUN DANA MAJU NUSANTARA",
-        "tanggal_daftar": "2022-06-09",
-        "nomor_tanda_daftar": "000264.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d33e7a4147fc8c96f18ea8696e147cc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4308
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 312,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Gudang Game",
-        "website": "https://gudanggame.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GUDANG INOVASI INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000264.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89e0a0c340bb424c32aacb88263e422f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 52
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 311,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Nono_Style",
-        "website": "www.nonostyle.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NONO STYLE INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000263.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9822905554e59a6516aa9e121b93c78c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2731
       }
     }
   ]

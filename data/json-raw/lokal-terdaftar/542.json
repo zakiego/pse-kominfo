@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 543,
       "from": 5421,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 5430,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9731,
+      "attributes": {
+        "nomor_pb_umku": "812011413226801270061",
+        "nama": "BRI JUNIO SMART",
+        "website": "junio-smart.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-08-23",
+        "nomor_tanda_daftar": "002468.57/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cc2cecf561dd0a84739e178a2b6dede4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9609
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8943,
+      "attributes": {
+        "nomor_pb_umku": "812011413226801200060",
+        "nama": "DASHBOARD VIRTUAL ACCOUNT KORPORASI",
+        "website": "bricorporateva.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-25",
+        "nomor_tanda_daftar": "002468.56/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/660412f989079d46659bed1b405b4688.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8851
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8410,
+      "attributes": {
+        "nomor_pb_umku": "812011413226801200059",
+        "nama": "WEBSITE KORPORAT BRI",
+        "website": "bri.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "002468.55/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/44c9df72ddfd5059a071e40195958c8b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8330
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8394,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58bb8fa956b2d217b007a52e299e9197.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6428
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6563,
-      "attributes": {
-        "nomor_pb_umku": "812011413226801190051",
-        "nama": "JADIMERCHANT",
-        "website": "Jadimerchant.bri.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "002468.47/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1046e958740c6957ae2a1b2b908e56e2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6421
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6548,
-      "attributes": {
-        "nomor_pb_umku": "812011413226801190050",
-        "nama": "AMBILIN",
-        "website": "bri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "002468.46/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0c0c68b590afd4157d2bf908d7105882.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6411
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6213,
-      "attributes": {
-        "nomor_pb_umku": "812011413226801190049",
-        "nama": "COMMODITY CHAIN (PADICHAIN)",
-        "website": "padichain.id",
-        "sektor": "Sektor Pangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "002468.45/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9bda267cf3b47f8c0ab0d8eeef289e3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6077
       }
     }
   ]

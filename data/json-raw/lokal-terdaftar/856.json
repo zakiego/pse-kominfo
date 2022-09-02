@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 857,
       "from": 8561,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8570,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 983,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mastore.co.id",
+        "website": "http://mastore.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MASTORE SINERGI UTAMA",
+        "tanggal_daftar": "2021-05-17",
+        "nomor_tanda_daftar": "000737.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8d684aa029b25e5d485885c6a17957c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2567
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3405,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Evermos",
+        "website": "evermos.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SETIAP HARI DIPAKAI",
+        "tanggal_daftar": "2022-03-01",
+        "nomor_tanda_daftar": "000736.02/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/307af8945e63b963278e9b79bd6ded40.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3185
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 982,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Evermos",
+        "website": "https://www.evermos.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SETIAP HARI DIPAKAI",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000736.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33833c9e75f6eea6600ac3ed6a6f34c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 607
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4377,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b82edc7babf3a32c661b71d55be1e5c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 723
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 972,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DanaRupiah",
-        "website": "www.danarupiah.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LAYANAN KEUANGAN BERBAGI",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000731.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17ca381464ed8d7c86feb5ff05f46b68.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 610
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2735,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "sfund.id",
-        "website": "sfund.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SURYA FAJAR URUN DANA",
-        "tanggal_daftar": "2021-12-13",
-        "nomor_tanda_daftar": "000730.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/646439938466384dde921aec1635ddee.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3312
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 971,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SFUND",
-        "website": "sfund.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SURYA FAJAR URUN DANA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000730.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/75c93619e57a0580f065871bd6f1fab9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3311
       }
     }
   ]

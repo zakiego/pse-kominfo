@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 943,
       "from": 9421,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9430,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4311,
+      "attributes": {
+        "nomor_pb_umku": "027701101272700010001",
+        "nama": "SIMASBID",
+        "website": "balailelangsimas.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BALAI LELANG SINARMAS",
+        "tanggal_daftar": "2022-06-09",
+        "nomor_tanda_daftar": "000320.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8eb3d5f68bd3848f4b18980dfd6d20a7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4304
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 393,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TUNAI KODAK",
+        "website": "http://www.tunaikodak.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SIMPAN PINJAM AIR EMAS INDONESIA",
+        "tanggal_daftar": "2021-03-15",
+        "nomor_tanda_daftar": "000320.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c68a182d5a90ac4277eaa843118fe13b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 191
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4306,
+      "attributes": {
+        "nomor_pb_umku": "022000338138700000001",
+        "nama": "KASKU",
+        "website": "kasku.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SOMA KARYA GEMILANG",
+        "tanggal_daftar": "2022-06-09",
+        "nomor_tanda_daftar": "000319.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14e0b86733338ec5bbeb649ea1ee3340.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4299
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 392,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7f0bb393d8236dc91f66f92fa5fb20d4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 163
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 387,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Mangdropship",
-        "website": "mangdropship.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MANGDROPSHIP KARYA INTERLOKA",
-        "tanggal_daftar": "2021-03-15",
-        "nomor_tanda_daftar": "000315.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81beac8e9949643b44636d2215c5e160.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 152
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7229,
-      "attributes": {
-        "nomor_pb_umku": "022020872134800000003",
-        "nama": "EANTREAN ONLINE",
-        "website": "eantrean.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INFOKES INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000314.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b6f359ffc76dc1549f804419800e4eb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7118
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7218,
-      "attributes": {
-        "nomor_pb_umku": "022020872134800000002",
-        "nama": "EPOSYANDU",
-        "website": "eposyandu.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INFOKES INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000314.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac74cee3c948113820d281673b248c8d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7104
       }
     }
   ]

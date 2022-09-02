@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 847,
       "from": 8461,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8470,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1061,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mekar",
+        "website": "https://mekar.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MEKAR INVESTAMA SAMPOERNA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000780.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/69375e6dd817bfdb12256e8092bccca4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3477
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7087,
+      "attributes": {
+        "nomor_pb_umku": "912010216234800020003",
+        "nama": "SALES FORCE DANAMOBIL",
+        "website": "mncdanamobil.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC FINANCE",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000779.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ea9cc455d27de46baef620bb2fa3716.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6953
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6467,
+      "attributes": {
+        "nomor_pb_umku": "912010216234800020002",
+        "nama": "ITRACK",
+        "website": "mncfinance.net",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000779.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/816a07c09b520d4ed5949fece7155f1c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6329
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6451,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a0bc138ae24f59940986317ba5e52a65.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 553
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1732,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kagum Teknologi Indonesia",
-        "website": "https://www.ptkagumteknologiindonesia.com/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KAGUM TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-07-22",
-        "nomor_tanda_daftar": "000775.02/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf06682eea9950a58147c52462813f0d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 725
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5325,
-      "attributes": {
-        "nomor_pb_umku": "912000319198400000001",
-        "nama": "INSANMADANIONLINE",
-        "website": "insanmadanionline.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PUSTAKA INSAN MADANI",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "000774.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2accb701f59dde8405c2323abdf7393c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5200
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1050,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "siplah.jualin.co.id",
-        "website": "jualin.co.id",
-        "sektor": "Sektor Kesehatan, Sektor Pangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PUSTAKA INSAN MADANI",
-        "tanggal_daftar": "2021-05-21",
-        "nomor_tanda_daftar": "000774.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ef1b1d40e7eff68699aebd1ce3d1b80.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 335
       }
     }
   ]

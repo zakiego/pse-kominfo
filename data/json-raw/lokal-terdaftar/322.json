@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 323,
       "from": 3221,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 3230,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8725,
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000012",
+        "nama": "ADAMQUE",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "004561.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7ac5208321920139c9704cfd7afa5b5e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8643
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8720,
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000011",
+        "nama": "ADAMEDSPRO",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "004561.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8095e427d662aba8058bbc9c33975ad9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8637
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8683,
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000010",
+        "nama": "SERVICE.PERIKSAIN.ID",
+        "website": "service.periksain.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "004561.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24105990ddaa46944b39389a939f8be8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8602
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8681,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6237a22865f94dbd083aa8b9cade8516.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6039
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9031,
-      "attributes": {
-        "nomor_pb_umku": "220522001670400010002",
-        "nama": "KONTER PULSA NETINDO",
-        "website": "konterpulsa.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KONTER PULSA NETINDO",
-        "tanggal_daftar": "2022-07-26",
-        "nomor_tanda_daftar": "004558.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58c77379fa7f8094b73f4edd4efbbed3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8945
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6130,
-      "attributes": {
-        "nomor_pb_umku": "220522001670400010001",
-        "nama": "KONTER PULSA",
-        "website": "konterpulsa.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KONTER PULSA NETINDO",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004558.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38e07fd108b2666bdc7c6de83d7d615a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6003
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6145,
-      "attributes": {
-        "nomor_pb_umku": "912000570275600000001",
-        "nama": "WEBSITE",
-        "website": "bprdinamika.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DINAMIKA BANGUN ARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004557.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8dfd654817d869bdbe89021edee001ee.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6013
       }
     }
   ]

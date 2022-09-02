@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 41,
       "from": 401,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 410,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10237,
+      "attributes": {
+        "nomor_pb_umku": "061221002404600050001",
+        "nama": "JAGO HUKUM",
+        "website": "jagohukum.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "RANTAI BLOK KRIPTO INDONESIA",
+        "tanggal_daftar": "2022-08-11",
+        "nomor_tanda_daftar": "007169.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c6f9e4d253ecd0d6f1410396f30e0c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10117
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10781,
+      "attributes": {
+        "nomor_pb_umku": "022010452133700000001",
+        "nama": "JUARA",
+        "website": "tcinvestama.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JASA TRI CAPITAL INVESTAMA",
+        "tanggal_daftar": "2022-08-24",
+        "nomor_tanda_daftar": "007164.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc7ef290df890f50cf0cb88adf590830.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10591
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10219,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba0ea6ad07e5f4ec90196b5124d6f986.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10083
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10759,
-      "attributes": {
-        "nomor_pb_umku": "912030255123100010002",
-        "nama": "TMUGROUP",
-        "website": "tmugroup.id",
-        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
-        "nama_perusahaan": "TITAN MINERAL UTAMA",
-        "tanggal_daftar": "2022-08-24",
-        "nomor_tanda_daftar": "007143.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e8b729b426418ea42ad490676b5f3597.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10588
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10200,
-      "attributes": {
-        "nomor_pb_umku": "912030255123100000001",
-        "nama": "PT. TITAN MINERAL UTAMA",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
-        "nama_perusahaan": "TITAN MINERAL UTAMA",
-        "tanggal_daftar": "2022-08-10",
-        "nomor_tanda_daftar": "007143.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5f3040d2718bb0ac31925bf208eb413.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10080
       }
     }
   ]

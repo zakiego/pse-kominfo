@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 876,
       "from": 8751,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8760,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9613,
+      "attributes": {
+        "nomor_pb_umku": "812021129139900020009",
+        "nama": "AGENCYLINK",
+        "website": "agencylink.manulife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA MANULIFE INDONESIA",
+        "tanggal_daftar": "2022-08-02",
+        "nomor_tanda_daftar": "000645.08/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0788afeb41960aa42d46680295c6ae73.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9502
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9611,
+      "attributes": {
+        "nomor_pb_umku": "812021129139900020008",
+        "nama": "PARTNERLINK",
+        "website": "partnerlink.manulife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA MANULIFE INDONESIA",
+        "tanggal_daftar": "2022-08-02",
+        "nomor_tanda_daftar": "000645.07/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d85187d4ecaac76272fea895b8c2dfe.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9501
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9610,
+      "attributes": {
+        "nomor_pb_umku": "812021129139900020007",
+        "nama": "PUBLIC WEBSITE (PWS) MANULIFE INDONESIA",
+        "website": "manulife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA MANULIFE INDONESIA",
+        "tanggal_daftar": "2022-08-02",
+        "nomor_tanda_daftar": "000645.06/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/272281048806626d51f9e86ba5157945.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9499
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7069,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bd5d53ed67194c719279ef102532626a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3296
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 902,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "D2D (Doctor to Doctor)",
-        "website": "https://d2d.co.id/",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "GLOBAL URBAN ESENSIAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000644.03/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/60adee0d86ebdedf0cd6d4f39305b7b2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3295
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 901,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Teman Diabetes",
-        "website": "https://www.temandiabetes.com/",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "GLOBAL URBAN ESENSIAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000644.02/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ecd87b8b1ab13eb6976699e4f5f2c49.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3294
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 804,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Teman Bumil",
-        "website": "temanbumil.com, temanbumil.co.id, temanbumil.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "GLOBAL URBAN ESENSIAL",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000644.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c615387a80632edaa95f22c28268e64e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3293
       }
     }
   ]

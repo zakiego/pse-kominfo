@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 17,
       "from": 161,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 170,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10651,
+      "attributes": {
+        "nomor_pb_umku": "026701022269500020001",
+        "nama": "TRIBUNAMBON.COM",
+        "website": "tribunambon.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIBUN DIGITAL MALUKU",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007406.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d41755f32a0e19f87ec5d8c23c7f302b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10488
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10656,
+      "attributes": {
+        "nomor_pb_umku": "912010998300300010001",
+        "nama": "IBA BPRS ARTHA MAS ABADI",
+        "website": "bprsarthamasabadi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH ARTHA MAS ABADI",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007405.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c230c9637aef4bddbfc6f7508949bb7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10491
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10646,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf2e4aca10f80bd2261a2896b2c7a1f5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10474
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10664,
-      "attributes": {
-        "nomor_pb_umku": "040222004068500080002",
-        "nama": "CV BINTANG CAKRA KREASI",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BINTANG CAKRA KREASI",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007391.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ddd8c05594672aa3393660848fe7ba9e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10498
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10638,
-      "attributes": {
-        "nomor_pb_umku": "111121000185500000001",
-        "nama": "GOHAI",
-        "website": "klikgohai.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MUHAMAD SYAEFUL BAHRI",
-        "tanggal_daftar": "2022-08-20",
-        "nomor_tanda_daftar": "007390.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/482213e5294ab3d388946fc18332fe59.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10473
       }
     }
   ]

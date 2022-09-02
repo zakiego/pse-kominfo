@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 756,
       "from": 7551,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7560,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1845,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Wappin",
+        "website": "wappin.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SOLUSI PEMBAYARAN ELEKTRONIK",
+        "tanggal_daftar": "2021-08-03",
+        "nomor_tanda_daftar": "001233.01/DJAI.PSE/08/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f5fc434c43ad7c8363a9ea02e3ab78b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1357
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1844,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KreditPro",
+        "website": "https://kreditpro.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "TRI DIGI FIN",
+        "tanggal_daftar": "2021-08-03",
+        "nomor_tanda_daftar": "001232.01/DJAI.PSE/08/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e87a0dbd674f91112849f924d0f05d09.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1390
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1843,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Shell GO+",
+        "website": "-",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Perdagangan",
+        "nama_perusahaan": "SHELL INDONESIA",
+        "tanggal_daftar": "2021-08-03",
+        "nomor_tanda_daftar": "001231.01/DJAI.PSE/08/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3248e8a2c02c7570efa23bfecdf3f827.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2813
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1841,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/46140a06d61a13f9236ac1d47c523270.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1302
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6642,
-      "attributes": {
-        "nomor_pb_umku": "912040878274600010002",
-        "nama": "ODYSSEY",
-        "website": "odyssey.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DAYA DIMENSI INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "001224.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6279ff3fdbd416b844ee2d86fc8c2330.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6456
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1834,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Assessment Hub",
-        "website": "ams.ddiassessment.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DAYA DIMENSI INDONESIA",
-        "tanggal_daftar": "2021-08-03",
-        "nomor_tanda_daftar": "001224.01/DJAI.PSE/08/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01b8438318a7f243a0c72ca96af06ac5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1000
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1833,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "https://jenfi.id/",
-        "website": "https://jenfi.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GEN LIMA INDONESIA",
-        "tanggal_daftar": "2021-08-03",
-        "nomor_tanda_daftar": "001223.01/DJAI.PSE/08/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4da443545ed832ce89b06ff3355c408.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1378
       }
     }
   ]

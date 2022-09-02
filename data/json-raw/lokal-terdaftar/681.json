@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 682,
       "from": 6811,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 6820,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2544,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi HBL - Pegadaian",
+        "website": "https://aplikasihbl.pegadaian.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PEGADAIAN",
+        "tanggal_daftar": "2021-11-30",
+        "nomor_tanda_daftar": "001631.28/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/563f41c0c0328585cd643becd50c7301.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1689
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2543,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Portal Pengajuan Kredit Instansi - Pegadaian",
+        "website": "https://simulasi.pegadaian.co.id/LandingInstansi",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PEGADAIAN",
+        "tanggal_daftar": "2021-11-30",
+        "nomor_tanda_daftar": "001631.27/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4dbb75c70134cea1ffba3a1e6b3d951.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1688
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2542,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Loan Origination System Digital Lending - Pegadaian",
+        "website": "https://pad.pegadaian.co.id/directlending",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PEGADAIAN",
+        "tanggal_daftar": "2021-11-30",
+        "nomor_tanda_daftar": "001631.26/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee0104c8ef4e987d11d1e7fb04eca520.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1687
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2541,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6556bccab06e5124eea9aebdc9bdd171.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1680
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2532,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi Pegadaian Origination Machine (PRIME)",
-        "website": "https://los.pegadaian.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PEGADAIAN",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "001631.18/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cc6b1215193679399a1bc9678a4122d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1679
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2531,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi BMI-Pegadaian",
-        "website": "https://bmi.pegadaian.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PEGADAIAN",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "001631.17/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2cd365b1d6e7631ddf69f1e77694a6a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1678
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2530,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi Pegadaian G-Lab",
-        "website": "https://glab.pegadaian.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PEGADAIAN",
-        "tanggal_daftar": "2021-11-30",
-        "nomor_tanda_daftar": "001631.16/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/59b09c81a2df0b4276968f0643cac38d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1677
       }
     }
   ]

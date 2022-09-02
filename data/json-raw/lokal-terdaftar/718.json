@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 719,
       "from": 7181,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 7190,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3636,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aladinku",
+        "website": "Aladinku.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "INTEKNO RAYA",
+        "tanggal_daftar": "2022-03-24",
+        "nomor_tanda_daftar": "001417.03/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c750e2bc92de583ee9ac28791e20a4e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3689
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3067,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BOOSTER",
+        "website": "boosterku.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "INTEKNO RAYA",
+        "tanggal_daftar": "2022-01-19",
+        "nomor_tanda_daftar": "001417.02/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/988e47a6c4945fe09ba2efd9b45d854f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3400
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2120,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DANAMERDEKA",
+        "website": "https://danamerdeka.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "INTEKNO RAYA",
+        "tanggal_daftar": "2021-10-26",
+        "nomor_tanda_daftar": "001417.01/DJAI.PSE/10/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/41421237b725153cb4560af988009e4e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3399
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2119,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a20f0184cf4e53902879d9d76869a951.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5320
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5442,
-      "attributes": {
-        "nomor_pb_umku": "912030064238600020001",
-        "nama": "SIMO",
-        "website": "simo.inhealth.co.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "ASURANSI JIWA INHEALTH INDONESIA",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "001411.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/abaaef4b5ee65b2404b8b2ac0c421faf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5314
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2296,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEBSITE",
-        "website": "WWW.MANDIRIINHEALTH.CO.ID",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "ASURANSI JIWA INHEALTH INDONESIA",
-        "tanggal_daftar": "2021-11-08",
-        "nomor_tanda_daftar": "001411.06/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/104a2cdce72d57e70861269104e726f7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1531
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2267,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARKIS",
-        "website": "WWW.MANDIRIINHEALTH.CO.ID",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "ASURANSI JIWA INHEALTH INDONESIA",
-        "tanggal_daftar": "2021-11-01",
-        "nomor_tanda_daftar": "001411.05/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee679b90778c4949d0969064b6b01247.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1530
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 431,
       "from": 4301,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 4310,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5974,
+      "attributes": {
+        "nomor_pb_umku": "280322004245900030003",
+        "nama": "E-CLEARS",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KLIRING PENJAMINAN EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "003819.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c02b3a885786ca1d6dc9afe808921e2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5835
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5973,
+      "attributes": {
+        "nomor_pb_umku": "280322004245900030002",
+        "nama": "M-CLEARS",
+        "website": "cmsmclears.idclear.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KLIRING PENJAMINAN EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "003819.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c548889384a6f6c000c6b1e290e52578.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5834
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5972,
+      "attributes": {
+        "nomor_pb_umku": "280322004245900030001",
+        "nama": "PORTAL AK DAN PARTISIPAN",
+        "website": "membership.kpei.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KLIRING PENJAMINAN EFEK INDONESIA",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "003819.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7fca1af77f30d72bf665f7ae60a9809.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5833
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 7561,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e2d7a4f020fe3848062694d294174948.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5027
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5161,
-      "attributes": {
-        "nomor_pb_umku": "022000213259300020001",
-        "nama": "INVITE - INVESTINDO NUSANTARA SEKURITAS (WEB)",
-        "website": "invite.investindosekuritas.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INVESTINDO NUSANTARA SEKURITAS",
-        "tanggal_daftar": "2022-07-07",
-        "nomor_tanda_daftar": "003813.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/06066c240d228296dd72c709f0f1b51e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5025
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5159,
-      "attributes": {
-        "nomor_pb_umku": "022000213259300020001",
-        "nama": "E-FORM PT INVESTINDO NUSANTARA SEKURITAS",
-        "website": "eform.investindosekuritas.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INVESTINDO NUSANTARA SEKURITAS",
-        "tanggal_daftar": "2022-07-07",
-        "nomor_tanda_daftar": "003813.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db19a457a1a60005738ccecbaaecdebb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5023
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5157,
-      "attributes": {
-        "nomor_pb_umku": "022000213259300020001",
-        "nama": "WEBSITE PT INVESTINDO NUSANTARA SEKURITAS",
-        "website": "investindosekuritas.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INVESTINDO NUSANTARA SEKURITAS",
-        "tanggal_daftar": "2022-07-07",
-        "nomor_tanda_daftar": "003813.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f77503db9ac623a01d0f3db0fb66ef43.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5021
       }
     }
   ]

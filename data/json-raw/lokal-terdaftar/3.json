@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 4,
       "from": 31,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 40,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10896,
+      "attributes": {
+        "nomor_pb_umku": "022030592032500000001",
+        "nama": "JOGJAHOST",
+        "website": "jogjahost.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JOGJAHOST",
+        "tanggal_daftar": "2022-08-30",
+        "nomor_tanda_daftar": "007557.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29f4a90aec78838fcc500213ddcf7b13.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10708
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10901,
+      "attributes": {
+        "nomor_pb_umku": "812011009119100000001",
+        "nama": "RECHARGE",
+        "website": "Recharge.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JALAN TERUS SAJA",
+        "tanggal_daftar": "2022-08-30",
+        "nomor_tanda_daftar": "007555.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/469b40c21899cef64e696b9e77ea2da6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10713
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10915,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d76fed7f37ce683df4b863316ca540c2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10754
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10918,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "ARDETAMEDIA",
-        "website": "ardetamedia.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GENERASI MILENIAL INDONESIA",
-        "tanggal_daftar": "2022-08-30",
-        "nomor_tanda_daftar": "007546.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/027ce707ad4e3faebbd808cf4282578d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10728
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10912,
-      "attributes": {
-        "nomor_pb_umku": "026201022094500020001",
-        "nama": "HOSTER",
-        "website": "hoster.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GENERASI MILENIAL INDONESIA",
-        "tanggal_daftar": "2022-08-30",
-        "nomor_tanda_daftar": "007546.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/673d14d451dc70e139064006df5b6176.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10724
       }
     }
   ]

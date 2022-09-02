@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 836,
       "from": 8351,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8360,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1121,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WEB MIRAE ASSET",
+        "website": "hots.miraeasset.co.id",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000815.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/65a52fb3eaa63988a2ce913d7e359727.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3327
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1120,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HOTS",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000815.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a5046f30b39e2c9ebbbdbfc34f820fa5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3326
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1119,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NEO HOTS",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan",
+        "nama_perusahaan": "MIRAE ASSET SEKURITAS INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000815.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee44ee113cebf0b4a7c529343e0e4d25.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3325
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1118,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c82cbcc760c46c0419a0021417961c9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 804
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1111,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "F-Switch",
-        "website": "https://fortuna-mediatama.co.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FORTUNA MEDIATAMA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000812.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a93e3c0b6b6d8152dc131beeaccfb4c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 782
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8660,
-      "attributes": {
-        "nomor_pb_umku": "912030443214100030001",
-        "nama": "BUKUERLANGGA.COM",
-        "website": "bukuerlangga.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "EUREKA BOOKHOUSE",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "000811.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/acbd0a1dff35f28a2793374da620c6cc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8579
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1465,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Eureka Logistics",
-        "website": "https://eurekalogistics.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi",
-        "nama_perusahaan": "EUREKA BOOKHOUSE",
-        "tanggal_daftar": "2021-06-14",
-        "nomor_tanda_daftar": "000811.08/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0434718605b6baafc6c5be48fd57fe28.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 793
       }
     }
   ]

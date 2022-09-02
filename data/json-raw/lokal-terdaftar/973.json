@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 974,
       "from": 9731,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9740,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5697,
+      "attributes": {
+        "nomor_pb_umku": "022010823184800010003",
+        "nama": "MNCLIFE.COM",
+        "website": "mnclife.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC LIFE ASSURANCE",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000182.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/65f3343df52da30fffcbeab531845f27.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5559
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5557,
+      "attributes": {
+        "nomor_pb_umku": "022010823184800010002",
+        "nama": "WEBSITE MOTION LIFE (WWW.MOTION-LIFE.ID)",
+        "website": "motion-life.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC LIFE ASSURANCE",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "000182.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4de0745c02fa668b4e180118045d410c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5422
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2961,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Motion Life",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC LIFE ASSURANCE",
+        "tanggal_daftar": "2022-01-06",
+        "nomor_tanda_daftar": "000182.02/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6c5588d4ac8ee06fd2de45d2300393f8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2623
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 208,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18b582ef10de63c7274545ff91676719.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5232
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 203,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ReliID",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "RELIANCEINTEGRASI DUNIA ANDA",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000178.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7d08b37b96eafa4c232c5bb88a395725.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2679
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 202,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AksataKYC",
-        "website": "http://www.aksatakyc.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AKSATA PRATAMA TEKNOLOGI",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000177.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef8b987e63ff412b9778548e508c7b30.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2671
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 201,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FH Indonesia",
-        "website": "www.fullertonhealth.co.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "SUPRIMA MITRA ADIHUSADA",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000176.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6946e5b469817a4b3de75d2cd0129c73.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2618
       }
     }
   ]

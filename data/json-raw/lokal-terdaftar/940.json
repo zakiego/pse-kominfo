@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 941,
       "from": 9401,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 9410,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 407,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OTORAJA BIZ",
+        "website": "https://otoraja.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OTORAJA NETWORK INDONESIA",
+        "tanggal_daftar": "2021-03-31",
+        "nomor_tanda_daftar": "000332.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/229368aa866e6dba808260032a76a5fc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2369
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 405,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Alphabill",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ALPHA KREASI JAYA",
+        "tanggal_daftar": "2021-03-16",
+        "nomor_tanda_daftar": "000331.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/851d9aaa5508b0c94b718898d0d8a79b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 102
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 426,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Amanat Nagari",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SOLUSI DATA MADANI",
+        "tanggal_daftar": "2021-04-09",
+        "nomor_tanda_daftar": "000330.02/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00e1010bb5ea47e1209b969fa41d7cd7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 207
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 404,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/abf1031c2b559be6f13c66658eb9f6ea.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4175
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 400,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BITUBI",
-        "website": "WWW.BITUBI.ID",
-        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "INFONESIA MEGA NUSANTARA",
-        "tanggal_daftar": "2021-03-16",
-        "nomor_tanda_daftar": "000326.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19781728e405bd744085934e4922846e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 187
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4310,
-      "attributes": {
-        "nomor_pb_umku": "091221004417800030002",
-        "nama": "CV.MANDRAKARTA",
-        "website": "mandrakarta.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MANDRAKARTA",
-        "tanggal_daftar": "2022-06-09",
-        "nomor_tanda_daftar": "000325.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b48ed77c11648ef0dfbae148c037913d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4303
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4309,
-      "attributes": {
-        "nomor_pb_umku": "091221004417800030001",
-        "nama": "MANDRAKARTA",
-        "website": "mandrakarta.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MANDRAKARTA",
-        "tanggal_daftar": "2022-06-09",
-        "nomor_tanda_daftar": "000325.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5355f0e0dd2012c846a729eedf4b3b02.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4302
       }
     }
   ]

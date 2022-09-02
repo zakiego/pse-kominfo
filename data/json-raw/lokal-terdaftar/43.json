@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 44,
       "from": 431,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 440,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10150,
+      "attributes": {
+        "nomor_pb_umku": "051221000872500040001",
+        "nama": "RAYYA TOUR & TRAVEL",
+        "website": "kangaab.my.id",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ALFA KURNIA HASANAH",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "007115.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/25682bdf218c6acb7e689e83dd79618d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10031
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10265,
+      "attributes": {
+        "nomor_pb_umku": "812000277128600010001",
+        "nama": "COOKPAD",
+        "website": "cookpad.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "COOKPAD DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-08-12",
+        "nomor_tanda_daftar": "007113.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1818076eacd43149b4dcb0a46ce17c5d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10135
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10144,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a62247d925c46a0571d51bfee011fb6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10549
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10165,
-      "attributes": {
-        "nomor_pb_umku": "912031001042700010005",
-        "nama": "WWW.SAJIANSEDAP.COM",
-        "website": "sajiansedap.grid.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SAMINDRA UTAMA",
-        "tanggal_daftar": "2022-08-10",
-        "nomor_tanda_daftar": "007100.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/26754fe492137f566ef0772731c1026b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10048
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10119,
-      "attributes": {
-        "nomor_pb_umku": "912031001042700010004",
-        "nama": "WWW.NOVA.ID",
-        "website": "nova.grid.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SAMINDRA UTAMA",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "007100.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18d168c8aaf762fa7f3b2bc57d8bd0e0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10001
       }
     }
   ]

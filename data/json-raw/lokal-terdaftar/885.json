@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 886,
       "from": 8851,
-      "lastPage": 1005,
+      "lastPage": 1006,
       "perPage": 10,
       "to": 8860,
-      "total": 10048
+      "total": 10051
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 7505,
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010004",
+        "nama": "E-PENSION DPLK (DPLK ASTRA)",
+        "website": "ava-dplk.astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000603.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40004d2289780c1c1e40aee8ef57ce4c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7405
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6711,
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010003",
+        "nama": "AVA EB CLICK",
+        "website": "ebonline.astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000603.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a210921f6a032d6f906ecd98fb7e61d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6560
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6115,
+      "attributes": {
+        "nomor_pb_umku": "022010741099300010002",
+        "nama": "ASTRA LIFE (CORPORATE WEBSITE)",
+        "website": "astralife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA ASTRA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000603.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2af9ba1050177648f52face41cb51360.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5985
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 746,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a52eb8d4b8c532338c7be73e5f50495c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 544
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 739,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DARBELINK",
-        "website": "darbelink.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RISNA DARBE LINK",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000597.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/80e3c1468a93b086683a098f2af1cc93.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 531
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 738,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Virgoku",
-        "website": "www.virgoku.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CAPITAL NET INDONESIA",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000596.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3fd265ac2d546171160b4654c2667f09.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 539
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 737,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MITRA P2P LENDING",
-        "website": "mitrapendanaan.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MITRA PENDANAAN MANDIRI",
-        "tanggal_daftar": "2021-05-07",
-        "nomor_tanda_daftar": "000595.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f9b5777e976d228ef10dce5ac45cf063.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 537
       }
     }
   ]
