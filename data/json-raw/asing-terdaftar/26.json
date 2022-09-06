@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 27,
       "from": 261,
-      "lastPage": 39,
+      "lastPage": 40,
       "perPage": 10,
       "to": 270,
-      "total": 386
+      "total": 396
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8137,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HBO GO",
+        "website": "hbogoasia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AFFILIATES ASIA, LLC",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005779.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b543cf54543e9bf6863a1f03852d2ea.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8060
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8134,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PINGPONG",
+        "website": "pingpongx.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PING PONG GLOBAL HOLDINGS LIMITED",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005778.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3a85cf196c2f51ffc8173cf8a0851e37.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8057
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8133,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da45bd92a79ec983242a77e9be8aac7c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6970
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6800,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "INSTAGRAM",
-        "website": "apps.apple.com/au/app/instagram/id389801252",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004994.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a03796d72d5691be9d4a1fece69acce7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6651
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6799,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "INSTAGRAM.COM",
-        "website": "instagram.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004994.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f852b858c232be88f50992373320a400.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6650
       }
     }
   ]

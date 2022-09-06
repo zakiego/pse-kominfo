@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 32,
       "from": 311,
-      "lastPage": 39,
+      "lastPage": 40,
       "perPage": 10,
       "to": 320,
-      "total": 386
+      "total": 396
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6374,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MICROSOFT CLOUD SERVICES",
+        "website": "microsoft.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MICROSOFT IRELAND OPERATIONS LIMITED",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004707.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9fd1dd8c02bf2da5a83706d073c4a5e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6240
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6123,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HALAMAN INFORMASI APLIKASI GAMES (GENSHIN IMPACT, HONKAI IMPACT 3RD, TEARS OF THEMIS, HONKAI: STAR RAIL, ZENLESS ZONE ZERO, N0VA DESKTOP, HOYOLAB)",
+        "website": "hoyoverse.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "COGNOSPHERE PTE. LTD.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004559.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d88a06eb0a82f0a88577b53ac4423d1c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5995
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6017,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29c2aba8ed2f249c460d9711b8bd6ca2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4758
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4886,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "DAZN",
-        "website": "dazn.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DAZN LIMITED",
-        "tanggal_daftar": "2022-06-28",
-        "nomor_tanda_daftar": "003524.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2789916bd000abee2de3432ccbee6d85.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4755
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4720,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "YANDEX PRACTICUM PLATFORM",
-        "website": "practicum.com/id-idn/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INTERTECH SERVICES AG",
-        "tanggal_daftar": "2022-06-24",
-        "nomor_tanda_daftar": "003410.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bae4eb9fe0fbc41197e3af8d09fd39cd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4674
       }
     }
   ]

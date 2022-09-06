@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 10,
       "from": 91,
-      "lastPage": 39,
+      "lastPage": 40,
       "perPage": 10,
       "to": 100,
-      "total": 386
+      "total": 396
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9728,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PRIME VIDEO",
+        "website": "primevideo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Amazon.com Services LLC",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006820.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0f43949c0fe985319a50c998215447f8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9605
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9727,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AMAZON.COM",
+        "website": "amazon.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Amazon.com Services LLC",
+        "tanggal_daftar": "2022-08-03",
+        "nomor_tanda_daftar": "006820.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/050cb73b86e2b85498a20a1ec268ac7c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9604
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9699,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9c7a300b60082ea25244ea7c1eb92c1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9320
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9885,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BATTLE.NET",
-        "website": "play.google.com/store/apps/details?id=com.blizzard.messenger",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BLIZZARD ENTERTAINMENT, INC",
-        "tanggal_daftar": "2022-08-04",
-        "nomor_tanda_daftar": "006571.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18b0fc62e03b1ae972a933e744e82133.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9771
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9884,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BATTLE.NET",
-        "website": "apps.apple.com/id/app/battle-net/id1241040030",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BLIZZARD ENTERTAINMENT, INC",
-        "tanggal_daftar": "2022-08-04",
-        "nomor_tanda_daftar": "006571.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b47c48a19df778e85b7f9632ca2c6d91.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9770
       }
     }
   ]

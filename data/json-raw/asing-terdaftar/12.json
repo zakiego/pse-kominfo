@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 13,
       "from": 121,
-      "lastPage": 39,
+      "lastPage": 40,
       "perPage": 10,
       "to": 130,
-      "total": 386
+      "total": 396
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9261,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FARLIGHT 84",
+        "website": "farlight84.farlightgames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Farlight Pte Ltd.",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006496.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/306462d37c57007bf6fdec27d70d4db5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9173
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9260,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CHAMET",
+        "website": "ichamet.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FULIAO HONG KONG LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006495.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f9aaf89007004c2d39fc6b590b449a8b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9172
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9258,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4138aa12b3b35f78f4c073e477956438.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9161
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9248,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "COUNTER-STRIKE NEXON: STUDIO",
-        "website": "store.steampowered.com/app/273110/CounterStrike_Nexon_Zombies",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86873e04fc7f1b2b8ee6536c705481e8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9160
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9247,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GODZILLA DEFENSE FORCE",
-        "website": "play.google.com/store/apps/details?id=com.nexon.godzilla&hl=en&gl=ES; apps.apple.com/kr/app/godzilla-defense-force/id1445535620?l=en",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d10e3f0ddcbc986db63dc99a8663f2c7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9159
       }
     }
   ]

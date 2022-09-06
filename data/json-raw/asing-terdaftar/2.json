@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 3,
       "from": 21,
-      "lastPage": 39,
+      "lastPage": 40,
       "perPage": 10,
       "to": 30,
-      "total": 386
+      "total": 396
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10841,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "QUIZIZZ.COM",
+        "website": "quizizz.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ATQM LEARNING SOLUTIONS PRIVATE LIMITED",
+        "tanggal_daftar": "2022-08-26",
+        "nomor_tanda_daftar": "007525.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/221c475e31b553b85b9dbc48c5f6910d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10650
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10813,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WEST GAME",
+        "website": "leyi-game.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LEXIANG CO., LIMITED",
+        "tanggal_daftar": "2022-08-25",
+        "nomor_tanda_daftar": "007506.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e27d353718987ee0ce1c9c2016708dec.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10624
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10800,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/293dc7db14f47c68f1ae96f86fbfd2dc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10541
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10685,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HAY - LIVE VIDEO CHAT",
-        "website": "hay.fun",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HG VISION PTE.LTD.",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007435.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7d10800385002f70889efd859525dbb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10518
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10684,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WAR OF DEITIES",
-        "website": "leyi-game.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JOYSTIX LIMITED",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007434.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1708ac29cb2d1f4b19af848938ce4d91.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10517
       }
     }
   ]

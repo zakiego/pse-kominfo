@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 6,
       "from": 51,
-      "lastPage": 39,
+      "lastPage": 40,
       "perPage": 10,
       "to": 60,
-      "total": 386
+      "total": 396
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10539,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINE WEBSITE",
+        "website": "line.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINE PLUS CORPORATION",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007342.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/607aa64c06e792068b1c80afc5f69292.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10397
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10538,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINE MESSENGER",
+        "website": "line.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINE PLUS CORPORATION",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007342.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b88eec6e8c5692fa2c70727659efb5a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10396
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10537,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4bc0c0f92e1075415f2f2cac8708c4d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10234
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10369,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HISAVANA",
-        "website": "hisavana.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HISAVANA",
-        "tanggal_daftar": "2022-08-15",
-        "nomor_tanda_daftar": "007264.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c17fb599e5b5ebc2847737873fc4d3e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10224
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10353,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "JOYREAD ANDROID",
-        "website": "joyread.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "UNION READ LIMITED",
-        "tanggal_daftar": "2022-08-15",
-        "nomor_tanda_daftar": "007255.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7860016a3fab7c0e6b9cdc2dcf66cd5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10208
       }
     }
   ]

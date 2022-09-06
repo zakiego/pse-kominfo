@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 5,
       "from": 41,
-      "lastPage": 39,
+      "lastPage": 40,
       "perPage": 10,
       "to": 50,
-      "total": 386
+      "total": 396
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10625,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "XSHARE",
+        "website": "https://play.google.com/store/apps/details?id=com.infinix.xshare",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007384.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/20335c84b41e070ee77e25f9ec4c43d7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10460
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10624,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HI BROWSER",
+        "website": "https://play.google.com/store/apps/details?id=com.talpa.hibrowser",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007384.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c6240dd58827e12cf5a4e7c3bda5d51.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10459
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10623,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef7627f0d755ffc6d7bec69ef213fe0e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10398
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10539,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINE WEBSITE",
-        "website": "line.me",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINE PLUS CORPORATION",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "007342.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/607aa64c06e792068b1c80afc5f69292.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10397
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10538,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINE MESSENGER",
-        "website": "line.me",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINE PLUS CORPORATION",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "007342.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b88eec6e8c5692fa2c70727659efb5a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10396
       }
     }
   ]

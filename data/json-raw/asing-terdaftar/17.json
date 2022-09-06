@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 18,
       "from": 171,
-      "lastPage": 39,
+      "lastPage": 40,
       "perPage": 10,
       "to": 180,
-      "total": 386
+      "total": 396
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8928,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ROBLOX CORPORATION",
+        "website": "roblox.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ROBLOX CORPORATION",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "006219.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b2a98dca1d24b3fecc97844ef8c9086.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8834
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8770,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MIHCM",
+        "website": "mihcm.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MIHCM ASIA",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "006145.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6bb2851a4a293b0844f1811f3a1a47f0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8687
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10707,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cefb5eb74575280e346f1f8786f8531c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8685
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8480,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HAMURNI APP",
-        "website": "hamurni.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WWF-WORLD WIDE FUND FOR NATURE (SINGAPORE) LIMITED",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005941.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8728d5f5f29164f03337fd96c8decf2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8396
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8775,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MANGADEX - API",
-        "website": "api.mangadex.org",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRISTAN NINE",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "005940.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8e63e11f44cdc5ec0cd0e5d4571584a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8692
       }
     }
   ]

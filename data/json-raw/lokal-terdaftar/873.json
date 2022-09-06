@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 874,
       "from": 8731,
-      "lastPage": 1008,
+      "lastPage": 1012,
       "perPage": 10,
       "to": 8740,
-      "total": 10073
+      "total": 10114
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 844,
+      "id": 922,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "KTB Telematics",
-        "website": "runner.ktbfuso.co.id",
+        "nama": "Simobi",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SINARMAS",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000681.07/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2775877daf752ed30dd26bf575cfbb8a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 659
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 921,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Simobi+ (Simobi Plus)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SINARMAS",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000681.06/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4edef479476e89b0808b196fed8b874e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 658
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 895,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Simas Merchant QRIS",
+        "website": "https://www.banksinarmas.com/QRManager",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SINARMAS",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000681.05/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df37d3cfe0030973d7052566b9a07693.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 657
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 893,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website  Bank Sinarmas (Sharia)",
+        "website": "https://www.banksyariahsinarmas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SINARMAS",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000681.04/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c855bc0ca5dcc11fe8fa2eaf51b1ed9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 656
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 891,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website  Bank Sinarmas (Konven)",
+        "website": "https://www.banksinarmas.com/id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SINARMAS",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000681.03/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/921d2e51380315a643fe90b93f6b902d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 655
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 890,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Smart Lending Platform ( Ping An) OneConnect",
+        "website": "https://sat-simaspintar.banksinarmas.com - slp-simaspintar.banksinarmas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SINARMAS",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000681.02/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1f9a722731c1b3793bcf13031ff7c147.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 654
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 873,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sunline/Upgrade SIMOBI",
+        "website": "Simobi1.banksinarmas.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK SINARMAS",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000681.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da225a376aa4c8e093b7b872837fd3a9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 653
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 872,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CredoLab",
+        "website": "https://www.credolab.com/",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CREDOLAB INDONESIA SCORING",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000680.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aacab9aa46eb9ff87412bd3e1ab3ce31.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 183
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6600,
+      "attributes": {
+        "nomor_pb_umku": "812021413136900060003",
+        "nama": "ALTERNATE CBS",
+        "website": "-",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KRAMA YUDHA TIGA BERLIAN MOTORS",
-        "tanggal_daftar": "2021-05-10",
-        "nomor_tanda_daftar": "000655.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a48653e86a43a423edaf707a1d49c1d2.png",
+        "nama_perusahaan": "ANUGERAH LESTARI TEKNOKREASI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "000679.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ab342667d9c2f68c77dd09299dba3f05.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 409
+        "sistem_elektronik_id": 6457
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 1174,
+      "id": 1354,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Astra Integrated System (ASSIST)",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
+        "nama": "Alternate Apps",
+        "website": "www.anugerahlestariteknokreasi.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ANUGERAH LESTARI TEKNOKREASI",
         "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000654.16/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/415cadb71b72cd33f459cf38b4bfd072.png",
+        "nomor_tanda_daftar": "000679.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e02e1bd0813eaa2da663bad10971438f.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 248
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1173,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Astra Dealer Management System",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000654.15/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f331045a11f8584cfc677d824a8f1eca.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 247
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1172,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Astra Workshop System (Home Service)",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000654.14/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ebee7282916c65972e1b41042c47b71.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 246
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 978,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Motorku X",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000654.13/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bff43c87d311bc74d2689825da09ba21.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 245
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 977,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Orion",
-        "website": "https://orion.astra.co.id/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000654.12/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/141a14a7ba7cb2fd5e7a448a424e8e47.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 244
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 976,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Belibareng",
-        "website": "https://belibareng.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000654.11/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/103c59f38db2ffc21293da5aa8e8603f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 243
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 975,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AstraKu",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000654.10/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01a8ea9943afe656d4c26cf812879973.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 242
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 974,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Meta",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000654.09/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/063bdc7ec89b66313328467d59143ccd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 241
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 909,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DaihatsuKu",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA INTERNATIONAL",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000654.08/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba01b645d3b0abb80245f0235f51dada.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 240
+        "sistem_elektronik_id": 3302
       }
     }
   ]

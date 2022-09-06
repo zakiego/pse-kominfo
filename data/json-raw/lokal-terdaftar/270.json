@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 271,
       "from": 2701,
-      "lastPage": 1008,
+      "lastPage": 1012,
       "perPage": 10,
       "to": 2710,
-      "total": 10073
+      "total": 10114
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 6856,
+      "id": 6906,
+      "attributes": {
+        "nomor_pb_umku": "912020727205500040002",
+        "nama": "FAC VIRTUAL ASSESSMENT CENTER",
+        "website": "vast.firstasiaconsultants.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASIA UTAMA KONSULTAN",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005012.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e39ff3a70f09c20ee1c41f6442932f02.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6733
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6865,
+      "attributes": {
+        "nomor_pb_umku": "912020727205500040001",
+        "nama": "FAC ONLINE ASSESSMENT SYSTEM",
+        "website": "onlineassessment.firstasiaconsultants.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASIA UTAMA KONSULTAN",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005012.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0d3cf59076f01ad4c81c263d1abf7d2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6713
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6884,
+      "attributes": {
+        "nomor_pb_umku": "912011001151600010002",
+        "nama": "WEBSITE BPR DANA KARYA NUSA",
+        "website": "danakarya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANA KARYA NUSA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005011.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d673d0c5ce2a513b4e020d0b30bbd534.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6732
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6852,
+      "attributes": {
+        "nomor_pb_umku": "912011001151600010001",
+        "nama": "PT. USSI PINBUK PRIMA SOFTWARE",
+        "website": "danakarya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANA KARYA NUSA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005011.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81e35ba1d9f30e763416748e6ca2b3cd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6701
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7886,
+      "attributes": {
+        "nomor_pb_umku": "022010776089300010001",
+        "nama": "WEBSITE COMPANY PROFILE",
+        "website": "bankpundhiartaindonesia.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PUNDHI ARTA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005010.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/39997635f37685f81483b29ef14bf801.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7800
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6893,
+      "attributes": {
+        "nomor_pb_umku": "022040689148500010001",
+        "nama": "DEJAYO",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT TRIDARMA PUTRI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005009.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8730c1c5b4efa63b57123e013245e2d6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6743
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7028,
+      "attributes": {
+        "nomor_pb_umku": "812011125256200020001",
+        "nama": "RUMAHWEB",
+        "website": "rumahweb.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RUMAHWEB INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005008.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2746ffed68ef9f2033487060106426c7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6884
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6883,
       "attributes": {
         "nomor_pb_umku": "",
-        "nama": "MEMBERINA",
-        "website": "memberina.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
+        "nama": "PT BANK PERKREDITAN RAKYAT LUHUR DAMAI",
+        "website": "bprluhurdamai.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LUHUR DAMAI",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.13/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c640295c97ec8b55598285b2611d1d56.png",
+        "nomor_tanda_daftar": "005007.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb390d6e3446ff32ff3d48a6973a57fe.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6704
+        "sistem_elektronik_id": 6729
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 6847,
+      "id": 6886,
       "attributes": {
-        "nomor_pb_umku": "022000232295400000012",
-        "nama": "HADI FAJAR",
-        "website": "hadifajar.membercard.id",
+        "nomor_pb_umku": "023301018109500000001",
+        "nama": "MOCIPAY",
+        "website": "mocipay.com",
         "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
+        "nama_perusahaan": "MOCIPAY DIGITAL INDONESIA",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2560904dda740aa3b405f5f202ac6737.png",
+        "nomor_tanda_daftar": "005004.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c804c93790f6232f91e379f8d72fbe4b.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6697
+        "sistem_elektronik_id": 6735
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 6841,
+      "id": 6816,
       "attributes": {
-        "nomor_pb_umku": "022000232295400000011",
-        "nama": "MYSMP",
-        "website": "mysmp.membercard.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
+        "nomor_pb_umku": "022020426285100000001",
+        "nama": "IMAJIN.ID",
+        "website": "imajin.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MYGROWTEK JAYA IMAJIN",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b3f17bfd21eb01cb1aaf7975699ab35.png",
+        "nomor_tanda_daftar": "005003.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9ac57c2a10fc5e754bbe694cfcb967f4.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6691
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6834,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000010",
-        "nama": "BERLIAN MOTOR",
-        "website": "berlianmotor.membercard.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d8b32430c691797200e3f2f653ccd3d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6685
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6828,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000009",
-        "nama": "ARINGO",
-        "website": "aringo.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c3ef242fd30a6ac14cc020b1c1c1dab9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6678
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6823,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000008",
-        "nama": "PANEN SQUARE",
-        "website": "panensquare.membercard.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef55e04838c0dd2ef2fd7a4530780b22.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6672
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6815,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000007",
-        "nama": "DUTALIA",
-        "website": "dutalia.membercard.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47120e67a0d30697bd234be63e6b509b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6668
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6811,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000006",
-        "nama": "BROMO SWALAYAN",
-        "website": "bromoswalayan.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf10d0987014e9341ead2b143e0bf008.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6663
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6807,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000005",
-        "nama": "TODODO",
-        "website": "tododo.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6462968c5290a522508f9a3a298efbde.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6660
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6803,
-      "attributes": {
-        "nomor_pb_umku": "022000232295400000004",
-        "nama": "MAMASUKA KITCHENSTORE",
-        "website": "mamasukakitchenstore.membercard.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MEMBERI BERKAT INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004979.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08713a42df863a6dbb1691056f082cc3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6654
+        "sistem_elektronik_id": 6666
       }
     }
   ]
