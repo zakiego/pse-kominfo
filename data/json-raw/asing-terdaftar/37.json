@@ -6,10 +6,42 @@
       "lastPage": 40,
       "perPage": 10,
       "to": 380,
-      "total": 396
+      "total": 398
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4098,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "PLAYIT",
+        "website": "114.119.185.13",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SMART MEDIA4U TECHNOLOGY PTE. LTD.",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000297.07/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ced5074d8fb8251698b798d08ab76965.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4097
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4097,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "CLONEIT",
+        "website": "114.119.185.13",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SMART MEDIA4U TECHNOLOGY PTE. LTD.",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "000297.06/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/65edc7091d0447e9d47bae0617f007fd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4096
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4096,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5cf44649c0176c454d3a7a2d5c977918.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4088
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4088,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "LINKTREE",
-        "website": "linktr.ee",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINKTREE PTY LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000293.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4af5ca9f140bb111af1f9a2406231da3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4087
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4087,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "SMARTER HEALTH PLATFORM",
-        "website": "smarterhealth.sg/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SMARTER HEALTH PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "000292.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9dd690e683c9fa2972debcdd47947bb9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4086
       }
     }
   ]

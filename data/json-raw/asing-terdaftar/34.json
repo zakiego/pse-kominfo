@@ -6,18 +6,50 @@
       "lastPage": 40,
       "perPage": 10,
       "to": 350,
-      "total": 396
+      "total": 398
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 11098,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MARIA TIURMA",
+        "tanggal_daftar": "2022-09-08",
+        "nomor_tanda_daftar": "002744.06/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71c039a4726369198dabd0b2bab2bb51.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10900
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11097,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HSBC BANK LONDON",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MARIA TIURMA",
+        "tanggal_daftar": "2022-09-08",
+        "nomor_tanda_daftar": "002744.05/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d811e2c9fd20516dc293eac1b0730ebb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10899
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 11014,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "TANGZHONG INTERNATIONAL TRADE",
+        "nama": "MARIA TIURMA",
         "website": "-",
-        "sektor": "Sektor Perdagangan",
+        "sektor": "Sektor Keuangan",
         "nama_perusahaan": "MARIA TIURMA",
         "tanggal_daftar": "2022-09-05",
         "nomor_tanda_daftar": "002744.04/DJAI.PSE/09/2022",
@@ -31,7 +63,7 @@
       "id": 11011,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "MARIA KALAIJ INTERNATIONAL CLEARING AND SETTLEMENT",
+        "nama": "MARIA TIURMA",
         "website": "abcd.com",
         "sektor": "Sektor Keuangan",
         "nama_perusahaan": "MARIA TIURMA",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a6d6987f60b9133585c8e98a48b50fe.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4138
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4135,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "LARK",
-        "website": "larksuite.com; https://play.google.com/store/apps/details?id=com.larksuite.suite",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LARK TECHNOLOGIES PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "000368.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11cc92151777afbca6dc94b7722ca28f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4137
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4134,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BYTEPLUS",
-        "website": "byteplus.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BYTEPLUS PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "000367.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a39b7d17c89e64ddf7b56c8c312bad40.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4136
       }
     }
   ]
