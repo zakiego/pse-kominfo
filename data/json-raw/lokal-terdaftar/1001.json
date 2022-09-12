@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 1002,
       "from": 10011,
-      "lastPage": 1016,
+      "lastPage": 1020,
       "perPage": 10,
       "to": 10020,
-      "total": 10156
+      "total": 10192
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 94,
+      "id": 118,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "MONEY YOU",
-        "website": "-",
+        "nama": "Halalpedia",
+        "website": "https://halalpedia.com/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HALAL PEDIA INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000107.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01541a8120b670ea87e5521ba55dcf88.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2561
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 359,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Transmedika Telemedicine",
+        "website": "https://transindodata.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRANSINDO DATA PERKASA",
+        "tanggal_daftar": "2021-03-10",
+        "nomor_tanda_daftar": "000106.03/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d87601d8ca4f274b7a1abb72f0f62145.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2552
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 117,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Transmedic SIMRS",
+        "website": "https://transindodata.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRANSINDO DATA PERKASA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000106.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ef4990b6d5f25bd4b5a0b8a707b19fa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2551
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 116,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Transmedic Telemedicine",
+        "website": "https://transindodata.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRANSINDO DATA PERKASA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000106.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3056d87f6a837bfee52a06109557c546.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2550
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 115,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Social Media Platform",
+        "website": "https://hyppe.id/",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HYPPE TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000105.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/563953bb20682d40b0d2ff77fb3723e0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2549
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 114,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "E-Ordering System",
+        "website": "www.horecart.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JAYA MANIS INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000104.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47981cd9f55aa0974f4c8b42567b953a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2544
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 113,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GudangAda",
+        "website": "gudangada.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GUDANG ADA GLOBALINDO",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000103.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e94e26ae8ed93c4f34349586329033c5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2429
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7793,
+      "attributes": {
+        "nomor_pb_umku": "912060178148800010002",
+        "nama": "KREDIT LIST",
+        "website": "kreditlist.com",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM BUANA SATU TIGA",
+        "nama_perusahaan": "PRODUK KEUANGAN DIGITAL",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000102.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c84a187c03ad271d1f6a883b13a1ae4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7691
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 335,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kreditlist",
+        "website": "http://www.kreditlist.com/",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PRODUK KEUANGAN DIGITAL",
+        "tanggal_daftar": "2021-03-05",
+        "nomor_tanda_daftar": "000102.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5611b1efb9d96e2d28b23cf9bd7876ba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2533
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 112,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Kreditlist",
+        "website": "http://www.kreditlist.com/",
+        "sektor": "Sektor Keuangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PRODUK KEUANGAN DIGITAL",
         "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000084.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/551d3b458e9e49efa907e2e7b2c3c261.png",
+        "nomor_tanda_daftar": "000102.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33299cfe4f3c0b023cefd9b31b673c4a.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2528
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 93,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GOOD DANA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM BIMA EKA NUSA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000083.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03ff8f01203b0adf90ca30e76ee7dcd3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2527
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 92,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GudangAda Logistik",
-        "website": "gudanglogistik.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "GUDANG LOGISTIK GLOBALINDO",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000082.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/36c779cf42dd7c60ad2db8f3f216896b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2428
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 670,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Klikdokter",
-        "website": "https://www.klikdokter.com",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIKA KOMUNIKA TEKNOLOGI",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000081.03/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c63df118022bda062cdb9854e06577e0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2427
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 445,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Hallobumil",
-        "website": "www.hallobumil.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIKA KOMUNIKA TEKNOLOGI",
-        "tanggal_daftar": "2021-04-14",
-        "nomor_tanda_daftar": "000081.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5b3e1e3a2bf73c741186958a26f0c854.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2426
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 91,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KlikDiabetes",
-        "website": "www.klikdiabetes.com",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIKA KOMUNIKA TEKNOLOGI",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000081.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7131fa92aa7c04d856964d166d630ec8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2425
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 90,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "moringaku",
-        "website": "www.moringaku.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MORINGA WAHACARANA PRIMA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000080.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/460e17648856ed4518ee4af79f7dbdcc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2493
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 87,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MCI WORLD",
-        "website": "https://www.mci-world.com/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MILLIONAIRE GROUP INDONESIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000077.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/05e941607eb66cce231fb80c65af3619.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2377
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 86,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GShield Technology / Insurance Tile within the Grab App",
-        "website": "https://insurance.grab-sure.com/pax/id#/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "JASA TEKNOLOGI GSHIELD",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000076.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/977996b6487734ea5dee36decd9f0e39.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2371
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 85,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.oriflame.co.id",
-        "website": "www.oriflame.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ORINDO ALAM AYU",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000075.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/23df22fe4ec1125c90ed58c7c6b8b396.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2460
+        "sistem_elektronik_id": 2532
       }
     }
   ]

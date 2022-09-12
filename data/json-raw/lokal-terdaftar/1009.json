@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 1010,
       "from": 10091,
-      "lastPage": 1016,
+      "lastPage": 1020,
       "perPage": 10,
       "to": 10100,
-      "total": 10156
+      "total": 10192
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 35,
+      "id": 5339,
+      "attributes": {
+        "nomor_pb_umku": "912020177088600020001",
+        "nama": "WEBSITE SEQUIS",
+        "website": "sequis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "000050.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/61311e23e69070527e31ff987a878e80.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5212
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1641,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "JelasPay",
+        "nama": "Sequis Pro",
         "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2021-07-05",
+        "nomor_tanda_daftar": "000050.04/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/718eba0ff2849a51e0835cd21a27f276.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2474
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1640,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sequis App",
+        "website": "https://polisku.sequis.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2021-07-05",
+        "nomor_tanda_daftar": "000050.03/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57c80668948f2fc3487fe1957eb692db.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2473
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 137,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SUPERYOU",
+        "website": "https://superyou.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2021-02-24",
+        "nomor_tanda_daftar": "000050.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e884229d7dc7ca8aa20538d1d13bfaae.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2472
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 58,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sequis eZ",
+        "website": "https://sequisez.sequis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI JIWA SEQUIS LIFE",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000050.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3df43b8871e519aa4987037a07f9cf66.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2471
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 57,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bospremi",
+        "website": "www.bospremi.com",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JELAS PEMBAYARAN BIOMETRIK",
+        "nama_perusahaan": "SIGER SOLUSI TEKNOLOGI",
         "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000031.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4480c3691de412944af91816d02a422d.png",
+        "nomor_tanda_daftar": "000049.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/94ef7addf7228fcf12b50f80ca3585a7.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2321
+        "sistem_elektronik_id": 2478
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 5774,
-      "attributes": {
-        "nomor_pb_umku": "020200097141300010004",
-        "nama": "CLAIMS VENDOR ASSIGNMENT TOOL",
-        "website": "vendorassignment.chubb.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000030.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/074bd65eb6305048adac5a40b6522f56.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5636
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5582,
-      "attributes": {
-        "nomor_pb_umku": "020200097141300010003",
-        "nama": "CHUBB TRAVEL B2B",
-        "website": "travel.chubb",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "000030.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b20ee6161216042eafb8c241dc23ad43.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5430
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3274,
+      "id": 56,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Chubb Studio",
-        "website": "chubb.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
-        "tanggal_daftar": "2022-02-17",
-        "nomor_tanda_daftar": "000030.04/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/574c89739a6d008ba3aed6d319b6fe7d.png",
+        "nama": "Okeklinik",
+        "website": "okeklinik.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "TEKNOLOGI MEDIS KESEHATAN",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000048.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/202b82149776a10a191158ad5b2f3237.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2845
+        "sistem_elektronik_id": 2357
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 49,
+      "id": 55,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "MCIS (Marine Certificate Issuance System)",
-        "website": "www.chubbcargoadvantage.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
+        "nama": "Website",
+        "website": "htpps://geonet.me",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "AUSTINDO INFORMATIKA DEWATA",
         "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000030.03/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e8768cc1955842967dd38b75460924d9.png",
+        "nomor_tanda_daftar": "000047.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3506885fdaf8720748208cc0f16d61e.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2844
+        "sistem_elektronik_id": 3506
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 32,
+      "id": 54,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "CHUBB STUDIO",
-        "website": "https://ap.studio.chubb.com/id/xl-axiata/pweb/mpi/en/home",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
+        "nama": "TRUCKKING",
+        "website": "https://www.truckking.id/",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "TRUCKKING LINTAS SARANA",
         "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000030.02/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1fe78c5d7878be642a41942261d27ad4.png",
+        "nomor_tanda_daftar": "000046.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9b219b2d7460f18c548531b00290900.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2843
+        "sistem_elektronik_id": 2408
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 31,
+      "id": 53,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "CHUBB TRAVEL",
-        "website": "www.chubbtravelinsurance.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "CHUBB GENERAL INSURANCE INDONESIA",
+        "nama": "Marketplace Hooura",
+        "website": "https://hooura.com/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DIMENSI GENERASI TEKNOLOGI",
         "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000030.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/05f20945385f57493960865736ac9ec7.png",
+        "nomor_tanda_daftar": "000045.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ebbd1d411e428520f87e6f5b55afaa39.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2842
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 34,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "t-smartoffice",
-        "website": "t-smartoffice.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PADI INDAH DISTRIBUSI",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000029.03/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9a5e57a9ca5b5a69525ea8fd3ae03863.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2398
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 33,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "kelaspedia",
-        "website": "kelaspedia.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PADI INDAH DISTRIBUSI",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000029.02/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97b1153cc83ba984e5c16ac5b7c7be08.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2397
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 30,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PerpusKita",
-        "website": "perpuskita.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PADI INDAH DISTRIBUSI",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000029.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a5601fd6b1a44f59d326a283eae5189.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2396
+        "sistem_elektronik_id": 2468
       }
     }
   ]
