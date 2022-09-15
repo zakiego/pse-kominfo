@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 213,
       "from": 2121,
-      "lastPage": 1020,
+      "lastPage": 1025,
       "perPage": 10,
       "to": 2130,
-      "total": 10192
+      "total": 10245
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 8030,
+      "id": 8290,
       "attributes": {
-        "nomor_pb_umku": "022030372221800010004",
-        "nama": "MOBILE BANKING BANK PAPUA",
+        "nomor_pb_umku": "912040585350300010001",
+        "nama": "BETASOFT",
+        "website": "dutakepri.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DUTA KEPULAUAN RIAU",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005534.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0e198d94d13fc55ab27df22147230606.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7770
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7636,
+      "attributes": {
+        "nomor_pb_umku": "912030026109100010001",
+        "nama": "BPR MANUK AYU",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MANUK AYU",
         "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7f6e0d5588c19cfe19795facd5c85fe.png",
+        "nomor_tanda_daftar": "005533.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fbd6a05b7d326708dbfa35f888509f81.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7955
+        "sistem_elektronik_id": 7533
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 7981,
+      "id": 8724,
       "attributes": {
-        "nomor_pb_umku": "022030372221800010003",
-        "nama": "LAKU PANDAI (PAPUA PANDAI) BANK PAPUA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16c6015af57aff4c5aadf7a61ab389b5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7898
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7628,
-      "attributes": {
-        "nomor_pb_umku": "022030372221800010002",
-        "nama": "CASH MANAGEMENT SYSTEM (CMS) CORPORATE PT. BANK PEMBANGUNAN DAERAH PAPUA",
-        "website": "ib.bankpapua.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b80f20fc71147d8964ef2c892563b3e0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7525
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7527,
-      "attributes": {
-        "nomor_pb_umku": "022030372221800010001",
-        "nama": "EMAIL PT. BANK PEMBANGUNAN DAERAH PAPUA",
-        "website": "mail.bankpapua.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d8af93cbac4b176a8b9833b1b56c910a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7425
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7462,
-      "attributes": {
-        "nomor_pb_umku": "022030372221800010001",
-        "nama": "WEBSITE PT. BANK PEMBANGUNAN DAERAH PAPUA",
-        "website": "bankpapua.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH PAPUA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005497.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/35f1635f5090dcffdc1c930c69d819b0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7365
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7741,
-      "attributes": {
-        "nomor_pb_umku": "912040199141200010001",
-        "nama": "PT BPR NUSANTARA BONA PASOGIT 22",
-        "website": "bprnbp22.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 22",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005496.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/264cad5172afb01a06a2d4499d45bde1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7653
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7470,
-      "attributes": {
-        "nomor_pb_umku": "190322001484200020001",
-        "nama": "AWMELITEINTERNATIONAL.COM",
-        "website": "awmeliteinternational.com",
+        "nomor_pb_umku": "070622003171600010001",
+        "nama": "TOPPAY",
+        "website": "toppaymobile.online",
         "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "AWM ELITE INTERNATIONAL",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005495.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/053f01502e5dad7b850d12d870030ba3.png",
+        "nama_perusahaan": "AHMAD KADIRUN",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "005530.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d21c7e8f48390d83cdcb68fccd79811b.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7321
+        "sistem_elektronik_id": 8642
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 7954,
+      "id": 7646,
       "attributes": {
-        "nomor_pb_umku": "912031821160200010002",
-        "nama": "WEBSITE SMART FINANCE",
-        "website": "smartfinance.co.id",
+        "nomor_pb_umku": "912000477380200020001",
+        "nama": "WEBSITE BPR",
+        "website": "bprcelebes.co.id",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SMART MULTI FINANCE",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CELEBES MITRA PERDANA",
         "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005494.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c52c340b99b9b731cb179b0d89337185.png",
+        "nomor_tanda_daftar": "005529.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/131bd80452681a1824b0f2b190de388d.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7828
+        "sistem_elektronik_id": 7545
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 7879,
+      "id": 8184,
       "attributes": {
-        "nomor_pb_umku": "912031821160200010001",
-        "nama": "INVENTORY SMART FINANCE",
-        "website": "inventory.smartfinance.co.id",
+        "nomor_pb_umku": "912020688340400010001",
+        "nama": "PT BPR ARTHA BUANA",
+        "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SMART MULTI FINANCE",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARTHA BUANA",
         "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005494.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/afc674d07095790bd1314425f5972894.png",
+        "nomor_tanda_daftar": "005528.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a67dbcb7def32cc3816cc1a35bed96d.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7790
+        "sistem_elektronik_id": 7742
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 8632,
+      "id": 7961,
       "attributes": {
-        "nomor_pb_umku": "122700131100200020001",
-        "nama": "BPR POLATAMA KUSUMA",
-        "website": "bprpolatamakusuma.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT POLATAMA KUSUMA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005493.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7bab029c52bf90c364155cbebc369434.png",
+        "nomor_pb_umku": "022000479130500310002",
+        "nama": "MYALKES",
+        "website": "myalkes.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "YOSEFIN CHRISTINA C.K",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005527.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e4b054e99eebbee91fefdf4809b1517.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8551
+        "sistem_elektronik_id": 7876
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7579,
+      "attributes": {
+        "nomor_pb_umku": "191021001575900000001",
+        "nama": "CLOTHLYN",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JOHANNES KOSIM",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005526.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/866ce6f5b2b463808c873008a2089661.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7472
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7576,
+      "attributes": {
+        "nomor_pb_umku": "912000663159300010001",
+        "nama": "BPR LUGASGANDA",
+        "website": "bprlugasganda.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LUGASGANDA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005525.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/525ab5d1aa7607d7be428ef9c8410cd1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7467
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7733,
+      "attributes": {
+        "nomor_pb_umku": "912010438035400010001",
+        "nama": "BPRARSINDO.CO.ID",
+        "website": "bprarsindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARTHA SAMUDERA INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005524.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8c8e65fe15cb05b044db92f50d26646.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7640
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7912,
+      "attributes": {
+        "nomor_pb_umku": "090622004403700000001",
+        "nama": "BONAFIT PAYMENT",
+        "website": "bonafitpay.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BONAFIT MULTI PAYMENT",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005523.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d03d397a406722d0b24045a5dcf78af9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7827
       }
     }
   ]
