@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 202,
       "from": 2011,
-      "lastPage": 1032,
+      "lastPage": 1038,
       "perPage": 10,
       "to": 2020,
-      "total": 10315
+      "total": 10380
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 8061,
+      "id": 8160,
       "attributes": {
-        "nomor_pb_umku": "022030022123100000001",
-        "nama": "PERUMDA BPR KOTA BANDUNG",
-        "website": "wwww.bankbandung.co.id",
+        "nomor_pb_umku": "127500043227100010007",
+        "nama": "APLIKASI KREDITEK PT BPR BANK DAERAH BANGLI (PERSERODA)",
+        "website": "kreditekfa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005716.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb6cb02d6ccc16ab345ec447e8968a75.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8081
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8132,
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010006",
+        "nama": "SISTEM SURAT PT BPR BANK DAERAH BANGLI (PERSERODA)",
+        "website": "surat.bankdaerahbangli.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005716.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2313c4f211de6099cb68b96d497d7a60.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8053
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8125,
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010005",
+        "nama": "SISTEM ABSENSI PT BPR BANK DAERAH BANGLI (PERSERODA)",
+        "website": "pegawai.bankdaerahbangli.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005716.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c3ec9d77f0df807c9277c0ca4d7027e3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8046
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8107,
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010004",
+        "nama": "APLIKASI PUNGUTAN TABUNGAN DAN KREDIT",
+        "website": "pungutan.bankdaerahbangli.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005716.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/278034680a99fa5e140eb5bfca76c6b2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8027
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8053,
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010003",
+        "nama": "CORE BANKING SYSTEM PT BPR BANK DAERAH BANGLI (PERSERODA)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005716.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a97aab7ec3822ab7f7f3a26f6b29bbfd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7975
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8011,
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010002",
+        "nama": "VA H2H PT BPR BANK DAERAH BANGLI (PERSERODA) DAN PT. BPD BALI",
+        "website": "cbs.bankdaerahbangli.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005716.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f0ddf447ad62ad20daafdecbd2012524.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7932
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7978,
+      "attributes": {
+        "nomor_pb_umku": "127500043227100010001",
+        "nama": "WEBSITE COMPANY PROFILE BPR",
+        "website": "bankdaerahbangli.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005716.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1eee59d971d4ae3c2ad7d680ab90e67a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7895
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8425,
+      "attributes": {
+        "nomor_pb_umku": "912000711077300010002",
+        "nama": "RUMAH.COM",
+        "website": "rumah.com",
         "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KOTA BANDUNG",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005693.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb7db17d7d5d05cea4440e157a224ca1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7979
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7933,
-      "attributes": {
-        "nomor_pb_umku": "912020880012100010001",
-        "nama": "APLIKASI RETAIL BPR",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PUSAKA DANA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005692.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dfbe6d856499d95ffc14c33d45461017.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7853
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7993,
-      "attributes": {
-        "nomor_pb_umku": "128600069088900010002",
-        "nama": "SITUS CORPORATE  BANK BPR DJOKO TINGKIR",
-        "website": "bprdjokotingkir.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DJOKO TINGKIR PERSERODA KABUPATEN SRAGEN",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005691.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac9498777b514253f7960e1c28c3ac56.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7911
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7980,
-      "attributes": {
-        "nomor_pb_umku": "128600069088900010001",
-        "nama": "DJUARA MOBILE",
-        "website": "bprdjokotingkir.com",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BANK DJOKO TINGKIR PERSERODA KABUPATEN SRAGEN",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005691.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f85ff4f349967075926d891a3b28e08.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7897
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8444,
-      "attributes": {
-        "nomor_pb_umku": "120522003662600010001",
-        "nama": "PT. BANK PERKREDITAN RAKYAT LOPOK GANDA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LOPOKGANDA",
+        "nama_perusahaan": "ALLPROPERTY MEDIA",
         "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005690.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/091721cf4945cf60152073e0463685d2.png",
+        "nomor_tanda_daftar": "005715.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b4112667641a0639891a1841117fe02.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8364
+        "sistem_elektronik_id": 8324
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 8040,
+      "id": 8126,
       "attributes": {
-        "nomor_pb_umku": "912000296057200020001",
-        "nama": "HASAMITRA MOBILE",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT HASA MITRA",
+        "nomor_pb_umku": "912020284184200010001",
+        "nama": "WEBSITE BPR KANDIMADUARTA",
+        "website": "bprkma.com",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KANDIMADU ARTA",
         "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005689.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bbf2bdb41a056bb47dfc5c041491a676.png",
+        "nomor_tanda_daftar": "005714.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eeed593dba2fee6f5607ae475a7d544c.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7962
+        "sistem_elektronik_id": 8048
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 8028,
+      "id": 8169,
       "attributes": {
-        "nomor_pb_umku": "912000296057200020001",
-        "nama": "HASAMITRA",
-        "website": "hasamitra.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT HASA MITRA",
+        "nomor_pb_umku": "912010973093500020001",
+        "nama": "WEBSITE BANDUNGTALENTSOURCE.COM",
+        "website": "bandungtalentsource.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANDUNG TALENTSOURCE",
         "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005689.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9414ea9b501780b5527db11bc14b637c.png",
+        "nomor_tanda_daftar": "005713.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f72416855c0f5c46ff1e904a88048c18.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7951
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11227,
-      "attributes": {
-        "nomor_pb_umku": "912010599059200010001",
-        "nama": "WEBSITE BPR DANAGUNG ABADI",
-        "website": "danagungabadi.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANAGUNG ABADI",
-        "tanggal_daftar": "2022-09-16",
-        "nomor_tanda_daftar": "005688.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b7934def4b27e26a2465332e4c18f23.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11035
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9591,
-      "attributes": {
-        "nomor_pb_umku": "028801023124800000002",
-        "nama": "OLSHOPIN",
-        "website": "olshopin.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KASIR PINTAR INTERNASIONAL",
-        "tanggal_daftar": "2022-08-02",
-        "nomor_tanda_daftar": "005687.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eddf951271f880e11d77ed3541738ac4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9484
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8514,
-      "attributes": {
-        "nomor_pb_umku": "028801023124800000001",
-        "nama": "KASIR PINTAR",
-        "website": "kasirpintar.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KASIR PINTAR INTERNASIONAL",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005687.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15b313c75d723a831e6a145bd9498eb5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8357
+        "sistem_elektronik_id": 8087
       }
     }
   ]
