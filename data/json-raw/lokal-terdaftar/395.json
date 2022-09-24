@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5734,
+      "attributes": {
+        "nomor_pb_umku": "912020955103500010001",
+        "nama": "WEBSITE PERUSAHAAN",
+        "website": "mitsuilease.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MITSUI LEASING CAPITAL INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004269.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2620bb0cfd8b0cfa6f02a5919850ac5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5597
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7574,
       "attributes": {
         "nomor_pb_umku": "100622003768300000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00f87c82a3f15538bf17fb0b946a5cde.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5667
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5765,
-      "attributes": {
-        "nomor_pb_umku": "912020077178500010001",
-        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS",
-        "website": "bprmodern.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004263.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d6cde9938adfad5e7268885fa3837e82.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5629
       }
     }
   ]

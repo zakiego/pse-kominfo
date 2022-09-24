@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5705,
+      "attributes": {
+        "nomor_pb_umku": "912050480057200030002",
+        "nama": "INTERNET BANKING BANK KALSEL",
+        "website": "digital.bankkalsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004232.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62db7e2eb8b292c936d35ece7d4b9360.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5568
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5696,
       "attributes": {
         "nomor_pb_umku": "912050480057200030001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/78cc755d0e33486951b9f50fedefe842.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5523
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5661,
-      "attributes": {
-        "nomor_pb_umku": "128800140207100000001",
-        "nama": "DAKASAKTI MULTISAMA",
-        "website": "dakasakti.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MAHMUDA KARIMA",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "004225.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10227eca463ff3b54a9f83ab03efb86b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5521
       }
     }
   ]

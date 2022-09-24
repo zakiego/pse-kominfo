@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7002,
+      "attributes": {
+        "nomor_pb_umku": "912000875350100010001",
+        "nama": "WEBSITE RESMI PT. BPR UTOMO MANUNGGAL SEJAHTERA SUMSEL",
+        "website": "utomobanksumsel.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT UTOMO MANUNGGAL SEJAHTERA SUMSEL",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005050.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b59abc93d49e33ebacd33b65aa47c476.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6841
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6939,
       "attributes": {
         "nomor_pb_umku": "027500092178200020002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2378a7e1538baacb6150b13db4ef1c6e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6991
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6969,
-      "attributes": {
-        "nomor_pb_umku": "022010875081200010001",
-        "nama": "BPRDANALESTARI.COM",
-        "website": "bprdanalestari.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANA LESTARI",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005042.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a88c9a18f4c3294cf4b5c2bc1d52c724.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6822
       }
     }
   ]

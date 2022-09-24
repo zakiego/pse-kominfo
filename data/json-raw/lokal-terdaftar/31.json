@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10892,
+      "attributes": {
+        "nomor_pb_umku": "912010973192500010002",
+        "nama": "BPR NUSAMBA CEPIRING (QRCODE)",
+        "website": "itcenternusambacpr.biz.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSAMBA CEPIRING",
+        "tanggal_daftar": "2022-08-30",
+        "nomor_tanda_daftar": "007510.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16cef1520b9de0b0bdd56649d43fc36f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10704
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10816,
+      "attributes": {
+        "nomor_pb_umku": "912010973192500010001",
+        "nama": "HTTPS://WWW.BPRNUSAMBACEPIRING.COM/",
+        "website": "bprnusambacepiring.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSAMBA CEPIRING",
+        "tanggal_daftar": "2022-08-26",
+        "nomor_tanda_daftar": "007510.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ad407a087cfd099e2e8c1772fd878081.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10627
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 10820,
       "attributes": {
         "nomor_pb_umku": "912030170137200010001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/846a2a9e55c1bc643bf9c32d97bbdf98.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10693
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10815,
-      "attributes": {
-        "nomor_pb_umku": "250822004274400000001",
-        "nama": "G-EXPRESS - JASA ANGKUTAN BARANG",
-        "website": "-",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "GERAKAN PENGEMUDI INDONESIA",
-        "tanggal_daftar": "2022-08-26",
-        "nomor_tanda_daftar": "007502.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0f51c210314c9a9ad3eb38f3d27e0cdb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10626
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10808,
-      "attributes": {
-        "nomor_pb_umku": "140921007175500030001",
-        "nama": "GAMEFINITY.ID",
-        "website": "gamefinity.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANGUN MEDIA INTEGRA",
-        "tanggal_daftar": "2022-08-25",
-        "nomor_tanda_daftar": "007501.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/327902a4b487b9d58c14875e754905ac.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10618
       }
     }
   ]

@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6705,
+      "attributes": {
+        "nomor_pb_umku": "912040243094600000001",
+        "nama": "WEBSITE PERUSAHAAN",
+        "website": "seinoindomobil.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "SEINO INDOMOBIL LOGISTICS SERVICES",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004202.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/530eb4e8fc106127d23cec74a3469b4b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6287
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6704,
       "attributes": {
         "nomor_pb_umku": "912040243094600000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa2d84bff75d1dafb10f30da6ff3c2ac.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5567
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5980,
-      "attributes": {
-        "nomor_pb_umku": "124500012239600040004",
-        "nama": "MCOKE.CO.ID",
-        "website": "mcoke.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PUTRA INTI CEMERLANG",
-        "tanggal_daftar": "2022-07-17",
-        "nomor_tanda_daftar": "004195.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4f047c7b1f10ab8b0ca0ef962314045.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5842
       }
     }
   ]

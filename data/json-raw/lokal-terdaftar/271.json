@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7676,
+      "attributes": {
+        "nomor_pb_umku": "912020931128600010001",
+        "nama": "VPS (VENTURA PAYMENT SYSTEM)",
+        "website": "venturapratamasejati.com",
+        "sektor": "Sektor Perdagangan, Sektor Transportasi",
+        "nama_perusahaan": "VENTURA PRATAMA SEJATI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005183.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c58d15bcaccbf1b1a77be28d29af59ba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7565
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7122,
       "attributes": {
         "nomor_pb_umku": "190722006510100010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c18faf603fbd954b211fe8fdf31c9e9c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7010
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7108,
-      "attributes": {
-        "nomor_pb_umku": "812011126197900020001",
-        "nama": "ISLAMIC BANKING APPLICATION",
-        "website": "banksyariahbandarlampung.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH BANDAR LAMPUNG",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005173.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc29eb8035a5822bab5ae27fc5cf1d19.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6969
       }
     }
   ]

@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6795,
+      "attributes": {
+        "nomor_pb_umku": "123000022004700010001",
+        "nama": "WEBSITE",
+        "website": "bankpasarsemarang.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUMDA BPR BANK PASAR KOTA SEMARANG",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004943.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8eaa8f7ec05795007a989bb814fde4c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6643
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6780,
       "attributes": {
         "nomor_pb_umku": "812001024049800000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b30e1b6e44c432c7b930f04da1a54f79.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7127
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10887,
-      "attributes": {
-        "nomor_pb_umku": "150222006467300000002",
-        "nama": "PAKET NUTAPOS",
-        "website": "nutapos.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NUSANTARA BERKAH DIGITAL",
-        "tanggal_daftar": "2022-08-30",
-        "nomor_tanda_daftar": "004934.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c4af036e757da74875c8d022bee2f5c5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10700
       }
     }
   ]

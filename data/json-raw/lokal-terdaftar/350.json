@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6209,
+      "attributes": {
+        "nomor_pb_umku": "912020676043100020001",
+        "nama": "BACKOFFICE S21",
+        "website": "intifikasa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "INTI FIKASA SEKURITAS",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004565.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51c98503c99d2d9bfd49588940114b9e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6069
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6198,
       "attributes": {
         "nomor_pb_umku": "180722002437400000002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fce6c392f421ae5280f677fd5a0208b3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8599
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8677,
-      "attributes": {
-        "nomor_pb_umku": "912000952259500000007",
-        "nama": "BACKOFFICE.PERIKSAIN.ID",
-        "website": "backoffice.periksain.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "004561.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/360bc2d71b85d0976fdb7fcb91f79244.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8596
       }
     }
   ]

@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6624,
+      "attributes": {
+        "nomor_pb_umku": "022010378190100010001",
+        "nama": "WEBSITE",
+        "website": "bprceperklaten.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CEPER",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004705.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/658d8e668a50cd153403ee8281ad51ba.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6481
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6629,
       "attributes": {
         "nomor_pb_umku": "912000790134400000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2fce34fe09fee54386ae4ac155c6e83e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9758
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9868,
-      "attributes": {
-        "nomor_pb_umku": "022010847164300090001",
-        "nama": "GSI LAB",
-        "website": "gsilab.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "GENOMIK SOLIDARITAS INDONESIA",
-        "tanggal_daftar": "2022-08-04",
-        "nomor_tanda_daftar": "004699.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fe5d5a036f9bf96c0988ee6367b31e1c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9755
       }
     }
   ]

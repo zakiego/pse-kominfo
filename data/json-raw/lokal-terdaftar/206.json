@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8004,
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020002",
+        "nama": "WEFIT.ID",
+        "website": "wefit.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005702.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17092bbab8b040d1f1522b25cc1d9e9d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7922
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7976,
+      "attributes": {
+        "nomor_pb_umku": "051021001328700020001",
+        "nama": "CENTRALRAYAGROUP",
+        "website": "centralrayagroup.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MAHKOTA PERMATA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005702.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1befa8a5702f6bb2d627c5bc77d949e8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7893
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8453,
       "attributes": {
         "nomor_pb_umku": "191021005363800010001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/54f298523b125bc9590f00ef687b92f5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7799
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8061,
-      "attributes": {
-        "nomor_pb_umku": "022030022123100000001",
-        "nama": "PERUMDA BPR KOTA BANDUNG",
-        "website": "wwww.bankbandung.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KOTA BANDUNG",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005693.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb7db17d7d5d05cea4440e157a224ca1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7979
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7933,
-      "attributes": {
-        "nomor_pb_umku": "912020880012100010001",
-        "nama": "APLIKASI RETAIL BPR",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT PUSAKA DANA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005692.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dfbe6d856499d95ffc14c33d45461017.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7853
       }
     }
   ]

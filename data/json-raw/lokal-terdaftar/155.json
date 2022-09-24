@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8899,
+      "attributes": {
+        "nomor_pb_umku": "231221003310200010001",
+        "nama": "KLINIK PULSA",
+        "website": "klinikpulsa.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FABIAN RACHMAN",
+        "tanggal_daftar": "2022-07-23",
+        "nomor_tanda_daftar": "006199.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e24a9de724d3388f3c2edd4c85a17364.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8803
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8883,
+      "attributes": {
+        "nomor_pb_umku": "123700055277900010001",
+        "nama": "PT. BANK PERKREDITAN RAKYAT NUSANTARA SUNGGAL",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA SUNGGAL",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "006198.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f87fa512a340b219b9cb47b8d6abead5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8785
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8882,
       "attributes": {
         "nomor_pb_umku": "812000077187200010002",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bbd57026e30d5ca375e1d0c34a7f6aa7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8857
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8903,
-      "attributes": {
-        "nomor_pb_umku": "912000898057100010001",
-        "nama": "KLIKMSJ.COM",
-        "website": "klikmsj.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MARKONI SARANAJAYA",
-        "tanggal_daftar": "2022-07-23",
-        "nomor_tanda_daftar": "006189.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d45abefd046f37b410232249552dfcf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8806
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8901,
-      "attributes": {
-        "nomor_pb_umku": "912000898057100010001",
-        "nama": "WEBSITE BPR MARKONI SARANAJAYA",
-        "website": "bprmarkoni.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MARKONI SARANAJAYA",
-        "tanggal_daftar": "2022-07-23",
-        "nomor_tanda_daftar": "006189.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38d740c9e5d683928d96b5e373ab552d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8805
       }
     }
   ]

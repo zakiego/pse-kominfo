@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6915,
+      "attributes": {
+        "nomor_pb_umku": "812000382013500760001",
+        "nama": "PLN MOBILE",
+        "website": "-",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_perusahaan": "PERUSAHAAN LISTRIK NEGARA (PERSERO)",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004620.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b132954e5b167a3b80379a34acd6dfd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6763
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6306,
       "attributes": {
         "nomor_pb_umku": "124700024235700000003",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4533940ff3354cb1df518c03625387b7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6123
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6453,
-      "attributes": {
-        "nomor_pb_umku": "125400033122700000001",
-        "nama": "SEMESTA AKADEMI",
-        "website": "semestaakademi.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SEMESTA EDUKASI KREATIF",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004616.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d59eb4c565429d020a22fbb26434c759.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6321
       }
     }
   ]

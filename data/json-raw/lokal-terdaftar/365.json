@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6007,
+      "attributes": {
+        "nomor_pb_umku": "170921000140900000001",
+        "nama": "RUGSTORE.ID",
+        "website": "RUGSTORE.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NOVYAN MOEZHAKY UMBARA",
+        "tanggal_daftar": "2022-07-17",
+        "nomor_tanda_daftar": "004460.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c31244419f538ec2e5bdcbbaaf899ed.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5871
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6022,
       "attributes": {
         "nomor_pb_umku": "270622001320900000002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/56ed40bba5a68b827782f12255c645d3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5868
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6002,
-      "attributes": {
-        "nomor_pb_umku": "128100012149600000002",
-        "nama": "ISTANA RELOAD",
-        "website": "istanareload.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CAHAYA MULTI SOLUTION",
-        "tanggal_daftar": "2022-07-17",
-        "nomor_tanda_daftar": "004453.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bebd4d16b1d12b9bf8e045fbb1abd8fa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5866
       }
     }
   ]

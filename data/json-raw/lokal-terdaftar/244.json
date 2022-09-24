@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7702,
+      "attributes": {
+        "nomor_pb_umku": "912020485220300010001",
+        "nama": "WEBSITE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SENTRAL ARTA JAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005410.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97569ba258be191fcd7ba07265661abd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7610
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7875,
       "attributes": {
         "nomor_pb_umku": "912020757143200010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45bef57e7f9b2bf692d2615716be1eda.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7757
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7407,
-      "attributes": {
-        "nomor_pb_umku": "200722002411500000001",
-        "nama": "ALTERNATE APPS",
-        "website": "rwap.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT RAKSA WACANA AGRI PURNAMA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005401.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/98f4a966433b0bd8ea31ab7318185396.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7307
       }
     }
   ]

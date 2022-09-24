@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8512,
+      "attributes": {
+        "nomor_pb_umku": "912040733169600040002",
+        "nama": "SINBAD",
+        "website": "seller.sinbad.web.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SINBAD KARYA PERDAGANGAN",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005902.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ff0a33d4bb3db6340aeaaf6982e1cb54.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8425
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8547,
+      "attributes": {
+        "nomor_pb_umku": "912010053190800010001",
+        "nama": "WEBSITE BPR REJEKI INSANI",
+        "website": "rejeki.insani.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT REJEKI INSANI",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005901.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45dc95176e45b7a81ef33d8be3f77150.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8460
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8499,
       "attributes": {
         "nomor_pb_umku": "912010430178400030004",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cfa1253df3b13a82cda9e5efaf700e66.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8320
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8537,
-      "attributes": {
-        "nomor_pb_umku": "912040685240200010001",
-        "nama": "WEBSITE",
-        "website": "bankbsm.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BPR SENTRAL MANDIRI",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005892.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b16045c7b45fd584163c9defe67174d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8450
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8405,
-      "attributes": {
-        "nomor_pb_umku": "912000555244500010001",
-        "nama": "WEBSITE BPR BINTAN",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUMDA BPR BINTAN",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005891.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/87b2226bb4f494bba3462a5242584b11.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8323
       }
     }
   ]

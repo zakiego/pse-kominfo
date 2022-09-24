@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10199,
+      "attributes": {
+        "nomor_pb_umku": "912030169218300020003",
+        "nama": "FSA",
+        "website": "sedana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SEDANA PASIFIK SERVISTAMA",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "004042.04/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b537741e538f05c719778e9a53ec2014.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10079
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 10197,
       "attributes": {
         "nomor_pb_umku": "912030169218300020002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc8eb3e1b66233459662c569a6ef00e2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6091
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6592,
-      "attributes": {
-        "nomor_pb_umku": "100622002238300010001",
-        "nama": "TANAKU",
-        "website": "tanaku.co",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TANAKU NUSANTARA INTERNASIONAL",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004038.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f6a583b3737622156623307ca004ff9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6212
       }
     }
   ]

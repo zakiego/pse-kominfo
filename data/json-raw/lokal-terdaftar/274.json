@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7063,
+      "attributes": {
+        "nomor_pb_umku": "126200070195100000001",
+        "nama": "JARIVIS",
+        "website": "jarivis.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JARI KARYA INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005156.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a4c2354fdd352646bdc6d9870de04af.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6930
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7052,
       "attributes": {
         "nomor_pb_umku": "029601008298600020001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/567bb715dba396a388efe590b61bed6f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8811
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8210,
-      "attributes": {
-        "nomor_pb_umku": "190722006687900000003",
-        "nama": "WEBSITE KLINIK BIMA MEDIA SEJAHTERA",
-        "website": "bmss.co.id",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "JABARSOFT TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005145.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/322b47615bf4a81738d91ed80280b780.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8131
       }
     }
   ]

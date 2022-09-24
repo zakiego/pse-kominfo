@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6530,
+      "attributes": {
+        "nomor_pb_umku": "250322004362600010001",
+        "nama": "ETHAN SHOP",
+        "website": "ethan-shop.netlify.app",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "EKO SETIAJI",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004782.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/361ac070ce32c449f3fe4293bb3a36d1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6397
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6583,
       "attributes": {
         "nomor_pb_umku": "141021005000700010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f5f66b68761691fe2835aaf2c83b5d6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6388
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6557,
-      "attributes": {
-        "nomor_pb_umku": "129700033042800010001",
-        "nama": "GLINTS ACADEMY",
-        "website": "academy.glints.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GLINTS AKADEMI INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004775.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/53dc5026c1281bf61cd2584f07bf8c33.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6378
       }
     }
   ]

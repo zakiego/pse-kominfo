@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10111,
+      "attributes": {
+        "nomor_pb_umku": "912030135256500000001",
+        "nama": "MONOTARO INDONESIA",
+        "website": "monotaro.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MONOTARO INDONESIA",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "007096.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81fd2f02f1b08016047140ccd6a60c50.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9993
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10195,
+      "attributes": {
+        "nomor_pb_umku": "912001000132300020002",
+        "nama": "PT CITRA AGUNG MESTIKA",
+        "website": "WWW.IP1.CO.ID",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "CITRA AGUNG MESTIKA",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "007095.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d6269427d9bc26004bd6878e733f5b94.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10075
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 10112,
       "attributes": {
         "nomor_pb_umku": "912001000132300020001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77f7fa71ecfdf327d56c5ada1b82bb85.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10886
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10075,
-      "attributes": {
-        "nomor_pb_umku": "090822000177400000002",
-        "nama": "BENGKLEPRO",
-        "website": "bengkle.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BURSA SERVIS INDONESIA",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "007084.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/584caf7df2ea9d05048cca637759c22c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9964
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10067,
-      "attributes": {
-        "nomor_pb_umku": "090822000177400000001",
-        "nama": "BENGKLE",
-        "website": "bengkle.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BURSA SERVIS INDONESIA",
-        "tanggal_daftar": "2022-08-09",
-        "nomor_tanda_daftar": "007084.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d6e34ca1b1eb2b231cedb1c6a9db341.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9956
       }
     }
   ]

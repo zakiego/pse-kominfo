@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6181,
+      "attributes": {
+        "nomor_pb_umku": "912030010258800010007",
+        "nama": "NAGARI HOSPITAL INFORMATION SYSTEM",
+        "website": "n-his.banknagari.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK NAGARI",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "004529.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b0b180584afadec9e1ecbc96c5afb3a0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6049
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6180,
       "attributes": {
         "nomor_pb_umku": "912030010258800010006",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76a51dda0b90eb36edbce57620029a1d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5973
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6102,
-      "attributes": {
-        "nomor_pb_umku": "912021407275100000001",
-        "nama": "SITUS PERUSAHAAN WWW.THEEQUITYONE.COM",
-        "website": "theequityone.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "EQUITY DEVELOPMENT INVESTMENT",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004526.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/495c37662e5a1016703d08ff4ee02885.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5974
       }
     }
   ]

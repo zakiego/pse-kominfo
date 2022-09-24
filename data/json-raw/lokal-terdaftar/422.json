@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5673,
+      "attributes": {
+        "nomor_pb_umku": "912000951092600010001",
+        "nama": "WEB EXTERNAL",
+        "website": "nobubank.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK NATIONALNOBU",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004124.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4a3e2ae4ba4ed2799522633b264ac371.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5531
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5503,
       "attributes": {
         "nomor_pb_umku": "090722000762300090001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9e0d2d14a7dd2723b7382aa9ddb60c5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5372
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8851,
-      "attributes": {
-        "nomor_pb_umku": "121700342281800030003",
-        "nama": "VEXASCAN.COM",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VEXANIUM TEKNOLOGI NUSANTARA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "004118.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c37e611e6994354a836c88322cabe82.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8757
       }
     }
   ]

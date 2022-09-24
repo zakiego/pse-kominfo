@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10702,
+      "attributes": {
+        "nomor_pb_umku": "120822004671100010002",
+        "nama": "POT.PILARMAS-INVESTINDO.CO.ID",
+        "website": "pot.pilarmas-investindo.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PILARMAS INVESTINDO SEKURITAS",
+        "tanggal_daftar": "2022-08-23",
+        "nomor_tanda_daftar": "007421.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/26d840ab12c7bffa1e11bd7d769d0779.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10535
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10699,
+      "attributes": {
+        "nomor_pb_umku": "120822004671100010001",
+        "nama": "PILARMAS ONLINE TRADING",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PILARMAS INVESTINDO SEKURITAS",
+        "tanggal_daftar": "2022-08-23",
+        "nomor_tanda_daftar": "007421.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca6806ef7fa45780fba98853c5c2fce2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10533
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 10673,
       "attributes": {
         "nomor_pb_umku": "022000662032700010001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89fe87f216705c7962cc4dc955cf6ae0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10506
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10671,
-      "attributes": {
-        "nomor_pb_umku": "912011509191900000002",
-        "nama": "AWANPINTAR",
-        "website": "awanpintar.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PROSPERITA SISTEM INDONESIA",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007415.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7e3eecb5f65b1c1e4e4be70bf19280a4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10503
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10667,
-      "attributes": {
-        "nomor_pb_umku": "912011509191900000001",
-        "nama": "SPAMCLEANER",
-        "website": "spamcleaner.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PROSPERITA SISTEM INDONESIA",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007415.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a0403ef670e5d2d36e73364949ccda7a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10501
       }
     }
   ]

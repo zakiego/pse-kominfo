@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5661,
+      "attributes": {
+        "nomor_pb_umku": "128800140207100000001",
+        "nama": "DAKASAKTI MULTISAMA",
+        "website": "dakasakti.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MAHMUDA KARIMA",
+        "tanggal_daftar": "2022-07-14",
+        "nomor_tanda_daftar": "004225.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10227eca463ff3b54a9f83ab03efb86b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5521
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5819,
       "attributes": {
         "nomor_pb_umku": "912010460172100060001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/022682ba1494459891ca196db525dd17.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9806
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9876,
-      "attributes": {
-        "nomor_pb_umku": "812010492112800230002",
-        "nama": "WEBSITE MITRA MANDALA FINANCE",
-        "website": "partner.mantis.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDALA MULTIFINANCE",
-        "tanggal_daftar": "2022-08-04",
-        "nomor_tanda_daftar": "004222.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ddadf80c2ce0381abe4269f7ec0af10d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9762
       }
     }
   ]

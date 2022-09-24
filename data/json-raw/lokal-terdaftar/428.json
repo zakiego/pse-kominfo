@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5470,
+      "attributes": {
+        "nomor_pb_umku": "022010055208900000001",
+        "nama": "HERCO DIGITAL",
+        "website": "hercodigital.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HERCO DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-13",
+        "nomor_tanda_daftar": "004087.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df568dd1277798ba0dbf17c7f400273d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5342
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5599,
       "attributes": {
         "nomor_pb_umku": "912020532194600010002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4937cc7a028fac7efaa637628156df77.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6103
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6226,
-      "attributes": {
-        "nomor_pb_umku": "912020259293500020002",
-        "nama": "WEBSITE KLIK LEGAL",
-        "website": "kliklegal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PRO LEGAL INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004079.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dd0ac4cef09181f66c9a1e015395d058.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6090
       }
     }
   ]

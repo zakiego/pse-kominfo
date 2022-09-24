@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8570,
+      "attributes": {
+        "nomor_pb_umku": "812001816259400010001",
+        "nama": "WEBSITE COMPANY BANK SOLO",
+        "website": "banksolo.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BPR BANK SOLO",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005990.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/74afa1d98fd8a15657badc8aed9d3de0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8484
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8603,
+      "attributes": {
+        "nomor_pb_umku": "912030292237100010001",
+        "nama": "WWW.BPRGUNUNGKAWI.COM",
+        "website": "bprgunungkawi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT GUNUNG KAWI",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005988.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6554ec4b0eec3f8745c2b7a0855c9d0a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8523
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8564,
       "attributes": {
         "nomor_pb_umku": "200722000931300000001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c727dc9ab85cf837d2fe967e51222af.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8482
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8553,
-      "attributes": {
-        "nomor_pb_umku": "210722004240800000001",
-        "nama": "PT ESTU WEB HOST",
-        "website": "estuwebhost.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ESTU WEB HOST",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005978.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/25b863dd1f3de76f3617e0dbcaaade63.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8469
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8551,
-      "attributes": {
-        "nomor_pb_umku": "912020771360600010001",
-        "nama": "BANK WAWAY",
-        "website": "bankwawaylampung.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT WAWAY LAMPUNG PERSERODA",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005977.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/72874f8dc5d95ee590a574bc1d69164f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8466
       }
     }
   ]

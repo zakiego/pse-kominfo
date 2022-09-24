@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10404,
+      "attributes": {
+        "nomor_pb_umku": "022030375229300010002",
+        "nama": "CITIDIRECT",
+        "website": "citicorp.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CITIBANK, N.A.",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "007283.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3df0e94093e80a13f323f869b5205d7c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10261
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10658,
+      "attributes": {
+        "nomor_pb_umku": "300921003392900010001",
+        "nama": "WEBSITE PROFIL BPRS ALMASOEM",
+        "website": "almasoembank.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH ALMASOEM",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007282.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de030c68ce740c19ff0f9a3d86753299.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10266
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 10635,
       "attributes": {
         "nomor_pb_umku": "151021000877900010002",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14716e02257136f88da9e05ce5149415.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10242
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10387,
-      "attributes": {
-        "nomor_pb_umku": "812021314113400010003",
-        "nama": "WWW.OTOASIA.COM",
-        "website": "otoasia.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KAPAN LAGI DOT COM NETWORKS",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "007277.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3a19202a9a1d511661a1f31d01e7b589.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10241
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10385,
-      "attributes": {
-        "nomor_pb_umku": "812021314113400010001",
-        "nama": "WWW.KAPANLAGI.COM",
-        "website": "kapanlagi.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KAPAN LAGI DOT COM NETWORKS",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007277.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ecb0faecae2f531b4d4ac04d49a842a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10240
       }
     }
   ]

@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8929,
+      "attributes": {
+        "nomor_pb_umku": "022000199082100000001",
+        "nama": "ZQILA",
+        "website": "zqila.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "JUS BIANTORO",
+        "tanggal_daftar": "2022-07-24",
+        "nomor_tanda_daftar": "003868.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc1a13f577098ceb57f2ee92d3c63ba0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8835
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8927,
       "attributes": {
         "nomor_pb_umku": "022000199082100000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8fda8c644e5236c0e7e22c90eb88684d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5065
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5544,
-      "attributes": {
-        "nomor_pb_umku": "912040137104900020001",
-        "nama": "PT SYNUS TONERINDO PRIMA",
-        "website": "synus.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SYNUS TONERINDO PRIMA",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "003860.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3302bfbc58d94ce286e1710e008705ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5409
       }
     }
   ]

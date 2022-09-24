@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8102,
+      "attributes": {
+        "nomor_pb_umku": "912010827101900010001",
+        "nama": "WEBSITE",
+        "website": "bprarayaarta.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARAYA ARTA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005320.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b3804dd5073f1d715b9a6512f36844e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8009
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7924,
       "attributes": {
         "nomor_pb_umku": "122200048115300010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f071360b1968f37dc0679f4bc2d75c0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7274
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9162,
-      "attributes": {
-        "nomor_pb_umku": "070722005272200000001",
-        "nama": "PD BPR BANK PASAR KOTA TEGAL",
-        "website": "bprbapastegal.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PD BPR BANK PASAR KOTA TEGAL ",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "005311.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4601fe531abffdd0eca0a99d900f5d5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9068
       }
     }
   ]

@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5261,
+      "attributes": {
+        "nomor_pb_umku": "100722000533700000001",
+        "nama": "APOTEK",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "OLGA ASSIRAQ",
+        "tanggal_daftar": "2022-07-10",
+        "nomor_tanda_daftar": "003942.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e71b02fdd48288fe3fba695ffaa26a20.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5129
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5260,
       "attributes": {
         "nomor_pb_umku": "023101008267700000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2b6f413e3925af6f7092b7edfd212e22.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8839
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5256,
-      "attributes": {
-        "nomor_pb_umku": "100722000080400000001",
-        "nama": "AKSATAWISATA.COM",
-        "website": "aksatawisata.com",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi",
-        "nama_perusahaan": "AKSATA WISATA TRAVEL",
-        "tanggal_daftar": "2022-07-10",
-        "nomor_tanda_daftar": "003933.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/adb065877c4b4493943cb7879f67fa3d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5124
       }
     }
   ]

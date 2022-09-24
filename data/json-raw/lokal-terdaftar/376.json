@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5961,
+      "attributes": {
+        "nomor_pb_umku": "160722000413300000001",
+        "nama": "GTHRELOAD.XYZ",
+        "website": "gthreload.xyz",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HERMANTO",
+        "tanggal_daftar": "2022-07-16",
+        "nomor_tanda_daftar": "004396.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79e32ce4a550453fb3b46beb24a47dd5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5788
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5924,
       "attributes": {
         "nomor_pb_umku": "090622001519300000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0eb8b11220895c2ee856f53abf8a86dc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5775
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5913,
-      "attributes": {
-        "nomor_pb_umku": "150722006800800020001",
-        "nama": "PT. NERA QUA MINERAL",
-        "website": "-",
-        "sektor": "Sektor Perdagangan, Sektor Pangan",
-        "nama_perusahaan": "NERA QUA MINERAL",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004387.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac279e5808780a85fcf186a67352e43f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5777
       }
     }
   ]

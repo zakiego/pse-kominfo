@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5730,
+      "attributes": {
+        "nomor_pb_umku": "812001723173300010002",
+        "nama": "APLIKASI DAYIN MOBILE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI DAYIN MITRA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "003801.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc606cc641b5c27a934a0d80b1169324.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5591
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5718,
       "attributes": {
         "nomor_pb_umku": "812001723173300010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/404b2122acda1a7414d4528a745e481b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5003
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5150,
-      "attributes": {
-        "nomor_pb_umku": "124100022011700000001",
-        "nama": "MEDIPLUS",
-        "website": "mediplusindonesia.co.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIPLUS KARYA INDONESIA",
-        "tanggal_daftar": "2022-07-06",
-        "nomor_tanda_daftar": "003793.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/61feb5c183ba8038a7744536bcfca896.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5013
       }
     }
   ]

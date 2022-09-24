@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 9467,
+      "attributes": {
+        "nomor_pb_umku": "021101014226400020002",
+        "nama": "TIKETKERETAAPI.COM",
+        "website": "tiketkeretaapi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HOTEL MURAH TRAVELINDO",
+        "tanggal_daftar": "2022-07-31",
+        "nomor_tanda_daftar": "003821.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3210ce4d826b1bb7663fc86aa1defd78.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9368
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6321,
       "attributes": {
         "nomor_pb_umku": "021101014226400020001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6d696c1e4442cf96121662670be3c088.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5274
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5152,
-      "attributes": {
-        "nomor_pb_umku": "260821005057400010001",
-        "nama": "M-OJEK",
-        "website": "M-OJEK.COM",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "MEDAN OJEK INDONESIA",
-        "tanggal_daftar": "2022-07-06",
-        "nomor_tanda_daftar": "003815.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8df97660d5d48d8d2fce2ffe30274d78.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5015
       }
     }
   ]

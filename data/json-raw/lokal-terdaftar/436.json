@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5423,
+      "attributes": {
+        "nomor_pb_umku": "812010974276800010001",
+        "nama": "OURCITRUS",
+        "website": "OURCITRUS.ID",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GEMILANG CITRUS BERJAYA",
+        "tanggal_daftar": "2022-07-12",
+        "nomor_tanda_daftar": "004029.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5255c0203d9ed83fbd7a02c8569edb9d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5293
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5381,
       "attributes": {
         "nomor_pb_umku": "912021525227600010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a898dba22b74d71062794995e6e543bb.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8149
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6210,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "QAZWA.ID",
-        "website": "Qazwa.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "QAZWA MITRA HASANAH",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004018.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de94862fc097fc2a4e2d9297ed761ace.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6074
       }
     }
   ]

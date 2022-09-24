@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10016,
+      "attributes": {
+        "nomor_pb_umku": "024200093197500010001",
+        "nama": "TOMISUI.ID",
+        "website": "tomisui.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TOMISUI AFILIASI GLOBAL",
+        "tanggal_daftar": "2022-08-08",
+        "nomor_tanda_daftar": "007051.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6735aa4c0fabb4f69829c01b166a3ac9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9903
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10013,
+      "attributes": {
+        "nomor_pb_umku": "129500023147200000001",
+        "nama": "TWIBBONIZE",
+        "website": "twibbonize.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TWIBBONIZE TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-08-08",
+        "nomor_tanda_daftar": "007049.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8f8d7735ff175fdae313d47b5af726a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9900
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 10014,
       "attributes": {
         "nomor_pb_umku": "",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/852b7df264c1aef71133c03326748cdc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10012
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10009,
-      "attributes": {
-        "nomor_pb_umku": "124500015276100010002",
-        "nama": "PAYOU.ASIA",
-        "website": "payou.asia",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PAYOU INSAN SINERGI",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007037.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/208dfa07f5fc16f3627fbc7be8bb74e8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9896
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10007,
-      "attributes": {
-        "nomor_pb_umku": "124500015276100000001",
-        "nama": "SIMRS SAFFMEDIC",
-        "website": "safmedic.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "PAYOU INSAN SINERGI",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007037.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92714956ab8e17851281e5fbd169ad5c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9893
       }
     }
   ]

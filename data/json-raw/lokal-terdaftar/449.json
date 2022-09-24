@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5245,
+      "attributes": {
+        "nomor_pb_umku": "022070387285500060003",
+        "nama": "COMPANY HOMEPAGE WEBSITE",
+        "website": "obf.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ORICO BALIMOR FINANCE",
+        "tanggal_daftar": "2022-07-08",
+        "nomor_tanda_daftar": "003893.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4fd0360f4d9de54e6fcbc4e696a150da.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5112
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5243,
       "attributes": {
         "nomor_pb_umku": "022070387285500060002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c475d5ea3f1e4b97ff9152a091c595db.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5105
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6591,
-      "attributes": {
-        "nomor_pb_umku": "022030314115600010001",
-        "nama": "BIGENMI",
-        "website": "bigenmi.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Kesehatan",
-        "nama_perusahaan": "BIGENMI GEMILANG INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "003886.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/631d25d11f547b9f249c805e7c6ddccf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5424
       }
     }
   ]

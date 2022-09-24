@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7268,
+      "attributes": {
+        "nomor_pb_umku": "026301101212300000001",
+        "nama": "KIOSKU",
+        "website": "-",
+        "sektor": "Sektor Perdagangan, Sektor Keuangan",
+        "nama_perusahaan": "KRISMANTO",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005292.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1cce9b402dea1595b4ed63deb50c626e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7163
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7559,
       "attributes": {
         "nomor_pb_umku": "912011107053700010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/368a4344099b9f4568236c533e9cb74a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7145
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7581,
-      "attributes": {
-        "nomor_pb_umku": "912010720278900000001",
-        "nama": "PT WIDYA INFORMASI NUSANTARA",
-        "website": "widyawicara.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WIDYA INFORMASI NUSANTARA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005284.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40bca57c4cf23fde023329dc52a7e5ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7474
       }
     }
   ]

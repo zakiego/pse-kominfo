@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8324,
+      "attributes": {
+        "nomor_pb_umku": "123600051157800000007",
+        "nama": "JADIPERGI",
+        "website": "jadipergi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKU CINTA INDONESIA RAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005304.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a531daa823eb21bbff7f5cf65d6c6d08.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8245
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8309,
       "attributes": {
         "nomor_pb_umku": "123600051157800000006",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/abb45467ccf630d5d803488d0f61d2f0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8121
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7280,
-      "attributes": {
-        "nomor_pb_umku": "210522001855800000001",
-        "nama": "MILLIONAIRE DIGITAL INDONESIA",
-        "website": "millionaire.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MILLIONAIRE DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005301.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21a8d0f5695b1befc8d801c5b0b264e6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7174
       }
     }
   ]

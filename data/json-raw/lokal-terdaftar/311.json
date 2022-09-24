@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6646,
+      "attributes": {
+        "nomor_pb_umku": "127800055275300000001",
+        "nama": "TECHSCAPE",
+        "website": "techscape.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TECHSCAPE DATA CENTER",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004865.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa8ffede5c999063bdc7d1ac20398bb6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6499
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7061,
       "attributes": {
         "nomor_pb_umku": "912020859157100000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6ac904c10ebb9d6473d616d9f598f12.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6493
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6669,
-      "attributes": {
-        "nomor_pb_umku": "912020379380500010001",
-        "nama": "BPR DHANA MITRATAMA",
-        "website": "bprdhanamitratama.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DHANA MITRATAMA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004856.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/862865806dc5ff3dd31ac5b0d3b3ff09.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6524
       }
     }
   ]

@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6274,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "WEB LELANG BANK RAYA",
+        "website": "lelang.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004288.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00cfc82fa5159034b46f1924dac5df1f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6134
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6255,
       "attributes": {
         "nomor_pb_umku": "912031707092200010003",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b866be67bf35a5dfe945097305d4daa2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5677
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9056,
-      "attributes": {
-        "nomor_pb_umku": "812000172108700070040",
-        "nama": "SAMSUNG MEMBERS",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SAMSUNG ELECTRONICS INDONESIA",
-        "tanggal_daftar": "2022-07-26",
-        "nomor_tanda_daftar": "004280.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18286becbb09867a78b2cb26e689e4ce.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8966
       }
     }
   ]

@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7021,
+      "attributes": {
+        "nomor_pb_umku": "128700013259600410002",
+        "nama": "SISTEM PENDAFTARAN MYLAB TEBET",
+        "website": "mylab.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "SINERGI KINAN MEDIKA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004444.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d4e5129883d1a01e66c6857fe2e360d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6878
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6921,
       "attributes": {
         "nomor_pb_umku": "128700013259600410001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11b4ca2e326a43e1f087938d9925808d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5841
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5976,
-      "attributes": {
-        "nomor_pb_umku": "140722007694300010001",
-        "nama": "PENAMPUNGAN, PENJERNIHAN DAN PENYALURAN AIR MINUM",
-        "website": "-",
-        "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Pangan",
-        "nama_perusahaan": "BEKTI DWI HARTANTI",
-        "tanggal_daftar": "2022-07-16",
-        "nomor_tanda_daftar": "004432.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e40085f49affb9892e46bd3be7bd6939.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5838
       }
     }
   ]

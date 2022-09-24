@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 9868,
+      "attributes": {
+        "nomor_pb_umku": "022010847164300090001",
+        "nama": "GSI LAB",
+        "website": "gsilab.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "GENOMIK SOLIDARITAS INDONESIA",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "004699.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fe5d5a036f9bf96c0988ee6367b31e1c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9755
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8610,
       "attributes": {
         "nomor_pb_umku": "912010789077300020001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f305db5f2899f31b05dcbdea88f731cc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6764
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8328,
-      "attributes": {
-        "nomor_pb_umku": "912010866182500000006",
-        "nama": "JARI MOBILE COLLECTION (PRODUCTION)",
-        "website": "jari.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "JARI SOLUSI INTERNATIONAL",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004691.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd60d92ce92f06130f52abe2bf3b0a9f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8250
       }
     }
   ]

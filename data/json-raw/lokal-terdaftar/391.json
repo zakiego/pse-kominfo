@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6457,
+      "attributes": {
+        "nomor_pb_umku": "912031707092200010014",
+        "nama": "RATEBOARD CMS BANK RAYA",
+        "website": "rateboard.bankraya.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK RAYA INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004288.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd64b453446404cb479a0ff522ad3950.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6324
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6455,
       "attributes": {
         "nomor_pb_umku": "912031707092200010013",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0fbc97f8c6887562aa9765d69cb8a980.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6140
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6274,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "WEB LELANG BANK RAYA",
-        "website": "lelang.bankraya.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK RAYA INDONESIA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004288.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/00cfc82fa5159034b46f1924dac5df1f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6134
       }
     }
   ]

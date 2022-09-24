@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 9044,
+      "attributes": {
+        "nomor_pb_umku": "812011415297200200011",
+        "nama": "WEBSITE HOTEL BANDUNG",
+        "website": "patrabandung.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PATRA JASA",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "004948.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/209fba7e70840d2d941bc49049d34c68.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8955
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 9043,
       "attributes": {
         "nomor_pb_umku": "812011415297200200010",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/36de3ef5128bc907d090f21a289ad566.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6703
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6795,
-      "attributes": {
-        "nomor_pb_umku": "123000022004700010001",
-        "nama": "WEBSITE",
-        "website": "bankpasarsemarang.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUMDA BPR BANK PASAR KOTA SEMARANG",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004943.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8eaa8f7ec05795007a989bb814fde4c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6643
       }
     }
   ]

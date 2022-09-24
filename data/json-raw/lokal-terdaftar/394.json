@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6408,
+      "attributes": {
+        "nomor_pb_umku": "125900145200600000001",
+        "nama": "DDENGINE",
+        "website": "ddpulsaengine.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MUDA HITAKARYA SEJAHTERA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004277.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7933753459d476842556a22ec4808780.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6271
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5809,
       "attributes": {
         "nomor_pb_umku": "912010127154100010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/499f9205136b5ef7765265d7e7de97de.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5570
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5734,
-      "attributes": {
-        "nomor_pb_umku": "912020955103500010001",
-        "nama": "WEBSITE PERUSAHAAN",
-        "website": "mitsuilease.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MITSUI LEASING CAPITAL INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004269.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2620bb0cfd8b0cfa6f02a5919850ac5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5597
       }
     }
   ]

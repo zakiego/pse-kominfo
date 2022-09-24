@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10456,
+      "attributes": {
+        "nomor_pb_umku": "251121005064400090001",
+        "nama": "RAJADATA",
+        "website": "rajadata.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "RAJADATA PARAMA TRANSNETWORK",
+        "tanggal_daftar": "2022-08-16",
+        "nomor_tanda_daftar": "006560.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/364c036431bca5fda70c764c172f3d47.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10314
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9672,
+      "attributes": {
+        "nomor_pb_umku": "912000975113600010001",
+        "nama": "CORE BANKING SYSTEM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KIMI SANDA",
+        "tanggal_daftar": "2022-08-02",
+        "nomor_tanda_daftar": "006559.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5a1212ec94abf838859075d18bae3d1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9550
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 9369,
       "attributes": {
         "nomor_pb_umku": "180122000039300000001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/70a589e47b8b32e2912dcb0311df676b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9420
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9367,
-      "attributes": {
-        "nomor_pb_umku": "270722006308500000001",
-        "nama": "PT BPR INTIDANA SUKSES MAKMUR",
-        "website": "bpr.indana.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT INTIDANA SUKSES MAKMUR",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "006546.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c3c2699f90698af41e36c6349ff98b1b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9276
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9346,
-      "attributes": {
-        "nomor_pb_umku": "912020471371500000001",
-        "nama": "SELKA ID",
-        "website": "selka.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SEJUK ELEKTRONIK COM",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "006544.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/245c23f7cdef1b65b11a38872556b338.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9258
       }
     }
   ]

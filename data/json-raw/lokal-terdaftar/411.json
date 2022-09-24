@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6029,
+      "attributes": {
+        "nomor_pb_umku": "122900054220400010022",
+        "nama": "CPANEL BANK SULSELBAR",
+        "website": "cpanel.banksulselbar.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004179.21/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e0b62200274a64be2132063e0327144.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5847
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5914,
       "attributes": {
         "nomor_pb_umku": "122900054220400010018",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d627a4fc2f058d9ad607df0124c2f289.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5548
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5685,
-      "attributes": {
-        "nomor_pb_umku": "122900054220400010011",
-        "nama": "TNT DEVELOPMENT BANKSULSELBAR",
-        "website": "tnt-dev.banksulselbar.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004179.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cbaa88597db3ecd829b292d44e847976.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5545
       }
     }
   ]

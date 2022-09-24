@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8677,
+      "attributes": {
+        "nomor_pb_umku": "912000952259500000007",
+        "nama": "BACKOFFICE.PERIKSAIN.ID",
+        "website": "backoffice.periksain.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "WAHANA MEDITEK INDONESIA",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "004561.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/360bc2d71b85d0976fdb7fcb91f79244.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8596
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7526,
       "attributes": {
         "nomor_pb_umku": "912000952259500000006",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7acc99de2ac5227563702dc0b9d93093.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6815
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8877,
-      "attributes": {
-        "nomor_pb_umku": "040322004335300010002",
-        "nama": "BPR CHANDRA MUKTIARTHA",
-        "website": "bprcma.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT CHANDRA MUKTIARTHA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "004554.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a21f6ac1ab0d64d775854ebf2a9364c6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8779
       }
     }
   ]

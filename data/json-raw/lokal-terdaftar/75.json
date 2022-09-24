@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10160,
+      "attributes": {
+        "nomor_pb_umku": "912011100002100020032",
+        "nama": "WWW.OTORACE.ID",
+        "website": "otorace.gridoto.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PRIMA INFOSARANA MEDIA",
+        "tanggal_daftar": "2022-08-10",
+        "nomor_tanda_daftar": "007058.28/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f61cd4c60470b74cc0dfbd34fd2b651e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10041
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10122,
+      "attributes": {
+        "nomor_pb_umku": "912011100002100020031",
+        "nama": "WWW.OTOMANIA.COM",
+        "website": "otomania.gridoto.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PRIMA INFOSARANA MEDIA",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "007058.27/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9a04de1d92a8e1abb35f9efd13f674e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10004
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 10121,
       "attributes": {
         "nomor_pb_umku": "912011100002100020030",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c8ed43f0ab92c028b579c71133035dc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9939
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10050,
-      "attributes": {
-        "nomor_pb_umku": "912011100002100020022",
-        "nama": "WWW.GRIDVIDEO.ID",
-        "website": "video.grid.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PRIMA INFOSARANA MEDIA",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007058.18/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/75014cfaf4091faab1f813df9cc9e0c4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9938
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10049,
-      "attributes": {
-        "nomor_pb_umku": "912011100002100020021",
-        "nama": "WWW.GRIDSTORE.ID",
-        "website": "gridstore.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PRIMA INFOSARANA MEDIA",
-        "tanggal_daftar": "2022-08-08",
-        "nomor_tanda_daftar": "007058.17/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1443b59a8a8677955b11d68b62a2cdf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9937
       }
     }
   ]

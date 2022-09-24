@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6931,
+      "attributes": {
+        "nomor_pb_umku": "812020696297600020001",
+        "nama": "HOTDEAL INDONESIA",
+        "website": "hotdeal.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CASHTREE FOR INDONESIA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004609.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/894c68207a3d35f63909289524243bd1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6786
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7711,
       "attributes": {
         "nomor_pb_umku": "120200061203100010003",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/07eabf5699e48f8b786c4c36af0ff15d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6187
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6322,
-      "attributes": {
-        "nomor_pb_umku": "912010050143300010001",
-        "nama": "INTEGRATED MICROBANKING SYSTEM",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LAWU ARTHA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004601.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e990388fd84201c98249307c3bab345a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6189
       }
     }
   ]

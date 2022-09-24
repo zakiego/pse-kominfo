@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7045,
+      "attributes": {
+        "nomor_pb_umku": "812001816045400090008",
+        "nama": "STANDING INSTRUCTION",
+        "website": "si.bprlestari.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT LESTARI BALI",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004092.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c443c578b095cd160a38f10acf8d9e0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6900
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7011,
       "attributes": {
         "nomor_pb_umku": "812001816045400090007",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e2c8b8778e500a5d288ed01307ab082a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5331
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5470,
-      "attributes": {
-        "nomor_pb_umku": "022010055208900000001",
-        "nama": "HERCO DIGITAL",
-        "website": "hercodigital.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "HERCO DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "004087.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df568dd1277798ba0dbf17c7f400273d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5342
       }
     }
   ]

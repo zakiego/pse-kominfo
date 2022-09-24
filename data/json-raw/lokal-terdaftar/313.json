@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6818,
+      "attributes": {
+        "nomor_pb_umku": "912020878202200000003",
+        "nama": "WEBMAIL CORPORATE",
+        "website": "hondawestjava.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ISTANA BANDUNG RAYA MOTOR",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004852.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d21f75f1f85cd04c8db1b39a09c8e247.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6670
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6767,
       "attributes": {
         "nomor_pb_umku": "912020878202200000002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79dcb1128fef85ee9c9f13cdaa5f279c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7618
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6667,
-      "attributes": {
-        "nomor_pb_umku": "022020115167400010001",
-        "nama": "USSI",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BPR SURYA NATAPALA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004843.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/794e42cafd8d6b1c9da5a330dd426785.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6520
       }
     }
   ]

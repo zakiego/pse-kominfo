@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 9023,
+      "attributes": {
+        "nomor_pb_umku": "026301005176800010001",
+        "nama": "E-KTA PP",
+        "website": "pemuda-pancasila.or.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NUSANTARA TERPADU UTAMA",
+        "tanggal_daftar": "2022-07-25",
+        "nomor_tanda_daftar": "006159.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e39a74160685c3ec4e775028937e176e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8936
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8802,
+      "attributes": {
+        "nomor_pb_umku": "126800013202900010001",
+        "nama": "PT BPR ARTA PUNDI MEKAR",
+        "website": "artapundimekar.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT ARTA PUNDI MEKAR",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "006158.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/021e59d92491dfb9e313096e9707180c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8720
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 9278,
       "attributes": {
         "nomor_pb_umku": "220722003525700000001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e798ba461e96d19aa0fdd44157022eec.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8711
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8791,
-      "attributes": {
-        "nomor_pb_umku": "812020589091600110002",
-        "nama": "OFFICIAL WEBSITE",
-        "website": "rf-berjangka.com",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "RIFAN FINANCINDO BERJANGKA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "006151.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fcd7d18d8ce8075c4637a67f8761b275.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8708
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8789,
-      "attributes": {
-        "nomor_pb_umku": "812020589091600110001",
-        "nama": "REGOL RFB",
-        "website": "regol.rifan-financindo-berjangka.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan",
-        "nama_perusahaan": "RIFAN FINANCINDO BERJANGKA",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "006151.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6952404dd5b1730fb37e0d84abdca794.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8706
       }
     }
   ]

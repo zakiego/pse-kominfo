@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7324,
+      "attributes": {
+        "nomor_pb_umku": "912020575311400010001",
+        "nama": "WEBSITE PT. BPR NAGA",
+        "website": "bprnaga.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NAGA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005138.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8abc83d287d6b86372203b33d1d9720e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7220
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7128,
       "attributes": {
         "nomor_pb_umku": "912020575311400010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/62ee79786549a9a512dc42c46ea9c12a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7468
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7039,
-      "attributes": {
-        "nomor_pb_umku": "090622006405200000001",
-        "nama": "SITUS WEBSITE",
-        "website": "danamitrasentosa.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANA MITRA SENTOSA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005125.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fcf876f5a96d4d9b1026d5b5920c16b5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6893
       }
     }
   ]

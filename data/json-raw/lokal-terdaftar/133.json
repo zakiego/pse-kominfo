@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 9392,
+      "attributes": {
+        "nomor_pb_umku": "220722004540500000004",
+        "nama": "BRATPACK.ID",
+        "website": "bratpack.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GRANDIA PRIMATAMA SENTOSA",
+        "tanggal_daftar": "2022-07-29",
+        "nomor_tanda_daftar": "006410.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5a7f98db698623c732a056d69da8ed71.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9302
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9389,
+      "attributes": {
+        "nomor_pb_umku": "220722004540500000003",
+        "nama": "HEDGREN.ID",
+        "website": "hedgren.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GRANDIA PRIMATAMA SENTOSA",
+        "tanggal_daftar": "2022-07-29",
+        "nomor_tanda_daftar": "006410.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97ee5c802af9f8672cc92a2b94965abd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9300
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 9388,
       "attributes": {
         "nomor_pb_umku": "220722004540500000002",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b705b0576be205e9a7a9be8f722a9a8e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9263
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9104,
-      "attributes": {
-        "nomor_pb_umku": "270722000450600000001",
-        "nama": "TOKO ONLINE DAYYAN",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SOFYAN PANIGORO",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006406.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0cea059dce95e05b053b47e03cdef1e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9013
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10171,
-      "attributes": {
-        "nomor_pb_umku": "129400063300500020002",
-        "nama": "HORIZON MARKETPLACE",
-        "website": "hzn.one",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HZN TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-08-10",
-        "nomor_tanda_daftar": "006405.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a80b1f1de4c390aa0c2480e3cf604e3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10053
       }
     }
   ]

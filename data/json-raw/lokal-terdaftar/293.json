@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6852,
+      "attributes": {
+        "nomor_pb_umku": "912011001151600010001",
+        "nama": "PT. USSI PINBUK PRIMA SOFTWARE",
+        "website": "danakarya.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DANA KARYA NUSA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005011.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81e35ba1d9f30e763416748e6ca2b3cd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6701
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7886,
       "attributes": {
         "nomor_pb_umku": "022010776089300010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5841a1c145c0b1dc84209ff809dcdf68.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6675
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6962,
-      "attributes": {
-        "nomor_pb_umku": "912030676149900010003",
-        "nama": "WEBSITE BANKSURYA.ID",
-        "website": "banksurya.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT SURYAJAYA UBUD",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004998.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86b5dcc99551f90d6a80f79421554550.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6814
       }
     }
   ]

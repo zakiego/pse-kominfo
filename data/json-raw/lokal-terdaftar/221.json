@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7615,
+      "attributes": {
+        "nomor_pb_umku": "123700069063500010002",
+        "nama": "WEBSITE CICIL.CO.ID",
+        "website": "cicil.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CICIL SOLUSI MITRA TEKNOLOGI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005560.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e917e46b6292d2c176f9862eef4da365.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7509
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7869,
+      "attributes": {
+        "nomor_pb_umku": "912030778109800010001",
+        "nama": "PT. BPR TUMPANG ARTHASARANA",
+        "website": "tumpangarthasarana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT TUMPANG ARTHASARANA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005559.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/10634606ce20b7e4f8fcc448e3c73d8b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7777
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7696,
       "attributes": {
         "nomor_pb_umku": "912001307115700000001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f2c6f7121f70de21811b73431c3e9231.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7436
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7518,
-      "attributes": {
-        "nomor_pb_umku": "200722004567300000001",
-        "nama": "KEMANGVPN",
-        "website": "kemangvpn.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IR SATYO NUGROHO",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005549.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7d96c529b44aeb0c6802c063b2b2185d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7415
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7782,
-      "attributes": {
-        "nomor_pb_umku": "200722004498600000004",
-        "nama": "RORO",
-        "website": "roro.prahu-hub.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "APLIKASI TEPAT GUNA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005548.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86d7d9d85c558aa25d98e32b00c12b2d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7706
       }
     }
   ]

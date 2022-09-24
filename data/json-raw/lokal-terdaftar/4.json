@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 11273,
+      "attributes": {
+        "nomor_pb_umku": "300822001516500010003",
+        "nama": "WEBSITE DPLK INDOLIFE",
+        "website": "dplkindolife.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA PENSIUN LEMBAGA KEUANGAN INDOLIFE PENSIONTAMA",
+        "tanggal_daftar": "2022-09-21",
+        "nomor_tanda_daftar": "007806.03/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c00c91666abc4cedea524fa0a9e7fbc1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11081
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11261,
+      "attributes": {
+        "nomor_pb_umku": "300822001516500010002",
+        "nama": "WEBSITE SIMPAN BY DPLK INDOLIFE",
+        "website": "simpan.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA PENSIUN LEMBAGA KEUANGAN INDOLIFE PENSIONTAMA",
+        "tanggal_daftar": "2022-09-20",
+        "nomor_tanda_daftar": "007806.02/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d772ddd0e24fbe26eea0f3fb91083f1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11068
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 11258,
       "attributes": {
         "nomor_pb_umku": "300822001516500010001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11935ead77c719efa1157bd6eeb82c6e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11040
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11235,
-      "attributes": {
-        "nomor_pb_umku": "180922003050700000001",
-        "nama": "BALINESEYOGA.ORG",
-        "website": "balineseyoga.org",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BALINESE YOGA EDUCATION",
-        "tanggal_daftar": "2022-09-19",
-        "nomor_tanda_daftar": "007794.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29c897ec2e7ee9f231d62ac2f3623250.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11042
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11305,
-      "attributes": {
-        "nomor_pb_umku": "250122006905900020003",
-        "nama": "DINAMIKA POST",
-        "website": "dinamikapost.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JKB NETWORK DIGITAL MEDIA",
-        "tanggal_daftar": "2022-09-22",
-        "nomor_tanda_daftar": "007792.03/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ce0c2b0655694500081eef99b27e7b4f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11114
       }
     }
   ]

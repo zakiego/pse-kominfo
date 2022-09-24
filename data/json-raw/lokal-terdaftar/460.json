@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5152,
+      "attributes": {
+        "nomor_pb_umku": "260821005057400010001",
+        "nama": "M-OJEK",
+        "website": "M-OJEK.COM",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "MEDAN OJEK INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "nomor_tanda_daftar": "003815.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8df97660d5d48d8d2fce2ffe30274d78.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5015
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5165,
       "attributes": {
         "nomor_pb_umku": "022000213259300020001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b09258cf0b693b85e6d4831baf26e528.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6125
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6250,
-      "attributes": {
-        "nomor_pb_umku": "912020972074400020001",
-        "nama": "AJK ONLINE",
-        "website": "AJKONLINE.SEQUIS.CO.ID",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA SEQUIS FINANCIAL",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "003810.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6eef3b2cad2e6053c633a53815a1586.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6114
       }
     }
   ]

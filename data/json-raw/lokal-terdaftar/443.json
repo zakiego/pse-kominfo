@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5290,
+      "attributes": {
+        "nomor_pb_umku": "912030850231200050001",
+        "nama": "HERZA CLOUD",
+        "website": "herza.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HERZA DIGITAL INDONESIA",
+        "tanggal_daftar": "2022-07-11",
+        "nomor_tanda_daftar": "003965.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0c8c3f119f6520ca2000de36604c970.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5159
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6759,
       "attributes": {
         "nomor_pb_umku": "090722001604800100001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/099c5918c504418ae1c39baed0e2bd36.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9690
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7107,
-      "attributes": {
-        "nomor_pb_umku": "912030170073100060004",
-        "nama": "CSM CORPORATAMA (ELITE CAR RENTAL)",
-        "website": "elite.indorent.co.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "CSM CORPORATAMA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "003958.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d5f3e864a04549492b200ed17b5a671.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6968
       }
     }
   ]

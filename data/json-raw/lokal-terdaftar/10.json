@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 11255,
+      "attributes": {
+        "nomor_pb_umku": "120900050264600000001",
+        "nama": "JORNE",
+        "website": "MyJorne.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SETIONO PHANTASIA JORNE",
+        "tanggal_daftar": "2022-09-20",
+        "nomor_tanda_daftar": "007754.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d1d85419ca5b88049228f24ca876401.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11064
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11251,
+      "attributes": {
+        "nomor_pb_umku": "070922014694500000001",
+        "nama": "BAKOOL",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BAKOOL NUSANTARA JAYA",
+        "tanggal_daftar": "2022-09-20",
+        "nomor_tanda_daftar": "007753.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d0924ebd02bb4e3435300699481364ad.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11060
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 11310,
       "attributes": {
         "nomor_pb_umku": "912000179073900000001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a40c3ae9e58f63dacb771726c9816cdc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10979
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11180,
-      "attributes": {
-        "nomor_pb_umku": "110222000502800020003",
-        "nama": "ICHA",
-        "website": "icha.co.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADWA INFO MANDIRI",
-        "tanggal_daftar": "2022-09-13",
-        "nomor_tanda_daftar": "007744.03/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ce43d1cf2d1797424466e7b5b3a676b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10983
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11178,
-      "attributes": {
-        "nomor_pb_umku": "110222000502800020002",
-        "nama": "ICHA MOBILE",
-        "website": "icha.co.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADWA INFO MANDIRI",
-        "tanggal_daftar": "2022-09-13",
-        "nomor_tanda_daftar": "007744.02/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a12aaec1002dca151902e618c5c69133.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10981
       }
     }
   ]

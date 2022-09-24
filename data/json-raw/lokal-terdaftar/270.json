@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7901,
+      "attributes": {
+        "nomor_pb_umku": "190722006615900000001",
+        "nama": "WEBCOMMERCE",
+        "website": "banananina.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "FITRI MAYA SAFIRA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005198.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7682fc28760339f7ca9a9764619fe4cc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7798
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7623,
       "attributes": {
         "nomor_pb_umku": "912010382293100010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ea564e0952b7cc72b9c6bd94c87472ab.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7015
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7676,
-      "attributes": {
-        "nomor_pb_umku": "912020931128600010001",
-        "nama": "VPS (VENTURA PAYMENT SYSTEM)",
-        "website": "venturapratamasejati.com",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi",
-        "nama_perusahaan": "VENTURA PRATAMA SEJATI",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005183.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c58d15bcaccbf1b1a77be28d29af59ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7565
       }
     }
   ]

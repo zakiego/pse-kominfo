@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 5765,
+      "attributes": {
+        "nomor_pb_umku": "912020077178500010001",
+        "nama": "WEBSITE PERUSAHAAN BPR MODERN EXPRESS",
+        "website": "bprmodern.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MODERN EXPRESS",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004263.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d6cde9938adfad5e7268885fa3837e82.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5629
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5756,
       "attributes": {
         "nomor_pb_umku": "912020679108600000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7584df8e8c28cdc60cd0a853fa9b6fc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5556
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5848,
-      "attributes": {
-        "nomor_pb_umku": "120200047039500010005",
-        "nama": "SMS MACROKIOSK (OTP) - BPR MODEX SULUT",
-        "website": "boldpass.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BPR MODERN EXPRESS SULUT",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004252.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/337368e75ec8a9b65a3f048250e17a79.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5709
       }
     }
   ]

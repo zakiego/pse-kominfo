@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8210,
+      "attributes": {
+        "nomor_pb_umku": "190722006687900000003",
+        "nama": "WEBSITE KLINIK BIMA MEDIA SEJAHTERA",
+        "website": "bmss.co.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "JABARSOFT TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005145.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/322b47615bf4a81738d91ed80280b780.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8131
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8105,
       "attributes": {
         "nomor_pb_umku": "190722006687900000002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3117a1ee40b504e7f433f60b8006c71f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7262
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7324,
-      "attributes": {
-        "nomor_pb_umku": "912020575311400010001",
-        "nama": "WEBSITE PT. BPR NAGA",
-        "website": "bprnaga.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NAGA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005138.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8abc83d287d6b86372203b33d1d9720e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7220
       }
     }
   ]

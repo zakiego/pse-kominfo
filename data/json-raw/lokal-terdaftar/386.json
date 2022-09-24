@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7314,
+      "attributes": {
+        "nomor_pb_umku": "912010444120500020015",
+        "nama": "DASHBOARD AKSES",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004305.15/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/541100ae424bed018f4752ff0b1d7daf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7204
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7304,
       "attributes": {
         "nomor_pb_umku": "912010444120500020014",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c225772c25d13e06a3ed1495f6a76e24.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5723
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5858,
-      "attributes": {
-        "nomor_pb_umku": "912010444120500020003",
-        "nama": "MBB BPRKS",
-        "website": "mbb.bprks.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "004305.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17107ecf5636a1403662219619a5c545.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5720
       }
     }
   ]

@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7557,
+      "attributes": {
+        "nomor_pb_umku": "912040183166200010001",
+        "nama": "WEBSITE",
+        "website": "bprnbp11.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 11",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005439.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b1b311cae556210855fd959b8fb9891.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7447
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 7772,
       "attributes": {
         "nomor_pb_umku": "912020187143600010003",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/afdd305dd7e20083ebcc7107d6f8332b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10140
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10271,
-      "attributes": {
-        "nomor_pb_umku": "812021325267900000010",
-        "nama": "CORPORATE TRAVEL MANAGEMENT",
-        "website": "travelmanagement.telkom.co.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "INFOMEDIA NUSANTARA",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "005433.10/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b59882c32c0f0c680e65aea1ea2bceae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10134
       }
     }
   ]

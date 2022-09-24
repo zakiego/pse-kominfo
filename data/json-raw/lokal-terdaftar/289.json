@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7083,
+      "attributes": {
+        "nomor_pb_umku": "023901022141900010002",
+        "nama": "WEBSITE BANK RIAU KEPRI",
+        "website": "bankriaukepri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "005037.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c90ca0939bf46e48dff583ea20c98448.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6957
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6996,
       "attributes": {
         "nomor_pb_umku": "023901022141900010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2491c31d45f1f97b2965bfe137aa6741.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6731
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6925,
-      "attributes": {
-        "nomor_pb_umku": "121200030257700000001",
-        "nama": "BOOSTR.ID",
-        "website": "Boostr.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BOOSTER TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005034.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11c73c0e10a53fb9ddfa49dc12c9466c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6778
       }
     }
   ]

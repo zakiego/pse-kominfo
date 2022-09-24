@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6806,
+      "attributes": {
+        "nomor_pb_umku": "190422005857400000001",
+        "nama": "DAYSTOCK",
+        "website": "daystock.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MUHAMMAD HAIKAL GUNARYA",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004811.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c220c4754f4621c235d84e00f3d873cc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6658
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6562,
       "attributes": {
         "nomor_pb_umku": "912020183260200010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/85e09fce9c7bd54317433d9fcdd47b6b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7007
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6603,
-      "attributes": {
-        "nomor_pb_umku": "091121004191600000001",
-        "nama": "BETTERCHOCOLATETHANNEVER",
-        "website": "betterchocolatethannever.com",
-        "sektor": "Sektor Perdagangan, Sektor Pangan",
-        "nama_perusahaan": "DELIMA SELARAS",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004799.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/059a9610ebf94ec83da42351bbe2bf55.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6458
       }
     }
   ]

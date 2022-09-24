@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6622,
+      "attributes": {
+        "nomor_pb_umku": "022010510277400010001",
+        "nama": "AMMANA",
+        "website": "ammana.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AMMANA FINTEK SYARIAH",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004576.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3a888c03b5929030715038228557e2d9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6461
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6307,
       "attributes": {
         "nomor_pb_umku": "912031305241800010001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b93f0f7baab763122084733025a94e65.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6027
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6209,
-      "attributes": {
-        "nomor_pb_umku": "912020676043100020001",
-        "nama": "BACKOFFICE S21",
-        "website": "intifikasa.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INTI FIKASA SEKURITAS",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004565.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51c98503c99d2d9bfd49588940114b9e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6069
       }
     }
   ]

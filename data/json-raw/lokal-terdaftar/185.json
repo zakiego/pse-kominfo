@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 8537,
+      "attributes": {
+        "nomor_pb_umku": "912040685240200010001",
+        "nama": "WEBSITE",
+        "website": "bankbsm.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BPR SENTRAL MANDIRI",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005892.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b16045c7b45fd584163c9defe67174d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8450
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8405,
+      "attributes": {
+        "nomor_pb_umku": "912000555244500010001",
+        "nama": "WEBSITE BPR BINTAN",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUMDA BPR BINTAN",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005891.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/87b2226bb4f494bba3462a5242584b11.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8323
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 8442,
       "attributes": {
         "nomor_pb_umku": "912000294243400020001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9c4fef1a4bc89aa91326df146d169447.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8513
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8913,
-      "attributes": {
-        "nomor_pb_umku": "912010972226200010002",
-        "nama": "PT BPR NUSAMBA KUBUTAMBAHAN",
-        "website": "bprnusamba-kubutambahan.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN",
-        "tanggal_daftar": "2022-07-23",
-        "nomor_tanda_daftar": "005882.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b899b4e923f0ce7986ba1f4aa8fbae4e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8818
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8416,
-      "attributes": {
-        "nomor_pb_umku": "912010972226200010001",
-        "nama": "BPR NUSAMBA KUBUTAMBAHAN",
-        "website": "bprnusamba-kubutambahan.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005882.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6634af4867b5fe7f0c085e396f49a04b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8315
       }
     }
   ]

@@ -12,6 +12,38 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 10778,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "PLN INSURANCE",
+        "website": "plninsurance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI PERISAI LISTRIK NASIONAL",
+        "tanggal_daftar": "2022-08-24",
+        "nomor_tanda_daftar": "007334.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84cc668284d8072d16c89e671b8b40c5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10589
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10669,
+      "attributes": {
+        "nomor_pb_umku": "912020489045500010001",
+        "nama": "BPRS MITRA HARMONI KOTA BANDUNG",
+        "website": "bprsmh-bandung.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH MITRA HARMONI KOTA BANDUNG",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007333.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/53a39ecd16d17f137e453f6f6a6df1ab.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10502
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 10498,
       "attributes": {
         "nomor_pb_umku": "022020078167300020001",
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/453b52a09795a0b6964e94d1415bd18d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10613
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10803,
-      "attributes": {
-        "nomor_pb_umku": "812001628297700030001",
-        "nama": "E-TEKNO",
-        "website": "teknobodyrepair.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "JAKARTA TEKNOLOGI UTAMA",
-        "tanggal_daftar": "2022-08-29",
-        "nomor_tanda_daftar": "007323.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fa9b8d8967b52deafc6889f0e35ec795.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10612
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10472,
-      "attributes": {
-        "nomor_pb_umku": "160822006092400000001",
-        "nama": "BANK PERKREDITAN RAKYAT MITRA DANA UTAMA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT MITRA DANA UTAMA",
-        "tanggal_daftar": "2022-08-18",
-        "nomor_tanda_daftar": "007322.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8e68196fa6ba2eed1bf0b374811d6888.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10334
       }
     }
   ]

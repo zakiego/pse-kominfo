@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 6592,
+      "attributes": {
+        "nomor_pb_umku": "100622002238300010001",
+        "nama": "TANAKU",
+        "website": "tanaku.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TANAKU NUSANTARA INTERNASIONAL",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004038.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f6a583b3737622156623307ca004ff9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6212
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 5407,
       "attributes": {
         "nomor_pb_umku": "812020096205300000002",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bb7b8b1624599eec163aff5872a71502.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5376
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5491,
-      "attributes": {
-        "nomor_pb_umku": "022010351048300010002",
-        "nama": "CASH MANAGEMENT SERVICES BANK MEGA SYARIAH",
-        "website": "cms.megasyariah.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MEGA SYARIAH",
-        "tanggal_daftar": "2022-07-13",
-        "nomor_tanda_daftar": "004034.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a182dd47719cda7475265cdcb055363.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5354
       }
     }
   ]

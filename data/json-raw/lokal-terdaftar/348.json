@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 7465,
+      "attributes": {
+        "nomor_pb_umku": "912031510108800000002",
+        "nama": "BIMASAKTI TENANT",
+        "website": "realta.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "REALTA CHAKRADARMA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004583.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/364b300dbea76305d515d6db3dcfdc13.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7373
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 6192,
       "attributes": {
         "nomor_pb_umku": "912031510108800000001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1941ff1670e87b6b95b8dd9ea4e16c9b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6078
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6622,
-      "attributes": {
-        "nomor_pb_umku": "022010510277400010001",
-        "nama": "AMMANA",
-        "website": "ammana.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AMMANA FINTEK SYARIAH",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004576.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3a888c03b5929030715038228557e2d9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6461
       }
     }
   ]

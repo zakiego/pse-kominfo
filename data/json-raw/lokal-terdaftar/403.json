@@ -12,6 +12,22 @@
   "data": [
     {
       "type": "tdpseTerbit",
+      "id": 9876,
+      "attributes": {
+        "nomor_pb_umku": "812010492112800230002",
+        "nama": "WEBSITE MITRA MANDALA FINANCE",
+        "website": "partner.mantis.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDALA MULTIFINANCE",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "004222.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ddadf80c2ce0381abe4269f7ec0af10d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9762
+      }
+    },
+    {
+      "type": "tdpseTerbit",
       "id": 9281,
       "attributes": {
         "nomor_pb_umku": "812010492112800230001",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1e72ee592ab2b32509528cc0807d16a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6232
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6365,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010018",
-        "nama": "E-MAIL BANK JATIM",
-        "website": "mail.bankjatim.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.18/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b35005adebe250bb8718d198f261371a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6228
       }
     }
   ]
