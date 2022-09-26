@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 425,
       "from": 4241,
-      "lastPage": 1038,
+      "lastPage": 1040,
       "perPage": 10,
       "to": 4250,
-      "total": 10380
+      "total": 10398
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 8452,
+      "id": 6251,
       "attributes": {
-        "nomor_pb_umku": "912040688277800010001",
-        "nama": "POPULIX",
-        "website": "populix.co",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "POPULIX INFORMASI TEKNOLOGI",
+        "nomor_pb_umku": "812021412243700030001",
+        "nama": "TSMART",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "SURYA SUDECO",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004122.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3bf7961d44f8f6222c511c0c54144d59.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6108
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6324,
+      "attributes": {
+        "nomor_pb_umku": "912001927083300020003",
+        "nama": "AMANTARA.CO.ID",
+        "website": "amantara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AMANTARA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004121.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7545255b3983466aa8ae3ca9ea6c4fe8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6186
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6140,
+      "attributes": {
+        "nomor_pb_umku": "912001927083300020002",
+        "nama": "WEBSITE AMANTARA.COM",
+        "website": "amantara.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AMANTARA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004121.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c5dd7ca4c39a825c46d0a2d3a2a16fdb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6009
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6127,
+      "attributes": {
+        "nomor_pb_umku": "912001927083300020001",
+        "nama": "WEBSITE WWW.AMANTARA.COM",
+        "website": "amantara.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AMANTARA SEKURITAS INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004121.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d2273c128f881418d22268d0e5aff7b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5994
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5808,
+      "attributes": {
+        "nomor_pb_umku": "812011702350700050004",
+        "nama": "ISOMEDIK",
+        "website": "isomedik.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "VIVA MEDIKA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004120.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3dadc8cc8238bda2d616d8f52a418573.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5671
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5805,
+      "attributes": {
+        "nomor_pb_umku": "812011702350700050003",
+        "nama": "ISO APP",
+        "website": "isomedik.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "VIVA MEDIKA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004120.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3655c7e2e6c99706b9b49e34cb6b07f5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5668
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5512,
+      "attributes": {
+        "nomor_pb_umku": "812011702350700050002",
+        "nama": "VIVA MEDIKA APPS",
+        "website": "vivamedika.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "VIVA MEDIKA",
+        "tanggal_daftar": "2022-07-13",
+        "nomor_tanda_daftar": "004120.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/59198fe625bde5a828f1a662f2caf2ac.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5374
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5509,
+      "attributes": {
+        "nomor_pb_umku": "812011702350700050001",
+        "nama": "VIVA MEDIKA",
+        "website": "Vivamedika.id",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "VIVA MEDIKA",
+        "tanggal_daftar": "2022-07-13",
+        "nomor_tanda_daftar": "004120.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9e0d2d14a7dd2723b7382aa9ddb60c5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5372
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8851,
+      "attributes": {
+        "nomor_pb_umku": "121700342281800030003",
+        "nama": "VEXASCAN.COM",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VEXANIUM TEKNOLOGI NUSANTARA",
+        "tanggal_daftar": "2022-07-22",
+        "nomor_tanda_daftar": "004118.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c37e611e6994354a836c88322cabe82.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8757
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8446,
+      "attributes": {
+        "nomor_pb_umku": "121700342281800030002",
+        "nama": "VEXANIUM",
+        "website": "vexanium.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VEXANIUM TEKNOLOGI NUSANTARA",
         "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "004114.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca2b503d698aed5f25247a938dabdc19.png",
+        "nomor_tanda_daftar": "004118.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84a5d46bccd2c34563fe4c002aaf094f.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8343
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7739,
-      "attributes": {
-        "nomor_pb_umku": "812010998167600110011",
-        "nama": "MAGICAL ENGLISH",
-        "website": "kantoo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004113.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2a228f7307ef131141074d9e233cf9d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7652
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7722,
-      "attributes": {
-        "nomor_pb_umku": "812010998167600110011",
-        "nama": "MINI-ME",
-        "website": "mini-me.co",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004113.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0361cd3aa3a2ad705ceb35b4551b0aa1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7631
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7493,
-      "attributes": {
-        "nomor_pb_umku": "812010998167600110010",
-        "nama": "XIMPAY STORE",
-        "website": "store.ximpay.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004113.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92d7159caba9ca6fed26dd05889b4472.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7396
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6888,
-      "attributes": {
-        "nomor_pb_umku": "812010998167600110009",
-        "nama": "KUGO",
-        "website": "kugo.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004113.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8aabb93e11b4deece669bfe61beddbdb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6737
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6882,
-      "attributes": {
-        "nomor_pb_umku": "812010998167600110008",
-        "nama": "LAYAR ANAK",
-        "website": "layaranak.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004113.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2f3795519a6d5c450fd37e064bc1a18.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6728
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6874,
-      "attributes": {
-        "nomor_pb_umku": "812010998167600110007",
-        "nama": "FUNKOREA",
-        "website": "funkorea.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004113.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d089c780bafffbeebb8c038baa6efe9a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6721
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6870,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "GACHAGAME",
-        "website": "gachagame.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004113.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0c2bdd1e9d349443fbbad5b344025846.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6718
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6858,
-      "attributes": {
-        "nomor_pb_umku": "812010998167600110005",
-        "nama": "MATCHQUIZ",
-        "website": "matchquiz.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004113.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17689c7a66a46ebf8ac57c8393bc334b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6705
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6848,
-      "attributes": {
-        "nomor_pb_umku": "812010998167600110004",
-        "nama": "SUSUNGAMBAR",
-        "website": "susungambar.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRIYAKOM",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004113.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/acee99624e1cee96167a6e6ba96d8111.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6698
+        "sistem_elektronik_id": 8365
       }
     }
   ]
