@@ -3,13 +3,157 @@
     "page": {
       "currentPage": 1033,
       "from": 10321,
-      "lastPage": 1040,
+      "lastPage": 1041,
       "perPage": 10,
       "to": 10330,
-      "total": 10398
+      "total": 10407
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 46,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "B-STAR",
+        "website": "https://bstar.bhinnekalife.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BHINNEKA LIFE INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000040.03/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d8905e28d3ca8b9176f668884caa5f09.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2902
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 45,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bhinneka Life Agency Tools (BLAT)",
+        "website": "https://blat.bhinnekalife.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BHINNEKA LIFE INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000040.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3483038ad09d14218491eb52a7c49aa5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2901
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 44,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Corporate Website",
+        "website": "www.bhinnekalife.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BHINNEKA LIFE INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000040.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ffee62c43067c142019002dda7c280e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2900
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 43,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Teken Aja!",
+        "website": "www.djelas.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DJELAS TANDATANGAN BERSAMA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000039.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e55f8dc6d8f168a2d41d9f3182508c2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2453
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 83,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Indepay",
+        "website": "http://www.indepay.com/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INDEPAY NETWORKS INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000038.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fbb40caa3fafa934d1619247b879c41e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2356
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 42,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Indepay",
+        "website": "http://www.indepay.com/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INDEPAY NETWORKS INDONESIA",
+        "tanggal_daftar": "2021-02-23",
+        "nomor_tanda_daftar": "000038.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ec639fd75089eeaabc5be56fc4768e8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2355
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7985,
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010003",
+        "nama": "FINA SHOWROOM",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000037.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57e31a10bf72350fa3b841729f214228.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7900
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7946,
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010002",
+        "nama": "CHATBOT ASTARI",
+        "website": "zendesk.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000037.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1ffbda41bd9010fb7d5fea2c54be114.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7860
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6053,
+      "attributes": {
+        "nomor_pb_umku": "912040026017900010001",
+        "nama": "WEBSITE BCA FINANCE",
+        "website": "bcafinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000037.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/349bb3b1eaf72f022f371a4dd4fd503b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5921
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 406,
@@ -24,150 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ef2bb7eaf65312f78621c2b0d44b69e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2313
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 41,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FINA",
-        "website": "https://www.bcafinance.co.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BCA FINANCE",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000037.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/96dafcfd5e8cbe8030858d795304c545.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2312
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 398,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Situs Perusahaan / Situs Web",
-        "website": "https://www.cigna.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI CIGNA",
-        "tanggal_daftar": "2021-03-16",
-        "nomor_tanda_daftar": "000036.02/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c20b467e27e2a2a7b9cf89bdfecc8773.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2420
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 40,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "punya.cigna",
-        "website": "https://punya.cigna.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI CIGNA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000036.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/708b9ab308e21662ba369ad6d0ea35e0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2419
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5282,
-      "attributes": {
-        "nomor_pb_umku": "912041704100600200002",
-        "nama": "ICBC MOBILE BANKING",
-        "website": "m.icbc.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK ICBC INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "000035.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ca8c0cbd50cfdfaa390874c0e1757fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5151
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5279,
-      "attributes": {
-        "nomor_pb_umku": "912041704100600200001",
-        "nama": "ICBC PERSONAL INTERNET BANKING",
-        "website": "i.icbc.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK ICBC INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "000035.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/41cf9493257fb6b2da5e9cf9c0ff6b8d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5148
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1829,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website ICBC Indonesia",
-        "website": "www.icbc.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK ICBC INDONESIA",
-        "tanggal_daftar": "2021-08-03",
-        "nomor_tanda_daftar": "000035.02/DJAI.PSE/08/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/73bfa9682ec88bbee5cbaac813383958.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2362
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 39,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Corporate Internet Banking",
-        "website": "https://cbank.icbc.co.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK ICBC INDONESIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000035.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5006d12dffcd15b0a1154732b7cf8a60.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2361
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 38,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ESIGN",
-        "website": "https://www.esign.id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JASUINDO TIGA PERKASA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000034.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e75bb174d792c1cadc22275ba8e5d1a1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2406
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 37,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "starpoin",
-        "website": "www.starpoin.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMAS POIN INDONESIA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000033.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bcfae5f4e225eb1398746f2918acd368.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2424
       }
     }
   ]
