@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 20,
       "from": 191,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 200,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9147,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HEROES OF CROWN VNG",
+        "website": "hoc.vnggames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VNG SINGAPORE PTE., LTD.",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006431.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/666b7af16005b02784ed39457fd21189.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9056
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8928,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ROBLOX CORPORATION",
+        "website": "roblox.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ROBLOX CORPORATION",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "006219.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b2a98dca1d24b3fecc97844ef8c9086.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8834
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8770,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5cb37184670e054b6224cf7caf0ef553.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8686
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8768,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ESKYFUN GAME",
-        "website": "forevergamehome.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ESKYFUN GAME",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "006143.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cefb5eb74575280e346f1f8786f8531c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8685
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8480,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HAMURNI APP",
-        "website": "hamurni.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WWF-WORLD WIDE FUND FOR NATURE (SINGAPORE) LIMITED",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005941.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8728d5f5f29164f03337fd96c8decf2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8396
       }
     }
   ]

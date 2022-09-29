@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 17,
       "from": 161,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 170,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9239,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GEMGALA",
+        "website": "igemgala.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JUSTAR HK LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006483.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3bb5a5c021dda3f6891e71a3fb331e7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9151
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9237,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PHANTOM BLADE: EXECUTIONERS",
+        "website": "s-game.choobest.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SOULGAME LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006482.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/995e95da36bf8ee21d2ce29184682953.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9149
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9233,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66e744ffe3b1568fae20c699b790960c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9114
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9205,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OPPO GAME CENTER",
-        "website": "developers.oppomobile.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRAVO UNICORN PTE. LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006457.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa03b00a01a0b5d18fc9cfe0be948401.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9113
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9203,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ALIEXPRESS",
-        "website": "aliexpress.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006456.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b2ebe8bf74f613f5902930a7fc639933.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9111
       }
     }
   ]

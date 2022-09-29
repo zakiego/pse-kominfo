@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 25,
       "from": 241,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 250,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8258,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CHAMPIONS MANAGER MOBASAKA",
+        "website": "hoolaigames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HOOLAIGAME",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005829.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4acbfccadab8e0b4daa4204bb6fc67b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8175
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8257,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AUTO CHESS",
+        "website": "zizouqi.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "Long Entertainment Company Limited",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005828.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/387a767af07fc330d772ea85580c6bcb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8174
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9411,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4519bb8e6c4d01b6e5fc73773b6dad4f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8163
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8244,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ARKNIGHTS",
-        "website": "play.google.com/store/apps/details?id=com.YoStarEN.Arknights;apps.apple.com/us/app/id1464872022?mt=8",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YOSTAR (HONGKONG) LIMITED",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005817.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/72d0517c8b470cf00c835096be32c5a2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8162
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8243,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MAHJONG SOUL",
-        "website": "play.google.com/store/apps/details?id=com.YoStarEN.MahjongSoul;apps.apple.com/us/app/id1464872167",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YOSTAR (HONGKONG) LIMITED",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005817.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ce7e16bfdef42b5a7698702e8da11f7a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8161
       }
     }
   ]

@@ -3,13 +3,77 @@
     "page": {
       "currentPage": 36,
       "from": 351,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 360,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11017,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PUTRA WIDJAJA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PUTRA WIDJAJA",
+        "tanggal_daftar": "2022-09-05",
+        "nomor_tanda_daftar": "003369.02/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e51db7526776f9399bf13a7523dbf073.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10820
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4679,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SMIC FINANCIAL LINK",
+        "website": "transpeninsular.wordpress.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PUTRA WIDJAJA",
+        "tanggal_daftar": "2022-06-23",
+        "nomor_tanda_daftar": "003369.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f686058eefbf02dd802d9eee631025d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4638
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11019,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TUNAS INDONESIA JAYA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "YAYASAN TUNAS INDONESIA JAYA",
+        "tanggal_daftar": "2022-09-05",
+        "nomor_tanda_daftar": "003368.02/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/25d2b6ccbd8210dbe310249104f40a41.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10822
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4678,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SMIC FINANCIAL TRADE LINK",
+        "website": "transpeninsular.wordpress.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "YAYASAN TUNAS INDONESIA JAYA",
+        "tanggal_daftar": "2022-06-23",
+        "nomor_tanda_daftar": "003368.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6eb6703274c3153914b1e9658c638a68.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4637
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4677,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eedc2c9b97ae6b394ba0882b871d443e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4142
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4139,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "FACEU",
-        "website": "play.google.com/store/apps/details?id=com.lemon.faceu.oversea&hl=en_US&gl=US",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BYTEDANCE PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "002839.03/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4618a27642681aa9cc026f76df2e8cde.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4141
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4138,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "LEMON8",
-        "website": "lemon8-app.com/feed/foryou?region=id; play.google.com/store/apps/details?id=com.bd.nproject&hl=en_SG&gl=US; https://apps.apple.com/th/app/lemon8-%E3%83%AC%E3%83%A2%E3%83%B3%E3%82%A8%E3%82%A4%E3%83%88/id1498607143",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BYTEDANCE PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "002839.02/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a6eb90719f21327b4627d7cb6a61e1b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4140
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5485,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "ULIKE",
-        "website": "play.google.com/store/apps/details?id=com.gorgeous.liteinternational; apps.apple.com/tw/app/ulike-define-trendy-selfie/id1398796436",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BYTEDANCE PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "002839.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/026e7bcadb9aa6a07fa2a46f90c809ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4139
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4136,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "GAUTHMATH",
-        "website": "gauthmath.com/en; apps.apple.com/bb/app/gauthmath-students-must-have/id1542571008; play.google.com/store/apps/details?id=com.education.android.h.intelligence&hl=en_SG&gl=US",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GAUTHTECH PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "002838.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a6d6987f60b9133585c8e98a48b50fe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4138
       }
     }
   ]

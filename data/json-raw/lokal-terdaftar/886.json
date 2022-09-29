@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 887,
       "from": 8861,
-      "lastPage": 1041,
+      "lastPage": 1044,
       "perPage": 10,
       "to": 8870,
-      "total": 10407
+      "total": 10437
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 1199,
+      "id": 6261,
+      "attributes": {
+        "nomor_pb_umku": "120700032292500010002",
+        "nama": "G-MONEY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK GANESHA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000807.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cede4e80436047690a19b421cc8e7993.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6122
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1127,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Service API Bank Mandiri Production",
+        "nama": "Website Bank Ganesha",
+        "website": "www.bankganesha.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK GANESHA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000807.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb0936d049fdb5b70e74cf2a9c1b4477.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 781
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1122,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "G-corporate",
+        "website": "https://ganeshaonline.bankganesha.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK GANESHA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000807.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52d019342658d46fdb15c6ff2c0e27e5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 780
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1102,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANGGA (Mobile Banking)",
+        "website": "https://ganeshaonline.bankganesha.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK GANESHA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000807.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b5f285642704c2c4db6c39b02819cd6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 779
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1101,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ganesha Online",
+        "website": "https://ganeshaonline.bankganesha.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK GANESHA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000807.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cc21771717b7a7135a65b5879c8e3ad0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 778
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 7330,
+      "attributes": {
+        "nomor_pb_umku": "812021207264300060002",
+        "nama": "KOPRA BY MANDIRI",
+        "website": "kopra.bankmandiri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "000806.41/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f7ee30f3be3b91fb8a92c439e12091b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 7216
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2390,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Livin' 2.0 by Mandiri",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-11-16",
+        "nomor_tanda_daftar": "000806.40/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/997878450744d74f4d303f3a5f875945.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3470
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1235,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Digital Value Chain",
+        "website": "https://digitalvaluechain.bankmandiri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.39/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fc05a9e38868422cf621bdf30a66957a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3469
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1234,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SBN Online",
+        "website": "sbnonline.bankmandiri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000806.38/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fdebe92881f947c9b81570e9df27a556.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3468
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1225,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mandiri Pintar",
         "website": "-",
         "sektor": "Sektor Keuangan",
         "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
         "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.19/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4693beb0653ecf3135d90747b4509d3f.png",
+        "nomor_tanda_daftar": "000806.37/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/948415e10427cd06ef56d7848478a94f.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3449
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1198,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi API Portal",
-        "website": "https://developer.bankmandiri.co.id /",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.18/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47dda183c529b0e9f00444ce60b327a8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3448
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1197,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Livin' by Mandiri",
-        "website": "https://ibank.bankmandiri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.17/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/725d1d049c00e06091463b329f3665d0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3447
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1196,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Bank @ Work",
-        "website": "https://abisgajian.id; https://abisgajian.co.id; https://abisgajian.com; https://benefits.bankmandiri.co.id; https://benefitsdev.bankmandiri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.16/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1689303c4b6744fd120f61edf58b658a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3446
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1193,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MGT (Mandiri Global Trade; new)",
-        "website": "https://trade.bankmandiri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.15/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a449d8a629dc7fb526273f4c2368d6cd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3445
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1192,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MGT (Mandiri Global Trade) 2.0",
-        "website": "https://bg.bankmandiri.co.id/login",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.14/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b347d3e9ac0eee7da98a2c07706d99ec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3444
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1191,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MSC SGO (Mandiri Supply Chain )",
-        "website": "https://scm.bankmandiri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.13/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d06d07927208d5aaf597717d1bf37f2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3443
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1190,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MFSCM (Mandiri Financial Supply Chain Management)",
-        "website": "https://corp.scm.bankmandiri.co.id; https://fin.scm.bankmandiri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.12/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c18c5d64778a52e89b4668dbe1a7ce51.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3442
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1189,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi Mandiri Agen Laku Pandai - Branchless Banking",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.11/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cff832adf82cd7d915d835319c3e1bbc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3441
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1188,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website Mandiri Kartu Kredit",
-        "website": "https://www.mandirikartukredit.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000806.10/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/327a448b5ca45bb1012bc1de441e1e75.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3440
+        "sistem_elektronik_id": 3467
       }
     }
   ]

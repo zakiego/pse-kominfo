@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 2,
       "from": 11,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 20,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11364,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PROTON.ME",
+        "website": "proton.me",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MARIA TIURMA (ICBC WEALTH MANAGEMENT CO., LTD. - THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED)",
+        "tanggal_daftar": "2022-09-26",
+        "nomor_tanda_daftar": "007894.07/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15ef387790299373b3b66e14a2b862fd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11178
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11363,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CORP.BRI.CO.ID",
+        "website": "corp.bri.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MARIA TIURMA (ICBC WEALTH MANAGEMENT CO., LTD. - THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED)",
+        "tanggal_daftar": "2022-09-26",
+        "nomor_tanda_daftar": "007894.06/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/30696519fd39513e500ca75b8da3ba18.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11177
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11362,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b20bacba10864fa3bf97bd9c83c1d25.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10952
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11143,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TOKENOMY DASHBOARD",
-        "website": "dashboard.tokenomy.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "TENNET TECHNOLOGIES INC.",
-        "tanggal_daftar": "2022-09-12",
-        "nomor_tanda_daftar": "007718.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/93e33a08bfea027155d270d64abac9ce.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10951
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11053,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINUXCAT.TECH",
-        "website": "linuxcat.tech",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINUXCAT",
-        "tanggal_daftar": "2022-09-06",
-        "nomor_tanda_daftar": "007657.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8beaee5eaa9779ee7c2fdc1ae6711b2c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10856
       }
     }
   ]

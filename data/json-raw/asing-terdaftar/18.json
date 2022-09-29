@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 19,
       "from": 181,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 190,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9178,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OPERA MINI",
+        "website": "opera.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OPERA NORWAY AS",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006445.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0aaca34ebe8f5e509d8887237b174179.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9086
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9177,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OPERA NEWS",
+        "website": "opera.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OPERA NORWAY AS",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006445.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf9f1b5bc60987bd287942aaea9800c4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9085
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9176,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43ca3d290c07f13021b1e7f460844eab.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9057
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9147,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HEROES OF CROWN VNG",
-        "website": "hoc.vnggames.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VNG SINGAPORE PTE., LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006431.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/666b7af16005b02784ed39457fd21189.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9056
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8928,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ROBLOX CORPORATION",
-        "website": "roblox.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ROBLOX CORPORATION",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "006219.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b2a98dca1d24b3fecc97844ef8c9086.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8834
       }
     }
   ]

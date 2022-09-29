@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 4,
       "from": 31,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 40,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10928,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ITEL LAUNCHER",
+        "website": "shalltry.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
+        "tanggal_daftar": "2022-08-31",
+        "nomor_tanda_daftar": "007573.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e14e2cbea06fbb80ea2e951755f75320.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10739
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10927,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HIOS LAUNCHER",
+        "website": "shalltry.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
+        "tanggal_daftar": "2022-08-31",
+        "nomor_tanda_daftar": "007573.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2ad91162cf992e60995f86de664ec8e5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10738
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10923,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e2ea1d1eaef8af81db40e24128a76ce9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10658
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10842,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ATQM LEARNING SOLUTIONS PRIVATE LIMITED",
-        "website": "QUIZIZZ.COM",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ATQM LEARNING SOLUTIONS PRIVATE LIMITED",
-        "tanggal_daftar": "2022-08-26",
-        "nomor_tanda_daftar": "007525.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18ac6a50a9f6ee95b96f7f16fe56ec22.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10651
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10841,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "QUIZIZZ.COM",
-        "website": "quizizz.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ATQM LEARNING SOLUTIONS PRIVATE LIMITED",
-        "tanggal_daftar": "2022-08-26",
-        "nomor_tanda_daftar": "007525.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/221c475e31b553b85b9dbc48c5f6910d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10650
       }
     }
   ]

@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 23,
       "from": 221,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 230,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8459,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIVO BROWSER",
+        "website": "asia-browser.vivoglobal.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c18f9767e35695297bf9897455dddd75.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8375
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8458,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIVO BROWSER",
+        "website": "asia-browser.vivoglobal.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/39531d017a0d46e695c06aad536f9d5c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8374
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8457,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38fd023e0cb5e468163647d6e056c0b8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8191
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8272,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEBTOON",
-        "website": "webtoons.com/id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINE CORPORATION",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005833.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/84d4c780c66ccb42ab118541ed3a87c7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8190
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8271,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINE MESSENGER",
-        "website": "line.me/id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINE CORPORATION",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005833.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d3b6e57ad5c7b45bf9ed45025955d8e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8189
       }
     }
   ]

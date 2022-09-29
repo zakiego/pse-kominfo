@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 29,
       "from": 281,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 290,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8139,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GAMELOFT",
+        "website": "gameloft.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GAMELOFT SE",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005780.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de364507c29ebd895c57ddd0fa9eb48f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8062
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8137,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HBO GO",
+        "website": "hbogoasia.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AFFILIATES ASIA, LLC",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005779.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b543cf54543e9bf6863a1f03852d2ea.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8060
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8134,
@@ -56,6 +88,22 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3dba4fb4dd37e389a9bcb6a8443656a6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7572
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11393,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TOWER OF FANTASY",
+        "website": "toweroffantasy-global.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PROXIMA BETA PTE. LIMITED",
+        "tanggal_daftar": "2022-09-28",
+        "nomor_tanda_daftar": "005222.04/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66f152b2453a9456b37c13165f6f4f6d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11209
       }
     },
     {
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6f12d87d78d6976a8ae35678c24cbeff.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6865
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7102,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WHATSAPP.COM",
-        "website": "web.whatsapp.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004994.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/870b8b4193761712c30558e477533949.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6971
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7101,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WHATSAPP MESSENGER",
-        "website": "apps.apple.com/au/app/whatsapp-messenger/id310633997",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004994.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da45bd92a79ec983242a77e9be8aac7c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6970
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6800,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "INSTAGRAM",
-        "website": "apps.apple.com/au/app/instagram/id389801252",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004994.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a03796d72d5691be9d4a1fece69acce7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6651
       }
     }
   ]

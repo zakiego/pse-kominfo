@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 11,
       "from": 101,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 110,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9974,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "YALLA DOMINO",
+        "website": "yalladomino.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FYXTECH TECHNOLOGY PTE. LTD.",
+        "tanggal_daftar": "2022-08-05",
+        "nomor_tanda_daftar": "007003.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa881bac7639def641f04a44c2c9f7dc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9861
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9911,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NUADU",
+        "website": "nuadu.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NUADU",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006963.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/253c21bbc947a521b2351878e5137d8d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9798
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9887,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ec89bc352ebf1ea588318b6b8d814ae.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9660
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9778,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PAYPAL",
-        "website": "paypal.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PAYPAL PTE LTD",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006860.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7eba130bca4a4995b94b778608bdb306.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9652
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9728,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PRIME VIDEO",
-        "website": "primevideo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Amazon.com Services LLC",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006820.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0f43949c0fe985319a50c998215447f8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9605
       }
     }
   ]

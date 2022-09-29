@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 9,
       "from": 81,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 90,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10378,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "STAFFANY",
+        "website": "staffany.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "STAFFANY PRIVATE LIMITED",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007274.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4bc0c0f92e1075415f2f2cac8708c4d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10234
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10369,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HISAVANA",
+        "website": "hisavana.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HISAVANA",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007264.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c17fb599e5b5ebc2847737873fc4d3e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10224
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10353,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e76b127832941f179239c91756d9135d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10109
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10224,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TOP WAR: BATTLE GAME",
-        "website": "rivergame.net",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Rivergame Limited",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007165.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f2cbe7b980cee6a95b9227b5ecb4ddd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10105
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10211,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ORB MASTER",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HONG KONG TOUDA CO., LIMITED",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007154.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e17bad5166df0926b5f9f42add8d93d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10090
       }
     }
   ]

@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 13,
       "from": 121,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 130,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9410,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MICROSOFT BING",
+        "website": "bing.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MICROSOFT CORPORATION",
+        "tanggal_daftar": "2022-07-29",
+        "nomor_tanda_daftar": "006581.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9c7a300b60082ea25244ea7c1eb92c1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9320
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9885,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BATTLE.NET",
+        "website": "play.google.com/store/apps/details?id=com.blizzard.messenger",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BLIZZARD ENTERTAINMENT, INC",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006571.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/18b0fc62e03b1ae972a933e744e82133.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9771
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9884,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1358dab3b7944243e5d6a31a83d12a4e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9183
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9270,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MERGE COUNTY APP",
-        "website": "play.google.com/store/apps/details?id=com.mf.town；https://apps.apple.com/us/app/merge-county/id1586279379",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MICROFUN LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006499.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a9491cec7fe7301ba03dcd4cef17e85.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9182
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9269,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MERGE FABLES APP",
-        "website": "play.google.com/store/apps/details?id=com.mergegames.myth；https://apps.apple.com/us/app/merge-fables/id1564248355",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MICROFUN LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006499.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d8fa8b84b3bf28ad2768c5c3dcaad0ad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9181
       }
     }
   ]

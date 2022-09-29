@@ -3,13 +3,77 @@
     "page": {
       "currentPage": 42,
       "from": 411,
-      "lastPage": 42,
+      "lastPage": 43,
       "perPage": 10,
       "to": 420,
-      "total": 419
+      "total": 423
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4066,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BIOMARK MOBILE APPLICATION",
+        "website": "biomarking.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "BIOMARK PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002747.03/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fded7cccfae01e02c0d92b083e76fb3d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4065
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4065,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BIOMARK DOCTOR PLATFORM",
+        "website": "biomarking.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "BIOMARK PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002747.02/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/197ff3ea4e6a24ff153dc9e4dd718831.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4064
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4064,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BIOMARK LABORATORY PLATFORM",
+        "website": "biomarking.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "BIOMARK PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002747.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40fc9f0f6c3d9b717b7755af0d7af802.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4063
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4063,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BIOMARK LABORATORY PLATFORM",
+        "website": "biomarking.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "BIOMARK PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002746.03/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4cb0c58108bd3460c82138c77b541b7f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4062
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4062,
@@ -104,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6bd883ead6f915ffc8174efdac9b67c9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10817
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11011,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA",
-        "website": "abcd.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MARIA TIURMA",
-        "tanggal_daftar": "2022-09-05",
-        "nomor_tanda_daftar": "002744.03/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/849546a01f9a83d45b4ccb21ca5cdb35.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10814
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4056,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "SWIFT SERVICE BUREAU",
-        "website": "bottomline.com/apac",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BOTTOMLINE TECHNOLOGIES PTE. LTD.",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002743.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/480afc81483b46d05c2d69066680cdb8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4055
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4055,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "LIVEWELL APP AND WEB PORTAL",
-        "website": "livewell-portal.zurich.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "Zurich LiveWell Services and Solutions Ltd.",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002742.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6978494cb7ff055a21f95ac8ec64ecd6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4054
       }
     }
   ]
