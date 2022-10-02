@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 8,
       "from": 71,
-      "lastPage": 43,
+      "lastPage": 45,
       "perPage": 10,
       "to": 80,
-      "total": 423
+      "total": 447
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10621,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TAPON ANDROID",
+        "website": "tapon.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ADMIN@TAPON.COM",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007381.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eab944d427a9faf614a7f32bde83c9a1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10456
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10620,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MCOCEAN.COM",
+        "website": "mcocean.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MC OCEAN HOLDING SDN.BHD.",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007380.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/39ccd04febd3bc320d7887a58aa3626e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10455
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10545,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ASCENTIS CRM, ASCENTIS ECOMMERCE, ASCENTIS CX, ASCENTIS POS",
+        "website": "ascentis.com.sg",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ASCENTIS PTE LTD",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007345.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf95ce7e7cad56b0047e92fd47b87f63.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10404
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10542,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINE POD",
+        "website": "line.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINE PLUS CORPORATION",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007342.05/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/68ca112adb76c40d8d7103854877f25f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10400
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10541,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINE STORE",
+        "website": "line.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINE PLUS CORPORATION",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007342.04/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dee4e3a5b2090cd8d2b706bb5e74823b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10399
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10540,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7b4b871a17fe354067ee8ba5fbfe8e9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10301
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10443,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BLAZE OF BATTLE",
-        "website": "leyi-game.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHENZHEN LEYI NETWORK CO., LTD.",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007309.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/921a353caa5d0dec14c465dd990b8ba5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10300
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10423,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YAHOO INDONESIA",
-        "website": "id.mail.yahoo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YAHOO! SINGAPORE DIGITAL MARKETING PTE. LTD",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007300.04/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/61ab65dcbd9270b715e32af06e663bd7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10280
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10422,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YAHOO INDONESIA",
-        "website": "id.search.yahoo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YAHOO! SINGAPORE DIGITAL MARKETING PTE. LTD",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007300.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ea70d439fbfa5b8b6003323e6a9e366f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10279
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10421,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YAHOO INDONESIA",
-        "website": "id.berita.yahoo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YAHOO! SINGAPORE DIGITAL MARKETING PTE. LTD",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007300.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6cb6317cca4daede5fc4a487b46cef91.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10278
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10420,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YAHOO INDONESIA",
-        "website": "id.yahoo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YAHOO! SINGAPORE DIGITAL MARKETING PTE. LTD",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007300.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf209f4ca74eb99555f95b6bdb9af8d7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10277
       }
     }
   ]
