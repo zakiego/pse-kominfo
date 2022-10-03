@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 260,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8253,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TENCENT CLOUD INTERNATIONAL",
+        "website": "tencentcloud.com/?lang=en&pg=",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ACEVILLE PTE. LTD.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005825.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97354cfa78c28b4fd2958393b4fd1fc6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8173
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8252,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e442a3308e52b4414a18ca93a33f0cc3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8160
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8240,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LEAGUE OF LEGENDS: WILD RIFT",
-        "website": "wildrift.leagueoflegends.com/id-id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RIOT GAMES SERVICES PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005816.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/25e85702b45b773149d92439775b9406.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8159
       }
     }
   ]

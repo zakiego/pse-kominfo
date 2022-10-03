@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 290,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8150,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "APPLE APP STORE",
+        "website": "apps.apple.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "APPLE DISTRIBUTION INTERNATIONAL LIMITED",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005787.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19d3dd1789aea0ac97f082aa0747a684.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8071
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8149,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3a85cf196c2f51ffc8173cf8a0851e37.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8057
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8133,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GETCONTACT",
-        "website": "getcontact.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GETVERIFY LDA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005777.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0ea7300c86f67b57c375edd1c48abaa4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8054
       }
     }
   ]

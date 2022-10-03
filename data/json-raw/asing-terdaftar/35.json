@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 360,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4917,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "IZZI",
+        "website": "wefitec.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WeFi International A.G.",
+        "tanggal_daftar": "2022-06-28",
+        "nomor_tanda_daftar": "003535.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/82669d4cb8f1a04412a774cda5f838af.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4786
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4890,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f686058eefbf02dd802d9eee631025d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4638
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11441,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA",
-        "website": "owenstrategikmedia.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-09-30",
-        "nomor_tanda_daftar": "003368.10/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ccd89126cc48b2a190161a986b24ee2e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11254
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 340,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6387,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SEKOLAH ENUMA: BAHASA INDONESIA",
+        "website": "play.google.com/store/apps/details?id=com.enuma.enumaschool.indb2c",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ENUMA INC",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004716.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9d30e2378de9d68ae0c55517fb64a237.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6250
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6386,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2451edaafb4ba773baad06710f919ba3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6244
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6380,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ZINGPLAY INTERNATIONAL PTE. LTD.",
-        "website": "zingplay.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ZINGPLAY INTERNATIONAL PTE. LTD.",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004710.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14de5027d85c19ead5f15701468f58de.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6243
       }
     }
   ]

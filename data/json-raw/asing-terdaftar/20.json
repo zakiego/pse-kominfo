@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 210,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10707,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NOVELAME",
+        "website": "novelame168.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKURA PTE. LTD.",
+        "tanggal_daftar": "2022-08-23",
+        "nomor_tanda_daftar": "006144.07/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45de27ffaffb25d90475119270ea76a2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10540
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10381,
@@ -63,8 +79,8 @@
       "id": 9174,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "GLONOVEL",
-        "website": "play.google.com/store/apps/details?id=com.glonovel.story",
+        "nama": "BACALAH",
+        "website": "watpadd668.com",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
         "nama_perusahaan": "AKURA PTE. LTD.",
         "tanggal_daftar": "2022-07-27",
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8e63e11f44cdc5ec0cd0e5d4571584a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8692
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8774,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MANGADEX - CDN",
-        "website": "uploads.mangadex.org",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TRISTAN NINE",
-        "tanggal_daftar": "2022-07-22",
-        "nomor_tanda_daftar": "005940.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7d0d1d20d9f81767ea8ebfd578f6edc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8691
       }
     }
   ]

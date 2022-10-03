@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 280,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8228,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GUNS OF GLORY",
+        "website": "gog.kingsgroupgames.com/; play.google.com/store/apps/details?id=com.diandian.gog",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FUNPLUS INTERNATIONAL AG",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005809.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d95233b24342a89ca8471950ba8365eb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8146
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8227,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f3ab3faa0b026e42906c0e4d1d309b5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8073
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8150,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "APPLE APP STORE",
-        "website": "apps.apple.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "APPLE DISTRIBUTION INTERNATIONAL LIMITED",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005787.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19d3dd1789aea0ac97f082aa0747a684.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8071
       }
     }
   ]

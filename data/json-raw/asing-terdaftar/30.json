@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 310,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6799,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INSTAGRAM.COM",
+        "website": "instagram.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FACEBOOK SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004994.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f852b858c232be88f50992373320a400.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6650
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6798,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2b7aef39af0285645250f2c0ee351562.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10938
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6654,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "NETEASE GAME",
-        "website": "neteasegames.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004884.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/213d5a203599ad75d610a981c9a1e1a1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6508
       }
     }
   ]

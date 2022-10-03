@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 370,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11441,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MARIA TIURMA",
+        "website": "owenstrategikmedia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-09-30",
+        "nomor_tanda_daftar": "003368.10/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ccd89126cc48b2a190161a986b24ee2e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11254
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11440,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6eb6703274c3153914b1e9658c638a68.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4637
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4677,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "NABITU",
-        "website": "nabitu.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "NABITU TEKNOLOGI ISLAMI",
-        "tanggal_daftar": "2022-06-23",
-        "nomor_tanda_daftar": "003367.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f1b7a0f1af6142165d29f2bedd25aaf6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4636
       }
     }
   ]

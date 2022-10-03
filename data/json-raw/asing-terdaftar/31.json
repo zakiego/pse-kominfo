@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 320,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6654,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NETEASE GAME",
+        "website": "neteasegames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004884.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/213d5a203599ad75d610a981c9a1e1a1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6508
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6653,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/80d45adef2b157836fc4c5b55af44ef5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6261
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6398,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SUZHOU NUOCHENG LEGAL CONSULTING SERVICE COMPANY",
-        "website": "gamelawyer.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Suzhou nuocheng Legal Consulting Service Company",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004722.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47d14fe6473da7e44e8e65999d1315eb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6260
       }
     }
   ]

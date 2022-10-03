@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 350,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6380,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ZINGPLAY INTERNATIONAL PTE. LTD.",
+        "website": "zingplay.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ZINGPLAY INTERNATIONAL PTE. LTD.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004710.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14de5027d85c19ead5f15701468f58de.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6243
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6377,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9d759b4c67cd7f7be39d3e90fef6f54.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5149
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4917,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "IZZI",
-        "website": "wefitec.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "WeFi International A.G.",
-        "tanggal_daftar": "2022-06-28",
-        "nomor_tanda_daftar": "003535.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/82669d4cb8f1a04412a774cda5f838af.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4786
       }
     }
   ]

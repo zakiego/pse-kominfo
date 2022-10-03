@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 250,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8268,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AUK INDUSTRIES",
+        "website": "auk.industries",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AUK INDUSTRIES PTE. LTD.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005832.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7bb80ab335d55b5085a78e5a27f39d26.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8186
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8267,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/06e432f95de3ffa2f63f5e8004e87c8c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9321
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8253,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TENCENT CLOUD INTERNATIONAL",
-        "website": "tencentcloud.com/?lang=en&pg=",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ACEVILLE PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005825.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97354cfa78c28b4fd2958393b4fd1fc6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8173
       }
     }
   ]

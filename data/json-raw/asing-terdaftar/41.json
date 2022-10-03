@@ -6,10 +6,26 @@
       "lastPage": 45,
       "perPage": 10,
       "to": 420,
-      "total": 447
+      "total": 448
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4088,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "LINKTREE",
+        "website": "linktr.ee",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINKTREE PTY LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002762.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4af5ca9f140bb111af1f9a2406231da3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4087
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4087,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ba12a9dcaca70095d160071fc104ca6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10818
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4887,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BRAWIJAYA CAPITAL INVESTAMA (TRADE FINANCE LINK)",
-        "website": "transpeninsular.wordpress.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "DANA PENSIUN LEMBAGA KEUANGAN PT.BANK MUAMALAT INDONESIA",
-        "tanggal_daftar": "2022-06-28",
-        "nomor_tanda_daftar": "002754.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4bb6a3faee8f2d39c89ef9c335c46752.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4756
       }
     }
   ]
