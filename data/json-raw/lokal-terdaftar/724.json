@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 725,
       "from": 7241,
-      "lastPage": 1052,
+      "lastPage": 1053,
       "perPage": 10,
       "to": 7250,
-      "total": 10513
+      "total": 10528
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 2583,
+      "id": 9087,
+      "attributes": {
+        "nomor_pb_umku": "912010217115700010007",
+        "nama": "DANAKINI",
+        "website": "danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
+        "tanggal_daftar": "2022-07-26",
+        "nomor_tanda_daftar": "001681.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/415b6cfd6c8c7ed082a5a4b186c1076b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8996
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6357,
+      "attributes": {
+        "nomor_pb_umku": "912010217115700010006",
+        "nama": "MANAGEMENT INFORMATION SYSTEM DANAKINI",
+        "website": "mis.danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "001681.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b03209b04c398445662dc58aa5d50bcc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6217
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6354,
+      "attributes": {
+        "nomor_pb_umku": "912010217115700010006",
+        "nama": "DASHBOARD LENDER",
+        "website": "danaku.danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "001681.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ab87f4a66a10baddb3ee288e14d9a550.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6215
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6356,
+      "attributes": {
+        "nomor_pb_umku": "912010217115700010006",
+        "nama": "MERCHANT DASHBOARD",
+        "website": "merchant.danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "001681.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a478e7ab08198c7b6ce3d7d8d03fb079.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6207
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6338,
+      "attributes": {
+        "nomor_pb_umku": "912010217115700010005",
+        "nama": "WEBSITE PT DANA KINI INDONESIA",
+        "website": "danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "001681.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1bcade2bd8f88e6e2cb13d49fee4e07.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6196
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2652,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Trusti",
-        "website": "trusti.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DAMOS HANGGARA",
+        "nama": "Platform Mobilleapps Android P2P lending Danakini",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
+        "tanggal_daftar": "2021-12-07",
+        "nomor_tanda_daftar": "001681.04/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dbcb07b3bf1fb2c90837ecba22ea033e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1787
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2651,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Platform Mobile apps ISO P2P lending Danakini",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
+        "tanggal_daftar": "2021-12-07",
+        "nomor_tanda_daftar": "001681.03/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df265295524cb4ae142586f47fa8267b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1786
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2650,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Administrasi / Backend platform P2P lending Danakini",
+        "website": "ops.danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
+        "tanggal_daftar": "2021-12-07",
+        "nomor_tanda_daftar": "001681.02/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/60b742e0e5f22160a94d20a1ae6adc24.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1785
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2593,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website platform P2P lending Danakini - p2p.danakini.co.id",
+        "website": "p2p.danakini.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DANA KINI INDONESIA",
         "tanggal_daftar": "2021-12-02",
-        "nomor_tanda_daftar": "001676.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/203adbb61fda2de6959bc75a68b51430.png",
+        "nomor_tanda_daftar": "001681.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/08400586338013a33a96d7f85b8d7d02.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1766
+        "sistem_elektronik_id": 1784
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 2581,
+      "id": 2592,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Speakapp",
-        "website": "speakapp.me",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DAMOS HANGGARA",
+        "nama": "https://www.ilm.id",
+        "website": "https://www.ilm.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PANEN TATAGRIYA INDONESIA",
         "tanggal_daftar": "2021-12-02",
-        "nomor_tanda_daftar": "001676.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b7af269fac71de0688663bccb6ae08f.png",
+        "nomor_tanda_daftar": "001680.01/DJAI.PSE/12/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c4428596cfbd990ce5f44852720e375.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1765
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2599,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "S-MULTIVEST",
-        "website": "tapera.ksei.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
-        "tanggal_daftar": "2021-12-02",
-        "nomor_tanda_daftar": "001675.08/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf836b297d4df37e23cf58eb7762858b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1764
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2582,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Emiten Area",
-        "website": "online.ksei.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
-        "tanggal_daftar": "2021-12-02",
-        "nomor_tanda_daftar": "001675.07/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c62f21df616fdeb8340d98452cb2269.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1763
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2580,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Website PT Kustodian Sentral Efek Indonesia",
-        "website": "ksei.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
-        "tanggal_daftar": "2021-12-02",
-        "nomor_tanda_daftar": "001675.06/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a42c8232bf45e17289a47722851e0c3d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1762
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2579,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "S-INVEST",
-        "website": "s-invest.ksei.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001675.05/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/635358dc65d09eda334d25adf8b1c3b1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1761
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2578,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Pendaftaran Efek Elektronik (SPEK)",
-        "website": "spek.ksei.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001675.04/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4c058b46366f3eb6f325a040c6ba418.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1760
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2577,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "C-BEST",
-        "website": "cbest.ksei.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001675.03/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/78a794fe18ad392cd24194fef4d147e4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1759
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2576,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AKSes.KSEI",
-        "website": "akses.ksei.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001675.02/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f4ec78299cf442950941bd8a43e0607.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1758
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2575,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "eASY.KSEI",
-        "website": "easy.ksei.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KUSTODIAN SENTRAL EFEK INDONESIA",
-        "tanggal_daftar": "2021-12-01",
-        "nomor_tanda_daftar": "001675.01/DJAI.PSE/12/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/96b4778e0c07a4c6e85dd3de8f5f780d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1757
+        "sistem_elektronik_id": 1632
       }
     }
   ]
