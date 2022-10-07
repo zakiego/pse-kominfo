@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 2,
       "from": 11,
-      "lastPage": 49,
+      "lastPage": 50,
       "perPage": 10,
       "to": 20,
-      "total": 488
+      "total": 498
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 11481,
+      "id": 11586,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "BOOM BEACH",
+        "nama": "-",
+        "website": "margopp.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BUANA BLACKSTONE PROPERTY INDONESIA",
+        "tanggal_daftar": "2022-10-06",
+        "nomor_tanda_daftar": "008014.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/538301f787762176e4a3638ed0bd0cfa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11386
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11582,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BEIN SPORTS CONNECT",
+        "website": "connect-id.beinsports.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BEIN SPORTS ASIA PTE LIMITED",
+        "tanggal_daftar": "2022-10-06",
+        "nomor_tanda_daftar": "008010.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa94b5185b05785d00ee7a591c9815a5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11383
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11571,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NOVA",
+        "website": "sinch.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SINCH SWEDEN AB",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "008000.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a248cde3f22fe6bfff7e16112f6363c2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11374
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11570,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BILIBILI COMICS",
+        "website": "bilibilicomics.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BILIBILI COMICS PTE. LTD.",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007999.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/578440f9008d4ca93ac37fe82cff8d04.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11373
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11532,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LYCORIS RECOIL",
+        "website": "lycoris recoil.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "HUIYOU",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007988.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9b2460b53f41a013fd036fce0f3cd881.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11348
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11487,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REALITY",
+        "website": "reality.inc",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "REALITY, INC.",
+        "tanggal_daftar": "2022-10-04",
+        "nomor_tanda_daftar": "007974.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee299cbc6538eb866fa777cbc07a918d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11303
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11485,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WEPLAY",
+        "website": "weplayapp.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WEJOY PTE. LTD.",
+        "tanggal_daftar": "2022-10-04",
+        "nomor_tanda_daftar": "007973.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/04a099388743a6d232fb3949d77d4730.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11301
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11484,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HAY DAY",
         "website": "-",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
         "nama_perusahaan": "SUPERCELL OY",
         "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007972.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1debdf4ca14a10ef92627d2c2a239b14.png",
+        "nomor_tanda_daftar": "007972.05/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5d09d4753cbfe1a2856ec8e162d65f02.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11297
+        "sistem_elektronik_id": 11300
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 11480,
+      "id": 11483,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "BRAWL STARS",
+        "nama": "CLASH OF CLANS",
+        "website": "apps.apple.com/us/app/clash-of-clans/id529479190",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SUPERCELL OY",
+        "tanggal_daftar": "2022-10-04",
+        "nomor_tanda_daftar": "007972.04/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1e538ee17e412b8afbcde294b663013b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11299
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11482,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CLASH ROYALE",
         "website": "-",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
         "nama_perusahaan": "SUPERCELL OY",
         "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007972.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/700c6115187c8dc5c6225c53b208b065.png",
+        "nomor_tanda_daftar": "007972.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2af6e009a4f2d1ac14bc30415813faad.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11296
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11478,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MYHEALTH360",
-        "website": "-",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "PARKWAY GROUP HEALTHCARE PTE LTD",
-        "tanggal_daftar": "2022-10-03",
-        "nomor_tanda_daftar": "007971.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c09e77258589f5a03c8564852f5113b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11294
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11457,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BROMPTON INDONESIA",
-        "website": "id.brompton.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BROMPTON BICYCLE LIMITED",
-        "tanggal_daftar": "2022-10-01",
-        "nomor_tanda_daftar": "007952.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a635e335188f9472f843e8010e4639df.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11273
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11453,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PALMSTORE",
-        "website": "dev-pre.transsion.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BIRDIE_WU",
-        "tanggal_daftar": "2022-10-01",
-        "nomor_tanda_daftar": "007946.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8feea17ca5aae8537aca3ed2538e1599.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11269
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11431,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "RAGNAROK ONLINE ARENA",
-        "website": "gnjoy.asia",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "GRAVITY GAME HUB PTE LTD",
-        "tanggal_daftar": "2022-09-29",
-        "nomor_tanda_daftar": "007941.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b6da19881702e6bd174f5d3d9ad6c896.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11244
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11430,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PI-XCELS",
-        "website": "piperks.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PI-XCELS PTE LTD",
-        "tanggal_daftar": "2022-09-29",
-        "nomor_tanda_daftar": "007940.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51f687ba8ab50e660a79b1e6ed50a25f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11243
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11412,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DATA USAGE",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "YULORE LIMITED",
-        "tanggal_daftar": "2022-09-28",
-        "nomor_tanda_daftar": "007931.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4b5d4d138689ef00b2339b65decf40d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11225
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11403,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CHANEL.COM",
-        "website": "Chanel.com;Chanel.co.id;id-eshop.chanel.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CHANEL PTE LIMITED",
-        "tanggal_daftar": "2022-09-28",
-        "nomor_tanda_daftar": "007925.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7542407c05576101a76034c79011b50.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11217
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11375,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ICBC WEALTH MANAGEMENT - DANAREKSA FUTURES",
-        "website": "gmx.us",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HONG DING PROPERTY (H.K.) LIMITED",
-        "tanggal_daftar": "2022-09-27",
-        "nomor_tanda_daftar": "007901.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89fbb1f1e57e04647ccaf7c12c3d22f9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11189
+        "sistem_elektronik_id": 11298
       }
     }
   ]

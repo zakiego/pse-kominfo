@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 400,
       "from": 3991,
-      "lastPage": 1053,
+      "lastPage": 1055,
       "perPage": 10,
       "to": 4000,
-      "total": 10528
+      "total": 10545
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 8100,
+      "id": 5787,
       "attributes": {
-        "nomor_pb_umku": "912010444120500020018",
-        "nama": "TIKETING AKSES",
+        "nomor_pb_umku": "912010882266600000001",
+        "nama": "BOTIKA",
+        "website": "botika.online",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BOTIKA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004316.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c33eaa997eb2e921e700b9afcb625b7d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5648
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5799,
+      "attributes": {
+        "nomor_pb_umku": "022000678310600010001",
+        "nama": "INVOILA",
+        "website": "invoila.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SOL MITRA FINTEC",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004315.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3d15a29d9899463df97f8db39afff47.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5661
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5826,
+      "attributes": {
+        "nomor_pb_umku": "100522002196500000001",
+        "nama": "BPR NBP 17",
+        "website": "bprnbp17.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 17",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004314.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5f745966b9e3ccdba9e233fa9a2c5532.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5685
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6930,
+      "attributes": {
+        "nomor_pb_umku": "812011621150500080001",
+        "nama": "INTEGRATED BANKING SYSTEM (IBS)",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004305.18/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2ccb9faa08dfa6c7ef6f08322260490e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8020
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7343,
-      "attributes": {
-        "nomor_pb_umku": "912010444120500020017",
-        "nama": "SURVEYOR BPRKS",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004305.17/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2d651b59fb28724f893d3148abf94647.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7239
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7316,
-      "attributes": {
-        "nomor_pb_umku": "912010444120500020016",
-        "nama": "SALESTRACKING BPRKS",
-        "website": "salestracking.bprks.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004305.16/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0fb203b2d92df2389490e1903b74ae9f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7212
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7314,
-      "attributes": {
-        "nomor_pb_umku": "912010444120500020015",
-        "nama": "DASHBOARD AKSES",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004305.15/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/541100ae424bed018f4752ff0b1d7daf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7204
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7304,
-      "attributes": {
-        "nomor_pb_umku": "912010444120500020014",
-        "nama": "CANVASSER BPRKS",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "004305.14/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/661c6b8dad7c4e3bfd62424687309762.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7192
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7212,
-      "attributes": {
-        "nomor_pb_umku": "912010444120500020013",
-        "nama": "COLLECTION BPRKS",
-        "website": "collection.bprks.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT BOBATO LESTARI",
         "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004305.13/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/05db622fa9b717619987ee50ea0aec86.png",
+        "nomor_tanda_daftar": "004313.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca4a11711c71bf5fa961a2cf29f08355.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7096
+        "sistem_elektronik_id": 6781
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 7203,
+      "id": 5767,
       "attributes": {
-        "nomor_pb_umku": "912010444120500020012",
-        "nama": "SIMULATOR KREDIT BPRKS",
+        "nomor_pb_umku": "022000279079600030001",
+        "nama": "TRAKTEER",
+        "website": "trakteer.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "APRESIASI KARYA NUSANTARA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004312.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4ca845101ee92ac6518ff0338a0930e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5631
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5769,
+      "attributes": {
+        "nomor_pb_umku": "011121003075500010001",
+        "nama": "WEBSITE PERUSAHAAN (HTTPS://BPRKEDIRI.WIXSITE.COM/DHAHAEKONOMI)",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004305.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4c09e06f27588565130fe86ddca8739.png",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT DHAHA EKONOMI",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004311.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/669ddec091881a5c0fd2b01918f092fc.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7091
+        "sistem_elektronik_id": 5630
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 7194,
+      "id": 7861,
       "attributes": {
-        "nomor_pb_umku": "912010444120500020011",
-        "nama": "SALESTRAX BPRKS",
-        "website": "salestracking.bprks.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004305.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45809ac6bfb68d3f7ed424fbaf392fca.png",
+        "nomor_pb_umku": "022010183211500000002",
+        "nama": "EDSPERT.ID",
+        "website": "edspert.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WIDYA KREASI BANGSA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004308.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3bbe3f14f44608a22a579943c16a4dcd.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7080
+        "sistem_elektronik_id": 7781
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 7187,
+      "id": 7842,
       "attributes": {
-        "nomor_pb_umku": "912010444120500020010",
-        "nama": "CUSTOMER ON BOARD BPRKS",
-        "website": "cob.bprks.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004305.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fd1f5e433a5cc7185fe0695d065d2807.png",
+        "nomor_pb_umku": "022010183211500000001",
+        "nama": "WIDYA EDU",
+        "website": "widyaedu.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WIDYA KREASI BANGSA",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "004308.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/847478a97d1e1498359e2c4b3341a190.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7069
+        "sistem_elektronik_id": 7766
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 6366,
+      "id": 6178,
       "attributes": {
-        "nomor_pb_umku": "912010444120500020009",
-        "nama": "EDC BPRKS",
+        "nomor_pb_umku": "912050476167900040004",
+        "nama": "DIGIMOD E-COLLECTION-BPR IRIAN SENTOSA",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT KARYAJATNIKA SADAYA",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT IRIAN SENTOSA",
         "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004305.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/547838d9e46f893af5af397f0140f05d.png",
+        "nomor_tanda_daftar": "004307.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/903461698c243fc228ff373c5261719f.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5753
+        "sistem_elektronik_id": 6046
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5786,
+      "attributes": {
+        "nomor_pb_umku": "912050476167900040003",
+        "nama": "SMS MACROKIOSK  (OTP) - BPR IRIAN SENTOSA",
+        "website": "boldpass.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT IRIAN SENTOSA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "004307.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b00a3d5c653e0ec17ea6d805c3346860.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5649
       }
     }
   ]
