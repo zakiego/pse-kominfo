@@ -3,13 +3,109 @@
     "page": {
       "currentPage": 420,
       "from": 4191,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 4200,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6814,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "UNIT PENGENDALIAN GRATIFIKASI (UPG)",
+        "website": "upg.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004213.21/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17f9b9c07394378ef364fd4570ac026f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6667
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6371,
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010020",
+        "nama": "VENDOR MANAGEMENT SYSTEM",
+        "website": "vms.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004213.20/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cbc8eb5e6fad879a6a6735a701aad6d4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6233
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6367,
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010019",
+        "nama": "MARKETING ACTION PROGRAM (MAP)",
+        "website": "map.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004213.19/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1e72ee592ab2b32509528cc0807d16a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6232
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6365,
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010018",
+        "nama": "E-MAIL BANK JATIM",
+        "website": "mail.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004213.18/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b35005adebe250bb8718d198f261371a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6228
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6361,
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010017",
+        "nama": "JATIM ELEKTRONIK TRANSFER SISTEM (JETS)",
+        "website": "jets.bankjatim.co.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004213.17/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d3d168a130e26b021725388c4a5b37e6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6225
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6353,
+      "attributes": {
+        "nomor_pb_umku": "022010361157500010016",
+        "nama": "JATIM PRESENCE",
+        "website": "-",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004213.16/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a8e8dec1fd3ae0d6c6dee4b68b65384.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6221
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6350,
@@ -72,102 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d8c9711447b3bbd87dbaf0c7489bd2d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6202
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6328,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010011",
-        "nama": "E-RECRUITMENT BANK JATIM",
-        "website": "e-recruitment.bankjatim.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/69a1cc100b03988a4079004dcc259608.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6195
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6323,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010010",
-        "nama": "JATIM KILAT",
-        "website": "eform.bankjatim.co.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.10/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/36f67ffa03ae49b637d577613acf9022.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6190
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6316,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010009",
-        "nama": "JCONNECT E-LOAN",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.09/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/170aaf230c85d445250c5564bf05564f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6183
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6309,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010008",
-        "nama": "JCONNECT INVEST",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.08/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d667cd5444cdf18a60f277b0738a730.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6180
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6304,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010007",
-        "nama": "SMS BANKING",
-        "website": "-",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004213.07/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e1b472d820f1cfe4807dbb7e18790d18.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6170
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5656,
-      "attributes": {
-        "nomor_pb_umku": "022010361157500010006",
-        "nama": "JCONNECT SIPANDAI",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-        "tanggal_daftar": "2022-07-14",
-        "nomor_tanda_daftar": "004213.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6cbf4c4fbca51847badc2fba9251a2e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5517
       }
     }
   ]

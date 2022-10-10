@@ -3,13 +3,109 @@
     "page": {
       "currentPage": 389,
       "from": 3881,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 3890,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6138,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050006",
+        "nama": "APLIKASI E-WARONG BPD DIY",
+        "website": "g2c.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a32e9d040a50a9c8b85de1edb567e58.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6007
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6129,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050005",
+        "nama": "RETRIBUSI NON BILLING BPD DIY",
+        "website": "saget.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d41d505e710016f4c8dff5c135c4d44.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6002
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6122,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050004",
+        "nama": "LAKU PANDAI BPD DIY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa60ec27b0aee5e4d8536012ed478317.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5993
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6118,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050003",
+        "nama": "CASH MANAGEMENT SYSTEM BANK BPD DIY",
+        "website": "cm.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3d36da8130a4ed4570d37cce84e8289.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5987
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6100,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050002",
+        "nama": "MOBILE BANKING BANK BPD DIY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb3b7fdef53547f499aab41cf3b02d80.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5975
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6093,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050001",
+        "nama": "OFFICIAL WEBSITE BPD DIY",
+        "website": "bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01f724a601021c9403b33af2193a6d9c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5957
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11538,
@@ -72,102 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/38795b7fd75c4532177b771438bad3b7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9636
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6819,
-      "attributes": {
-        "nomor_pb_umku": "020722001459900000002",
-        "nama": "BINUSTODAY",
-        "website": "binustoday.reinhart1010.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "REINHART PREVIANO KOENTJORO",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004409.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/762338c4c88ffb556f7b8a852ea3d54a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6647
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5935,
-      "attributes": {
-        "nomor_pb_umku": "020722001459900000001",
-        "nama": "REINHART1010.ID",
-        "website": "reinhart1010.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "REINHART PREVIANO KOENTJORO",
-        "tanggal_daftar": "2022-07-16",
-        "nomor_tanda_daftar": "004409.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/543952680cb8abb8bf47b3c1f78635a8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5799
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5946,
-      "attributes": {
-        "nomor_pb_umku": "124900034274400010004",
-        "nama": "CREATIVE MULTIMEDIA INDONESIA",
-        "website": "creativemultimedia.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CREATIVE MULTIMEDIA INDONESIA",
-        "tanggal_daftar": "2022-07-16",
-        "nomor_tanda_daftar": "004408.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a589c85d1efe7bef9dcd3445cb3d7645.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5810
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5942,
-      "attributes": {
-        "nomor_pb_umku": "124900034274400010003",
-        "nama": "C MOBILE",
-        "website": "apps.creativemedia.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CREATIVE MULTIMEDIA INDONESIA",
-        "tanggal_daftar": "2022-07-16",
-        "nomor_tanda_daftar": "004408.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e8625c0d4b25c4e5f19ccc1a4ad57e4c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5806
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5941,
-      "attributes": {
-        "nomor_pb_umku": "124900034274400010002",
-        "nama": "COATES CONNECT",
-        "website": "ptcoatesconnect.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CREATIVE MULTIMEDIA INDONESIA",
-        "tanggal_daftar": "2022-07-16",
-        "nomor_tanda_daftar": "004408.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/41f372b0d212b8f94413a4eef00f1939.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5805
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5939,
-      "attributes": {
-        "nomor_pb_umku": "124900034274400010001",
-        "nama": "COATES INDONESIA TAKE5",
-        "website": "coatesapp.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "CREATIVE MULTIMEDIA INDONESIA",
-        "tanggal_daftar": "2022-07-16",
-        "nomor_tanda_daftar": "004408.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5118c61436a00d5deb03ebbcb39ca7b9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5803
       }
     }
   ]

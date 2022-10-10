@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 6,
       "from": 51,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 60,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11466,
+      "attributes": {
+        "nomor_pb_umku": "031022001838500000001",
+        "nama": "SSB PAY",
+        "website": "ssbpay.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "LULY WIDAYANTI, S.KOM",
+        "tanggal_daftar": "2022-10-03",
+        "nomor_tanda_daftar": "007956.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4ab1814be3aafc0e89a6ff42d4346ce3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11281
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11463,
+      "attributes": {
+        "nomor_pb_umku": "290922001103600000001",
+        "nama": "ALPHABITS CORE BANKING SYSTEM",
+        "website": "bankmalukumalut.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH MALUKU DAN MALUKU UTARA",
+        "tanggal_daftar": "2022-10-03",
+        "nomor_tanda_daftar": "007955.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1bd1b7fc1b1fbac8f35629db80c4cb8a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11279
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11462,
+      "attributes": {
+        "nomor_pb_umku": "123800070109800000001",
+        "nama": "TOKO MAJU SEJAHTERA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "DEDE RUSNIA",
+        "tanggal_daftar": "2022-10-02",
+        "nomor_tanda_daftar": "007954.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a41cf643b1e3ccd33d4a33a1aa5c5cf9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11278
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11455,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd3e63eb5cdeb42978f5bac889cd1d6d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11241
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11432,
-      "attributes": {
-        "nomor_pb_umku": "270922004568600000001",
-        "nama": "PT BANK PEMBIAYAAN RAKYAT SYARIAH SINDANGLAYA KOTANOPAN",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH SINDANGLAYA KOTANOPAN",
-        "tanggal_daftar": "2022-09-29",
-        "nomor_tanda_daftar": "007935.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d8c3a5a14e709a5453c73eb660bde7c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11245
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11417,
-      "attributes": {
-        "nomor_pb_umku": "121600066294500000001",
-        "nama": "FOODBUY",
-        "website": "foodbuy.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "FAMILI BOGA INDONESIA",
-        "tanggal_daftar": "2022-09-29",
-        "nomor_tanda_daftar": "007933.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/087c2f3334db459d0e8d2d13be56021e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11231
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11413,
-      "attributes": {
-        "nomor_pb_umku": "160822000161400000001",
-        "nama": "MYRRIED INDONESIA",
-        "website": "myrried.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "UNDANGAN DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-09-28",
-        "nomor_tanda_daftar": "007932.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5be4aa3ad6236da42d391fb08ae09a22.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11226
       }
     }
   ]

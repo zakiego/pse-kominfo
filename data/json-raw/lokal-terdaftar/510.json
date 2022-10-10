@@ -3,13 +3,141 @@
     "page": {
       "currentPage": 511,
       "from": 5101,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 5110,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4754,
+      "attributes": {
+        "nomor_pb_umku": "300422000153400000002",
+        "nama": "JAKARTALIMOUSINE WEB APPS",
+        "website": "jakartalimousine.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "JAKARTA LIMOUSINE DAN RENTCAR",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "003441.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/51ef980997bed5a39ac28181394a36fb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4701
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4753,
+      "attributes": {
+        "nomor_pb_umku": "300422000153400000001",
+        "nama": "JAKARTALIMOUSINE.COM",
+        "website": "jakartalimousine.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "JAKARTA LIMOUSINE DAN RENTCAR",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "003441.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8bcbf75a28ce742ebde436970e691be3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4700
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4775,
+      "attributes": {
+        "nomor_pb_umku": "240622000092400010001",
+        "nama": "DIENYCTRAVELBALI RENT CAR",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "ADI UTAMA SYAHPUTRA",
+        "tanggal_daftar": "2022-06-26",
+        "nomor_tanda_daftar": "003436.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/abfd3300aedbfdfb38b3c4067ef270a3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4720
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4750,
+      "attributes": {
+        "nomor_pb_umku": "240622000092400010001",
+        "nama": "DIENYCTRAVEL",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "ADI UTAMA SYAHPUTRA",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "003436.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f495133db9b32c09e3c0b2aae1720ee8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4698
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4913,
+      "attributes": {
+        "nomor_pb_umku": "123900046330800000001",
+        "nama": "ICOUNT",
+        "website": "nap.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NUSANTARA APLIKASI PRODUK",
+        "tanggal_daftar": "2022-06-28",
+        "nomor_tanda_daftar": "003433.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6cec102d746bbc0ace2ff63d19f13459.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4782
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5114,
+      "attributes": {
+        "nomor_pb_umku": "912020556140300000001",
+        "nama": "MY BRIF",
+        "website": "brifinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BRI MULTIFINANCE INDONESIA",
+        "tanggal_daftar": "2022-07-06",
+        "nomor_tanda_daftar": "003431.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e5dd6803ec5cd2777e5f0d94d931ddfc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4973
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4744,
+      "attributes": {
+        "nomor_pb_umku": "812000383134100010001",
+        "nama": "BERDU.ID",
+        "website": "berdu.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BERDUNIA DIGITAL TEKNOLOGI",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "003430.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d6be1ea024f8fc738dcee48877350c2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4693
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5183,
+      "attributes": {
+        "nomor_pb_umku": "912011408128500020004",
+        "nama": "RELI-HOME",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
+        "tanggal_daftar": "2022-07-07",
+        "nomor_tanda_daftar": "003429.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a3ad4c9dcbbeffa35e1c908aa17566f0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5049
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5182,
@@ -40,134 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac2a58f221a9d2b54649e86bcfd3348f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 5047
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5177,
-      "attributes": {
-        "nomor_pb_umku": "912011408128500020001",
-        "nama": "WEBSITE",
-        "website": "reliance-finance.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
-        "tanggal_daftar": "2022-07-07",
-        "nomor_tanda_daftar": "003429.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63400faae91d9e93a6945c3d9877bb80.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5042
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10924,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000007",
-        "nama": "PUJAMULIA.DESA.ID",
-        "website": "pujamulia.desa.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-08-30",
-        "nomor_tanda_daftar": "003426.07/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76c830b7600c243a876f6311816a906b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10734
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5039,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000006",
-        "nama": "PAGARMERBAUTIGA-DESA.ID",
-        "website": "pagarmerbautiga-desa.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-09-15",
-        "nomor_tanda_daftar": "003426.06/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/452f9e59568e21dcb9eae34206908d03.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4911
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5038,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000005",
-        "nama": "SEIMENCIRIM-DESA.ID",
-        "website": "seimencirim-desa.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-07-04",
-        "nomor_tanda_daftar": "003426.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9b00476f041224702a29acf6215482a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4910
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4761,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000004",
-        "nama": "MULIOREJO-DESA.ID",
-        "website": "muliorejo-desa.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-06-25",
-        "nomor_tanda_daftar": "003426.04/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a0faa2b992935add7264e9759b1a7554.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4707
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4756,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000003",
-        "nama": "BATANGTORU.ID",
-        "website": "batangtoru.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-06-25",
-        "nomor_tanda_daftar": "003426.03/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8b85e9a13979da7579bd9832e929b4c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4703
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4741,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000002",
-        "nama": "BANTUDESA.COM",
-        "website": "bantudesa.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-06-24",
-        "nomor_tanda_daftar": "003426.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de4bcfbe712a8f4e926a485c2408e0b6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4691
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4740,
-      "attributes": {
-        "nomor_pb_umku": "110522004951700000001",
-        "nama": "SHOP BANTUDESA",
-        "website": "shop.bantudesa.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANTUDESA KARYA INDONESIA",
-        "tanggal_daftar": "2022-06-24",
-        "nomor_tanda_daftar": "003426.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8513d6de0bc386e85053e52101cee896.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4690
       }
     }
   ]

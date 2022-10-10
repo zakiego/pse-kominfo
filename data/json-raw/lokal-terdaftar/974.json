@@ -3,13 +3,141 @@
     "page": {
       "currentPage": 975,
       "from": 9741,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 9750,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 543,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SIPLAH KEMENDIKBUD",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "FIA KURNIA GRUP",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000437.02/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11b2870191dab73c75904ca7d326136a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 369
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 537,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "siplah",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "FIA KURNIA GRUP",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000437.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f76cb94097cb792509a46b5cb4398bb7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 368
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 536,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "bizhare",
+        "website": "www.bizhare.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INVESTASI DIGITAL NUSANTARA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000436.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21ef6717dacc8f40ee1405839444c515.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 304
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1881,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Ai Care",
+        "website": "www.ai-care.id",
+        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ATMATECH GLOBAL INFORMATIKA",
+        "tanggal_daftar": "2021-08-16",
+        "nomor_tanda_daftar": "000435.02/DJAI.PSE/08/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9188c65c6ec690bf419ee5cc9f3c81b4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 293
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 535,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NETRAY",
+        "website": "Netray.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ATMATECH GLOBAL INFORMATIKA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000435.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb1d575dda0233e815cb997e12ba4504.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 292
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 534,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Callink",
+        "website": "www.callink.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DIGITAL SEKURITI INDONESIA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000434.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7356b4fc01669518282f0005f899300e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 255
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1626,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Pemberi Pinjaman KlikCair",
+        "website": "https://lender.klikcair.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KLIKCAIR MAGGA JAYA",
+        "tanggal_daftar": "2021-07-01",
+        "nomor_tanda_daftar": "000433.03/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2eb2e1967fc7f3a51d4668993bf75c28.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 367
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1625,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Penerima Pinjaman KlikCair",
+        "website": "https://borrower.klikcair.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KLIKCAIR MAGGA JAYA",
+        "tanggal_daftar": "2021-07-01",
+        "nomor_tanda_daftar": "000433.02/DJAI.PSE/07/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5342b6759523d91d7d44822690beef87.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 366
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 533,
@@ -40,134 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b1db5725e736590d20ef6aaff145fca.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3529
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 530,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Data as a Service (DaaS)",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASTRA INTEGRASI DIGITAL",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000431.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9402862eff2a83ce7836cc6228576aca.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 281
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 529,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sukanda Onelink",
-        "website": "www.sukandaonelink.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SUKANDA DJAYA",
-        "tanggal_daftar": "2021-04-21",
-        "nomor_tanda_daftar": "000430.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/318056684f44f9cd62d756a3da7b7baf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 289
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 527,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Jovee",
-        "website": "https://jovee.id/",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDOPASIFIK TEKNOLOGI MEDIKA INDONESIA",
-        "tanggal_daftar": "2021-04-21",
-        "nomor_tanda_daftar": "000429.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79c6a66bb289e8eadc53d1d243eb282d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2592
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 526,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Lifepack",
-        "website": "https://lifepack.id/",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INDOPASIFIK TEKNOLOGI MEDIKA INDONESIA",
-        "tanggal_daftar": "2021-04-21",
-        "nomor_tanda_daftar": "000429.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4fd1844f46dc1f8c32756b1179c3594.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2591
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9141,
-      "attributes": {
-        "nomor_pb_umku": "912010427252300000002",
-        "nama": "AYOOKLIK BELA",
-        "website": "bela.ayooklik.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AIR MAS PERKASA",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "000428.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9389bd82576527ba544d6e6dfa60af66.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9050
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9140,
-      "attributes": {
-        "nomor_pb_umku": "912010427252300000001",
-        "nama": "AYOOKLIK SIPLAH",
-        "website": "siplah.ayooklik.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AIR MAS PERKASA",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "000428.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/056e7bac7c4644aa7644f54b5abf3e2c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9049
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 525,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "RAJA STORE",
-        "website": "https://rajastore.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AIR MAS PERKASA",
-        "tanggal_daftar": "2021-04-21",
-        "nomor_tanda_daftar": "000428.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee6b9eb371f5573fc6f6b5c99d97a82d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3528
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 524,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CAIR LEKAS",
-        "website": "http://www.cairlekas.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMPAN PINJAM CAIR LEKAS INDONESIA",
-        "tanggal_daftar": "2021-04-21",
-        "nomor_tanda_daftar": "000427.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4ad31ef750bbcd3b08f14ac5b904396.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 358
       }
     }
   ]

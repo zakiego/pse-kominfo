@@ -3,13 +3,141 @@
     "page": {
       "currentPage": 613,
       "from": 6121,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 6130,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5007,
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010006",
+        "nama": "MY LIFE",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-09-14",
+        "nomor_tanda_daftar": "002423.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c8044861ceaa47582fbb685b9f570436.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4875
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5005,
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010005",
+        "nama": "WEBSITE BRI LIFE",
+        "website": "brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-07-01",
+        "nomor_tanda_daftar": "002423.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13e81ed1c75f24466ad29f4bc3bfda7a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4873
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4970,
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010004",
+        "nama": "MYACCESS",
+        "website": "myaccess.brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-06-30",
+        "nomor_tanda_daftar": "002423.04/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/274144578cd4ab2e46f5d9c0f455b596.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4838
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4969,
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010003",
+        "nama": "DIGIFORM",
+        "website": "digiform.brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-06-30",
+        "nomor_tanda_daftar": "002423.03/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c615cf4fc5282d1616ac3f15334dd09c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4837
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4968,
+      "attributes": {
+        "nomor_pb_umku": "912040688017700010002",
+        "nama": "MOKLAIM",
+        "website": "moklaim.brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-06-30",
+        "nomor_tanda_daftar": "002423.02/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d06ca7cb871ba45b76eb4aa2e1b0430.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4836
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3728,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Microsite BRI Life",
+        "website": "cmicrosite.brilife.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI BRI LIFE",
+        "tanggal_daftar": "2022-03-31",
+        "nomor_tanda_daftar": "002423.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a370b34c7959f5446741eed36396692.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3667
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3726,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PRONOTA.ID",
+        "website": "Pronota.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KELOLA TAGIHAN BERSAMA",
+        "tanggal_daftar": "2022-03-31",
+        "nomor_tanda_daftar": "002422.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0dfed9fd1c3ac8216931e2c90808a32.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3607
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3725,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MyValue",
+        "website": "myvalue.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "GRAMEDIA",
+        "tanggal_daftar": "2022-03-31",
+        "nomor_tanda_daftar": "002421.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57667e32eacaaac15197b548cd502f73.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 3649
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3723,
@@ -40,134 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f728ec14c3101601bc2e381123ff0e6e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 3661
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3720,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ORBIT-1",
-        "website": "www.orbit-1.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MAXIMAX SUKSES MAKMUR",
-        "tanggal_daftar": "2022-03-31",
-        "nomor_tanda_daftar": "002418.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66ed350305a8fe1b0ed7bcb61bffd113.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3566
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3716,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINGKAR TV",
-        "website": "lingkartv.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINGKAR MEDIA PERS",
-        "tanggal_daftar": "2022-03-31",
-        "nomor_tanda_daftar": "002417.02/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f29ebd9c49834fb2349d282b5f3cc406.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3594
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3715,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "lingkarjateng.id",
-        "website": "lingkarjateng.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LINGKAR MEDIA PERS",
-        "tanggal_daftar": "2022-03-31",
-        "nomor_tanda_daftar": "002417.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a6c4ce65ee59fd4757d534889de14b6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3593
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3714,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Kinan Clothing Company",
-        "website": "Kinan.kinara.go.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ICHSAN ABDI S.PD",
-        "tanggal_daftar": "2022-03-31",
-        "nomor_tanda_daftar": "002416.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/890616e05fae9121261fe464a0873a29.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3579
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3713,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Piro.id",
-        "website": "Piro.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TOLONG TRANSFER PAMAN RYAN",
-        "tanggal_daftar": "2022-03-31",
-        "nomor_tanda_daftar": "002415.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5a278bc2fec6b5b7cd5cf9432f882d8f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3602
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5196,
-      "attributes": {
-        "nomor_pb_umku": "024501024203700000002",
-        "nama": "JAGOSELEB.COM",
-        "website": "jagoseleb.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ALFIE RENALDY",
-        "tanggal_daftar": "2022-07-07",
-        "nomor_tanda_daftar": "002414.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/171b5680231ba1a731ed7a3990d7efd2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5068
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3712,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Apayments",
-        "website": "apayments.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ALFIE RENALDY",
-        "tanggal_daftar": "2022-03-31",
-        "nomor_tanda_daftar": "002414.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d46c8591cb248eef2a355c926515dfd6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3576
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3748,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEB DAN/ATAU PLATFORM DIGITAL DENGAN TUJUAN KOMERSIAL",
-        "website": "asatechnovasindo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASA TECHNOVASINDO",
-        "tanggal_daftar": "2022-04-01",
-        "nomor_tanda_daftar": "002413.11/DJAI.PSE/04/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c8837c9d34700e4a615a85479b30d7fc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3501
       }
     }
   ]

@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 49,
       "from": 481,
-      "lastPage": 50,
+      "lastPage": 62,
       "perPage": 10,
       "to": 490,
-      "total": 498
+      "total": 617
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 4067,
+      "id": 6382,
       "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BANK RAKYAT INDONESIA",
-        "website": "belumada.com",
+        "nomor_pb_umku": null,
+        "nama": "TAPTAP",
+        "website": "taptap.io",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TAPTAP PTE. LTD.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004712.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4a86d80e4a6b8fb674073a48f795cc3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6245
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6381,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EYOUGAME",
+        "website": "eyougame.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "Eyou Technology Pte. Ltd.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004711.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2451edaafb4ba773baad06710f919ba3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6244
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6380,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ZINGPLAY INTERNATIONAL PTE. LTD.",
+        "website": "zingplay.com",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BANK RAKYAT INDONESIA",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002748.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/79c9bff26dc477ac3f7fea8cd82467cd.png",
+        "nama_perusahaan": "ZINGPLAY INTERNATIONAL PTE. LTD.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004710.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14de5027d85c19ead5f15701468f58de.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4066
+        "sistem_elektronik_id": 6243
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 4066,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK MOBILE APPLICATION",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002747.03/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fded7cccfae01e02c0d92b083e76fb3d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4065
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4065,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK DOCTOR PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002747.02/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/197ff3ea4e6a24ff153dc9e4dd718831.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4064
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4064,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK LABORATORY PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002747.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40fc9f0f6c3d9b717b7755af0d7af802.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4063
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4063,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK LABORATORY PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002746.03/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4cb0c58108bd3460c82138c77b541b7f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4062
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4062,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK MOBILE APPLICATION",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002746.02/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/50c4208b893cfe419038c6b416ecb65e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4061
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4061,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK DOCTOR PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002746.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88d624d0e8127ace3b1fee6123bffc94.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4060
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4060,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "OMEGA: LAYANAN TAKSI",
-        "website": "taxiomega.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "GLOBAL SERVICE OMEGA L.L.C-FZ",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002745.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/989e8840b834c204e44d8bdeea10394d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4059
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11530,
+      "id": 6377,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA",
-        "website": "icbc.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HONG DING PROPERTY (H.K.) LIMITED",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "002744.10/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6300e9033958a75e6103ee5708c1a99.png",
+        "nama": "ISHOW",
+        "website": "ishowlive.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "APOTHEOSIS LIMITED",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004709.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c499690511d100a7f2482dfaec70689a.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11346
+        "sistem_elektronik_id": 6242
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 11529,
+      "id": 6376,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA",
-        "website": "shantou.gov.cn",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "HONG DING PROPERTY (H.K.) LIMITED",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "002744.09/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e28f17605d55f1a209ef6341abc09b6.png",
+        "nama": "PROGATE",
+        "website": "progate.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PROGATE",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004708.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/599253a30759b863a9de21e70c218a52.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11345
+        "sistem_elektronik_id": 6241
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6374,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MICROSOFT CLOUD SERVICES",
+        "website": "microsoft.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MICROSOFT IRELAND OPERATIONS LIMITED",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004707.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9fd1dd8c02bf2da5a83706d073c4a5e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6240
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6123,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HALAMAN INFORMASI APLIKASI GAMES (GENSHIN IMPACT, HONKAI IMPACT 3RD, TEARS OF THEMIS, HONKAI: STAR RAIL, ZENLESS ZONE ZERO, N0VA DESKTOP, HOYOLAB)",
+        "website": "hoyoverse.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "COGNOSPHERE PTE. LTD.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004559.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d88a06eb0a82f0a88577b53ac4423d1c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5995
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6017,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TELEGRAM MESSENGER",
+        "website": "web.telegram.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TELEGRAM MESSENGER INC",
+        "tanggal_daftar": "2022-07-17",
+        "nomor_tanda_daftar": "004473.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13f44e98ecb07be6daee5b76f213e5c3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5881
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5996,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MOBILE LEGENDS: ADVENTURE",
+        "website": "play.google.com/store/apps/details?id=com.moonton.mobilehero; apps.apple.com/us/app/mobile-legends-adventure/id1456213261; m.mladventure.net/#home",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "YOUNGJOY TECHNOLOGY LIMITED",
+        "tanggal_daftar": "2022-07-17",
+        "nomor_tanda_daftar": "004450.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8e2ed21b876f2b53a3ea4b8576b66f67.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5860
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5995,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MOBILE LEGENDS: BANG BANG",
+        "website": "play.google.com/store/apps/details?id=com.mobile.legends; apps.apple.com/us/app/mobile-legends-bang-bang/id1160056295; play.mobilelegends.com/landing/?lan=en; www.mobilelegends.net/fp/featured?aid=6571&sdk_language=en",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "YOUNGJOY TECHNOLOGY LIMITED",
+        "tanggal_daftar": "2022-07-17",
+        "nomor_tanda_daftar": "004450.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37925a4b59c5ce136d9efe73046298e6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5859
       }
     }
   ]

@@ -3,13 +3,141 @@
     "page": {
       "currentPage": 751,
       "from": 7501,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 7510,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 2420,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Internet Banking | Maspion Electronic Banking (MEB)",
+        "website": "meb.bankmaspion.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MASPION INDONESIA",
+        "tanggal_daftar": "2021-11-22",
+        "nomor_tanda_daftar": "001590.02/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c970f5b36cb27cd61635b7b4065203b3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1592
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2418,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mobile Banking | Maspion Electronic Banking (MEB)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK MASPION INDONESIA",
+        "tanggal_daftar": "2021-11-22",
+        "nomor_tanda_daftar": "001590.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43666f0b5a04723fb6495e27c2dd4660.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1591
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2417,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Klikchitose",
+        "website": "klikchitose.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRIJATI PRIMULA",
+        "tanggal_daftar": "2021-11-22",
+        "nomor_tanda_daftar": "001589.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/299fa41752837504cb06864da4add470.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1584
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2416,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TOKO PRIMA",
+        "website": "tokoprima.co",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "WCZ ECOMMERCE TECHNOLOGY INDONESIA",
+        "tanggal_daftar": "2021-11-19",
+        "nomor_tanda_daftar": "001588.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a215fdece89d9b702fd9f890e6ccd232.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1205
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2415,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Codinglab",
+        "website": "codinglab.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KODINGLAB INTEGRASI INDONESIA",
+        "tanggal_daftar": "2021-11-19",
+        "nomor_tanda_daftar": "001587.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ed98b114bf07e9d8c6cc235fc886a350.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1611
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2411,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Jasa Internet Service Provider",
+        "website": "covernet.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "COVER NETWORK INDONESIA",
+        "tanggal_daftar": "2021-11-19",
+        "nomor_tanda_daftar": "001586.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb832e31ab51af3fdf9e53f9c7131b21.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1610
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2410,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Mosys",
+        "website": "mosys.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AZZURA VICTORY NETWORK",
+        "tanggal_daftar": "2021-11-19",
+        "nomor_tanda_daftar": "001585.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a7232ed38d587a49d74a222725bb28fc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 1608
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2409,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Telco Credit Score",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TRUSTING SOCIAL INDONESIA",
+        "tanggal_daftar": "2021-11-19",
+        "nomor_tanda_daftar": "001584.01/DJAI.PSE/11/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c2d36def7131c6c38df06134b42fa3d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2811
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2408,
@@ -40,134 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e45c234dc7925c15568f100307e49e99.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 1573
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2405,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Glori Mart",
-        "website": "glorimart.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GLOBAL PERSADA MANDIRI INVESTAMA",
-        "tanggal_daftar": "2021-11-19",
-        "nomor_tanda_daftar": "001581.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7181f97ce1079e668de01675215e522.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1604
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2404,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Tokoparts.com",
-        "website": "tokoparts.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SUKU CADANG OTO SEJAHTERA",
-        "tanggal_daftar": "2021-11-18",
-        "nomor_tanda_daftar": "001580.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a89e108bc24d6c9109daaaf722553fb0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1601
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2403,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Datamax Teknologi Internasional",
-        "website": "pasarin.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DATAMAX TEKNOLOGI INTERNASIONAL",
-        "tanggal_daftar": "2021-11-18",
-        "nomor_tanda_daftar": "001579.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/250093267a6546f2669a97add64d9dae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1581
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2402,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.genitech.co.id",
-        "website": "genitech.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ULTIMATE GENIUS TECHNOLOGY",
-        "tanggal_daftar": "2021-11-18",
-        "nomor_tanda_daftar": "001578.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/181fc473bc5f3e09447649b30c793751.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1598
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2400,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Degriya Apps",
-        "website": "degriya.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SOLUSI PROPERTI HALAL",
-        "tanggal_daftar": "2021-11-18",
-        "nomor_tanda_daftar": "001577.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f1d7b1b99bb33fdcac5a408dab08b8fd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1590
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2399,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "mememi",
-        "website": "mememi.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MERAKYAT MENTAL MILIONER",
-        "tanggal_daftar": "2021-11-17",
-        "nomor_tanda_daftar": "001576.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/be8f4cf8ae5c4c05363f0278dfb61581.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 1492
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2396,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Furni Karya Mandiri",
-        "website": "clarity.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FURNI KARYA MANDIRI",
-        "tanggal_daftar": "2021-11-17",
-        "nomor_tanda_daftar": "001575.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ccc92de637830e6f79cacea8b0ea5d2e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 441
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2394,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Circle K Shopping",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CIRCLEKA INDONESIA UTAMA",
-        "tanggal_daftar": "2021-11-17",
-        "nomor_tanda_daftar": "001574.01/DJAI.PSE/11/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5025f49d7eba44839c84a96b2b6b7eed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 405
       }
     }
   ]

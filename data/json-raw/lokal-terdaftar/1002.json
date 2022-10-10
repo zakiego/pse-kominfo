@@ -3,13 +3,141 @@
     "page": {
       "currentPage": 1003,
       "from": 10021,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 10030,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 355,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Tataskola.id",
+        "website": "https://tatskola.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TATASKOLA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000293.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a32ba4ba023584b55e92576c57ca6d65.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 354,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EMASJEK",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "ERA MASYARAKAT SEJAHTERA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000292.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/397c2d8c87f9081e851ab626b683ac6e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 86
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 353,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FREIGHTPAIR.COM",
+        "website": "https://freightpair.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "EXIMKU LOGISTIK INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000291.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/783b222a058c1249e6bf355f77275979.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 352,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ANDALIN.COM",
+        "website": "https://www.andalin.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "EXIMKU LOGISTIK INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000291.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8ef7443af3d69cae2d88fe87dfd788c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 469,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MY SUPER INDO",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "LION SUPER INDO",
+        "tanggal_daftar": "2021-04-19",
+        "nomor_tanda_daftar": "000290.03/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/35d43e9320c6c97a7ef7ad94524517b4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2796
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 468,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Super Indo",
+        "website": "www.superindo.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "LION SUPER INDO",
+        "tanggal_daftar": "2021-04-19",
+        "nomor_tanda_daftar": "000290.02/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d5b720c1bd90d4c193c6a4349b87d01d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2795
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 351,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Super Ninja (Super Indo Nitip Belanja)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "LION SUPER INDO",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000290.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dd09927f5134fb7d414cef1094de68f5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2794
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 350,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Jasa penitipan pembelian melalui sistem online",
+        "website": "www.titipbeliin.com",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TITIPBELIIN GLOBAL INTERNASIONAL",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000289.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5341ebb832826f645526c55f0b36f9cf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 116
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 348,
@@ -40,134 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1e4a42d8ce76c8440817e4848a4f9403.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 123
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 343,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Digital Exchange Indonesia",
-        "website": "https://digitalexchange.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "INDONESIA DIGITAL EXCHANGE",
-        "tanggal_daftar": "2021-03-09",
-        "nomor_tanda_daftar": "000286.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bc4dd12144245e579ee65f90576c00d9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 117
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 341,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Relasi Bisnis Bersama",
-        "website": "www.rbb-world.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MAHAKARYA CITRA INTERNASIONAL",
-        "tanggal_daftar": "2021-03-09",
-        "nomor_tanda_daftar": "000285.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/85f25a0f8bf935eb3305ffe34dd813e8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2649
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 340,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ArtaKu",
-        "website": "http://artaku.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SARANA PASAR DIGITAL",
-        "tanggal_daftar": "2021-03-08",
-        "nomor_tanda_daftar": "000284.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0043e6b94db1b90760ecb1cf41c965ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 122
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 339,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT. INSPIRE MULTI SOLUSINDO",
-        "website": "www.inspiremultisolusindo.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INSPIRE MULTI SOLUSINDO",
-        "tanggal_daftar": "2021-03-08",
-        "nomor_tanda_daftar": "000283.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ffca97196fd67e9fae4ff515b2ffec4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2738
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 470,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "eBuy",
-        "website": "www.ebuy.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ETOP GLOBAL TECHNOLOGY",
-        "tanggal_daftar": "2021-04-19",
-        "nomor_tanda_daftar": "000282.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4f8a9d3d946f5073786b46283b42217a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2793
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 337,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "eBuy",
-        "website": "www.ebuy.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ETOP GLOBAL TECHNOLOGY",
-        "tanggal_daftar": "2021-03-08",
-        "nomor_tanda_daftar": "000282.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f230a5634a0503ed45f4e790bd2642fb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2792
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 336,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Popaket",
-        "website": "https://www.popaket.com/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "TRADARU DIGITAL NIAGA",
-        "tanggal_daftar": "2021-03-05",
-        "nomor_tanda_daftar": "000281.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d00924acf5a58560ed778f20ac0d24b6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 115
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2158,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SMARTX Expert Analyzer Software for Trading",
-        "website": "ptsmi.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIMBIOTIK MULTITALENTA INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "000280.03/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71822b9bd0dde7a11c4096aa663cbc38.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 109
       }
     }
   ]

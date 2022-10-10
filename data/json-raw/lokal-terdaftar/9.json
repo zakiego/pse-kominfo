@@ -3,13 +3,77 @@
     "page": {
       "currentPage": 10,
       "from": 91,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 100,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 5140,
+      "attributes": {
+        "nomor_pb_umku": "120522001196600000001",
+        "nama": "INPINJAMAN",
+        "website": "inpinjaman.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KITA SIAP SEJAHTERA",
+        "tanggal_daftar": "2022-09-26",
+        "nomor_tanda_daftar": "007889.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/404b2122acda1a7414d4528a745e481b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5003
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10943,
+      "attributes": {
+        "nomor_pb_umku": "310522004601800020001",
+        "nama": "FILE ACADEMY",
+        "website": "fileacademy.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FILE STUDIO INDONESIA",
+        "tanggal_daftar": "2022-09-26",
+        "nomor_tanda_daftar": "007888.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c66344a9b94b439081b2619a1ffeef2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10751
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11389,
+      "attributes": {
+        "nomor_pb_umku": "230622002156600000001",
+        "nama": "SEMUT",
+        "website": "semut.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SEMAKIN MUDAH TERJANGKAU",
+        "tanggal_daftar": "2022-09-27",
+        "nomor_tanda_daftar": "007887.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6defb70c09e23881be66197ac76f399d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11206
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11406,
+      "attributes": {
+        "nomor_pb_umku": "124500062360600040001",
+        "nama": "ALTA SCHOOL",
+        "website": "altaschool.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ALTA INDONESIA PINTAR",
+        "tanggal_daftar": "2022-09-28",
+        "nomor_tanda_daftar": "007886.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4c1f7972b3a9899c0bc2317cabf0c83b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11216
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11357,
@@ -104,70 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b099f5c6b633adac313b8525a9d3a58.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11163
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11347,
-      "attributes": {
-        "nomor_pb_umku": "024501021253900030001",
-        "nama": "GARUT TV",
-        "website": "garuttv.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GRAHA MULTIKARYA MANDIRI",
-        "tanggal_daftar": "2022-09-26",
-        "nomor_tanda_daftar": "007878.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81b0c5f005abcc28070fc8bc8063596a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11162
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11349,
-      "attributes": {
-        "nomor_pb_umku": "060822001947900010001",
-        "nama": "MEDIA TAMA ANGKASA",
-        "website": "mediaangkasa.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIA TAMA ANGKASA",
-        "tanggal_daftar": "2022-09-26",
-        "nomor_tanda_daftar": "007877.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f4fd150a20a999e10067d0f0f978a07.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11161
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11356,
-      "attributes": {
-        "nomor_pb_umku": "912040330025600000001",
-        "nama": "SIMRS VMK",
-        "website": "ptvmk.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "VIVA MEDIKA KONSULTAN",
-        "tanggal_daftar": "2022-09-26",
-        "nomor_tanda_daftar": "007876.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c762bb856b26a8161bd94d8776430532.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11170
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11355,
-      "attributes": {
-        "nomor_pb_umku": "912010985143400000001",
-        "nama": "MEDINFRAS",
-        "website": "medinfras.com",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "QUANTUM INFRA SOLUSINDO",
-        "tanggal_daftar": "2022-09-26",
-        "nomor_tanda_daftar": "007874.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9296f91bc4efbed516c7a3fda61a8232.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11169
       }
     }
   ]

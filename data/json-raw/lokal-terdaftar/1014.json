@@ -3,13 +3,141 @@
     "page": {
       "currentPage": 1015,
       "from": 10141,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 10150,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 779,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Gateway@CIMB",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000222.08/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb9b5e7bdaaa294d7824da0d6aa412ac.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2759
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 774,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BizChannel@CIMB Mobile Banking",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000222.07/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4555238ebdd0670bc2755af7b0f2696.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2758
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 772,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BizChannel@CIMB",
+        "website": "https://bizchannel.cimbniaga.co.id/corp/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-05-07",
+        "nomor_tanda_daftar": "000222.06/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af23935b66fbb1a772499697203db75f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2757
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 647,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Plug n Pay By CIMB Niaga",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000222.05/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f04786c671d958c3bb2413b518a85327.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2756
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 646,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OCTO Merchant",
+        "website": "https://branchlessbanking.cimbniaga.co.id/octo-merchant",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000222.04/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/55cbf9f1b2a66407957cea632f56b1a3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2755
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 280,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Branchless Banking",
+        "website": "https://branchlessbanking.cimbniaga.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000222.03/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ab731390532c5d185f051ed5a9d4fce.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2754
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 261,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Octo Mobile",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-02-26",
+        "nomor_tanda_daftar": "000222.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f651775f714ff8a0d8fe8563ba80499.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2753
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 260,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OCTO Clicks",
+        "website": "https://www.octoclicks.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CIMB NIAGA",
+        "tanggal_daftar": "2021-02-26",
+        "nomor_tanda_daftar": "000222.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e80d4cac57a4934c7209e5ec9be9ef97.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2752
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 2950,
@@ -40,134 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ab1c69216e58c1e5ff09632df74fa1b8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 2790
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 258,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ZipX",
-        "website": "id.ZipX.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ECOMMET ONLINE INDONESIA",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000220.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/74d4c89e9a0e629bbba52ae6a7beb48d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2751
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 257,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "iCare",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASTRA GRAPHIA",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000219.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7ca5952f315c1eaacde19dcd1a9f92ef.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2749
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 256,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Coinvestasi",
-        "website": "https://coinvestasi.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "USER ACQUISITION INDONESIA",
-        "tanggal_daftar": "2021-02-25",
-        "nomor_tanda_daftar": "000218.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8ea2b761b1d27fcbd6c324aecda7e7ab.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2784
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7624,
-      "attributes": {
-        "nomor_pb_umku": "912020150003700010005",
-        "nama": "ALIVE",
-        "website": "alive.generali.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000217.14/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/842534f9cce5b6bf44bfdce30c436e43.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7520
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7598,
-      "attributes": {
-        "nomor_pb_umku": "912020150003700010004",
-        "nama": "BRAVO",
-        "website": "bravo.generali.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "000217.13/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8c2728b6f6c7700340f9684d35568e1a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7485
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5744,
-      "attributes": {
-        "nomor_pb_umku": "912020150003700010003",
-        "nama": "IPROPOSE YOU",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000217.12/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/35ef5298a153c20881cdec20a9e7f6aa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5609
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5732,
-      "attributes": {
-        "nomor_pb_umku": "912020150003700010002",
-        "nama": "AKUBERBAGI.COM",
-        "website": "akuberbagi.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000217.11/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a6d03af5a74d3ea513699ce509256a3f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5595
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 2105,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "iRecruit",
-        "website": "https://irecruit-wa.generali.co.id/#/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ASURANSI JIWA GENERALI INDONESIA",
-        "tanggal_daftar": "2021-10-26",
-        "nomor_tanda_daftar": "000217.10/DJAI.PSE/10/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4c66f02bcbc99db75acda5d75858090.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2694
       }
     }
   ]

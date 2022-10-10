@@ -3,13 +3,141 @@
     "page": {
       "currentPage": 892,
       "from": 8911,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 8920,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 1165,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sistem Informasi Pelanggan Data BEI",
+        "website": "https://data.idx.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000832.09/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2abb681aed162f20a00b18fb65dab017.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 687
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1164,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Regional Development Information System",
+        "website": "https://rdis.idx.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000832.08/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df2d43c5ebb2ef6298db6184a489263b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 686
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1163,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IDX Virtual Trading",
+        "website": "https://virtualtrading.idx.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000832.07/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cb3267a4dd780e1f173a014a76f820be.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 685
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1162,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Call Center PT Bursa Efek Indonesia (BEI)",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000832.06/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e55ce568b643b3e566bbf5451396375a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 684
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1161,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Sarana Pelaporan Elektronik Terintegrasi Emiten dan Perusahaan Tercatat (SPE-IDXnet)",
+        "website": "https://idxnet.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000832.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d55227669f3dbe3f4bb1e2cc05765cc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 683
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1160,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IDX Portal",
+        "website": "https://idxportal.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000832.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/71594320a35825a7d5b6574e4e4a1854.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 682
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1159,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Electronic Indonesia Public Offering (e-IPO)",
+        "website": "https://e-ipo.co.id//",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000832.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/afda4fd9b9b5dc6a5de3398f9170c6dc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 681
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1157,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Go Public",
+        "website": "https://gopublic.idx.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BURSA EFEK INDONESIA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000832.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21b72d487b3b059b51478ac96d91b65b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 680
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 1156,
@@ -40,134 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1d798dcdb4d935aed1bbb68509d59361.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 751
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1150,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VeriJelas",
-        "website": "www.verijelas.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JELAS KARYA WASANTARA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000830.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9622fa24fc37afc2b84ea70899d83441.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 565
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1149,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KKS",
-        "website": "www.karyaks.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KARYA KERJA SEJAHTERA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000829.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a4f8ff46f7470c4508791db39ce47057.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 564
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1170,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CATAPA",
-        "website": "www.catapa.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DARTA MEDIA INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000828.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a0720b80642860e3bb4da0e6b0a41bda.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 784
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1148,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KASKUS",
-        "website": "www.kaskus.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DARTA MEDIA INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000828.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ddbf6d8fd8e47a7d470a289a2c62e8b8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 783
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4304,
-      "attributes": {
-        "nomor_pb_umku": "912000324152600010001",
-        "nama": "SISTEM INTEGRATOR PEMBAYARAN LINTAS BATAS (CROSS BORDER PAYMENT) MENGGUNAKAN QRIS (QUICK RESPONSE INDONESIA STANDARD)",
-        "website": "arashdigital.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ARASH DIGITAL REKADANA",
-        "tanggal_daftar": "2022-06-09",
-        "nomor_tanda_daftar": "000827.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c950b4d3225e55954467eb64d3993fd6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4297
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1147,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Penyelenggara Jasa Pembayaran Lintas Batas (Cross Border Payment) dengan menggunakan QRIS (Quick Response Indonesia Standard)",
-        "website": "https://www.arashdigital.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ARASH DIGITAL REKADANA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000827.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf1f06bd144147a242e01bb300bedb90.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2742
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1146,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Konimexstore",
-        "website": "https://www.konimexstore.com/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CETAPHARM",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000826.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/55b67379a45aaa3c8128cd8467e9e538.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 823
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1145,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.anugrahwahyutehnik.com",
-        "website": "HTTPS://ANUGRAHWAHYUTEHNIK.COM",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANUGRAH WAHYU TEHNIK",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000825.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42b921f8f140015fc9fe5ff2a5cea02e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 569
       }
     }
   ]

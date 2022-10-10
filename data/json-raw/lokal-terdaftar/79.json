@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 80,
       "from": 791,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 800,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10484,
+      "attributes": {
+        "nomor_pb_umku": "912020332085300010001",
+        "nama": "JRKU",
+        "website": "jrku.jasaraharja.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AK JASA RAHARJA",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007194.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/81fc08add59b579424254474010d9714.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10342
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10670,
+      "attributes": {
+        "nomor_pb_umku": "022010461253300000004",
+        "nama": "EPAYROLL",
+        "website": "epayroll.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TRIAS MITRA JAYA MANUNGGAL",
+        "tanggal_daftar": "2022-08-24",
+        "nomor_tanda_daftar": "007193.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7bda889e3e2b56e71ee2f111e7214ca4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10484
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10653,
+      "attributes": {
+        "nomor_pb_umku": "022010461253300000003",
+        "nama": "CLAIMQ",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "TRIAS MITRA JAYA MANUNGGAL",
+        "tanggal_daftar": "2022-08-24",
+        "nomor_tanda_daftar": "007193.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b18e4598511b55ee9e8c1b6b49924657.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10483
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10342,
+      "attributes": {
+        "nomor_pb_umku": "022010461253300000002",
+        "nama": "WEBSITE WWW.EPAYROLL.ID",
+        "website": "epayroll.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "TRIAS MITRA JAYA MANUNGGAL",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007193.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2da1bb554d8bad974fdde0d951a199e2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10161
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10256,
+      "attributes": {
+        "nomor_pb_umku": "912020893042100010001",
+        "nama": "ISLAMIC BANKING APLICATION",
+        "website": "amanahbangsa.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH AMANAH BANGSA",
+        "tanggal_daftar": "2022-08-12",
+        "nomor_tanda_daftar": "007192.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1e2246c9de4818ed09bbce0143ced32.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10138
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10465,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e61b1e009957a18ec660ee318d4c34b1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11087
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10262,
-      "attributes": {
-        "nomor_pb_umku": "180821002005400000003",
-        "nama": "EKLINIK",
-        "website": "eklinik.co",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TAZKIAMEDIA MULTI PRIMA",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "007186.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92ee24afeeb67b30674c46dad2bab12c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10148
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10258,
-      "attributes": {
-        "nomor_pb_umku": "180821002005400000002",
-        "nama": "ADMINSEKOLAH",
-        "website": "adminsekolah.net",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TAZKIAMEDIA MULTI PRIMA",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "007186.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/07a0e052f614b3ef3924d396b401261a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10141
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10254,
-      "attributes": {
-        "nomor_pb_umku": "180821002005400000001",
-        "nama": "EPESANTREN",
-        "website": "epesantren.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TAZKIAMEDIA MULTI PRIMA",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "007186.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aaa417f1076e5a314df4a373405fbfa9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10136
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10247,
-      "attributes": {
-        "nomor_pb_umku": "120822000192400000001",
-        "nama": "TRENDY SHOP NTT",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SYAHRUDIN M. LUBIS",
-        "tanggal_daftar": "2022-08-12",
-        "nomor_tanda_daftar": "007182.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9893143e9e3c17bd33b7606591e23e8a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10129
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10430,
-      "attributes": {
-        "nomor_pb_umku": "301121003619400010001",
-        "nama": "NXTPUSH",
-        "website": "nxtpush.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "GLOBAL DIGITAL SISTEMA",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007173.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4b39244b1351ffc3cd867b206a5fb403.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10287
       }
     }
   ]

@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 3,
       "from": 21,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 30,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11603,
+      "attributes": {
+        "nomor_pb_umku": "812011504266400060001",
+        "nama": "WEBSITE PT GAPURA ANGKASA",
+        "website": "gapura.id",
+        "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GAPURA ANGKASA",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "007998.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1c9b1c11d34aea1c86897f23a72b840.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11404
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11565,
+      "attributes": {
+        "nomor_pb_umku": "028000091147900000003",
+        "nama": "MYKLINIK",
+        "website": "myklinik.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SOKKA KREATIF TEKNOLOGI",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007997.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8fbf50c034b9a61708f7544080d5736c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11368
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11560,
+      "attributes": {
+        "nomor_pb_umku": "171021000632700010001",
+        "nama": "SOLUSI SPA",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "TITUS MENJANG",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007996.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ced17b03261a935df9d36577e9ade0a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11365
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11567,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cb17ece11d28c8e33890896256be53cc.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11351
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11503,
-      "attributes": {
-        "nomor_pb_umku": "124600056200300000001",
-        "nama": "GROW & BLESS DIGITAL MARKETING",
-        "website": "growandbless.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ARDIAN SUSANTO",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007986.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/998004d11230ce047eb509166262ac85.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11319
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11504,
-      "attributes": {
-        "nomor_pb_umku": "041022022754600000001",
-        "nama": "WEBSITE (MAGNET OTOMOTIF) DAN APLIKASI ANDROID (MOMO)",
-        "website": "magnetotomotif.website",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SINAR CIPTA NIAGA",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007985.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/502accc8f6d2c3575b2d280d21ae8c65.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11320
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11533,
-      "attributes": {
-        "nomor_pb_umku": "280922000026800000001",
-        "nama": "ERESTO",
-        "website": "eresto.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ERESTO DIGITAL SOLUTION",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "007984.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/94a628094c94173ca90b9fde15ab71c0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11349
       }
     }
   ]

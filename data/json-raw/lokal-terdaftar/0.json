@@ -3,13 +3,61 @@
     "page": {
       "currentPage": 1,
       "from": 1,
-      "lastPage": 1055,
+      "lastPage": 1056,
       "perPage": 10,
       "to": 10,
-      "total": 10545
+      "total": 10553
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11741,
+      "attributes": {
+        "nomor_pb_umku": "030122002583300010001",
+        "nama": "DITOPUP",
+        "website": "ditopup.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ADITIYA KARYA UTAMA",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008068.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/64dc4eadb089c67688a9f8835159b45e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11541
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11740,
+      "attributes": {
+        "nomor_pb_umku": "171221003828300000001",
+        "nama": "JURAGANWEB.COM",
+        "website": "juraganweb.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JURAGAN DIGITAL SOLUTION",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008066.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89c1683c4ac1d799fc5bf9eb04525283.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11540
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11737,
+      "attributes": {
+        "nomor_pb_umku": "022070580288300000001",
+        "nama": "ORIGO",
+        "website": "origo.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "PRIMA SELARAS TEKNOLOGI",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008064.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5249d6ec929c00c06bb337f9d1ba3a8d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11537
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11606,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/acac846f27e395666bd5e6a642de1876.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11398
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11585,
-      "attributes": {
-        "nomor_pb_umku": "912020050147800010001",
-        "nama": "MONY UANG ELEKTRONIK",
-        "website": "anadana.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ANADANA KODE NONTUNAI",
-        "tanggal_daftar": "2022-10-06",
-        "nomor_tanda_daftar": "008013.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/30efdb5621419d92ab11d549e932d782.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11385
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11587,
-      "attributes": {
-        "nomor_pb_umku": "091221004667600010001",
-        "nama": "MATEMATIKA AJAIB",
-        "website": "matematikaajaib.my.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EKSAKTA INTEGRA ISLAMICA",
-        "tanggal_daftar": "2022-10-06",
-        "nomor_tanda_daftar": "008012.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0cce13d112ea2db3a7a692363a30264f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11387
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11584,
-      "attributes": {
-        "nomor_pb_umku": "051022000363600000001",
-        "nama": "TEKNOLOGI CIPTA KARYA BANGSA",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TEKNOLOGI CIPTA KARYA BANGSA",
-        "tanggal_daftar": "2022-10-06",
-        "nomor_tanda_daftar": "008011.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a77c30e63a82011a472fb788af174c74.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11384
       }
     }
   ]
