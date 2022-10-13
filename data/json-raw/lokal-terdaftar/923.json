@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 924,
       "from": 9231,
-      "lastPage": 1056,
+      "lastPage": 1059,
       "perPage": 10,
       "to": 9240,
-      "total": 10553
+      "total": 10586
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 5288,
+      "id": 952,
       "attributes": {
-        "nomor_pb_umku": "812011006071400030003",
-        "nama": "BRANKAS - OPEN BANKING PLATFORM",
-        "website": "Brankas.com",
+        "nomor_pb_umku": null,
+        "nama": "Permatae-Business",
+        "website": "https://www.permatae-business.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERMATA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000713.05/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7b300b7b2f0b31945f83cec0d780dae.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 605
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 951,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Permata Bisnis Payment Point",
+        "website": "https://pbpp.permatabank.com/retail/web/login",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERMATA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000713.04/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bc584a938eea2403fac83c0822ba1500.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 604
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 950,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PermataQR Merchant",
+        "website": "https://qr.permatabank.com/portal-merchant",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERMATA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000713.03/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f119191456d357e2e18f1470b10e672.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 603
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 949,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PermataNet",
+        "website": "https://www.permatanet.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERMATA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000713.02/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dbd28e890ce0d2fd79397282a8c7d3e1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 602
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 946,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PermataMobile X",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERMATA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000713.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e6db91982d782612a90ae3cf4dfd3fb1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 601
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 940,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Progressive Web App - GajiGesa",
+        "website": "https://app.gajigesa.com",
         "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRANKAS TEKNOLOGI INDONESIA",
+        "nama_perusahaan": "EASY MANAGEMENT SYSTEMS",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000712.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5fef5ef770baad126ba518023987445e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 41
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10955,
+      "attributes": {
+        "nomor_pb_umku": "022020012177800010002",
+        "nama": "MITRA AKULAKU",
+        "website": "akulakufinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AKULAKU FINANCE INDONESIA",
+        "tanggal_daftar": "2022-09-02",
+        "nomor_tanda_daftar": "000711.02/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/469a3cd4003685b49965bc6007131920.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10762
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 939,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "AkuCicil",
+        "website": "www.akulakufinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AKULAKU FINANCE INDONESIA",
+        "tanggal_daftar": "2021-05-11",
+        "nomor_tanda_daftar": "000711.01/DJAI.PSE/05/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d8e944d307f09c3719a648c886f71e9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2810
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10549,
+      "attributes": {
+        "nomor_pb_umku": "022010521024300090006",
+        "nama": "KIRIMINAJA APLIKASI MULTI EKSPEDISI",
+        "website": "kiriminaja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SELALU SIAP SOLUSI",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "000710.09/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/283ee534b1f06fe20eb30824dc63e101.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10409
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5272,
+      "attributes": {
+        "nomor_pb_umku": "022010521024300090005",
+        "nama": "KIRIMINAJA DOT COM",
+        "website": "kiriminaja.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SELALU SIAP SOLUSI",
         "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "000699.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/adc6f7c51ac99f6314f50bc6a5f0b1a6.png",
+        "nomor_tanda_daftar": "000710.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fedfafdc06b11d559eeacb88f510d827.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5156
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5284,
-      "attributes": {
-        "nomor_pb_umku": "812011006071400030002",
-        "nama": "BRANKAS OPEN BANKING PLATFORM",
-        "website": "Brankas.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRANKAS TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "000699.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f2a4167bb456102fa34e446de0e0d65.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5153
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5283,
-      "attributes": {
-        "nomor_pb_umku": "812011006071400030001",
-        "nama": "BRANKAS OPEN API PLATFORM",
-        "website": "Brankas.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRANKAS TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2022-07-11",
-        "nomor_tanda_daftar": "000699.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/081e5dd9c3ab1e571ff86d5a3095121d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5152
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 927,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Brankas Open Banking API platform",
-        "website": "Brank.as",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRANKAS TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000699.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/27d8ee60ec4bb5b7c06a1de44885f5d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 540
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3182,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Aplikasi AMAAN",
-        "website": "amaan.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AMAAN INDONESIA SEJAHTERA",
-        "tanggal_daftar": "2022-02-07",
-        "nomor_tanda_daftar": "000698.02/DJAI.PSE/02/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/48322ea369eb228344a05407505933ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3304
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 926,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "amaan apps",
-        "website": "amaan.co.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "AMAAN INDONESIA SEJAHTERA",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000698.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c8f54736d3da41ca9e3c9c58c3da527.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3303
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 920,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Koala",
-        "website": "www.koala.id",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NYALA INOVASI PROPERTI",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000697.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a73b5442b177c7682bb10093df3d5ad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3476
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3541,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Edukasi Satu Hati",
-        "website": "edukasi.satuhati.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASTRA HONDA MOTOR",
-        "tanggal_daftar": "2022-03-15",
-        "nomor_tanda_daftar": "000696.03/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4bd5d4b2f926165d5ac5c63674fc58b8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3207
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1432,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Informasi Resmi Mengenai Produk AHM",
-        "website": "www.astra-honda.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "ASTRA HONDA MOTOR",
-        "tanggal_daftar": "2021-06-09",
-        "nomor_tanda_daftar": "000696.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/28a8c98482d4c984cca9c27cf55006d2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 559
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 919,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AHM Career",
-        "website": "https://recruitment.astra-honda.com/index.html",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASTRA HONDA MOTOR",
-        "tanggal_daftar": "2021-05-11",
-        "nomor_tanda_daftar": "000696.01/DJAI.PSE/05/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/da878d17a02389cc5640ee3d73dfdd20.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 558
+        "sistem_elektronik_id": 5140
       }
     }
   ]
