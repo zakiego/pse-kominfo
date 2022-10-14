@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 150,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11586,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRI DANAREKSA SEKURITAS",
+        "website": "bridanareksasekuritas",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-06",
+        "nomor_tanda_daftar": "008014.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/538301f787762176e4a3638ed0bd0cfa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11386
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11582,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2af6e009a4f2d1ac14bc30415813faad.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11298
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11481,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BOOM BEACH",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SUPERCELL OY",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007972.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1debdf4ca14a10ef92627d2c2a239b14.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11297
       }
     }
   ]

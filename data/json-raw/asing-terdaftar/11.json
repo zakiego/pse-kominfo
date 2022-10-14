@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 120,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11623,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IVALUA",
+        "website": "ivalua.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "IVALUA INC.",
+        "tanggal_daftar": "2022-10-08",
+        "nomor_tanda_daftar": "008039.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/163158bb3ff73a5840733429516647aa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11423
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11622,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b88e372f138788d0fcffebc9e1a3ce2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11414
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11611,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANK CENTRAL ASIA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BCA FINANCE LIMITED",
-        "tanggal_daftar": "2022-10-07",
-        "nomor_tanda_daftar": "008036.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63c507457ccea0c4b807b3bf83efc5ed.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11413
       }
     }
   ]

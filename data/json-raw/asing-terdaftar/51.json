@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 520,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11526,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MARIA TIURMA KALAIJ",
+        "website": "bnisyariah.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA (d/h RUMICORP (PTY) LIMITED LONDON)",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "003370.08/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/98f060f883278f9b5967db28980f6cc3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11342
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11525,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e89d82308f472dc2ba61a24381712f4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11336
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11519,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "440500000138099",
-        "website": "english.shantou.gov.cn",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU MARIA INVESTMENT CO.., LTD.",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "003369.10/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df60d7808301a2678801fb00b30b6706.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11335
       }
     }
   ]

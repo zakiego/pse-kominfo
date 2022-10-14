@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 130,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11611,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK CENTRAL ASIA",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BCA FINANCE LIMITED",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "008036.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63c507457ccea0c4b807b3bf83efc5ed.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11413
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11610,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de935e77497f67d55cd5eaec7af27df5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11399
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11597,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WARGAMING GAME CENTRE",
-        "website": "asia.wargamingnet",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WARGAMING GROUP LIMITED",
-        "tanggal_daftar": "2022-10-07",
-        "nomor_tanda_daftar": "008023.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d64d7c66fde319e595e704f3c0e6938b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11397
       }
     }
   ]

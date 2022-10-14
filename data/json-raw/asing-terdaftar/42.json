@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 430,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8234,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WECHAT",
+        "website": "play.google.com/store/apps/details?id=com. tencent.mm&hl=in&gl=US",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WECHAT INTERNATIONAL PTE. LTD.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005813.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba9dee67f018fc9c34671c0a7ce9ebfe.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8152
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8232,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5bf31bc6f720f935d700e2a497fb0c60.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8112
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8192,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "INNOVEL",
-        "website": "play.google.com/store/apps/details?id=com.dreame.reader.indonesia&hl=en_US&gl=US; https://apps.apple.com/us/app/innovel/id1529082813",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "STARY PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005802.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37490e6c5a67c1ce3fce58282d60a2fc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8111
       }
     }
   ]

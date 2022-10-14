@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 440,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8192,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INNOVEL",
+        "website": "play.google.com/store/apps/details?id=com.dreame.reader.indonesia&hl=en_US&gl=US; https://apps.apple.com/us/app/innovel/id1529082813",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "STARY PTE. LTD.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005802.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37490e6c5a67c1ce3fce58282d60a2fc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8111
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8159,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9e82a3a9af769a73fcd9d35e2a0e0a49.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8066
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8145,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PICMA - PENAMBAH FOTO AI",
-        "website": "imperial-vision.com/en",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LIMEI GAO",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005782.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aab80eb99dd8eb01396a7b26e99728b2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8065
       }
     }
   ]

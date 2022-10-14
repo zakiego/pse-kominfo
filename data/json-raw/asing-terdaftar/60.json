@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 610,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11447,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SHANTOUMARIAINVESTMENT.COM",
+        "website": "shantoumariainvestment.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KENCANA PUTRA KENDARI",
+        "tanggal_daftar": "2022-09-30",
+        "nomor_tanda_daftar": "002753.08/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97a4d8a5329d378f9be21321bdb30a1b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11260
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11446,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58dd08a366d859be930d713940ca304e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10824
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11450,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANK RAKYAT INDONESIA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK RAKYAT INDONESIA",
-        "tanggal_daftar": "2022-09-30",
-        "nomor_tanda_daftar": "002748.03/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ff2af64ef9bf03a583aaa5f9fdd6db5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11265
       }
     }
   ]

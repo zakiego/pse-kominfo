@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 360,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8928,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ROBLOX CORPORATION",
+        "website": "roblox.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ROBLOX CORPORATION",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "006219.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0b2a98dca1d24b3fecc97844ef8c9086.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8834
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8770,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09f1a661351f326aacfa42494af026f7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9081
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9173,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FUNNOVEL",
-        "website": "hitnovelvip.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AKURA PTE. LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006144.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/96b0d38b23f4fecdf29f504c1ce23730.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9080
       }
     }
   ]

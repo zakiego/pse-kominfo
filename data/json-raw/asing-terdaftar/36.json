@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 370,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9173,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FUNNOVEL",
+        "website": "hitnovelvip.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKURA PTE. LTD.",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006144.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/96b0d38b23f4fecdf29f504c1ce23730.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9080
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8769,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c87ae9382bb1ea2624b4711eee18a9c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8388
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8471,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO OFFICIAL E-STORE",
-        "website": "shop.vivo.com/id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.16/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/853dd7816064b6ed5713f335db041115.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8387
       }
     }
   ]

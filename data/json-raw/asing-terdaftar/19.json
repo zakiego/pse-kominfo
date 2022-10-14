@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 200,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10923,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WEBUY",
+        "website": "webuyid.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NEW RETAIL INTERNATIONAL PTE. LTD.",
+        "tanggal_daftar": "2022-08-30",
+        "nomor_tanda_daftar": "007570.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fed934e014dc78687e37a33d15377464.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10733
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10921,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/221c475e31b553b85b9dbc48c5f6910d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10650
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10813,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WEST GAME",
-        "website": "leyi-game.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LEXIANG CO., LIMITED",
-        "tanggal_daftar": "2022-08-25",
-        "nomor_tanda_daftar": "007506.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e27d353718987ee0ce1c9c2016708dec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10624
       }
     }
   ]

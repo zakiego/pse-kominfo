@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 600,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11510,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SHANTOU HAIYI INVESTMENT (GROUP) CO., LTD.",
+        "website": "qq.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "002754.09/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a61f765e9b34dbb0a3bef5f42315c59.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11326
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11509,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/73c724f27215d63f7695d8c7059904ec.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11261
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11447,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SHANTOUMARIAINVESTMENT.COM",
-        "website": "shantoumariainvestment.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-09-30",
-        "nomor_tanda_daftar": "002753.08/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97a4d8a5329d378f9be21321bdb30a1b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11260
       }
     }
   ]

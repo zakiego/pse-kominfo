@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 220,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10684,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WAR OF DEITIES",
+        "website": "leyi-game.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JOYSTIX LIMITED",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007434.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1708ac29cb2d1f4b19af848938ce4d91.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10517
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10683,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/20335c84b41e070ee77e25f9ec4c43d7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10460
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10624,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HI BROWSER",
-        "website": "https://play.google.com/store/apps/details?id=com.talpa.hibrowser",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007384.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c6240dd58827e12cf5a4e7c3bda5d51.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10459
       }
     }
   ]

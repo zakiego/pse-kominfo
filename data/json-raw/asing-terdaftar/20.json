@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 210,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10813,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WEST GAME",
+        "website": "leyi-game.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LEXIANG CO., LIMITED",
+        "tanggal_daftar": "2022-08-25",
+        "nomor_tanda_daftar": "007506.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e27d353718987ee0ce1c9c2016708dec.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10624
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10800,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7d10800385002f70889efd859525dbb.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10518
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10684,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WAR OF DEITIES",
-        "website": "leyi-game.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JOYSTIX LIMITED",
-        "tanggal_daftar": "2022-08-22",
-        "nomor_tanda_daftar": "007434.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1708ac29cb2d1f4b19af848938ce4d91.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10517
       }
     }
   ]

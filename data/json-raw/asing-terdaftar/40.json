@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 410,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8260,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FUTURE FOOTBALL MANAGER",
+        "website": "global.wdyxgames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HOOLAIGAME",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005829.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b839791ed4451474d292d8c4ed7eafdd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8177
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8259,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a6029b02bbc61b42752aabd2079245c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8165
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8246,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LINGOACE",
-        "website": "lingoace.com/id/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PPLINGO PTE LTD",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005818.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd2ca54a43135302c94d28da1c152446.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8164
       }
     }
   ]

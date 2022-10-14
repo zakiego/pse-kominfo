@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 340,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9202,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ALIBABA.COM",
+        "website": "alibaba.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006456.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f6c7fc80abe8e4ad53d5d8172ce8deda.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9110
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9200,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf9f1b5bc60987bd287942aaea9800c4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9085
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9176,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OPERA FOR ANDROID",
-        "website": "opera.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "OPERA NORWAY AS",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006445.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db45544dbd03e979bcfbae768082a433.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9084
       }
     }
   ]

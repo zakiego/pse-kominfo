@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 110,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11631,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-08",
+        "nomor_tanda_daftar": "008043.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/223dbe698508cc837de6c40782f1d531.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11431
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11630,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a04edf694381fa16e797d546618c3d58.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11424
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11623,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "IVALUA",
-        "website": "ivalua.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IVALUA INC.",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008039.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/163158bb3ff73a5840733429516647aa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11423
       }
     }
   ]

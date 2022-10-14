@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 510,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6017,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TELEGRAM MESSENGER",
+        "website": "web.telegram.org",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TELEGRAM MESSENGER INC",
+        "tanggal_daftar": "2022-07-17",
+        "nomor_tanda_daftar": "004473.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/13f44e98ecb07be6daee5b76f213e5c3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5881
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 5996,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bae4eb9fe0fbc41197e3af8d09fd39cd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4674
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11526,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA KALAIJ",
-        "website": "bnisyariah.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA (d/h RUMICORP (PTY) LIMITED LONDON)",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "003370.08/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/98f060f883278f9b5967db28980f6cc3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11342
       }
     }
   ]

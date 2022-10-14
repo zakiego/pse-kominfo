@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 140,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11597,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WARGAMING GAME CENTRE",
+        "website": "asia.wargamingnet",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "WARGAMING GROUP LIMITED",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "008023.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d64d7c66fde319e595e704f3c0e6938b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11397
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11680,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f1e99fd3132c91e73dced2803ed148f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11472
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11586,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRI DANAREKSA SEKURITAS",
-        "website": "bridanareksasekuritas",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-06",
-        "nomor_tanda_daftar": "008014.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/538301f787762176e4a3638ed0bd0cfa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11386
       }
     }
   ]

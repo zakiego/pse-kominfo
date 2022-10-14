@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 550,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4677,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "NABITU",
+        "website": "nabitu.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "NABITU TEKNOLOGI ISLAMI",
+        "tanggal_daftar": "2022-06-23",
+        "nomor_tanda_daftar": "003367.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f1b7a0f1af6142165d29f2bedd25aaf6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4636
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4676,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8a6d6987f60b9133585c8e98a48b50fe.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4138
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4135,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "LARK",
-        "website": "larksuite.com; https://play.google.com/store/apps/details?id=com.larksuite.suite",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LARK TECHNOLOGIES PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "002837.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11cc92151777afbca6dc94b7722ca28f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4137
       }
     }
   ]

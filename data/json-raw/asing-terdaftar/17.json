@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 180,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11361,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TUTANOTA.COM",
+        "website": "tutanota.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MARIA TIURMA (ICBC WEALTH MANAGEMENT CO., LTD. - THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED)",
+        "tanggal_daftar": "2022-09-26",
+        "nomor_tanda_daftar": "007894.04/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d98890dc61ad1587fcae69f8cace5814.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11175
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11360,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8beaee5eaa9779ee7c2fdc1ae6711b2c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10856
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11036,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AHA",
-        "website": "ahagamecenter.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
-        "tanggal_daftar": "2022-09-05",
-        "nomor_tanda_daftar": "007646.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76ed6ae1f204df50a86a3e6fabb43288.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10841
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 250,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10353,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "JOYREAD ANDROID",
+        "website": "joyread.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "UNION READ LIMITED",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007255.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7860016a3fab7c0e6b9cdc2dcf66cd5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10208
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10352,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e17bad5166df0926b5f9f42add8d93d3.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10090
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10210,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DOTA2",
-        "website": "dota2.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Valve Corporation",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007153.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/045ff929033135bdaa9afa36fcc6d03b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10089
       }
     }
   ]

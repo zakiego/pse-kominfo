@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 90,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11651,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "INFO@OWENPETROBITUMEN.COM",
+        "website": "info@owenpetrobitumen.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "OWEN PETRO BITUMEN",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008050.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0a046a4b1beb2bb1107340aed148352f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11451
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11650,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b878385429dd0e1d41cd944753bd92b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11442
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11641,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRI REMITTANCE CO. LTD",
-        "website": "brchk.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008047.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a363213f22748dd169df1a6e7eb7409a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11441
       }
     }
   ]

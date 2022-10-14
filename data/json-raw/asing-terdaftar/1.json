@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 20,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11734,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK MANDIRI HONG KONG",
+        "website": "bankmandirihk.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVI ENERGI INDONESIA",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008062.05/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc49bd7d67196b320e46053b427cc4c6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11534
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11733,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1f749ec7baea32ee1e58647c3162726.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11525
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11724,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "THE ROYAL BEACH SEMINYAK",
-        "website": "theroyalbeachseminyak.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GRAHA VENTURA MILENIAL GROUP",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008059.05/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f6a12efb03da81b91e88cb969ed3308b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11524
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 590,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4088,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "LINKTREE",
+        "website": "linktr.ee",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINKTREE PTY LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002762.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4af5ca9f140bb111af1f9a2406231da3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4087
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4087,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/906f7065dada22c46714c205120da834.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11327
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11510,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SHANTOU HAIYI INVESTMENT (GROUP) CO., LTD.",
-        "website": "qq.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "002754.09/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a61f765e9b34dbb0a3bef5f42315c59.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11326
       }
     }
   ]

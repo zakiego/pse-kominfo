@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 530,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11519,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "440500000138099",
+        "website": "english.shantou.gov.cn",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU MARIA INVESTMENT CO.., LTD.",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "003369.10/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df60d7808301a2678801fb00b30b6706.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11335
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11518,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f686058eefbf02dd802d9eee631025d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4638
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11441,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA",
-        "website": "owenstrategikmedia.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-09-30",
-        "nomor_tanda_daftar": "003368.10/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ccd89126cc48b2a190161a986b24ee2e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11254
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 560,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4135,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "LARK",
+        "website": "larksuite.com; https://play.google.com/store/apps/details?id=com.larksuite.suite",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LARK TECHNOLOGIES PTE. LTD.",
+        "tanggal_daftar": "2022-05-25",
+        "nomor_tanda_daftar": "002837.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/11cc92151777afbca6dc94b7722ca28f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4137
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4134,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c6d9695be82b4e2027be2a6b7952464e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4116
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4115,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "HELO",
-        "website": "helo.com/; apps.apple.com/us/app/helo-share-your-life/id1437494436; play.google.com/store/apps/details?id=world.social.group.video.share&hl=en_SG&gl=US",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "POLIGON PTE. LTD.",
-        "tanggal_daftar": "2022-05-24",
-        "nomor_tanda_daftar": "002804.02/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e97bb72e6ec6f56e412b370d38b25493.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4115
       }
     }
   ]

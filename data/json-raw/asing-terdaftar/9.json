@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 100,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11641,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRI REMITTANCE CO. LTD",
+        "website": "brchk.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008047.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a363213f22748dd169df1a6e7eb7409a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11441
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11640,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b9ec648db6de287918d178a51172ce9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11432
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11631,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008043.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/223dbe698508cc837de6c40782f1d531.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11431
       }
     }
   ]

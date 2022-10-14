@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 330,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9233,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINKEDIN CORPORATION",
+        "website": "linkedin.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINKEDIN CORPORATION",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006478.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8321a6afcfcd768cebe5231fd64e4a30.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9145
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9215,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b2ebe8bf74f613f5902930a7fc639933.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9111
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9202,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ALIBABA.COM",
-        "website": "alibaba.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006456.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f6c7fc80abe8e4ad53d5d8172ce8deda.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9110
       }
     }
   ]

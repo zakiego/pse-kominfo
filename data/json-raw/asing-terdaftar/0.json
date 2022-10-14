@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 10,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11791,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OURSONG",
+        "website": "oursong.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OUR HAPPY COMPANY PTE LTD",
+        "tanggal_daftar": "2022-10-13",
+        "nomor_tanda_daftar": "008108.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42a961ea1d616cf47f5081e87e51ded0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11591
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11770,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f681b631a37d2e943374c056160c5cb5.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11535
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11734,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANK MANDIRI HONG KONG",
-        "website": "bankmandirihk.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "AVI ENERGI INDONESIA",
-        "tanggal_daftar": "2022-10-10",
-        "nomor_tanda_daftar": "008062.05/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc49bd7d67196b320e46053b427cc4c6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11534
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 420,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8246,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINGOACE",
+        "website": "lingoace.com/id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PPLINGO PTE LTD",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005818.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd2ca54a43135302c94d28da1c152446.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8164
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8245,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af3749326205849ee64836fbd87296f7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8153
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8234,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WECHAT",
-        "website": "play.google.com/store/apps/details?id=com. tencent.mm&hl=in&gl=US",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "WECHAT INTERNATIONAL PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005813.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ba9dee67f018fc9c34671c0a7ce9ebfe.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8152
       }
     }
   ]

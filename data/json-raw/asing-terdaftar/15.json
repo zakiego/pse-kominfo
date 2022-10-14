@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 160,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11481,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BOOM BEACH",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SUPERCELL OY",
+        "tanggal_daftar": "2022-10-04",
+        "nomor_tanda_daftar": "007972.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1debdf4ca14a10ef92627d2c2a239b14.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11297
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11480,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89fbb1f1e57e04647ccaf7c12c3d22f9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11189
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11373,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CITI PAYMENT LINK",
-        "website": "owenpetrobitumen.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MICHAEL MU & MARIA TIURMA",
-        "tanggal_daftar": "2022-09-27",
-        "nomor_tanda_daftar": "007899.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/753f4e56689cf30d70f7cc78a0dbd8c0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11187
       }
     }
   ]

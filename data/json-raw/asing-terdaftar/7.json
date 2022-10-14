@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 80,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11661,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIERSON & DAUGHTER STRATEGIC INVESTMENT",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "VIER CORPORATION LIMITED",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008052.05/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ced02df7ce214c96415be88cd5f3a62a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11461
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11660,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb928e955e1c26c6d7eda96b17dd9ac2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11452
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11651,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "INFO@OWENPETROBITUMEN.COM",
-        "website": "info@owenpetrobitumen.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "OWEN PETRO BITUMEN",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008050.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0a046a4b1beb2bb1107340aed148352f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11451
       }
     }
   ]

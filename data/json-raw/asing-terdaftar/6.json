@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 70,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11671,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RANSENTERTAINMENT.CO.ID",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008054.09/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/057a0674f6c45ae408892da08719fd9b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11471
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11670,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ff9b23908cbbd2110b5f14f6cef8341.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11462
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11661,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIERSON & DAUGHTER STRATEGIC INVESTMENT",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "VIER CORPORATION LIMITED",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008052.05/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ced02df7ce214c96415be88cd5f3a62a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11461
       }
     }
   ]

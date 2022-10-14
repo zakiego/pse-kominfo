@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 40,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11710,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DANA PENSIUN BANK NEGARA INDOESIA",
+        "website": "bni.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.06/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f53d178100c4fadeaddd3caa3e5aea7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11510
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11709,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9560c4d4447ee1cc7be8233da51f58a0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11501
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11700,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FORUM BISNIS (FORBIS)",
-        "website": "mediaindonesia.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008056.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/28532d902809a605b55399f2cb35f8ec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11500
       }
     }
   ]

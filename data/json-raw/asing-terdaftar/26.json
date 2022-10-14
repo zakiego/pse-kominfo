@@ -6,10 +6,26 @@
       "lastPage": 63,
       "perPage": 10,
       "to": 270,
-      "total": 629
+      "total": 630
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9887,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LORDS MOBILE",
+        "website": "lordsmobile.igg.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "IGG SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006950.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42abc4102ae2b409a51e8aa51be287fa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9773
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9830,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0f43949c0fe985319a50c998215447f8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9605
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9727,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AMAZON.COM",
-        "website": "amazon.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Amazon.com Services LLC",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006820.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/050cb73b86e2b85498a20a1ec268ac7c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9604
       }
     }
   ]
