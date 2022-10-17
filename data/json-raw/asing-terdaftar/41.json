@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 42,
       "from": 411,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 420,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8247,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WETV",
+        "website": "wetv.vip/id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "IMAGE FUTURE INVESTMENT (HK) LIMITED",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005819.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a6029b02bbc61b42752aabd2079245c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8165
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8246,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf3b777cc4606b15c68869f50e9bc2cf.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8155
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8235,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "RAZER GOLD",
-        "website": "gold.razer.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "RAZER ONLINE PTE LTD",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005814.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af3749326205849ee64836fbd87296f7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8153
       }
     }
   ]

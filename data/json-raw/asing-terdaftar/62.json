@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 63,
       "from": 621,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 630,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4060,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "OMEGA: LAYANAN TAKSI",
+        "website": "taxiomega.id",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "GLOBAL SERVICE OMEGA L.L.C-FZ",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002745.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/989e8840b834c204e44d8bdeea10394d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4059
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11530,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/480afc81483b46d05c2d69066680cdb8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4055
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4055,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "LIVEWELL APP AND WEB PORTAL",
-        "website": "livewell-portal.zurich.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "Zurich LiveWell Services and Solutions Ltd.",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002742.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6978494cb7ff055a21f95ac8ec64ecd6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4054
       }
     }
   ]

@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 41,
       "from": 401,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 410,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8261,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TENSURA: KING OF MONSTERS",
+        "website": "global.wdyxgames.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HOOLAIGAME",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005829.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f89cabbf1a2f3dfb91c73902135ecfbb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8178
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8260,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dac1bbe0ca1b8e40d2ba8ec41b52df64.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8169
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8247,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WETV",
-        "website": "wetv.vip/id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IMAGE FUTURE INVESTMENT (HK) LIMITED",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005819.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a6029b02bbc61b42752aabd2079245c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8165
       }
     }
   ]

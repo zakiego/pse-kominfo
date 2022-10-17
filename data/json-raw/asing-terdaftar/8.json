@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 9,
       "from": 81,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 90,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11652,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WWW.OWENSTRATEGIKMEDIA.COM",
+        "website": "owenstrategikmedia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "OWEN PETRO BITUMEN",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008050.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb928e955e1c26c6d7eda96b17dd9ac2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11452
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11651,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7691b201d538c18327d3a48447b7a7cb.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11443
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11642,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008047.04/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b878385429dd0e1d41cd944753bd92b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11442
       }
     }
   ]

@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 35,
       "from": 341,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 350,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9177,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OPERA NEWS",
+        "website": "opera.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "OPERA NORWAY AS",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006445.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf9f1b5bc60987bd287942aaea9800c4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9085
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9176,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43ca3d290c07f13021b1e7f460844eab.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9057
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9147,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "HEROES OF CROWN VNG",
-        "website": "hoc.vnggames.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VNG SINGAPORE PTE., LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006431.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/666b7af16005b02784ed39457fd21189.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9056
       }
     }
   ]

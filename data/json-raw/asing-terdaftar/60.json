@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 61,
       "from": 601,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 610,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11448,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PT BANK MANDIRI (PERSERO) TBK / ADR",
+        "website": "shantoumariainvestment.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KENCANA PUTRA KENDARI",
+        "tanggal_daftar": "2022-09-30",
+        "nomor_tanda_daftar": "002753.09/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/73c724f27215d63f7695d8c7059904ec.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11261
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11447,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/be4ca754fcc82de6f4781ae4d12fae7b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11347
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11021,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
-        "website": "hsbc.com.cn",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "DEVA TRADE SERVICES PTE. LTD. (d/h Pedro Pte. Ltd.)",
-        "tanggal_daftar": "2022-09-05",
-        "nomor_tanda_daftar": "002749.02/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58dd08a366d859be930d713940ca304e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10824
       }
     }
   ]

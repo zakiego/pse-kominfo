@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 4,
       "from": 31,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 40,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11711,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI LIFE",
+        "website": "bni-life.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.07/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52ab64a7186d07a188f7fa90a615a45a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11511
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11710,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bdf293a53c80c527996d739ca3cffa95.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11502
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11701,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MEDIA TELEVISI INDONESIA",
-        "website": "metrotvnews.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008056.04/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9560c4d4447ee1cc7be8233da51f58a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11501
       }
     }
   ]

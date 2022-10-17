@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 32,
       "from": 311,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 320,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9248,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "COUNTER-STRIKE NEXON: STUDIO",
+        "website": "store.steampowered.com/app/273110/CounterStrike_Nexon_Zombies",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEXON KOREA CORPORATION",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006484.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86873e04fc7f1b2b8ee6536c705481e8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9160
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9247,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3bb5a5c021dda3f6891e71a3fb331e7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9151
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9237,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PHANTOM BLADE: EXECUTIONERS",
-        "website": "s-game.choobest.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SOULGAME LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006482.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/995e95da36bf8ee21d2ce29184682953.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9149
       }
     }
   ]

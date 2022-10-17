@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 62,
       "from": 611,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 620,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11021,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+        "website": "hsbc.com.cn",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DEVA TRADE SERVICES PTE. LTD. (d/h Pedro Pte. Ltd.)",
+        "tanggal_daftar": "2022-09-05",
+        "nomor_tanda_daftar": "002749.02/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/58dd08a366d859be930d713940ca304e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10824
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11450,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88d624d0e8127ace3b1fee6123bffc94.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4060
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4060,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "OMEGA: LAYANAN TAKSI",
-        "website": "taxiomega.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "GLOBAL SERVICE OMEGA L.L.C-FZ",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002745.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/989e8840b834c204e44d8bdeea10394d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4059
       }
     }
   ]

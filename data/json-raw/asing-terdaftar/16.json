@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 17,
       "from": 161,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 170,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11375,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ICBC WEALTH MANAGEMENT - DANAREKSA FUTURES",
+        "website": "gmx.us",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "HONG DING PROPERTY (H.K.) LIMITED",
+        "tanggal_daftar": "2022-09-27",
+        "nomor_tanda_daftar": "007901.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89fbb1f1e57e04647ccaf7c12c3d22f9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11189
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11373,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/30696519fd39513e500ca75b8da3ba18.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11177
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11362,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA",
-        "website": "pans.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MARIA TIURMA (ICBC WEALTH MANAGEMENT CO., LTD. - THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED)",
-        "tanggal_daftar": "2022-09-26",
-        "nomor_tanda_daftar": "007894.05/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/283bdcf89d7e962825f4491440df0745.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11176
       }
     }
   ]

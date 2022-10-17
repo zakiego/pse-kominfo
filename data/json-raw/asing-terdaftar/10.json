@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 11,
       "from": 101,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 110,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11632,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BAHANA TCW",
+        "website": "bahana.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-08",
+        "nomor_tanda_daftar": "008044.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b9ec648db6de287918d178a51172ce9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11432
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11631,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2081ee369900e033514d4473cf6813b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11425
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11624,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VOCO",
-        "website": "3radical.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "3RADICAL",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008040.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a04edf694381fa16e797d546618c3d58.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11424
       }
     }
   ]

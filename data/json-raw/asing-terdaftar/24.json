@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 25,
       "from": 241,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 250,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10369,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HISAVANA",
+        "website": "hisavana.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HISAVANA",
+        "tanggal_daftar": "2022-08-15",
+        "nomor_tanda_daftar": "007264.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c17fb599e5b5ebc2847737873fc4d3e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10224
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10353,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f2cbe7b980cee6a95b9227b5ecb4ddd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10105
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10211,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ORB MASTER",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HONG KONG TOUDA CO., LIMITED",
-        "tanggal_daftar": "2022-08-11",
-        "nomor_tanda_daftar": "007154.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e17bad5166df0926b5f9f42add8d93d3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10090
       }
     }
   ]

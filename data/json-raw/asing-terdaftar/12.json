@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 13,
       "from": 121,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 130,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11612,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI LONDON SOUTH EAST LIMITED",
+        "website": "bankbni.co.uk",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BNI SECURITIES PTD LTD",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "008037.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b88e372f138788d0fcffebc9e1a3ce2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11414
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11611,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fc3e655b08c5ed37dc788e4182577a85.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11405
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11599,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MPY GLOBAL FINANCIAL LINK",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MPY GLOBAL SDN BHD",
-        "tanggal_daftar": "2022-10-07",
-        "nomor_tanda_daftar": "008024.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de935e77497f67d55cd5eaec7af27df5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11399
       }
     }
   ]

@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 22,
       "from": 211,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 220,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10685,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HAY - LIVE VIDEO CHAT",
+        "website": "hay.fun",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HG VISION PTE.LTD.",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007435.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f7d10800385002f70889efd859525dbb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10518
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10684,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b186bb52b157962ede86eaa8f40ca445.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10461
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10625,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "XSHARE",
-        "website": "https://play.google.com/store/apps/details?id=com.infinix.xshare",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007384.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/20335c84b41e070ee77e25f9ec4c43d7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10460
       }
     }
   ]

@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 8,
       "from": 71,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 80,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11662,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRAWIJAYA CAPITAL",
+        "website": "caramail.fr",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008053.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ff9b23908cbbd2110b5f14f6cef8341.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11462
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11661,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/73b432238a595cf212e8c3c09ee55551.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11453
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11652,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WWW.OWENSTRATEGIKMEDIA.COM",
-        "website": "owenstrategikmedia.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "OWEN PETRO BITUMEN",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008050.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb928e955e1c26c6d7eda96b17dd9ac2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11452
       }
     }
   ]

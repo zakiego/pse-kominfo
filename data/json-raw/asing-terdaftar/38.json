@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 39,
       "from": 381,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 390,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8462,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIVO GAME CENTER",
+        "website": "payglobal.vivo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
+        "tanggal_daftar": "2022-07-21",
+        "nomor_tanda_daftar": "005937.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b8a74bd67d9793c5fc14d629ac559043.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8378
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8461,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1dda1942bd83a241b8a55f6830b9d234.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8194
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8275,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TWITTER",
-        "website": "twitter.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TWITTER INC",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005834.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/546470b8ee206670ee43b48c902cc086.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8193
       }
     }
   ]

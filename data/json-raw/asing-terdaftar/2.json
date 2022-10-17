@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 3,
       "from": 21,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 30,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11725,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ROYAL BEACH SEMINYAK",
+        "website": "theroyalbeachseminyak.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MPY GLOBAL (UK) LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008060.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1f749ec7baea32ee1e58647c3162726.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11525
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11724,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12f7c3236f283a9e42876c5f9c2831af.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11512
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11711,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI LIFE",
-        "website": "bni-life.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008057.07/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52ab64a7186d07a188f7fa90a615a45a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11511
       }
     }
   ]

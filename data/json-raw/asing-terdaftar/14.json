@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 15,
       "from": 141,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 150,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11672,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRINS GENERAL INSURANCE",
+        "website": "brinsaman.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008014.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f1e99fd3132c91e73dced2803ed148f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11472
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11586,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1e538ee17e412b8afbcde294b663013b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11299
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11482,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CLASH ROYALE",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SUPERCELL OY",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007972.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2af6e009a4f2d1ac14bc30415813faad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11298
       }
     }
   ]

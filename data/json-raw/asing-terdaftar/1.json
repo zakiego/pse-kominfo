@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 2,
       "from": 11,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 20,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11735,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ISLAND KING PRO",
+        "website": "forevernine.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "HK FOREVER9 TECHNOLOGY CO., LIMITED",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008063.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f681b631a37d2e943374c056160c5cb5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11535
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11734,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2255b2985f3b89b30959d82eb2b2fd26.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11526
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11725,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ROYAL BEACH SEMINYAK",
-        "website": "theroyalbeachseminyak.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MPY GLOBAL (UK) LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008060.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b1f749ec7baea32ee1e58647c3162726.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11525
       }
     }
   ]

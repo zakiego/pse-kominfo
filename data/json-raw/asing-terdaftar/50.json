@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 51,
       "from": 501,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 510,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6123,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HALAMAN INFORMASI APLIKASI GAMES (GENSHIN IMPACT, HONKAI IMPACT 3RD, TEARS OF THEMIS, HONKAI: STAR RAIL, ZENLESS ZONE ZERO, N0VA DESKTOP, HOYOLAB)",
+        "website": "hoyoverse.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "COGNOSPHERE PTE. LTD.",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004559.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d88a06eb0a82f0a88577b53ac4423d1c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5995
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6017,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2789916bd000abee2de3432ccbee6d85.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4755
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4720,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "YANDEX PRACTICUM PLATFORM",
-        "website": "practicum.com/id-idn/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INTERTECH SERVICES AG",
-        "tanggal_daftar": "2022-06-24",
-        "nomor_tanda_daftar": "003410.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bae4eb9fe0fbc41197e3af8d09fd39cd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4674
       }
     }
   ]

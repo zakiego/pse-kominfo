@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 52,
       "from": 511,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 520,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4720,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "YANDEX PRACTICUM PLATFORM",
+        "website": "practicum.com/id-idn/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INTERTECH SERVICES AG",
+        "tanggal_daftar": "2022-06-24",
+        "nomor_tanda_daftar": "003410.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bae4eb9fe0fbc41197e3af8d09fd39cd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4674
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11526,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/359745ae03e1b1ed9dcbc58a2c623f6d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11337
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11520,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "440500000138099",
-        "website": "english.shantou.gov.cn",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU MARIA INVESTMENT CO.., LTD.",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "003369.11/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5e89d82308f472dc2ba61a24381712f4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11336
       }
     }
   ]

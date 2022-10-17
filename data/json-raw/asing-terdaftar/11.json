@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 12,
       "from": 111,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 120,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11624,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VOCO",
+        "website": "3radical.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "3RADICAL",
+        "tanggal_daftar": "2022-10-08",
+        "nomor_tanda_daftar": "008040.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a04edf694381fa16e797d546618c3d58.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11424
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11623,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37cb3ac58bd7b33f5e58e4a4413ebaa2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11415
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11612,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI LONDON SOUTH EAST LIMITED",
-        "website": "bankbni.co.uk",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BNI SECURITIES PTD LTD",
-        "tanggal_daftar": "2022-10-07",
-        "nomor_tanda_daftar": "008037.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b88e372f138788d0fcffebc9e1a3ce2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11414
       }
     }
   ]

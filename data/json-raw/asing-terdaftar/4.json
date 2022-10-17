@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 5,
       "from": 41,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 50,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11701,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MEDIA TELEVISI INDONESIA",
+        "website": "metrotvnews.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KENCANA PUTRA KENDARI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008056.04/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9560c4d4447ee1cc7be8233da51f58a0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11501
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11700,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e952a0151383391a53e3298f60aca2c7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11492
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11691,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "NV III HOLDINGS LIMITED",
-        "website": "buvagroup.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008055.11/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a1445e5c8f213f9282d9bb330c80f28.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11491
       }
     }
   ]

@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 1,
       "from": 1,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 10,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11810,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SIMRS KSATRIA EHOSPITAL",
+        "website": "ksatria.io",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "KSATRIA MEDICAL SYSTEMS PTY LTD",
+        "tanggal_daftar": "2022-10-14",
+        "nomor_tanda_daftar": "008119.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2cc5d83ff558a1fc5e0de9d6a716f03c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11610
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11791,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/155ffd18ab4785c1616f1dfda94c5828.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11560
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11735,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ISLAND KING PRO",
-        "website": "forevernine.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HK FOREVER9 TECHNOLOGY CO., LIMITED",
-        "tanggal_daftar": "2022-10-10",
-        "nomor_tanda_daftar": "008063.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f681b631a37d2e943374c056160c5cb5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11535
       }
     }
   ]

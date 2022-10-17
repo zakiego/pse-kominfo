@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 43,
       "from": 421,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 430,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8235,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RAZER GOLD",
+        "website": "gold.razer.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "RAZER ONLINE PTE LTD",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005814.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af3749326205849ee64836fbd87296f7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8153
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8234,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a985c168caa0a2c23278945f2082d658.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8138
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8193,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DREAME",
-        "website": "play.google.com/store/apps/details?id=com.dreame.reader&hl=en_US&gl=US; https://apps.apple.com/au/app/dreame-read-best-romance/id1421091911",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "STARY PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005802.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5bf31bc6f720f935d700e2a497fb0c60.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8112
       }
     }
   ]

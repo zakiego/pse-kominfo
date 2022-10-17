@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 10,
       "from": 91,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 100,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11642,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008047.04/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b878385429dd0e1d41cd944753bd92b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11442
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11641,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37b901ff3429054f55d63e114e3271be.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11433
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11632,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BAHANA TCW",
-        "website": "bahana.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008044.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b9ec648db6de287918d178a51172ce9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11432
       }
     }
   ]

@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 60,
       "from": 591,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 600,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11511,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ZHUHAI QIXIA ENERGY TECHNOLOGY CO., LTD.",
+        "website": "qq.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "002754.10/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/906f7065dada22c46714c205120da834.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11327
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11510,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9228a858fea98cbebe81efe971a5c81f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11262
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11448,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT BANK MANDIRI (PERSERO) TBK / ADR",
-        "website": "shantoumariainvestment.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-09-30",
-        "nomor_tanda_daftar": "002753.09/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/73c724f27215d63f7695d8c7059904ec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11261
       }
     }
   ]

@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 7,
       "from": 61,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 70,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11681,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "OWEN HOLDING LIMITED",
+        "website": "capitalinc-investment.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008055.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3d231a7daa53dd24d73cef2653de341a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11481
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11671,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/888eff9c45fb24a8087c04525e42d809.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11463
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11662,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRAWIJAYA CAPITAL",
-        "website": "caramail.fr",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008053.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ff9b23908cbbd2110b5f14f6cef8341.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11462
       }
     }
   ]

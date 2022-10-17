@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 47,
       "from": 461,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 470,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6684,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HTTP://HEPAYMENT.99.COM/INDEX.ASPX",
+        "website": "hepayment.99.com/index.aspx",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NETDRAGON",
+        "tanggal_daftar": "2022-07-19",
+        "nomor_tanda_daftar": "004914.02/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09d1b117be62a9cb6ea31b8b8182ec80.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6537
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6683,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76b00720656a5c2a27079dd621c2b169.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11200
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6649,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MUMU PLAYER",
-        "website": "mumuglobal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HONG KONG NETEASE INTERACTIVE ENTERTAINMENT LIMITED",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "004879.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/455442307d80d52cf9469acc70f2211a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 6504
       }
     }
   ]

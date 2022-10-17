@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 14,
       "from": 131,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 140,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11599,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MPY GLOBAL FINANCIAL LINK",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MPY GLOBAL SDN BHD",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "008024.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de935e77497f67d55cd5eaec7af27df5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11399
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11597,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02f47c1c5c961112721d2beb7e4d3c41.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11473
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11672,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRINS GENERAL INSURANCE",
-        "website": "brinsaman.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008014.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f1e99fd3132c91e73dced2803ed148f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11472
       }
     }
   ]

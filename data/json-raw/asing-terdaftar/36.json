@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 37,
       "from": 361,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 370,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9174,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BACALAH",
+        "website": "watpadd668.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "AKURA PTE. LTD.",
+        "tanggal_daftar": "2022-07-27",
+        "nomor_tanda_daftar": "006144.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09f1a661351f326aacfa42494af026f7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9081
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9173,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/92cf381fe86841663da52e6b362f9be2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8389
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8472,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIVO GAME CENTER",
-        "website": "asia-gamecenter.vivoglobal.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIVO MOBILE COMMUNICATION CO., LTD.",
-        "tanggal_daftar": "2022-07-21",
-        "nomor_tanda_daftar": "005937.17/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1c87ae9382bb1ea2624b4711eee18a9c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8388
       }
     }
   ]

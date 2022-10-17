@@ -3,13 +3,29 @@
     "page": {
       "currentPage": 40,
       "from": 391,
-      "lastPage": 63,
+      "lastPage": 64,
       "perPage": 10,
       "to": 400,
-      "total": 630
+      "total": 631
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8275,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TWITTER",
+        "website": "twitter.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TWITTER INC",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005834.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/546470b8ee206670ee43b48c902cc086.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8193
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8274,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/967ccbc23a85e26af0e69d2450bf86da.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8179
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8261,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TENSURA: KING OF MONSTERS",
-        "website": "global.wdyxgames.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "HOOLAIGAME",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005829.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f89cabbf1a2f3dfb91c73902135ecfbb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8178
       }
     }
   ]
