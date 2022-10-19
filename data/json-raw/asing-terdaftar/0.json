@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 10,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11875,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DATADOG SAAS PLATFORM",
+        "website": "datadoghq.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DATADOG, INC.",
+        "tanggal_daftar": "2022-10-19",
+        "nomor_tanda_daftar": "008170.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef07cd292ac90536e490460db14a175a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11677
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11848,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WELOVESUPERMOM.COM",
+        "website": "welovesupermom.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "WELOVESUPERMOM PTE LTD",
+        "tanggal_daftar": "2022-10-18",
+        "nomor_tanda_daftar": "008159.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6dd7724e7bf40a418891605d6e6173bc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11650
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11810,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24e629cd209cdb49715ae6e707c68f0d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11562
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11761,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "REPINDO RESOURCES PTY. LTD.",
-        "tanggal_daftar": "2022-10-11",
-        "nomor_tanda_daftar": "008086.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66888eb236c2dbe910082db193fbc168.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11561
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11760,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YUANTA SEKURITAS KOREA",
-        "website": "yuantakorea.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "REPINDO RESOURCES PTY. LTD.",
-        "tanggal_daftar": "2022-10-11",
-        "nomor_tanda_daftar": "008086.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/155ffd18ab4785c1616f1dfda94c5828.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11560
       }
     }
   ]

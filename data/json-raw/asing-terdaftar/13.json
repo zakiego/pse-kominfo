@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 140,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11605,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SHANTOU JINJIA TRADING",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "008031.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e487a1a60d8624e3f6e9074a01826ab7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11406
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11604,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SHANTOU JINJIA TRADING",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "008029.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fc3e655b08c5ed37dc788e4182577a85.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11405
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11599,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89f50c0c1d036bf55b0c559d98f0d135.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11475
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11674,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRI REMITTANCE",
-        "website": "brchk.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008014.04/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f9edfb577fa532e5bd3605c7efc0314.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11474
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11673,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRI NEW YORK AGENCY",
-        "website": "brinya.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008014.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/02f47c1c5c961112721d2beb7e4d3c41.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11473
       }
     }
   ]

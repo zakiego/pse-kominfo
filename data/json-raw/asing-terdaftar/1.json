@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 20,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11761,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "REPINDO RESOURCES PTY. LTD.",
+        "tanggal_daftar": "2022-10-11",
+        "nomor_tanda_daftar": "008086.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66888eb236c2dbe910082db193fbc168.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11561
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11760,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "YUANTA SEKURITAS KOREA",
+        "website": "yuantakorea.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "REPINDO RESOURCES PTY. LTD.",
+        "tanggal_daftar": "2022-10-11",
+        "nomor_tanda_daftar": "008086.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/155ffd18ab4785c1616f1dfda94c5828.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11560
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11735,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7e2ab1b1c0076b197bb5e96ccc4adf3b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11528
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11727,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MPY GLOBAL (UK) LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008060.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c47ebee483b4386ff4a8d1d98be7da5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11527
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11726,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LEMBANG ASRI HOTEL",
-        "website": "lembangasrihotel.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MPY GLOBAL (UK) LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008060.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2255b2985f3b89b30959d82eb2b2fd26.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11526
       }
     }
   ]

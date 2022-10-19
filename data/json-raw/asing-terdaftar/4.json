@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 50,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11703,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+        "website": "hsbc.com.hk",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KENCANA PUTRA KENDARI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008056.06/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d6f059906d968587a80194ff82311ce.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11503
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11702,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CITIGROUP",
+        "website": "citi.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KENCANA PUTRA KENDARI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008056.05/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bdf293a53c80c527996d739ca3cffa95.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11502
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11701,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3991726a81f60327f7803c01d7bf6f97.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11494
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11693,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANK OF CHINA LIMITED",
-        "website": "bank-of-china,com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008055.13/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/74188c789d5aa3a85c1aa28d7ffb9534.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11493
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11692,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANTEN GLOBAL DEVELOPMENT",
-        "website": "bankbanten.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008055.12/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e952a0151383391a53e3298f60aca2c7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11492
       }
     }
   ]

@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 330,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9240,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BLUE ARCHIVE",
+        "website": "play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en&gl=ES; apps.apple.com/us/app/blue-archive/id1571873795",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "NEXON KOREA CORPORATION",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006484.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f5343c0a5d004ea859d506ff89a6b5ad.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9152
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9239,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GEMGALA",
+        "website": "igemgala.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "JUSTAR HK LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006483.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3bb5a5c021dda3f6891e71a3fb331e7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9151
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9237,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16e944f809f07d28e35c36ff0e64f6d9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9115
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9206,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OPPO APP MARKET",
-        "website": "developers.oppomobile.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRAVO UNICORN PTE. LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006457.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66e744ffe3b1568fae20c699b790960c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9114
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9205,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "OPPO GAME CENTER",
-        "website": "developers.oppomobile.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BRAVO UNICORN PTE. LTD.",
-        "tanggal_daftar": "2022-07-27",
-        "nomor_tanda_daftar": "006457.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa03b00a01a0b5d18fc9cfe0be948401.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9113
       }
     }
   ]

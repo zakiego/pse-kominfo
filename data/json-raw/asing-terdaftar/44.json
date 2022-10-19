@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 450,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8148,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GROW.CLEVERBRIDGE.COM",
+        "website": "store.cleverbridge.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "CLEVERBRIDGE AG",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005786.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6329e0955e5c2efde6d186c4af92c1fc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8068
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 8147,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GMILLION",
+        "website": "gmillion.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GMILLION",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005785.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/97e7de2bedb97316c96cf6d487538520.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8067
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8146,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3dba4fb4dd37e389a9bcb6a8443656a6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 7572
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11393,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TOWER OF FANTASY",
-        "website": "toweroffantasy-global.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PROXIMA BETA PTE. LIMITED",
-        "tanggal_daftar": "2022-09-28",
-        "nomor_tanda_daftar": "005222.04/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/66f152b2453a9456b37c13165f6f4f6d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11209
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 7141,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CHIMERALAND",
-        "website": "play.google.com/store/apps/details?id=com. levelinfinite.fancyworld",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PROXIMA BETA PTE. LIMITED",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "005222.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9ad8c34f06c905cda972e89ce6c4a2d9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 7023
       }
     }
   ]

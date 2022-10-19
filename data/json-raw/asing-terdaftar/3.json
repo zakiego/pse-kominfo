@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 40,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11713,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PETER JOHN GEORGE TURNER (RUMICORP PTY LTD - BRAWIJAYA CAPITAL INVESTAMA)",
+        "website": "btinternet.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.09/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3359adc9145f858c24779e5f875be78.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11513
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11712,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WILLIAM J KNOWLES (REPINDO RESOURCES PTY LTD) - MARIA TIURMA (OWEN PETRO BITUMEN)",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.08/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12f7c3236f283a9e42876c5f9c2831af.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11512
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11711,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1004746fdac10a4fdc4fe8d3090f4ce7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11504
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11703,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
-        "website": "hsbc.com.hk",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008056.06/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d6f059906d968587a80194ff82311ce.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11503
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11702,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CITIGROUP",
-        "website": "citi.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008056.05/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bdf293a53c80c527996d739ca3cffa95.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11502
       }
     }
   ]

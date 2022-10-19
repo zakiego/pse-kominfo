@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 190,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11143,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TOKENOMY DASHBOARD",
+        "website": "dashboard.tokenomy.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "TENNET TECHNOLOGIES INC.",
+        "tanggal_daftar": "2022-09-12",
+        "nomor_tanda_daftar": "007718.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/93e33a08bfea027155d270d64abac9ce.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10951
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11454,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GIT.LINUXCAT.TECH",
+        "website": "git.linuxcat.tech",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINUXCAT",
+        "tanggal_daftar": "2022-10-01",
+        "nomor_tanda_daftar": "007657.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c1e9a2b66c1131b08a59a5f08944dff.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11270
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11053,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f93dab7a3d499e713d587d4bfa5ba681.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10742
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10932,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "QUICK LAUNCHER",
-        "website": "shalltry.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
-        "tanggal_daftar": "2022-08-31",
-        "nomor_tanda_daftar": "007573.03/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17963ac271bd8909b3d0c99a6d5fa946.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10741
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10928,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ITEL LAUNCHER",
-        "website": "shalltry.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHANGHAI XIAOCHUAN",
-        "tanggal_daftar": "2022-08-31",
-        "nomor_tanda_daftar": "007573.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e14e2cbea06fbb80ea2e951755f75320.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10739
       }
     }
   ]

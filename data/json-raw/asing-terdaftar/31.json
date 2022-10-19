@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 320,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9250,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MEETYOU",
+        "website": "play.google.com/store/apps/details?id=com.meetyou.intl",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "INSPIRATION GROUP HONGKONG LIMITED",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006486.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7442dc2a42adb4ea25e143dd80cdac47.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9162
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9249,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "APKPURE",
+        "website": "apkpure.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ELECYBER INTERNATIONAL PTE. LTD.",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006485.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4138aa12b3b35f78f4c073e477956438.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9161
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9248,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/24562d93c55483a0b9630dd8cf32f76b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9153
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9240,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BLUE ARCHIVE",
-        "website": "play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en&gl=ES; apps.apple.com/us/app/blue-archive/id1571873795",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006484.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f5343c0a5d004ea859d506ff89a6b5ad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9152
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9239,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GEMGALA",
-        "website": "igemgala.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JUSTAR HK LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006483.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3bb5a5c021dda3f6891e71a3fb331e7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9151
       }
     }
   ]

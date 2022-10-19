@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 270,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10140,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MU ORIGIN 3",
+        "website": "id-mu3.fingerfun.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FINGERFUN (HK) LIMITED",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "007109.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c0db53adb778ad10629128ed40b4e76d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10022
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9974,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "YALLA DOMINO",
+        "website": "yalladomino.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FYXTECH TECHNOLOGY PTE. LTD.",
+        "tanggal_daftar": "2022-08-05",
+        "nomor_tanda_daftar": "007003.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa881bac7639def641f04a44c2c9f7dc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9861
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9911,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca2e3da065115a0abd0e36bb643b9e53.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9665
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9786,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PLAYSTATION STORE",
-        "website": "store.playstation.com/en-id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SONY INTERACTIVE ENTERTAINMENT INC.",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006865.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5ec89bc352ebf1ea588318b6b8d814ae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9660
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9778,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PAYPAL",
-        "website": "paypal.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "PAYPAL PTE LTD",
-        "tanggal_daftar": "2022-08-03",
-        "nomor_tanda_daftar": "006860.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7eba130bca4a4995b94b778608bdb306.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9652
       }
     }
   ]

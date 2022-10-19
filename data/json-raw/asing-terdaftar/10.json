@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 110,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11634,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008045.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac9c068a9833d65b60d0999f91377e9d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11434
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11633,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ROYAL BEACH SEMINYAK",
+        "website": "theroyalbeachseminyak.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-08",
+        "nomor_tanda_daftar": "008044.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37b901ff3429054f55d63e114e3271be.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11433
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11632,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/654b83f96900fd1c34dd561320637158.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11427
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11626,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CAKRA ARTHA NUSANTARA",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "COMMERCE KAPITAL",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008042.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/877f47ef347cd276653c54309c0ba8f9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11426
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11625,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WWW.PADI.COM",
-        "website": "padi.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "Padi Asia Pacific Pty Limited",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008041.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2081ee369900e033514d4473cf6813b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11425
       }
     }
   ]

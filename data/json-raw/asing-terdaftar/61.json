@@ -6,10 +6,58 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 620,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11016,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK MANDIRI CABANG MASJID AGUNG KENDARI",
+        "website": "avienergi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KENCANA PUTRA KENDARI",
+        "tanggal_daftar": "2022-09-05",
+        "nomor_tanda_daftar": "002753.02/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7c57c5b7ba47c2e7674bcfc25d433b65.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10819
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5281,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "YANG INI HYPNO TEST",
+        "website": "yanginihypnotest.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "HYPNOTHERAPY PTE LTD",
+        "tanggal_daftar": "2022-07-11",
+        "nomor_tanda_daftar": "002752.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1453e7ab8b7bbd4b87b8dae3613e779c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5150
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11531,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DEVA TRADE SERVICES PTE. LTD. (D/H PEDRO PTE. LTD.)",
+        "website": "aurasakti-engineering.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "DEVA TRADE SERVICES PTE. LTD. (d/h Pedro Pte. Ltd.)",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "002749.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/be4ca754fcc82de6f4781ae4d12fae7b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11347
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11021,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40fc9f0f6c3d9b717b7755af0d7af802.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4063
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4063,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK LABORATORY PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002746.03/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4cb0c58108bd3460c82138c77b541b7f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4062
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4062,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK MOBILE APPLICATION",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002746.02/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/50c4208b893cfe419038c6b416ecb65e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4061
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4061,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK DOCTOR PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002746.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88d624d0e8127ace3b1fee6123bffc94.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4060
       }
     }
   ]

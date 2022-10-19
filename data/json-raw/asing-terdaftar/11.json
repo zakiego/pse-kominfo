@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 120,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11626,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CAKRA ARTHA NUSANTARA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "COMMERCE KAPITAL",
+        "tanggal_daftar": "2022-10-08",
+        "nomor_tanda_daftar": "008042.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/877f47ef347cd276653c54309c0ba8f9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11426
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11625,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "WWW.PADI.COM",
+        "website": "padi.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "Padi Asia Pacific Pty Limited",
+        "tanggal_daftar": "2022-10-08",
+        "nomor_tanda_daftar": "008041.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a2081ee369900e033514d4473cf6813b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11425
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11624,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dad756337dbbf5b8a4093e23a852cc13.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11417
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11614,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI VENTURES LTD",
-        "website": "owenpetro.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BNI SECURITIES PTD LTD",
-        "tanggal_daftar": "2022-10-07",
-        "nomor_tanda_daftar": "008037.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c9cb78ee2773111342c219822ca8cc0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11416
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11613,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BNI SECURITIES",
-        "website": "bnisecurities.com.sg",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BNI SECURITIES PTD LTD",
-        "tanggal_daftar": "2022-10-07",
-        "nomor_tanda_daftar": "008037.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37cb3ac58bd7b33f5e58e4a4413ebaa2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11415
       }
     }
   ]

@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 130,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11614,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI VENTURES LTD",
+        "website": "owenpetro.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BNI SECURITIES PTD LTD",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "008037.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c9cb78ee2773111342c219822ca8cc0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11416
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11613,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI SECURITIES",
+        "website": "bnisecurities.com.sg",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BNI SECURITIES PTD LTD",
+        "tanggal_daftar": "2022-10-07",
+        "nomor_tanda_daftar": "008037.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37cb3ac58bd7b33f5e58e4a4413ebaa2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11415
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11612,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5dce0f2fc44a79aa5b6ebf8b09d949db.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11409
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11605,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SHANTOU JINJIA TRADING",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-07",
-        "nomor_tanda_daftar": "008031.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e487a1a60d8624e3f6e9074a01826ab7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11406
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11604,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SHANTOU JINJIA TRADING",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-07",
-        "nomor_tanda_daftar": "008029.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fc3e655b08c5ed37dc788e4182577a85.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11405
       }
     }
   ]

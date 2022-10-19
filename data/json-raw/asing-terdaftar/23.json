@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 240,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10541,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINE STORE",
+        "website": "line.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINE PLUS CORPORATION",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007342.04/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dee4e3a5b2090cd8d2b706bb5e74823b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10399
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10540,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LINE GAME",
+        "website": "line.me",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "LINE PLUS CORPORATION",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007342.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ef7627f0d755ffc6d7bec69ef213fe0e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10398
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10539,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6cb6317cca4daede5fc4a487b46cef91.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10278
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10420,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "YAHOO INDONESIA",
-        "website": "id.yahoo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "YAHOO! SINGAPORE DIGITAL MARKETING PTE. LTD",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007300.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bf209f4ca74eb99555f95b6bdb9af8d7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10277
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10378,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "STAFFANY",
-        "website": "staffany.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "STAFFANY PRIVATE LIMITED",
-        "tanggal_daftar": "2022-08-15",
-        "nomor_tanda_daftar": "007274.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d4bc0c0f92e1075415f2f2cac8708c4d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10234
       }
     }
   ]

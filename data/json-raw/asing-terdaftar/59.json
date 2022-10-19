@@ -6,10 +6,58 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 600,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4082,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BIOMARK LABORATORY PLATFORM",
+        "website": "13.227.254.60",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "BIOMARK PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002756.02/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37685d0a930dfe695a2c88a24d9a1b2b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4081
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4081,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "BIOMARK MOBILE APPLICATION",
+        "website": "13.227.254.72",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "BIOMARK PTE LTD",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002756.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4be1e2c770ebae54e798195a1c9ca8c0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4080
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9259,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ABCD",
+        "website": "ABCD.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ESO FOREIGN LTD",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "002755.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fc270f3b6ba4141ca9c627a1f5c57824.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9171
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11511,
@@ -120,54 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4456d97543b83d55234355e960b63664.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11321
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11015,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
-        "tanggal_daftar": "2022-09-05",
-        "nomor_tanda_daftar": "002754.03/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ba12a9dcaca70095d160071fc104ca6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10818
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4887,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "MARIA TIURMA",
-        "website": "transpeninsular.wordpress.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
-        "tanggal_daftar": "2022-06-28",
-        "nomor_tanda_daftar": "002754.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4bb6a3faee8f2d39c89ef9c335c46752.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4756
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11449,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PT BANK MANDIRI (PERSERO) TBK / ADR",
-        "website": "shantoumariainvestment.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-09-30",
-        "nomor_tanda_daftar": "002753.10/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9228a858fea98cbebe81efe971a5c81f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11262
       }
     }
   ]

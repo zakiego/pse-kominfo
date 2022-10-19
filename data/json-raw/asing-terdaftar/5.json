@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 60,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11693,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK OF CHINA LIMITED",
+        "website": "bank-of-china,com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008055.13/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/74188c789d5aa3a85c1aa28d7ffb9534.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11493
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11692,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANTEN GLOBAL DEVELOPMENT",
+        "website": "bankbanten.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008055.12/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e952a0151383391a53e3298f60aca2c7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11492
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11691,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a8bc721580c3d3da85c23fe2d79e2ac6.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11484
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11683,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KOREAN REINSURANCE COMPANY",
-        "website": "ramayanains.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008055.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a4f6b90b256c90a56b5551a0761ab68.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11483
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11682,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "JARDINE CYCLE & CARRIAGE LIMITED",
-        "website": "tunasgroup.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008055.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/df81754895a8e9fde6ecaeac02fb28e5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11482
       }
     }
   ]

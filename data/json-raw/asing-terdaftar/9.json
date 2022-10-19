@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 100,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11644,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK OF CHINA LIMITED",
+        "website": "bank-of-china.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008048.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4d0dcecb78028cc561b58ba26cf1f8c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11444
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11643,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ROYAL BEACH SEMINYAK",
+        "website": "theroyalbeachseminyak.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008047.05/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7691b201d538c18327d3a48447b7a7cb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11443
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11642,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d5d9f3f619bd00e7328c4f5a3e460d2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11435
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11634,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008045.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac9c068a9833d65b60d0999f91377e9d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11434
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11633,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ROYAL BEACH SEMINYAK",
-        "website": "theroyalbeachseminyak.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008044.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37b901ff3429054f55d63e114e3271be.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11433
       }
     }
   ]

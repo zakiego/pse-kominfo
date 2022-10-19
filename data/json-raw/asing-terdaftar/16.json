@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 170,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11412,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DATA USAGE",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "YULORE LIMITED",
+        "tanggal_daftar": "2022-09-28",
+        "nomor_tanda_daftar": "007931.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b4b5d4d138689ef00b2339b65decf40d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11225
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11403,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CHANEL.COM",
+        "website": "Chanel.com;Chanel.co.id;id-eshop.chanel.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "CHANEL PTE LIMITED",
+        "tanggal_daftar": "2022-09-28",
+        "nomor_tanda_daftar": "007925.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7542407c05576101a76034c79011b50.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11217
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11375,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/17e34c31cf8ae6ff4ec46d8028629317.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11179
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11364,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PROTON.ME",
-        "website": "proton.me",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MARIA TIURMA (ICBC WEALTH MANAGEMENT CO., LTD. - THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED)",
-        "tanggal_daftar": "2022-09-26",
-        "nomor_tanda_daftar": "007894.07/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15ef387790299373b3b66e14a2b862fd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11178
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11363,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CORP.BRI.CO.ID",
-        "website": "corp.bri.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MARIA TIURMA (ICBC WEALTH MANAGEMENT CO., LTD. - THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED)",
-        "tanggal_daftar": "2022-09-26",
-        "nomor_tanda_daftar": "007894.06/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/30696519fd39513e500ca75b8da3ba18.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11177
       }
     }
   ]

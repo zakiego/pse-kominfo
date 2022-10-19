@@ -6,10 +6,42 @@
       "lastPage": 64,
       "perPage": 10,
       "to": 30,
-      "total": 631
+      "total": 634
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11727,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MPY GLOBAL (UK) LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008060.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c47ebee483b4386ff4a8d1d98be7da5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11527
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11726,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LEMBANG ASRI HOTEL",
+        "website": "lembangasrihotel.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MPY GLOBAL (UK) LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008060.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2255b2985f3b89b30959d82eb2b2fd26.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11526
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11725,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/83f960cae136c3aa6f78ed46d0045507.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11514
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11713,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PETER JOHN GEORGE TURNER (RUMICORP PTY LTD - BRAWIJAYA CAPITAL INVESTAMA)",
-        "website": "btinternet.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008057.09/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3359adc9145f858c24779e5f875be78.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11513
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11712,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WILLIAM J KNOWLES (REPINDO RESOURCES PTY LTD) - MARIA TIURMA (OWEN PETRO BITUMEN)",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008057.08/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12f7c3236f283a9e42876c5f9c2831af.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11512
       }
     }
   ]
