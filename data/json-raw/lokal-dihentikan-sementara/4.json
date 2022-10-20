@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 5,
       "from": 41,
-      "lastPage": 5,
+      "lastPage": 6,
       "perPage": 10,
       "to": 50,
-      "total": 50
+      "total": 52
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 3547,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FACEBOOK DAN MEDIA SOSIAL LAINYA",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ADI SETIYAWAN",
+        "tanggal_daftar": "2022-03-15",
+        "nomor_tanda_daftar": "002312.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9188f35f23e29b09df14a72efe5b18ee.png",
+        "status_id": "SUSPENDED_BY_TAKEL",
+        "sistem_elektronik_id": 2993
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 3546,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "- GMAIL dan  - Google Drive untuk Google Sheet dan Google Word",
+        "website": "mail.gmail.com  & drive.google.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NIRAH DIGITAL MEDIA",
+        "tanggal_daftar": "2022-03-15",
+        "nomor_tanda_daftar": "002311.01/DJAI.PSE/03/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/143aa0b899583248d851b8fcea1ea084.png",
+        "status_id": "SUSPENDED_BY_TAKEL",
+        "sistem_elektronik_id": 2939
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 3315,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d41acc99be38c27aaae922fc5709af98.png",
         "status_id": "SUSPENDED_BY_TAKEL",
         "sistem_elektronik_id": 1167
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6641,
-      "attributes": {
-        "nomor_pb_umku": "912050483066500030004",
-        "nama": "WHATSAPP BANKING",
-        "website": "panel.damcorp.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK MANDIRI TASPEN",
-        "tanggal_daftar": "2022-07-19",
-        "nomor_tanda_daftar": "000851.05/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/29b9f73b594e06140da9c42677aedaf3.png",
-        "status_id": "SUSPENDED_BY_TAKEL",
-        "sistem_elektronik_id": 6498
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 523,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Steve Domino QiuQiu Poker Slots Game Online",
-        "website": "http://www.steveziogames.com",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "STEVE ZIO GAMES",
-        "tanggal_daftar": "2021-04-20",
-        "nomor_tanda_daftar": "000426.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c49811af706de3737a91e219a2de41e6.png",
-        "status_id": "SUSPENDED_BY_PAI",
-        "sistem_elektronik_id": 333
       }
     }
   ]

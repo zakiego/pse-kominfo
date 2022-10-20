@@ -3,13 +3,45 @@
     "page": {
       "currentPage": 4,
       "from": 31,
-      "lastPage": 5,
+      "lastPage": 6,
       "perPage": 10,
       "to": 40,
-      "total": 50
+      "total": 52
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4251,
+      "attributes": {
+        "nomor_pb_umku": "912001321370600000004",
+        "nama": "TOKOPEDIA (KLEANER OFFICIAL STORE)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INTERNUSA TERUS JAYA",
+        "tanggal_daftar": "2022-06-07",
+        "nomor_tanda_daftar": "002962.05/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f5eeafdce6829468a3fe27725716f575.png",
+        "status_id": "SUSPENDED_BY_TAKEL",
+        "sistem_elektronik_id": 4247
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4250,
+      "attributes": {
+        "nomor_pb_umku": "912001321370600000003",
+        "nama": "FACEBOOK (@KLEANER.INDONESIA)",
+        "website": "-",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "INTERNUSA TERUS JAYA",
+        "tanggal_daftar": "2022-06-07",
+        "nomor_tanda_daftar": "002962.04/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2dfe3910ee4592c6b9d97f90e3b910e4.png",
+        "status_id": "SUSPENDED_BY_TAKEL",
+        "sistem_elektronik_id": 4246
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4236,
@@ -136,38 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c6c5afba38c7df6f7656086388f4ca7d.png",
         "status_id": "SUSPENDED_BY_TAKEL",
         "sistem_elektronik_id": 3644
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3547,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FACEBOOK DAN MEDIA SOSIAL LAINYA",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ADI SETIYAWAN",
-        "tanggal_daftar": "2022-03-15",
-        "nomor_tanda_daftar": "002312.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9188f35f23e29b09df14a72efe5b18ee.png",
-        "status_id": "SUSPENDED_BY_TAKEL",
-        "sistem_elektronik_id": 2993
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 3546,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "- GMAIL dan  - Google Drive untuk Google Sheet dan Google Word",
-        "website": "mail.gmail.com  & drive.google.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NIRAH DIGITAL MEDIA",
-        "tanggal_daftar": "2022-03-15",
-        "nomor_tanda_daftar": "002311.01/DJAI.PSE/03/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/143aa0b899583248d851b8fcea1ea084.png",
-        "status_id": "SUSPENDED_BY_TAKEL",
-        "sistem_elektronik_id": 2939
       }
     }
   ]
