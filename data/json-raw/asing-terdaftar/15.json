@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 16,
       "from": 151,
-      "lastPage": 64,
+      "lastPage": 65,
       "perPage": 10,
       "to": 160,
-      "total": 638
+      "total": 648
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11672,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRINS GENERAL INSURANCE",
+        "website": "brinsaman.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008014.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f1e99fd3132c91e73dced2803ed148f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11472
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11586,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRI DANAREKSA SEKURITAS",
+        "website": "bridanareksasekuritas",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-06",
+        "nomor_tanda_daftar": "008014.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/538301f787762176e4a3638ed0bd0cfa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11386
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11582,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BEIN SPORTS CONNECT",
+        "website": "connect-id.beinsports.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BEIN SPORTS ASIA PTE LIMITED",
+        "tanggal_daftar": "2022-10-06",
+        "nomor_tanda_daftar": "008010.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa94b5185b05785d00ee7a591c9815a5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11383
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11571,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NOVA",
+        "website": "sinch.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SINCH SWEDEN AB",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "008000.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a248cde3f22fe6bfff7e16112f6363c2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11374
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11570,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BILIBILI COMICS",
+        "website": "bilibilicomics.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BILIBILI COMICS PTE. LTD.",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007999.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/578440f9008d4ca93ac37fe82cff8d04.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11373
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11532,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1e538ee17e412b8afbcde294b663013b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11299
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11482,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CLASH ROYALE",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SUPERCELL OY",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007972.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2af6e009a4f2d1ac14bc30415813faad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11298
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11481,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BOOM BEACH",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SUPERCELL OY",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007972.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1debdf4ca14a10ef92627d2c2a239b14.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11297
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11480,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRAWL STARS",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SUPERCELL OY",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007972.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/700c6115187c8dc5c6225c53b208b065.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11296
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11478,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MYHEALTH360",
-        "website": "-",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "PARKWAY GROUP HEALTHCARE PTE LTD",
-        "tanggal_daftar": "2022-10-03",
-        "nomor_tanda_daftar": "007971.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c09e77258589f5a03c8564852f5113b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11294
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11457,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BROMPTON INDONESIA",
-        "website": "id.brompton.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BROMPTON BICYCLE LIMITED",
-        "tanggal_daftar": "2022-10-01",
-        "nomor_tanda_daftar": "007952.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a635e335188f9472f843e8010e4639df.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11273
       }
     }
   ]

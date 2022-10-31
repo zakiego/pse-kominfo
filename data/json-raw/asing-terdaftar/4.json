@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 5,
       "from": 41,
-      "lastPage": 64,
+      "lastPage": 65,
       "perPage": 10,
       "to": 50,
-      "total": 638
+      "total": 648
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11711,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI LIFE",
+        "website": "bni-life.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.07/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/52ab64a7186d07a188f7fa90a615a45a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11511
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11710,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DANA PENSIUN BANK NEGARA INDOESIA",
+        "website": "bni.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.06/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9f53d178100c4fadeaddd3caa3e5aea7.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11510
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11709,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI HONG KONG",
+        "website": "bni.hk",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.05/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01e814ec807bc66c3bd85bd2f77f5d13.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11509
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11708,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI MULTIFINANCE",
+        "website": "bnimultifinance.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.04/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21ee53288f4156a24de0bf730c087053.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11508
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11707,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI LONDON",
+        "website": "bankbni.co.uk",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/224fa603a7d0af1dd126c4eae6ee805d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11507
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11706,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bdf293a53c80c527996d739ca3cffa95.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11502
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11701,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MEDIA TELEVISI INDONESIA",
-        "website": "metrotvnews.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008056.04/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9560c4d4447ee1cc7be8233da51f58a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11501
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11700,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "FORUM BISNIS (FORBIS)",
-        "website": "mediaindonesia.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008056.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/28532d902809a605b55399f2cb35f8ec.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11500
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11699,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008056.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/260bfb4c09638319c7ff55740034b076.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11499
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11698,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SEKOLAH TUNAS INDONESIA",
-        "website": "sekolahtunasindonesia.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008056.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a1ec2e1996df52ef4e4b4f75b0f5c1c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11498
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11697,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DJARUM GROUP",
-        "website": "djarum.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008055.17/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3bcc3a994859b9ae97360b010793b440.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11497
       }
     }
   ]
