@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 11,
       "from": 101,
-      "lastPage": 65,
+      "lastPage": 69,
       "perPage": 10,
       "to": 110,
-      "total": 648
+      "total": 684
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11647,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MOST",
+        "website": "most.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MANDIRI SECURITIES PTE LTD",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008049.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c20d62b8646b6cb38364c6124ce4af65.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11447
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11646,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MANDIRI TUNAS FINANCE",
+        "website": "mtf.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MANDIRI SECURITIES PTE LTD",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008049.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a71df41312035adef709430ffbdedc80.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11446
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11645,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MANDIRI INVESTASI",
+        "website": "mandiri-investasi.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI SECURITIES PTE LTD",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008049.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0da3d68ee8500ee4045bc18dc36fcdf4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11445
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11644,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK OF CHINA LIMITED",
+        "website": "bank-of-china.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008048.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4d0dcecb78028cc561b58ba26cf1f8c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11444
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11643,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ROYAL BEACH SEMINYAK",
+        "website": "theroyalbeachseminyak.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008047.05/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7691b201d538c18327d3a48447b7a7cb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11443
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11642,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76f6c508be217ff8127512ae1cab83bf.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11438
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11637,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "THE ROYAL BEACH SEMINYAK",
-        "website": "theroyalbeachseminyak.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008046.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d1216bb96d86df46668fa09445ecfce8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11437
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11636,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PANORAMA TOUR",
-        "website": "panorama-jtb.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008046.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c36894e8873f372ec01d08ffed569d3c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11436
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11635,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "THE ROYAL BEACH SEMINYAK",
-        "website": "theroyalbeachseminyak.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008045.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d5d9f3f619bd00e7328c4f5a3e460d2.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11435
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11634,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008045.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ac9c068a9833d65b60d0999f91377e9d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11434
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11633,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "ROYAL BEACH SEMINYAK",
-        "website": "theroyalbeachseminyak.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008044.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/37b901ff3429054f55d63e114e3271be.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11433
       }
     }
   ]

@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 4,
       "from": 31,
-      "lastPage": 65,
+      "lastPage": 69,
       "perPage": 10,
       "to": 40,
-      "total": 648
+      "total": 684
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11730,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "UOB INTERNATIONAL INVESTMENT PRIVATE LIMITED",
+        "website": "uobgroup.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVI ENERGI INDONESIA",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008062.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f20f5c64b56b2aa50e57a6e1f4844be3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11530
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11729,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MAHIR MUDA PRATAMA",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008061.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/88a1a3879cf92a4e7d1b442938728ecf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11529
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11728,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MPY GLOBAL (UK) LITD.",
+        "website": "btinternet.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MAHIR MUDA PRATAMA",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008061.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7e2ab1b1c0076b197bb5e96ccc4adf3b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11528
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11727,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MPY GLOBAL (UK) LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008060.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3c47ebee483b4386ff4a8d1d98be7da5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11527
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11726,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LEMBANG ASRI HOTEL",
+        "website": "lembangasrihotel.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "MPY GLOBAL (UK) LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008060.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2255b2985f3b89b30959d82eb2b2fd26.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11526
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11725,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c03581ac81d1c1e67cd1f43be332ec24.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11521
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11720,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SEKOLAH TUNAS INDONESIA",
-        "website": "sekolahtunasindonesia.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "GRAHA VENTURA MILENIAL GROUP",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008059.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f503ea0ba7f58930d37ee1e917aeac31.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11520
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11719,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BIONS",
-        "website": "bions.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "INDAH AGUNG MANDIRI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008058.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2eab3667d06a331453dcdc981e4a318f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11519
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11714,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "THE HONGKONG AND SHANGHAI BANKING CORPORATION",
-        "website": "hsbc.com.hk",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008057.10/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/83f960cae136c3aa6f78ed46d0045507.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11514
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11713,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "PETER JOHN GEORGE TURNER (RUMICORP PTY LTD - BRAWIJAYA CAPITAL INVESTAMA)",
-        "website": "btinternet.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008057.09/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3359adc9145f858c24779e5f875be78.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11513
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11712,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WILLIAM J KNOWLES (REPINDO RESOURCES PTY LTD) - MARIA TIURMA (OWEN PETRO BITUMEN)",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008057.08/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/12f7c3236f283a9e42876c5f9c2831af.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11512
       }
     }
   ]
