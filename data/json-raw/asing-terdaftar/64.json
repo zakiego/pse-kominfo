@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 650,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4083,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SIDEN",
+        "website": "siden.io",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SIDEN INC",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002757.01/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/085263b980214fd3aca62ad0fd1daaa0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4082
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4082,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3ed36faa3b712cca7470334e73ef9756.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11322
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11505,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "QINGDAO SHENGYU PETROCHEMICAL CO., LTD.",
-        "website": "qq.com",
-        "sektor": "Sektor Energi dan Sumber Daya Mineral",
-        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "002754.04/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4456d97543b83d55234355e960b63664.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11321
       }
     }
   ]

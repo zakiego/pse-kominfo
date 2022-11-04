@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 210,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10996,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "SLIDESGO",
+        "website": "slidesgo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "FREEPIK COMPANY, SLU",
+        "tanggal_daftar": "2022-09-02",
+        "nomor_tanda_daftar": "007614.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/920a47fe4e5c105fb3f99946e80358fc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10800
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10941,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d04f23a2c1f3de79f6b8f46e923dcf24.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10727
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10884,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "EAGLE EYE AIR",
-        "website": "eagleeye.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "Eagle Eye Solutions Australasia",
-        "tanggal_daftar": "2022-08-30",
-        "nomor_tanda_daftar": "007552.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/06776a90583b6360bf9700fcc5e7263a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10695
       }
     }
   ]

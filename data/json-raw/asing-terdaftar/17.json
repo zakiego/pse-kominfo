@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 180,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11457,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BROMPTON INDONESIA",
+        "website": "id.brompton.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BROMPTON BICYCLE LIMITED",
+        "tanggal_daftar": "2022-10-01",
+        "nomor_tanda_daftar": "007952.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a635e335188f9472f843e8010e4639df.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11273
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11453,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/35ffa49cd175c6a8cc0cd3b22c61135b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11185
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11370,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "EAGLLWIN",
-        "website": "ads.eagllwin.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "EAGLLWIN",
-        "tanggal_daftar": "2022-09-27",
-        "nomor_tanda_daftar": "007896.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f60ca90aa8e0d35be2bfaa77a6c5f044.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11184
       }
     }
   ]

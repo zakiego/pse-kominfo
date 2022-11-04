@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 10,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 12129,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NINJA MUST DIE",
+        "website": "pandadagames.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PANDADA GAMES LIMITED",
+        "tanggal_daftar": "2022-11-04",
+        "nomor_tanda_daftar": "008360.01/DJAI.PSE/11/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/14511a4c7bc6009709f5c9ea2a50bc4b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11924
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 12074,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f268e23fedb944b1295d04ee0d64ee4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11790
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11957,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MATTEL163",
-        "website": "mattel163.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MATTEL163 LIMITED",
-        "tanggal_daftar": "2022-10-25",
-        "nomor_tanda_daftar": "008258.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7dd349c07b6610a5b7a324b49c40d406.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11761
       }
     }
   ]

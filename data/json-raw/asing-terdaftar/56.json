@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 570,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4917,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "IZZI",
+        "website": "wefitec.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WeFi International A.G.",
+        "tanggal_daftar": "2022-06-28",
+        "nomor_tanda_daftar": "003535.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/82669d4cb8f1a04412a774cda5f838af.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4786
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4890,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/bb8922b7c937e7428646198a0e8ef800.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11338
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11022,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MARIA TIURMA",
-        "website": "bankbni.co.uk",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA (d/h RUMICORP (PTY) LIMITED LONDON)",
-        "tanggal_daftar": "2022-09-05",
-        "nomor_tanda_daftar": "003370.03/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19a234bdce8b47fce5f852526ff6aecb.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10825
       }
     }
   ]

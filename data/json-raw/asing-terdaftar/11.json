@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 120,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11638,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008046.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76f6c508be217ff8127512ae1cab83bf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11438
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11637,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21da966d6b7d5887a634c2a3d36d590c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11429
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11765,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES PTY. LTD.",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "COMMERCE KAPITAL",
-        "tanggal_daftar": "2022-10-11",
-        "nomor_tanda_daftar": "008042.05/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/614a47e7479543ba51b475a153783a43.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11565
       }
     }
   ]

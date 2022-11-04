@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 660,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11505,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "QINGDAO SHENGYU PETROCHEMICAL CO., LTD.",
+        "website": "qq.com",
+        "sektor": "Sektor Energi dan Sumber Daya Mineral",
+        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "002754.04/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4456d97543b83d55234355e960b63664.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11321
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11015,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d438aa34a10553a371fb4f67514b5863.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11256
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11442,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANK MANDIRI SHANGHAI",
-        "website": "bankmandirsh.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KENCANA PUTRA KENDARI",
-        "tanggal_daftar": "2022-09-30",
-        "nomor_tanda_daftar": "002753.03/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0742ff822f4d946c8e4dbe1c52674cc3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11255
       }
     }
   ]

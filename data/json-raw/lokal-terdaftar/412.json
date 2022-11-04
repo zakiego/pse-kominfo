@@ -3,13 +3,109 @@
     "page": {
       "currentPage": 413,
       "from": 4121,
-      "lastPage": 1085,
+      "lastPage": 1086,
       "perPage": 10,
       "to": 4130,
-      "total": 10842
+      "total": 10851
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 6170,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050014",
+        "nama": "UKM CENTER WEBSITE BPD DIY",
+        "website": "ukmcenter.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.14/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33ea606db6edd1988f4591e0d0e10882.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6040
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6164,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050013",
+        "nama": "DEVELOPMENT QRIS MERCHANT BPD DIY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.13/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b7fbad964904396a001803122735c3d0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6035
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6160,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050012",
+        "nama": "EMAIL BANK BPD DIY",
+        "website": "mail.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.12/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cfd0b9616a49a5768a26d090dc316c7d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6029
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6157,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050011",
+        "nama": "DASHBOARD KINERJA KEUANGAN BPD DIY",
+        "website": "dkk.bpddiy.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.11/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1ba136705643943ea003bef45f68d7f2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6026
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6155,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050010",
+        "nama": "QRIS MERCHANT BPD DIY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.10/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4d856159117d24d25d61609bac4fe7e6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6023
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6151,
+      "attributes": {
+        "nomor_pb_umku": "912060381299200050009",
+        "nama": "API QRIS BPD DIY",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "004410.09/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2ec5d1d1a8c7d708d0e23f2811dcd697.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 6019
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 6147,
@@ -72,102 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0d41d505e710016f4c8dff5c135c4d44.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 6002
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6122,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050004",
-        "nama": "LAKU PANDAI BPD DIY",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/aa60ec27b0aee5e4d8536012ed478317.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5993
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6118,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050003",
-        "nama": "CASH MANAGEMENT SYSTEM BANK BPD DIY",
-        "website": "cm.bpddiy.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.03/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b3d36da8130a4ed4570d37cce84e8289.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5987
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6100,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050002",
-        "nama": "MOBILE BANKING BANK BPD DIY",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb3b7fdef53547f499aab41cf3b02d80.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5975
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 6093,
-      "attributes": {
-        "nomor_pb_umku": "912060381299200050001",
-        "nama": "OFFICIAL WEBSITE BPD DIY",
-        "website": "bpddiy.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-        "tanggal_daftar": "2022-07-18",
-        "nomor_tanda_daftar": "004410.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01f724a601021c9403b33af2193a6d9c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5957
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11782,
-      "attributes": {
-        "nomor_pb_umku": "020722001459900000007",
-        "nama": "BOTS.REINHART1010.ID",
-        "website": "bots.reinhart1010.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "REINHART PREVIANO KOENTJORO",
-        "tanggal_daftar": "2022-10-12",
-        "nomor_tanda_daftar": "004409.07/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dc3c977883e93317984afba442147aca.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11582
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11538,
-      "attributes": {
-        "nomor_pb_umku": "020722001459900000006",
-        "nama": "MY SPIRITUAL JOURNEY (MSJ) TELEGRAM BOT",
-        "website": "gms-msj-telegram-bot.reinhart1010.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "REINHART PREVIANO KOENTJORO",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "004409.06/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b85ef63d16f9f639340adff246ff9e8d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11355
       }
     }
   ]

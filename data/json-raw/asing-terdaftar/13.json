@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 140,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11620,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "GRAND LIVIO KUTA HOTEL",
+        "website": "grand-livio-kuta.all-balihotels.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SATRIA BALITAMA",
+        "tanggal_daftar": "2022-10-08",
+        "nomor_tanda_daftar": "008038.04/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/847168f8b4b306f62711999dffc352ff.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11420
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11619,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8d501be65f613b29c53f0469c2ac8fde.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11518
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11717,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRITAMA",
-        "website": "britama.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008034.04/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/927aa1d2121e8bdecb408df0e4a38ab3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11517
       }
     }
   ]

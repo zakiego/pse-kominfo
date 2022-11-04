@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 100,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11658,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "VIERLINES ASIA GROUP SDN BHD",
+        "website": "vierlines.wordpress.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "VIER CORPORATION LIMITED",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008052.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/16527088abd722ea1cc06e5f250307ce.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11458
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11657,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8aa2cb5ab1a7c2583c85bb0108f31324.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11449
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11648,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BANK MANDIRI SHANGHAI / SHANTOU MARIA INVESTMENT CO., LTD.",
-        "website": "bankmandirish.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MANDIRI SECURITIES PTE LTD",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008049.04/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b46152aedede337c7e8ec1b1e9330de.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11448
       }
     }
   ]

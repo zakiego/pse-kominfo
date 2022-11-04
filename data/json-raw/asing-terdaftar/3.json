@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 40,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11731,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "UOB ASSET MANAGEMENT (D/H PG ASSET MANAGEMENT )",
+        "website": "pg-am.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "AVI ENERGI INDONESIA",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "008062.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b97abdc0aac56a5e04a13d24dc85ff37.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11531
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11730,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/45ac8a00d8fc523617991747de7f7cd9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11522
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11721,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BRITAMA",
-        "website": "britama.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "GRAHA VENTURA MILENIAL GROUP",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008059.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c03581ac81d1c1e67cd1f43be332ec24.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11521
       }
     }
   ]

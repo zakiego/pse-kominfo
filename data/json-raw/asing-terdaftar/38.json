@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 390,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9840,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ELECTRONIC SOUL GAME",
+        "website": "coco4game.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ELECTRONIC SOUL INTERACTIVE TECHNOLOGY(HONG KONG) CO.,LIMITED",
+        "tanggal_daftar": "2022-08-04",
+        "nomor_tanda_daftar": "006450.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fcf5b5523c100cbebe8481752c647b61.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9715
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9191,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e7f3af3b5c9383148e13c0b8cbf3e6e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9072
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11421,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "METAL SLUG: AWAKENING",
-        "website": "metalslug.vnggames.net",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VNG SINGAPORE PTE., LTD.",
-        "tanggal_daftar": "2022-09-29",
-        "nomor_tanda_daftar": "006431.06/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47ca5607de89ed26130a429ac2f95af4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11234
       }
     }
   ]

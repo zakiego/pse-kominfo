@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 20,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11957,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MATTEL163",
+        "website": "mattel163.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MATTEL163 LIMITED",
+        "tanggal_daftar": "2022-10-25",
+        "nomor_tanda_daftar": "008258.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7dd349c07b6610a5b7a324b49c40d406.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11761
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11929,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ce4c3c0539480833f7bf920bac3fac1a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11569
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11768,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BAYAN RESOURCES",
-        "website": "bayan.com.sg",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GLOBAL TRUST CHAMBER",
-        "tanggal_daftar": "2022-10-12",
-        "nomor_tanda_daftar": "008087.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5050f2b1efd57b3a24637106d31c9a5d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11568
       }
     }
   ]

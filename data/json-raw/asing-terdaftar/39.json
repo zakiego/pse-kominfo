@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 400,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11421,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "METAL SLUG: AWAKENING",
+        "website": "metalslug.vnggames.net",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VNG SINGAPORE PTE., LTD.",
+        "tanggal_daftar": "2022-09-29",
+        "nomor_tanda_daftar": "006431.06/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/47ca5607de89ed26130a429ac2f95af4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11234
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9211,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/28a0614223de30aa9c10cf59ca779fe0.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11912
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12117,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "NOVELAH",
-        "website": "novelah668.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "AKURA PTE. LTD.",
-        "tanggal_daftar": "2022-11-03",
-        "nomor_tanda_daftar": "006144.15/DJAI.PSE/11/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d3adf95ef50077d54e2e95c2d026ecdd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11911
       }
     }
   ]

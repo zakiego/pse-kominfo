@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 160,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11678,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DANAREKSA",
+        "website": "danareksa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008014.08/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca87309fe60d4708cba315489f68c3f9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11478
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11677,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a248cde3f22fe6bfff7e16112f6363c2.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11374
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11570,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BILIBILI COMICS",
-        "website": "bilibilicomics.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BILIBILI COMICS PTE. LTD.",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "007999.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/578440f9008d4ca93ac37fe82cff8d04.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11373
       }
     }
   ]

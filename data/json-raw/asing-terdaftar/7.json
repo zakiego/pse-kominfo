@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 80,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11687,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MAKASSAR PERMATA SULAWESI",
+        "website": "tanjungbunga.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008055.07/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db52c70b30e3f841432f6ec795a297fa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11487
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11686,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e1642604a3a10d365a94654031fd83f4.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11469
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11668,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "RAIFFEISEN BANK INTERNATIONAL AG, SINGAPORE BRANCH S/A PT BAKRIE GLOBAL VENTURA",
-        "website": "vivagroup.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BRAWIJAYA CAPITAL INVESTAMA",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008054.06/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e3112b22005e4c9f33321528e40339bf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11468
       }
     }
   ]

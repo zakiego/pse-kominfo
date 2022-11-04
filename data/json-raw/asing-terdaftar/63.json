@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 640,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4093,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "SHAREIT",
+        "website": "114.119.168.60",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "SMART MEDIA4U TECHNOLOGY PTE. LTD.",
+        "tanggal_daftar": "2022-05-23",
+        "nomor_tanda_daftar": "002766.02/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e768b898f74f6de325b5d8f7d74a96d3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4092
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4092,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c457489bed39cfb367ab76e77e0e8b80.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4083
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4083,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "SIDEN",
-        "website": "siden.io",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SIDEN INC",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002757.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/085263b980214fd3aca62ad0fd1daaa0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4082
       }
     }
   ]

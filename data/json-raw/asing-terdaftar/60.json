@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 610,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4140,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "PANGLE",
+        "website": "pangleglobal.com/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BYTEDANCE PTE. LTD.",
+        "tanggal_daftar": "2022-05-25",
+        "nomor_tanda_daftar": "002839.04/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eedc2c9b97ae6b394ba0882b871d443e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4142
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4139,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9fa22e4521b4566fddae9333639e6712.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4133
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4130,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "MY TIME AT PORTIA",
-        "website": "pixmain.com/my-time-at-portia; apps.apple.com/us/app/my-time-at-portia/id1555184523; play.google.com/store/apps/details?id=com.pathea.mtap",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "PIXMAIN PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "002834.03/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8603bf3aaa36058f7c8ea7ac98a0806b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4132
       }
     }
   ]

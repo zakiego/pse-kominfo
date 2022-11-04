@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 130,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11765,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "REPINDO RESOURCES PTY. LTD.",
+        "website": "repindoresources.com.au",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "COMMERCE KAPITAL",
+        "tanggal_daftar": "2022-10-11",
+        "nomor_tanda_daftar": "008042.05/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/614a47e7479543ba51b475a153783a43.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11565
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11764,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/39e1471d14f9bb8bd1804d34fc2e864d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11421
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11620,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GRAND LIVIO KUTA HOTEL",
-        "website": "grand-livio-kuta.all-balihotels.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SATRIA BALITAMA",
-        "tanggal_daftar": "2022-10-08",
-        "nomor_tanda_daftar": "008038.04/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/847168f8b4b306f62711999dffc352ff.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11420
       }
     }
   ]

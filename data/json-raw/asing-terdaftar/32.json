@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 330,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9386,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BATTLE.NET",
+        "website": "battle.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BLIZZARD ENTERTAINMENT, INC",
+        "tanggal_daftar": "2022-07-29",
+        "nomor_tanda_daftar": "006571.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4be2a141342d9087328153bd2955194.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9296
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9366,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3499e4064226b4e9ea6481d36421162d.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9180
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9267,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "WARPATH",
-        "website": "warpath.lilith.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "LILITH NETWORK HK LIMITED",
-        "tanggal_daftar": "2022-07-28",
-        "nomor_tanda_daftar": "006498.04/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2cf4af12f9d4853c2422fa4e37ebd746.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9179
       }
     }
   ]

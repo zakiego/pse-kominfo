@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 600,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11436,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MARIA TIURMA",
+        "website": "owenstrategikmedia.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-09-30",
+        "nomor_tanda_daftar": "003368.05/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/568f9b621f154073a3c4c18ea443bcb2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11249
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11435,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0ea1b36a9167709fb65d3b4d0e0c97e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4143
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4140,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "PANGLE",
-        "website": "pangleglobal.com/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "BYTEDANCE PTE. LTD.",
-        "tanggal_daftar": "2022-05-25",
-        "nomor_tanda_daftar": "002839.04/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eedc2c9b97ae6b394ba0882b871d443e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4142
       }
     }
   ]

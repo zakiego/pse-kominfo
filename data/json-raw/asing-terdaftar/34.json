@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 350,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9258,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "6ESTATES IDP",
+        "website": "idp-sea.6estates.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "6ESTATES PTE. LTD.",
+        "tanggal_daftar": "2022-07-28",
+        "nomor_tanda_daftar": "006494.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dcc4eb136aa1e6dc515218cc26ebf57b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9170
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9257,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e4dc1b0aa5d3755dfbf2ea0fd3cc977f.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11819
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12012,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DAVE THE DIVER",
-        "website": "store.steampowered.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NEXON KOREA CORPORATION",
-        "tanggal_daftar": "2022-10-28",
-        "nomor_tanda_daftar": "006484.14/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89d4e382054feadfe09dd4167a7f8224.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11816
       }
     }
   ]

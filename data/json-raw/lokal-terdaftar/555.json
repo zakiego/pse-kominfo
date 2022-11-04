@@ -3,13 +3,141 @@
     "page": {
       "currentPage": 556,
       "from": 5551,
-      "lastPage": 1085,
+      "lastPage": 1086,
       "perPage": 10,
       "to": 5560,
-      "total": 10842
+      "total": 10851
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4604,
+      "attributes": {
+        "nomor_pb_umku": "191121002531300020003",
+        "nama": "ORDERPLIZZ",
+        "website": "orderplizz.com",
+        "sektor": "Sektor Pangan",
+        "nama_perusahaan": "ORDERPLIZZ INDONESIA MAJU",
+        "tanggal_daftar": "2022-06-18",
+        "nomor_tanda_daftar": "003249.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/22f479acbcdff4e157b26388d230975a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4567
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4651,
+      "attributes": {
+        "nomor_pb_umku": "250322004689200000001",
+        "nama": "FINCA",
+        "website": "finca.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "FINCA TEKNOLOGI INDONESIA",
+        "tanggal_daftar": "2022-06-21",
+        "nomor_tanda_daftar": "003248.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/4102686ca4209a0185c2a752d867f0f5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4611
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 4760,
+      "attributes": {
+        "nomor_pb_umku": "812001227093300010001",
+        "nama": "TANTOLINK",
+        "website": "tantonet.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "TANTO INTIM LINE",
+        "tanggal_daftar": "2022-06-25",
+        "nomor_tanda_daftar": "003246.01/DJAI.PSE/06/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8df04473c98eb96c516128738cd04ca4.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4706
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11110,
+      "attributes": {
+        "nomor_pb_umku": "240422000077500000001",
+        "nama": "AKSESACARA.COM",
+        "website": "aksesacara.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BAYU SUWARGO",
+        "tanggal_daftar": "2022-09-09",
+        "nomor_tanda_daftar": "003238.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f27eb2140b57075562658b109b780afa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10912
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10148,
+      "attributes": {
+        "nomor_pb_umku": "812001623058400270010",
+        "nama": "TERASEHAT",
+        "website": "terasehat.id",
+        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "APLIKANUSA LINTASARTA",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "003235.06/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d95cb5dc934a29b4f679e63c7173f8cf.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10030
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10147,
+      "attributes": {
+        "nomor_pb_umku": "812001623058400270009",
+        "nama": "OWLEXA CLAIM MANAGEMENT",
+        "website": "owlexa.com",
+        "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "APLIKANUSA LINTASARTA",
+        "tanggal_daftar": "2022-08-09",
+        "nomor_tanda_daftar": "003235.05/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7436493261070d6a9e2de33136c23137.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10029
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9429,
+      "attributes": {
+        "nomor_pb_umku": "812001623058400270008",
+        "nama": "LINTASARTA CLOUDEKA",
+        "website": "cloudeka.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "APLIKANUSA LINTASARTA",
+        "tanggal_daftar": "2022-07-30",
+        "nomor_tanda_daftar": "003235.04/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1b61d89e3eeec7315668ea4e64c756f5.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9341
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 9348,
+      "attributes": {
+        "nomor_pb_umku": "812001623058400270007",
+        "nama": "LINTASARTA E-COMMERCE",
+        "website": "lintasarta.net",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "APLIKANUSA LINTASARTA",
+        "tanggal_daftar": "2022-07-29",
+        "nomor_tanda_daftar": "003235.03/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2173f1189fac78d9e18f02663a6f0f67.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9260
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8912,
@@ -40,134 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/454f79b8f662c414077f36657ab76311.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4596
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4973,
-      "attributes": {
-        "nomor_pb_umku": "210322006176700010001",
-        "nama": "TTCHAT",
-        "website": "ttchat.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "QUYAN TECHNOLOGY INDONESIA",
-        "tanggal_daftar": "2022-06-30",
-        "nomor_tanda_daftar": "003232.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6a2593e2990020ef536d5070db4e42c7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4830
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4648,
-      "attributes": {
-        "nomor_pb_umku": "912021909039600040001",
-        "nama": "PASSIO ECO",
-        "website": "passio.eco",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ECOMOBI DIGITAL INDONESIA",
-        "tanggal_daftar": "2022-06-21",
-        "nomor_tanda_daftar": "003231.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cd7eaf5a248bd9dc432af68338eed486.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4608
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4571,
-      "attributes": {
-        "nomor_pb_umku": "912040980232100000001",
-        "nama": "WILKA STORE",
-        "website": "wilkastore.co.id",
-        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
-        "nama_perusahaan": "WILKA ENERGI SOLUSI",
-        "tanggal_daftar": "2022-06-16",
-        "nomor_tanda_daftar": "003222.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/54b142284c7d369e3403547c35bb26a0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4535
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4577,
-      "attributes": {
-        "nomor_pb_umku": "912040980232100000001",
-        "nama": "WILKASTORE.CO.ID",
-        "website": "wilkapower.com",
-        "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
-        "nama_perusahaan": "WILKA ENERGI SOLUSI",
-        "tanggal_daftar": "2022-06-17",
-        "nomor_tanda_daftar": "003222.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f708734f3f2ca044a5475edb1e0581be.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4534
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4570,
-      "attributes": {
-        "nomor_pb_umku": "310122004227800000001",
-        "nama": "ZAHSY ALESHA DIGITAL & TECH",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RULLY SIREY",
-        "tanggal_daftar": "2022-06-16",
-        "nomor_tanda_daftar": "003219.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6c9912fcdfa17adde801c293d0b234ae.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4533
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4569,
-      "attributes": {
-        "nomor_pb_umku": "190522007657500010001",
-        "nama": "SMARTCU",
-        "website": "smartcu.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "PUSKOP CREDIT UNION INDONESIA",
-        "tanggal_daftar": "2022-06-16",
-        "nomor_tanda_daftar": "003216.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e3291dc07549bd249196de13d0848d5e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4532
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4568,
-      "attributes": {
-        "nomor_pb_umku": "231021002315400080001",
-        "nama": "PTAMS",
-        "website": "ptams.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "AROMA MAKMUR SENTOSA",
-        "tanggal_daftar": "2022-06-16",
-        "nomor_tanda_daftar": "003215.01/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a36c65c28cc051707dd567c08df5321.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4531
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5417,
-      "attributes": {
-        "nomor_pb_umku": "140622003113700010001",
-        "nama": "KLIKIN.ID",
-        "website": "klikin.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SMART SULTAN TRADE",
-        "tanggal_daftar": "2022-07-12",
-        "nomor_tanda_daftar": "003214.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/966f11caf5e61363b575593653d2ab90.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5290
       }
     }
   ]

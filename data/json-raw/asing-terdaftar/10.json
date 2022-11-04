@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 110,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11648,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK MANDIRI SHANGHAI / SHANTOU MARIA INVESTMENT CO., LTD.",
+        "website": "bankmandirish.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI SECURITIES PTE LTD",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008049.04/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6b46152aedede337c7e8ec1b1e9330de.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11448
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11647,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/daef2773fc3ed69a255eff356585bfd7.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11439
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11638,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REPINDO RESOURCES",
-        "website": "repindoresources.com.au",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008046.03/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/76f6c508be217ff8127512ae1cab83bf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11438
       }
     }
   ]

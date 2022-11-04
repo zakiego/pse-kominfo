@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 150,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11717,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BRITAMA",
+        "website": "britama.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008034.04/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/927aa1d2121e8bdecb408df0e4a38ab3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11517
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11716,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/93b6f631fae1776ccb9cb859d94414ea.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11479
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11678,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DANAREKSA",
-        "website": "danareksa.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SHANTOU JINJIA TRADING CO., LTD.",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008014.08/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ca87309fe60d4708cba315489f68c3f9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11478
       }
     }
   ]

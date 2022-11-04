@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 280,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10215,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DYNASTY HEROES: ROMANCE SAMKOK",
+        "website": "romancesamkok.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PLAYBSET LIMITED",
+        "tanggal_daftar": "2022-08-11",
+        "nomor_tanda_daftar": "007129.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/601ffecc737dd99a1c0460604f738367.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10093
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10159,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6648bf524f41d750fef934fe3c18c23a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11845
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12041,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "CONQUERORS: ZAMAN KEEMASAN",
-        "website": "cq.igg.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IGG SINGAPORE PTE. LTD.",
-        "tanggal_daftar": "2022-10-31",
-        "nomor_tanda_daftar": "006950.20/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af0d1d67b29ed800472d04a60c6fe02e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11844
       }
     }
   ]

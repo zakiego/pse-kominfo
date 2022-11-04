@@ -3,13 +3,157 @@
     "page": {
       "currentPage": 1036,
       "from": 10351,
-      "lastPage": 1085,
+      "lastPage": 1086,
       "perPage": 10,
       "to": 10360,
-      "total": 10842
+      "total": 10851
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 320,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "FundEx",
+        "website": "https://fundex.id",
+        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DANA INVESTASI BERSAMA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000271.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/132eb11923acb0d3769022a3a00b65f1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 98
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 346,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CTBC Mobile Banking",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CTBC INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000270.05/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7b750bf12d97a6c6393da2dc299e5dd9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 20
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 345,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CTBC Corporate Internet Banking",
+        "website": "https://ebanking.ctbcbank.co.id/corp/AuthenticationController?__START_TRAN_FLAG__=Y&FORMSGROUP_ID__=AuthenticationFG&__EVENT_ID__=LOAD&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=BCI&LANGUAGE_ID=001",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CTBC INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000270.04/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2ecd385ba86848e221b22f560beb6a55.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 19
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 344,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CTBC Retail Internet Banking",
+        "website": "https://ebanking.ctbcbank.co.id/retail/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&__FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=BCI",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CTBC INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000270.03/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f344158dbc0e6b5a23ef84f27dacb0c1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 18
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 342,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CTBC Digital Lending",
+        "website": "https://eloan.ctbcbank.co.id/danacinta; (landing page) Ktadigital.com, Ktainstan.com, Danacintadigital.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CTBC INDONESIA",
+        "tanggal_daftar": "2021-03-09",
+        "nomor_tanda_daftar": "000270.02/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/265d8a5efd3c2715b5b88a3299bc0450.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 17
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 319,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CTBC Website",
+        "website": "https://ctbcbank.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK CTBC INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000270.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7bebee63faf180f32b47ac6a71e2dade.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 16
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 318,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Direct Sales Portal (DSP)",
+        "website": "www.etiqa.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "ASURANSI ETIQA INTERNASIONAL INDONESIA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000269.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/06ddcb68ba6707ad4e69b5c1f8684e1d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2771
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 317,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Unicoop",
+        "website": "http://unicoop.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VASCOMM SOLUSI TEKNOLOGI",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000268.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43f58b6b0edf994dd2e8daffb57aa234.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2735
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 316,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PLM STORE",
+        "website": "http://store.penawarlegendamaju.co.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "PERSAUDARAAN LINTAS MANDIRI JAYA",
+        "tanggal_daftar": "2021-03-04",
+        "nomor_tanda_daftar": "000267.01/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e036a3c387fbd9ba8bab0bafb395ce73.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 92
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 315,
@@ -24,150 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6ddfb7a7c1652653db8c2211fc5e26cd.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 94
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 314,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Tokocrypto",
-        "website": "https://www.tokocrypto.com/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "ASET DIGITAL BERKAT",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000265.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c7f442e8e90637999e1ff7994b71445f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3509
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 312,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Gudang Game",
-        "website": "https://gudanggame.id/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "GUDANG INOVASI INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000264.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/89e0a0c340bb424c32aacb88263e422f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 52
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 311,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Nono_Style",
-        "website": "www.nonostyle.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "NONO STYLE INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000263.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9822905554e59a6516aa9e121b93c78c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2731
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 310,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "REERACOEN INDONESIA",
-        "website": "www.reeracoen.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "REERACOEN INDONESIA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000262.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/517abaa78b7033b03b8ecd3e6d6a265f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 21
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 5824,
-      "attributes": {
-        "nomor_pb_umku": "912060175341900050001",
-        "nama": "NAROBIL",
-        "website": "ns1.optima-s.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JATELINDO PERKASA ABADI",
-        "tanggal_daftar": "2022-07-15",
-        "nomor_tanda_daftar": "000261.02/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e01e7a34b1c2cac340cd46e9c57dc645.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 5672
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 309,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Fello",
-        "website": "fello.id",
-        "sektor": "Sektor Keuangan, Sektor Perdagangan",
-        "nama_perusahaan": "JATELINDO PERKASA ABADI",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000261.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/edc738250ed4776b6f7d2eda31c41f6d.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 79
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 307,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "VIDIO",
-        "website": "www.vidio.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "VIDIO DOT COM",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000260.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/096a964b41712d71f010915572240b87.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2667
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 306,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MotionPay",
-        "website": "https://www.motionpay.id/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "MNC TEKNOLOGI NUSANTARA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000259.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5826df5e1e121ef3b4802b9ae0fbe53c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2319
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 305,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "AdMedika Claim Processing System",
-        "website": "https://webclaim.admedika.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADMINISTRASI MEDIKA",
-        "tanggal_daftar": "2021-03-04",
-        "nomor_tanda_daftar": "000258.01/DJAI.PSE/03/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/068614c9fd239b6b8e73f01750cdc79a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2778
       }
     }
   ]

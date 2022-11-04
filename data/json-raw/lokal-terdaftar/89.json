@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 90,
       "from": 891,
-      "lastPage": 1085,
+      "lastPage": 1086,
       "perPage": 10,
       "to": 900,
-      "total": 10842
+      "total": 10851
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10477,
+      "attributes": {
+        "nomor_pb_umku": "812011215169500210001",
+        "nama": "MOBILE APPS MRTJ",
+        "website": "mrtjakarta.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "MASS RAPID TRANSIT JAKARTA PERSERODA",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007302.03/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/15665617c68fc801b4995d91ff690fd2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10331
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10481,
+      "attributes": {
+        "nomor_pb_umku": "812011215169500210003",
+        "nama": "WEBSITE UBAHJAKARTA",
+        "website": "ubahjakarta.com",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "MASS RAPID TRANSIT JAKARTA PERSERODA",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007302.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c8eb1e716d617b4cd177ec1e6f9a2dcd.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10320
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10482,
+      "attributes": {
+        "nomor_pb_umku": "812011215169500210004",
+        "nama": "WEBSITE MRT JAKARTA",
+        "website": "jakartamrt.co.id",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "MASS RAPID TRANSIT JAKARTA PERSERODA",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007302.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0f9302c457d621fce896caac730fe6ee.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10306
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10483,
+      "attributes": {
+        "nomor_pb_umku": "022010535025900010002",
+        "nama": "RETROSS",
+        "website": "retross.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ANUGERAH TETAP ABADI",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007301.02/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c3794ebf38852fa6540a8c250104de2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10341
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 10479,
+      "attributes": {
+        "nomor_pb_umku": "022010535025900010001",
+        "nama": "GRASS",
+        "website": "grass.atacorp.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ANUGERAH TETAP ABADI",
+        "tanggal_daftar": "2022-08-18",
+        "nomor_tanda_daftar": "007301.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/01c0e425cedba43d8a66da34772a1c93.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10339
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10446,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a88193b3e85fba966527b24689a1dc7e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10351
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10414,
-      "attributes": {
-        "nomor_pb_umku": "022000568289300010002",
-        "nama": "ISLAMIC BANKING APLICATION",
-        "website": "banksuriyah.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH SURIYAH",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007295.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8244f6d100d49f9bc93627b0b7daf244.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10272
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10424,
-      "attributes": {
-        "nomor_pb_umku": "110722000939200010001",
-        "nama": "BPRS BARAKAH NAWAITUL IKHLAS",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH BARAKAH NAWAITUL IKHLAS",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007294.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b0b8a132d7ead15656f7373564182580.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10281
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10413,
-      "attributes": {
-        "nomor_pb_umku": "022010848016900010001",
-        "nama": "WEBSITE",
-        "website": "AMANAHUMMAH.CO.ID",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PEMBIAYAAN RAKYAT SYARIAH AMANAH UMMAH",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007293.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/28199741968a8a4e3998820f91c3c3a1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10270
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10442,
-      "attributes": {
-        "nomor_pb_umku": "912020777074700010002",
-        "nama": "ASETKITA",
-        "website": "asetkita.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IDEMAS SOLUSINDO SENTOSA",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007292.02/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eb02e21e7fe79c084a3694137e9e2664.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10299
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10425,
-      "attributes": {
-        "nomor_pb_umku": "912020777074700010001",
-        "nama": "SCANBARCODE EFAKTUR",
-        "website": "barcodefaktur.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IDEMAS SOLUSINDO SENTOSA",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007292.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eae062e60ef86ba08ed16b599308fcad.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10282
       }
     }
   ]

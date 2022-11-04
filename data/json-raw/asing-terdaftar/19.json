@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 200,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11358,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "HSBC.COM.CN",
+        "website": "hsbc.com.cn",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MARIA TIURMA (ICBC WEALTH MANAGEMENT CO., LTD. - THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED)",
+        "tanggal_daftar": "2022-09-26",
+        "nomor_tanda_daftar": "007894.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d45ae02c7ccc42b23dd68aae0513badc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11172
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11147,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/30e677d7a438c2ce0521a44f60cc3012.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10801
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10996,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "SLIDESGO",
-        "website": "slidesgo.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FREEPIK COMPANY, SLU",
-        "tanggal_daftar": "2022-09-02",
-        "nomor_tanda_daftar": "007614.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/920a47fe4e5c105fb3f99946e80358fc.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10800
       }
     }
   ]

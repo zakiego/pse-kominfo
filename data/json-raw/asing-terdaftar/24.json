@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 250,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10621,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "TAPON ANDROID",
+        "website": "tapon.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ADMIN@TAPON.COM",
+        "tanggal_daftar": "2022-08-19",
+        "nomor_tanda_daftar": "007381.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eab944d427a9faf614a7f32bde83c9a1.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10456
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10620,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d7b4b871a17fe354067ee8ba5fbfe8e9.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10301
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10443,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BLAZE OF BATTLE",
-        "website": "leyi-game.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "SHENZHEN LEYI NETWORK CO., LTD.",
-        "tanggal_daftar": "2022-08-16",
-        "nomor_tanda_daftar": "007309.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/921a353caa5d0dec14c465dd990b8ba5.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10300
       }
     }
   ]

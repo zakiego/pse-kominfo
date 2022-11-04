@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 60,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11707,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BNI LONDON",
+        "website": "bankbni.co.uk",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BERKAH HIKMAH ENERGI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008057.03/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/224fa603a7d0af1dd126c4eae6ee805d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11507
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11706,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1a1ec2e1996df52ef4e4b4f75b0f5c1c.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11498
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11697,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "DJARUM GROUP",
-        "website": "djarum.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008055.17/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3bcc3a994859b9ae97360b010793b440.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11497
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 290,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 12041,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "CONQUERORS: ZAMAN KEEMASAN",
+        "website": "cq.igg.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "IGG SINGAPORE PTE. LTD.",
+        "tanggal_daftar": "2022-10-31",
+        "nomor_tanda_daftar": "006950.20/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/af0d1d67b29ed800472d04a60c6fe02e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11844
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 12040,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/546a1285fdad753c4f1a2b9c8557a36e.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11835
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12031,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TIME PRINCESS",
-        "website": "tp.igg.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "IGG SINGAPORE PTE. LTD.",
-        "tanggal_daftar": "2022-10-31",
-        "nomor_tanda_daftar": "006950.10/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/83abd755a0c7424fe3bfe6c684ea4db6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11834
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 70,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11697,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "DJARUM GROUP",
+        "website": "djarum.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
+        "tanggal_daftar": "2022-10-09",
+        "nomor_tanda_daftar": "008055.17/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3bcc3a994859b9ae97360b010793b440.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11497
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11696,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/07d47bad9eb0481a88b079279d056bf1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11488
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11687,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MAKASSAR PERMATA SULAWESI",
-        "website": "tanjungbunga.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "WIJAYA KUSUMA RAJAWALI",
-        "tanggal_daftar": "2022-10-09",
-        "nomor_tanda_daftar": "008055.07/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/db52c70b30e3f841432f6ec795a297fa.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11487
       }
     }
   ]

@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 25,
       "from": 241,
-      "lastPage": 1085,
+      "lastPage": 1086,
       "perPage": 10,
       "to": 250,
-      "total": 10842
+      "total": 10851
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11744,
+      "attributes": {
+        "nomor_pb_umku": "280722006601200010001",
+        "nama": "VIN PROTOCOL",
+        "website": "vinprotocol.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "VIN PROTOCOL DIGITAL",
+        "tanggal_daftar": "2022-10-10",
+        "nomor_tanda_daftar": "007993.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2e116a01ec4ea910e14a912d8d33276e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11544
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11559,
+      "attributes": {
+        "nomor_pb_umku": "022020785100400000001",
+        "nama": "COMPAS.CO.ID",
+        "website": "compas.co.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "TELUNJUK KOMPUTASI INDONESIA",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007992.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a6b306e457dfc11a538feb2fd05f2361.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11364
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11572,
+      "attributes": {
+        "nomor_pb_umku": "161221001257500040001",
+        "nama": "WWW.MYSANTE.COM",
+        "website": "main.santebarley.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "SANTE INTERNATIONAL INDONESIA",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007991.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fa9f41365855333ceb122931aa092168.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11358
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11540,
+      "attributes": {
+        "nomor_pb_umku": "022020579078300000001",
+        "nama": "RENOS",
+        "website": "renos.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "RENOS MARKETPLACE INDONESIA",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007990.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/de8059af0521660ced161ebcf227c7cb.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11352
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11535,
+      "attributes": {
+        "nomor_pb_umku": "310322000295400000001",
+        "nama": "SOLVIN",
+        "website": "solvin.co.id",
+        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BERSAMA KITA BANTU",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007987.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cb17ece11d28c8e33890896256be53cc.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11351
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11503,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5c2087c5e24ea4664445896cc54a393a.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11363
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11554,
-      "attributes": {
-        "nomor_pb_umku": "812001400174500030002",
-        "nama": "GETOLL",
-        "website": "getoll.jmto.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JASAMARGA TOLLROAD OPERATOR",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "007982.02/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f8d4d38265fa3c44e6f13412f05b4a8c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11362
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11539,
-      "attributes": {
-        "nomor_pb_umku": "812001400174500030001",
-        "nama": "SETTLEMENT MONITORING TOOLS",
-        "website": "jmto.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "JASAMARGA TOLLROAD OPERATOR",
-        "tanggal_daftar": "2022-10-05",
-        "nomor_tanda_daftar": "007982.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b35c8e9cb36e809cb30adcff00e6b2c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11357
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11501,
-      "attributes": {
-        "nomor_pb_umku": "250822007594500000001",
-        "nama": "WWW.BHAYANGKARANEWS.MY.ID",
-        "website": "bhayangkaranews.my.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIA COBRA INDONESIA",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007981.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/abecdb97bf6cc081e2a9a131f8d46fd3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11316
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11498,
-      "attributes": {
-        "nomor_pb_umku": "041022007761700020001",
-        "nama": "PD. KIRANA ELEKTRONIK",
-        "website": "-",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "MAWARINA",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007980.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a96062a04459ed20da0ac32aea59fc85.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11313
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11499,
-      "attributes": {
-        "nomor_pb_umku": "031022033217800000001",
-        "nama": "MSL-CF",
-        "website": "msl-cf.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "FIRMAN ADRIANSAH",
-        "tanggal_daftar": "2022-10-04",
-        "nomor_tanda_daftar": "007979.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6e2f8609ffabbbb46af8cbfa280ccfd7.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11314
       }
     }
   ]

@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 170,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11570,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BILIBILI COMICS",
+        "website": "bilibilicomics.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BILIBILI COMICS PTE. LTD.",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007999.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/578440f9008d4ca93ac37fe82cff8d04.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11373
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11532,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c09e77258589f5a03c8564852f5113b.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11294
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11457,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BROMPTON INDONESIA",
-        "website": "id.brompton.com",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BROMPTON BICYCLE LIMITED",
-        "tanggal_daftar": "2022-10-01",
-        "nomor_tanda_daftar": "007952.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a635e335188f9472f843e8010e4639df.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11273
       }
     }
   ]

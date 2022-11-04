@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 240,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 10681,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MU ORIGIN 2",
+        "website": "id.mu2sea.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "GAMENOW TECHNOLOGY LIMITED",
+        "tanggal_daftar": "2022-08-22",
+        "nomor_tanda_daftar": "007430.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1161c4e1895c5aa927410ab454c071e2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 10514
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 10641,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a9ca34fb1bb30ceb1d3bd597308a5be1.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 10457
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 10621,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TAPON ANDROID",
-        "website": "tapon.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ADMIN@TAPON.COM",
-        "tanggal_daftar": "2022-08-19",
-        "nomor_tanda_daftar": "007381.01/DJAI.PSE/08/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/eab944d427a9faf614a7f32bde83c9a1.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 10456
       }
     }
   ]

@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 38,
       "from": 371,
-      "lastPage": 1085,
+      "lastPage": 1086,
       "perPage": 10,
       "to": 380,
-      "total": 10842
+      "total": 10851
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11568,
+      "attributes": {
+        "nomor_pb_umku": "912040975177600050001",
+        "nama": "TD APP",
+        "website": "bprtamandhana.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BANK PERKREDITAN RAKYAT TAMAN DHANA",
+        "tanggal_daftar": "2022-10-05",
+        "nomor_tanda_daftar": "007823.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/adf6576419d42908ef432da0809bf41d.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11371
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11949,
+      "attributes": {
+        "nomor_pb_umku": "912040624276400230007",
+        "nama": "ENCOSYS CALL CENTRE",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DELAMETA BILANO",
+        "tanggal_daftar": "2022-10-25",
+        "nomor_tanda_daftar": "007822.02/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e0ea7bda03624e4076eecba04a12240b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11753
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11387,
+      "attributes": {
+        "nomor_pb_umku": "912040624276400230006",
+        "nama": "ENCOSYS",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "DELAMETA BILANO",
+        "tanggal_daftar": "2022-09-27",
+        "nomor_tanda_daftar": "007822.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6afa713ca377cbb4720f47618df81bb8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11204
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11276,
+      "attributes": {
+        "nomor_pb_umku": "120400013296500010001",
+        "nama": "PT. ESA MANDIRI ABADI",
+        "website": "emasolution.co.id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ESA MANDIRI ABADI",
+        "tanggal_daftar": "2022-09-21",
+        "nomor_tanda_daftar": "007821.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/552ee822564dab4f055d0f252bacb33a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11084
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 11270,
+      "attributes": {
+        "nomor_pb_umku": "210922000983400000001",
+        "nama": "BPR FIANKA LAPOR",
+        "website": "-",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "MUHAMMAD ANDI PRADANI",
+        "tanggal_daftar": "2022-09-21",
+        "nomor_tanda_daftar": "007820.01/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/dea4e6c3f5c7ea08984d09682696dce8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11078
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11318,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ec907ff88a9b02bda57d1828420a0fdb.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11102
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11269,
-      "attributes": {
-        "nomor_pb_umku": "210922000232700000001",
-        "nama": "SISTEM INFORMASI RUMAH SAKIT DAN KESEHATAN",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "NUR ALFIYAH",
-        "tanggal_daftar": "2022-09-21",
-        "nomor_tanda_daftar": "007817.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8345b607e4d2321d46b543890a9dbeb4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11077
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11268,
-      "attributes": {
-        "nomor_pb_umku": "025601020101200040001",
-        "nama": "ARTHO PAY",
-        "website": "arthomoro.net",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Keuangan, Sektor Pangan",
-        "nama_perusahaan": "ARTHOMORO LANGGENG ABADI",
-        "tanggal_daftar": "2022-09-21",
-        "nomor_tanda_daftar": "007815.02/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee3e263ca6cab08f35bbd0d9459533bd.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11076
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11267,
-      "attributes": {
-        "nomor_pb_umku": "200922020129600000002",
-        "nama": "COLLPROMEDIA",
-        "website": "collpromedia.com",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KADEK ADY SUMIARTA",
-        "tanggal_daftar": "2022-09-20",
-        "nomor_tanda_daftar": "007814.02/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5539ed6b74c64a122473c048c7e5bfaf.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11074
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11266,
-      "attributes": {
-        "nomor_pb_umku": "200922020129600000001",
-        "nama": "MYKU",
-        "website": "collpromedia.com",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KADEK ADY SUMIARTA",
-        "tanggal_daftar": "2022-09-20",
-        "nomor_tanda_daftar": "007814.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c9927e5ad027afe8ca424e7f5a7aadb3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11073
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 11264,
-      "attributes": {
-        "nomor_pb_umku": "022020724139900030001",
-        "nama": "KONGSITUSI.COM",
-        "website": "kongsitusi.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MANGALA KREASI INDONESIA",
-        "tanggal_daftar": "2022-09-20",
-        "nomor_tanda_daftar": "007813.01/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b02905546b469479e6d1ccdd4eca587f.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11071
       }
     }
   ]

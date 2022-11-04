@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 620,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 4130,
+      "attributes": {
+        "nomor_pb_umku": "",
+        "nama": "MY TIME AT PORTIA",
+        "website": "pixmain.com/my-time-at-portia; apps.apple.com/us/app/my-time-at-portia/id1555184523; play.google.com/store/apps/details?id=com.pathea.mtap",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "PIXMAIN PTE. LTD.",
+        "tanggal_daftar": "2022-05-25",
+        "nomor_tanda_daftar": "002834.03/DJAI.PSE/05/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8603bf3aaa36058f7c8ea7ac98a0806b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 4132
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 4129,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3f01cf942ce39425fbf1ffbe885ce644.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4111
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4110,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "TIKTOK",
-        "website": "tiktok.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "TIKTOK PTE. LTD.",
-        "tanggal_daftar": "2022-05-24",
-        "nomor_tanda_daftar": "002802.02/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d08f9fdb76feb45153635522631c5d09.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4110
       }
     }
   ]

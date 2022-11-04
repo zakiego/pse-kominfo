@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 320,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 9699,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "ODOO ENTERPRISE",
+        "website": "odoo.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "ODOO S.A.",
+        "tanggal_daftar": "2022-08-02",
+        "nomor_tanda_daftar": "006800.01/DJAI.PSE/08/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/884567e33fccf21e26c737e644a4fcd0.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 9577
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 9695,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b47c48a19df778e85b7f9632ca2c6d91.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 9770
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 9386,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BATTLE.NET",
-        "website": "battle.net",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "BLIZZARD ENTERTAINMENT, INC",
-        "tanggal_daftar": "2022-07-29",
-        "nomor_tanda_daftar": "006571.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f4be2a141342d9087328153bd2955194.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 9296
       }
     }
   ]

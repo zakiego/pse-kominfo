@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 470,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 8251,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "NEW STATE MOBILE",
+        "website": "krafton.com/en/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "KRAFTON, INC.",
+        "tanggal_daftar": "2022-07-20",
+        "nomor_tanda_daftar": "005823.01/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/86e4d574cbd7ae297dba5959b110c171.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 8170
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 8250,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e9ae6bc3d7c62e1861d52d861873f2d8.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 8158
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 8238,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "LEGENDS OF RUNETERRA",
-        "website": "playruneterra.com/en-us/",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "RIOT GAMES SERVICES PTE. LTD.",
-        "tanggal_daftar": "2022-07-20",
-        "nomor_tanda_daftar": "005816.01/DJAI.PSE/07/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/57e6168b7eab80b166d68f7e255ab874.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 8157
       }
     }
   ]

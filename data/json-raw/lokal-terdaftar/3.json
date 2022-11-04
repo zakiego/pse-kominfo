@@ -3,13 +3,93 @@
     "page": {
       "currentPage": 4,
       "from": 31,
-      "lastPage": 1085,
+      "lastPage": 1086,
       "perPage": 10,
       "to": 40,
-      "total": 10842
+      "total": 10851
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 12046,
+      "attributes": {
+        "nomor_pb_umku": "912010019331700010001",
+        "nama": "DJSA",
+        "website": "-",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "DWIJAYA SENTOSA ABADI",
+        "tanggal_daftar": "2022-10-31",
+        "nomor_tanda_daftar": "008311.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6691008774740ef82bd3d475f946ca87.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11849
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 12057,
+      "attributes": {
+        "nomor_pb_umku": "070222003544600040001",
+        "nama": "LEGALKITA",
+        "website": "legalkita.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DIGITAL KITA INDONESIA",
+        "tanggal_daftar": "2022-10-31",
+        "nomor_tanda_daftar": "008310.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/326e0f36abc1a3981bcd249290553bd2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11860
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 12122,
+      "attributes": {
+        "nomor_pb_umku": "020622006292800060001",
+        "nama": "NATURA HERBALIZE INDONESIA",
+        "website": "naturaherbalize.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "NATURA HERBALIZE INDONESIA",
+        "tanggal_daftar": "2022-11-03",
+        "nomor_tanda_daftar": "008309.01/DJAI.PSE/11/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/866c94395873e716e9bc043b31636c43.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11916
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 12019,
+      "attributes": {
+        "nomor_pb_umku": "301022000399600000001",
+        "nama": "APLIKASI SAMBAR",
+        "website": "-",
+        "sektor": "Sektor Transportasi",
+        "nama_perusahaan": "NURSYAHIDAH",
+        "tanggal_daftar": "2022-10-30",
+        "nomor_tanda_daftar": "008308.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f3921c093c7f18d1bfd2d938f351bd2f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11823
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 12018,
+      "attributes": {
+        "nomor_pb_umku": "280922003787900020001",
+        "nama": "IDDIGITECH.ID",
+        "website": "iddigitech.id",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "DIGITECH SIBER WEB",
+        "tanggal_daftar": "2022-10-30",
+        "nomor_tanda_daftar": "008306.01/DJAI.PSE/10/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7a25a17af9c4ef9f8917919a55d3512c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11822
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 12077,
@@ -88,86 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fbcb78631b6e20c990df289a3bb2c830.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 11824
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12005,
-      "attributes": {
-        "nomor_pb_umku": "191022007394600010001",
-        "nama": "FORTUNE GLOBAL FINANCE",
-        "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "FORTUNE GLOBAL FINANCE",
-        "tanggal_daftar": "2022-10-28",
-        "nomor_tanda_daftar": "008294.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1f1ce2f00a431f02befea6bd22712e4c.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11810
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12004,
-      "attributes": {
-        "nomor_pb_umku": "281022002591900010001",
-        "nama": "KILAS.CO",
-        "website": "kilas.co",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIA KLATEN BERSINAR",
-        "tanggal_daftar": "2022-10-28",
-        "nomor_tanda_daftar": "008292.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/484dbd828a6300d374a3851f34040d91.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11809
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12006,
-      "attributes": {
-        "nomor_pb_umku": "281022001362400000001",
-        "nama": "BANKING SMART SYSTEM",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK PERKREDITAN RAKYAT NUSAPANIDA KUTA",
-        "tanggal_daftar": "2022-10-28",
-        "nomor_tanda_daftar": "008291.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2c54c42a6c02a3682746a453c60443a9.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11806
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12001,
-      "attributes": {
-        "nomor_pb_umku": "030222005930300030001",
-        "nama": "MEDIA LATAHZAN",
-        "website": "medialatahzan.com",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIA LATAHZAN NUSANTARA",
-        "tanggal_daftar": "2022-10-28",
-        "nomor_tanda_daftar": "008290.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0655d395150e4bb765ff444dff3729f0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11805
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12000,
-      "attributes": {
-        "nomor_pb_umku": "912000675229400000001",
-        "nama": "BUKAPASAR",
-        "website": "bukapasar.id",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "TIGA MENARA JAYA",
-        "tanggal_daftar": "2022-10-28",
-        "nomor_tanda_daftar": "008289.01/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/85747db9cf091a334b48dc8b826f330a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11804
       }
     }
   ]

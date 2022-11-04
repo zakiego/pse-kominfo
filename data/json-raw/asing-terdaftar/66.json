@@ -6,10 +6,26 @@
       "lastPage": 69,
       "perPage": 10,
       "to": 670,
-      "total": 684
+      "total": 685
     }
   },
   "data": [
+    {
+      "type": "tdpseTerbit",
+      "id": 11442,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BANK MANDIRI SHANGHAI",
+        "website": "bankmandirsh.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "KENCANA PUTRA KENDARI",
+        "tanggal_daftar": "2022-09-30",
+        "nomor_tanda_daftar": "002753.03/DJAI.PSE/09/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/0742ff822f4d946c8e4dbe1c52674cc3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 11255
+      }
+    },
     {
       "type": "tdpseTerbit",
       "id": 11016,
@@ -152,22 +168,6 @@
         "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/197ff3ea4e6a24ff153dc9e4dd718831.png",
         "status_id": "TERDAFTAR",
         "sistem_elektronik_id": 4064
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4064,
-      "attributes": {
-        "nomor_pb_umku": "",
-        "nama": "BIOMARK LABORATORY PLATFORM",
-        "website": "biomarking.com",
-        "sektor": "Sektor Kesehatan",
-        "nama_perusahaan": "BIOMARK PTE LTD",
-        "tanggal_daftar": "2022-05-23",
-        "nomor_tanda_daftar": "002747.01/DJAI.PSE/05/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/40fc9f0f6c3d9b717b7755af0d7af802.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4063
       }
     }
   ]
