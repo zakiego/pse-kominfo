@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 926,
       "from": 9251,
-      "lastPage": 1089,
+      "lastPage": 1097,
       "perPage": 10,
       "to": 9260,
-      "total": 10885
+      "total": 10962
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 1170,
+      "id": 1248,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "CATAPA",
-        "website": "www.catapa.com",
+        "nama": "Website Perusahaan",
+        "website": "www.mtf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI TUNAS FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000857.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6022186876389c6f76de22abc95ff197.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 950
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1255,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Aplikasi MUFON",
+        "website": "-",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.06/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/63892f6627251370deba647ea0a006e2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 929
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1253,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Portal MUF dan Dealer Rekanan",
+        "website": "https://mufportal.muf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.05/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/250fac6432d9883ca548b5b64b414d32.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 928
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1252,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website MUF Online Syariah",
+        "website": "https://bsioto.muf.co.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.04/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/641fe276bd8d407b340054eee4acc22e.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 927
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1251,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website MUF Dananow",
+        "website": "https://dananow.muf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/371bb53b76675f8054a59aafb1b893fa.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 926
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1249,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website MUF Online Auto Show",
+        "website": "https://moas.muf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/851b779e4b8d30780847db1d8ae4a72c.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 925
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1247,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Website Corporate Mandiri Utama Finance",
+        "website": "https://muf.co.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MANDIRI UTAMA FINANCE",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000856.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c1e78fb322676f40ed663b62d4d7765a.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 924
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 1243,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "EzeePasar",
+        "website": "www.ezeepasar.com",
         "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "DARTA MEDIA INDONESIA",
+        "nama_perusahaan": "EZEE TUNTAS SEJAHTERA",
         "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000828.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/a0720b80642860e3bb4da0e6b0a41bda.png",
+        "nomor_tanda_daftar": "000855.01/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/09bbb94a896e7c6c1a35748681a74e6a.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 784
+        "sistem_elektronik_id": 935
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 1148,
+      "id": 1246,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "KASKUS",
-        "website": "www.kaskus.co.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DARTA MEDIA INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000828.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ddbf6d8fd8e47a7d470a289a2c62e8b8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 783
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 4304,
-      "attributes": {
-        "nomor_pb_umku": "912000324152600010001",
-        "nama": "SISTEM INTEGRATOR PEMBAYARAN LINTAS BATAS (CROSS BORDER PAYMENT) MENGGUNAKAN QRIS (QUICK RESPONSE INDONESIA STANDARD)",
-        "website": "arashdigital.id",
+        "nama": "Bank Mayora",
+        "website": "https://bankmayora.com",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ARASH DIGITAL REKADANA",
-        "tanggal_daftar": "2022-06-09",
-        "nomor_tanda_daftar": "000827.02/DJAI.PSE/06/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c950b4d3225e55954467eb64d3993fd6.png",
+        "nama_perusahaan": "BANK MAYORA",
+        "tanggal_daftar": "2021-06-02",
+        "nomor_tanda_daftar": "000854.03/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/77642c3089b047e6567631554294a79e.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 4297
+        "sistem_elektronik_id": 893
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 1147,
+      "id": 1244,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Penyelenggara Jasa Pembayaran Lintas Batas (Cross Border Payment) dengan menggunakan QRIS (Quick Response Indonesia Standard)",
-        "website": "https://www.arashdigital.id/",
+        "nama": "Internet Banking",
+        "website": "https://clickmayora.com/",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "ARASH DIGITAL REKADANA",
+        "nama_perusahaan": "BANK MAYORA",
         "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000827.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cf1f06bd144147a242e01bb300bedb90.png",
+        "nomor_tanda_daftar": "000854.02/DJAI.PSE/06/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/6f35738cdfaf04e6860c2e0637b39dc1.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2742
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1146,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Konimexstore",
-        "website": "https://www.konimexstore.com/",
-        "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "CETAPHARM",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000826.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/55b67379a45aaa3c8128cd8467e9e538.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 823
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1145,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "www.anugrahwahyutehnik.com",
-        "website": "HTTPS://ANUGRAHWAHYUTEHNIK.COM",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ANUGRAH WAHYU TEHNIK",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000825.01/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/42b921f8f140015fc9fe5ff2a5cea02e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 569
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 12014,
-      "attributes": {
-        "nomor_pb_umku": "912020212229900020001",
-        "nama": "TMRW WEBSITE",
-        "website": "tmrwbyuob.com",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK UOB INDONESIA",
-        "tanggal_daftar": "2022-10-28",
-        "nomor_tanda_daftar": "000824.05/DJAI.PSE/10/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9df08599a50738d84c302ff3f0df04de.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11818
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1141,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "BIBPlus",
-        "website": "bibplus.uob.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK UOB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000824.04/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43891bd97a1512ee3fdd5e596e2a3c59.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 254
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1140,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Personal Internet Banking (PIB)",
-        "website": "pib.uob.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK UOB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000824.03/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/358940d17eb761deae66916bc540b6ba.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 253
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1139,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "TMRW (Tomorrow)",
-        "website": "iddbsoi.uob.co.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "BANK UOB INDONESIA",
-        "tanggal_daftar": "2021-06-02",
-        "nomor_tanda_daftar": "000824.02/DJAI.PSE/06/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d2e0870d6536b8f1cc3426904386d25a.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 252
+        "sistem_elektronik_id": 892
       }
     }
   ]

@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 1008,
       "from": 10071,
-      "lastPage": 1089,
+      "lastPage": 1097,
       "perPage": 10,
       "to": 10080,
-      "total": 10885
+      "total": 10962
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 537,
+      "id": 3348,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "siplah",
+        "nama": "Koperasi Simpan Pinjam Rangkul Teman Jakarta",
+        "website": "www.rangkulteman.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "RANGKUL TEMAN JAKARTA",
+        "tanggal_daftar": "2022-02-23",
+        "nomor_tanda_daftar": "000484.02/DJAI.PSE/02/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/853fd06e1e05a2bdd80673334280e3d2.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 286
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 591,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "RangkulTeman",
+        "website": "https://rangkulteman.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "RANGKUL TEMAN JAKARTA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000484.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/ee6ed5412ca48768386cd0f57a257882.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 285
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 590,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "IUIGA",
+        "website": "https://www.iuiga.id/",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "IUIGA RITEL PLUS",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000483.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/06f9f4a83bd594b05cdd2c9e5f3538e9.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 160
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 589,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "PILLARCART",
+        "website": "https://www.pillarcart.com/id",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "ARTHA INOVASI GEMILANG",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000482.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/d40cbd11ce24b19030fe5eb93688df1f.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 346
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 635,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Stockbit",
+        "website": "https://stockbit.com/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BIBIT TUMBUH BERSAMA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000481.02/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b50c9b8af513ec265317f1b625f43ef3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 376
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 588,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Bibit",
+        "website": "https://bibit.id/",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "BIBIT TUMBUH BERSAMA",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000481.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5586defe9113f0e8a51da0c68b16643b.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 375
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 587,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "KOTAK KOIN",
+        "website": "https://www.kotakkoin.id/",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "COCO DIGITAL TECHNOLOGY",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000480.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9cc243e7e2939507cd556a2f471ea8e8.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 400
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 586,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "LegalBro",
         "website": "-",
         "sektor": "Sektor Perdagangan",
-        "nama_perusahaan": "FIA KURNIA GRUP",
+        "nama_perusahaan": "LEX NOBILE INDONESIA",
         "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000437.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/f76cb94097cb792509a46b5cb4398bb7.png",
+        "nomor_tanda_daftar": "000479.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/689c54a6bab82edecb7422d33d683bea.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 368
+        "sistem_elektronik_id": 399
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 536,
+      "id": 585,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "bizhare",
-        "website": "www.bizhare.id",
-        "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "INVESTASI DIGITAL NUSANTARA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000436.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/21ef6717dacc8f40ee1405839444c515.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 304
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1881,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Ai Care",
-        "website": "www.ai-care.id",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ATMATECH GLOBAL INFORMATIKA",
-        "tanggal_daftar": "2021-08-16",
-        "nomor_tanda_daftar": "000435.02/DJAI.PSE/08/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9188c65c6ec690bf419ee5cc9f3c81b4.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 293
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 535,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "NETRAY",
-        "website": "Netray.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ATMATECH GLOBAL INFORMATIKA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000435.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fb1d575dda0233e815cb997e12ba4504.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 292
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 534,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Callink",
-        "website": "www.callink.id",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "DIGITAL SEKURITI INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000434.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7356b4fc01669518282f0005f899300e.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 255
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1626,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Pemberi Pinjaman KlikCair",
-        "website": "https://lender.klikcair.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KLIKCAIR MAGGA JAYA",
-        "tanggal_daftar": "2021-07-01",
-        "nomor_tanda_daftar": "000433.03/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2eb2e1967fc7f3a51d4668993bf75c28.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 367
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 1625,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Sistem Penerima Pinjaman KlikCair",
-        "website": "https://borrower.klikcair.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KLIKCAIR MAGGA JAYA",
-        "tanggal_daftar": "2021-07-01",
-        "nomor_tanda_daftar": "000433.02/DJAI.PSE/07/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5342b6759523d91d7d44822690beef87.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 366
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 533,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KlikCair",
-        "website": "https://klikcair.com/",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "KLIKCAIR MAGGA JAYA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000433.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9129ac38463d9bbbbfed4e5ccac17e7b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 365
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 531,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Indosaku",
-        "website": "https://indosaku.id",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SENS TEKNOLOGI INDONESIA",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000432.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/8b1db5725e736590d20ef6aaff145fca.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 3529
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 530,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Data as a Service (DaaS)",
+        "nama": "MoneyGram Money Transfer System",
         "website": "-",
-        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "ASTRA INTEGRASI DIGITAL",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MONEYGRAM PAYMENT SYSTEMS INDONESIA",
         "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000431.01/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/9402862eff2a83ce7836cc6228576aca.png",
+        "nomor_tanda_daftar": "000478.01/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/cc4ac442e319f2d1b6f46e5010277799.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 281
+        "sistem_elektronik_id": 81
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 625,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Alomedika",
+        "website": "www.alomedika.com",
+        "sektor": "Sektor Kesehatan",
+        "nama_perusahaan": "ALODOKTER TEKNOLOGI SOLUSI",
+        "tanggal_daftar": "2021-04-26",
+        "nomor_tanda_daftar": "000477.02/DJAI.PSE/04/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/926ce33d7123fbe27ec4cf015da6d533.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 47
       }
     }
   ]
