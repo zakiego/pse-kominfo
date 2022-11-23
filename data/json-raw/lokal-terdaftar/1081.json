@@ -3,171 +3,171 @@
     "page": {
       "currentPage": 1082,
       "from": 10811,
-      "lastPage": 1097,
+      "lastPage": 1111,
       "perPage": 10,
       "to": 10820,
-      "total": 10962
+      "total": 11105
     }
   },
   "data": [
     {
       "type": "tdpseTerbit",
-      "id": 97,
+      "id": 183,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "MONEY COME",
+        "nama": "Bhinneka.com",
+        "website": "www.Bhinneka.com",
+        "sektor": "Sektor Perdagangan",
+        "nama_perusahaan": "BHINNEKA MENTARIDIMENSI",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000159.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/907a4a5ae46e9c20b2f8c26f5160ca61.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2343
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 182,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "BLUEWHALE",
+        "website": "bluewhale.bhinneka.com",
+        "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+        "nama_perusahaan": "BHINNEKA MENTARIDIMENSI",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000159.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/065968c4f7827076daa0c70f8b2c5471.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2342
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 6112,
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030005",
+        "nama": "MNCINSURANCE.COM",
+        "website": "mnc-insurance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-18",
+        "nomor_tanda_daftar": "000158.08/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/e7a7163ac45996246dbac20e4b952304.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5952
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5803,
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030004",
+        "nama": "SALVAGE AUCTION",
+        "website": "mnc-insurance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000158.07/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/43cff62209c48e3b064809583f236bb6.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5665
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5797,
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030003",
+        "nama": "MOTION SURE WEB APPLICATION",
+        "website": "motion-sure.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000158.06/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/70baf2b28d263379d28d82ca5ccfe8a3.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5657
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 5726,
+      "attributes": {
+        "nomor_pb_umku": "812021017278900030002",
+        "nama": "PROTEKSI PINTAR (SI PINTAR)",
+        "website": "mnc-insurance.com",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-07-15",
+        "nomor_tanda_daftar": "000158.05/DJAI.PSE/07/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/b34e2bf1457ed0a0e4a0c28f5dafd847.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 5590
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 2991,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "Motion Sure",
+        "website": "motion-sure.id",
+        "sektor": "Sektor Keuangan",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2022-01-07",
+        "nomor_tanda_daftar": "000158.04/DJAI.PSE/01/2022",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/33ca621a7e87157b50a4d34ecbc23329.png",
+        "status_id": "TERDAFTAR",
+        "sistem_elektronik_id": 2350
+      }
+    },
+    {
+      "type": "tdpseTerbit",
+      "id": 371,
+      "attributes": {
+        "nomor_pb_umku": null,
+        "nama": "MNCi Agent Mobile Application",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM LANSIR TARO NUSA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000087.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/19448a25774f426c619758153dc90d31.png",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2021-03-15",
+        "nomor_tanda_daftar": "000158.03/DJAI.PSE/03/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/1856f96580385ef60947c4a29d6c6313.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2530
+        "sistem_elektronik_id": 2349
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 96,
+      "id": 181,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "SETOR TUNAI",
+        "nama": "MNCi Mobile Application",
         "website": "-",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM MARDA RIMA ESA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000086.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2a20982d9a11e039e2f3bb6484d87309.png",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000158.02/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7d1c351f64eece9a4da15f2b50788277.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2529
+        "sistem_elektronik_id": 2348
       }
     },
     {
       "type": "tdpseTerbit",
-      "id": 11245,
-      "attributes": {
-        "nomor_pb_umku": "022000386390100000002",
-        "nama": "APLIKASI DESA TERHUBUNG",
-        "website": "desaterhubung.com",
-        "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "KAMI SATU KARYA",
-        "tanggal_daftar": "2022-09-20",
-        "nomor_tanda_daftar": "000085.02/DJAI.PSE/09/2022",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/3b063c9a7a26d323dd3b448ea2ded0e6.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 11053
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 95,
+      "id": 180,
       "attributes": {
         "nomor_pb_umku": null,
-        "nama": "Aplikasi KamiSatu",
-        "website": "https://kamisatu.id/",
-        "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Transportasi",
-        "nama_perusahaan": "KAMI SATU KARYA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000085.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/2f47eafe8f9bd93363d0cbee891a9876.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2526
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 94,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "MONEY YOU",
-        "website": "-",
+        "nama": "MNCi-Net",
+        "website": "https://www.mnci-net.id/epolicy/",
         "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM BUANA SATU TIGA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000084.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/551d3b458e9e49efa907e2e7b2c3c261.png",
+        "nama_perusahaan": "MNC ASURANSI INDONESIA",
+        "tanggal_daftar": "2021-02-25",
+        "nomor_tanda_daftar": "000158.01/DJAI.PSE/02/2021",
+        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/fcf197bf11f49863e310fa723ec24788.png",
         "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2528
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 93,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GOOD DANA",
-        "website": "-",
-        "sektor": "Sektor Keuangan",
-        "nama_perusahaan": "SIMPAN PINJAM BIMA EKA NUSA",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000083.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/03ff8f01203b0adf90ca30e76ee7dcd3.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2527
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 92,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "GudangAda Logistik",
-        "website": "gudanglogistik.id",
-        "sektor": "Sektor Transportasi",
-        "nama_perusahaan": "GUDANG LOGISTIK GLOBALINDO",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000082.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/36c779cf42dd7c60ad2db8f3f216896b.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2428
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 670,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Klikdokter",
-        "website": "https://www.klikdokter.com",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIKA KOMUNIKA TEKNOLOGI",
-        "tanggal_daftar": "2021-04-26",
-        "nomor_tanda_daftar": "000081.03/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/c63df118022bda062cdb9854e06577e0.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2427
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 445,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "Hallobumil",
-        "website": "www.hallobumil.id",
-        "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIKA KOMUNIKA TEKNOLOGI",
-        "tanggal_daftar": "2021-04-14",
-        "nomor_tanda_daftar": "000081.02/DJAI.PSE/04/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/5b3e1e3a2bf73c741186958a26f0c854.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2426
-      }
-    },
-    {
-      "type": "tdpseTerbit",
-      "id": 91,
-      "attributes": {
-        "nomor_pb_umku": null,
-        "nama": "KlikDiabetes",
-        "website": "www.klikdiabetes.com",
-        "sektor": "Sektor Kesehatan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-        "nama_perusahaan": "MEDIKA KOMUNIKA TEKNOLOGI",
-        "tanggal_daftar": "2021-02-23",
-        "nomor_tanda_daftar": "000081.01/DJAI.PSE/02/2021",
-        "qr_code": "https://pse.kominfo.go.id/storage/images/qr_code/7131fa92aa7c04d856964d166d630ec8.png",
-        "status_id": "TERDAFTAR",
-        "sistem_elektronik_id": 2425
+        "sistem_elektronik_id": 2347
       }
     }
   ]
